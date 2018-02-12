@@ -11,7 +11,7 @@ class SearchBox extends Component {
         this.state = {
 			dataSource: []
         };
-		Client.search("someQuery", response => {
+		Client.search("keywords", response => {
 			this.setState({
 				dataSource: response.keywords || []
             })
@@ -32,18 +32,18 @@ class SearchBox extends Component {
      * This method is used as a filter of items in the dropdown list.
      * @param inputValue - string typed in the search box
      * @param option     - an option from the dropdown list
-     * @returns bool
+     * @returns Boolean
      */
     filterOption = (inputValue, option) =>
         option.props.value ? 
             (option.props.value.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1)
-        :   false;
+        :   true;
 
     render() {
         let dataSource = this.state.dataSource.map(data => (
             <Option key={data.word} value={data.word}>
                 {data.word}
-                <span className="search-item-count">{data.count} searches</span>
+                <span className="search-item-count">{data.count} times</span>
             </Option>
         )).concat([
             <Option disabled key="all" className="show-all">
@@ -69,7 +69,7 @@ class SearchBox extends Component {
                     dataSource={dataSource}
                     onSelect={this.onSelect}
                     onSearch={this.onSearch}
-                    placeholder="input here"
+                    placeholder="Search for a topic"
                     optionLabelProp="value"
                     filterOption={this.filterOption}
                 >
