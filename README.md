@@ -31,6 +31,7 @@ is splitted to ["Hey", "it's", "you"]
 - Bold the substring matched with the user typed word. Now the word in dropdown is only bold when the whole string matches.
 
 ### Server
+- Test on large number of transcripts
 - Currently after a transcript is found duplicate, the fileStream still reads from the file though words are not counted. Destroying readStream on "close" event won't help.
 - Consider substitution for callback, like `.on`, `.then`, `promise`.
 - Make a trivialWords checklist, remove those words from keywords.
@@ -43,3 +44,5 @@ is splitted to ["Hey", "it's", "you"]
 - 11:00 a.m.
 - Person's name (e.g. Charlie Sheen, can we recognize as a group?)
 - $8,000 (as in ./data/test/transcript.json)
+
+<!-- Okay, though there may be some relevant keywords we'll want to pick up that are only mentioned once or twice in a transcript which may not meet our threshold. I think we should accept all nontrivial words and alter the size of the square on the map based on the user entered word's frequency in the time frame of a couple of days. -->
