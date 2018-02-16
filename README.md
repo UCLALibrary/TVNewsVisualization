@@ -1,11 +1,12 @@
 # TVNewsVisualization
 This is the main repo for the BuildUCLA web team's project to build data visualizations around the NewsScape collection of digitized television news broadcasts.
 
-##Run
+##Install & Run
 
 ```
 git clone https://github.com/UCLALibrary/TVNewsVisualization.git
 cd TVNewsVisualization
+npm install react-scripts
 npm start
 ```
 
@@ -13,36 +14,24 @@ Server and client are concurrently running. Server running at localhost:3001, cl
 
 Go to browser : localhost:3000
 
-`data/freqWords_2016_en_50k.csv` source : https://github.com/hermitdave/FrequencyWords
-
-The source repo also has the full dictionary containing around 1000k words, but if a word that is not the most frequent 50k words occurs in the transcript, we consider it a keyword.
-
-To extract words from a sentence, we split the string by space(" ") and trim all characters except alpha and digits from left and right. So a string
-
-"Hey"   it's you!!
-
-is splitted to ["Hey", "it's", "you"]
+## Terms:
+`token` = a keyword or a keyphrase
+`mentions` = number of occurrence
+`news` = number of transcripts containing the `token`
 
 ## TODO:
 
 ### SearchBox
-- Use Select (antd) to support multiple keywords
-- Handle icon onClick
+- Handle icon(s) onClick (circle, more space between)
 - Bold the substring matched with the user typed word. Now the word in dropdown is only bold when the whole string matches.
+- Simplify arguments of _getOptions
+- hide "more results" after all being shown
 
 ### Server
-- Test on large number of transcripts
-- Currently after a transcript is found duplicate, the fileStream still reads from the file though words are not counted. Destroying readStream on "close" event won't help.
-- Consider substitution for callback, like `.on`, `.then`, `promise`.
-- Make a trivialWords checklist, remove those words from keywords.
+- Make two stopword lists for keywords and keyphrases.
+- If same score, sort by alphabetical order
 
-### Special Cases for isKeyword
-- typo
-- plural
-- weren't don’t
-- 27-year-old baby-sit
-- 11:00 a.m.
-- Person's name (e.g. Charlie Sheen, can we recognize as a group?)
-- $8,000 (as in ./data/test/transcript.json)
-
-<!-- Okay, though there may be some relevant keywords we'll want to pick up that are only mentioned once or twice in a transcript which may not meet our threshold. I think we should accept all nontrivial words and alter the size of the square on the map based on the user entered word's frequency in the time frame of a couple of days. -->
+### From Slack
+- alter the size of the square on the map based on the keyword's frequency in the time frame of a couple of days
+- How to sort the tokens -- A combination of `news` and `mentions`. https://en.wikipedia.org/wiki/Tf%E2%80%93idf. Borrow some ideas from search-engine techniques like TF-IDF, like using the logarithm of the inverse fraction of the # of transcripts that contain the word as part of the weighting factor
+- How to determine the upper/lower case -- Rather than majority vote, give much higher weight to the transcripts that have both uppercase and lowercase words. Also could apply fancier heuristics, e.g., look to see if a word is ever capitalized (first letter only) when it's NOT at the beginning of a sentence ("My name is Peter"); if so, use the capitalized version (Peter).

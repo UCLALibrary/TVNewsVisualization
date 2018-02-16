@@ -1,6 +1,6 @@
-/* .search-wrapper {
-    margin-left: 120px;
-} */
+.search-wrapper {
+    width: 500px;
+}
 
 .search.ant-select-focused .search-icon {
     color: #108ee9;
@@ -20,22 +20,26 @@
 }
 
 .search-dropdown .ant-select-dropdown-menu-item.show-all {
-    text-align: left;
+    text-align: center;
     cursor: default;
 }
 
 .search-dropdown .ant-select-dropdown-menu {
-max-height: 200px;
+    max-height: 500px;
 }
 
-.search-item-count {
+.search-item-stat {
     position: absolute;
     color: #999;
-    right: 16px;
+    right: 32px;
 }
 
 .search-icon {
     color: #6E6E6E;
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     font-size: 16px;
+}
+
+.search-button {
+    margin-left: 8px
 }
