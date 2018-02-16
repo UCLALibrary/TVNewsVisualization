@@ -16,7 +16,9 @@ Go to browser : localhost:3000
 
 ## Terms:
 `token` = a keyword or a keyphrase
+
 `mentions` = number of occurrence
+
 `news` = number of transcripts containing the `token`
 
 ## TODO:
