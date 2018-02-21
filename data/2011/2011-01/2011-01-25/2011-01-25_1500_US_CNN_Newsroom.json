@@ -1,0 +1,1448 @@
+{"Top": "20110125150000", "Filename": "2011-01-25_1500_US_CNN_Newsroom"}
+{"Collection": "Communication Studies Archive, UCLA"}
+{"UID": "25b0890e-289c-11e0-88df-001517add6f2"}
+{"Duration": "00:59:49"}
+{"Video_Picture_Size": "640x352", "Original_Picture_Size": ""}
+{"Comment": "No captions"}
+{"Program_Title": "CNN NEWSROOM"}
+{"Original_Broadcast_Time": "2011-01-25 09:59 America/New_York"}
+{"Transcript_source": "transcripts.cnn.com no timestamps"}
+{"Headlines": "\"State of the Union\" Tonight; GOP's Cost Cutting Pledge; Man Wins Online Libel Case"}
+{"Language": "ENG"}
+{"Local_Broadcast_Time": "2011-01-25 07:00 America/Los_Angeles"}
+{"StartTime": "20110125150007.000", "EndTime": "20110125155949.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110125150007.000", "EndTime": "20110125150009.000", "PrimaryTag": "TR0", "Text": "MARTIN SAVIDGE, CNN ANCHOR:  It is 10:00 "}
+{"StartTime": "20110125150009.000", "EndTime": "20110125150011.000", "PrimaryTag": "TR0", "Text": "a.m. on the East Coast, 7:00 a.m. on the "}
+{"StartTime": "20110125150011.000", "EndTime": "20110125150014.000", "PrimaryTag": "TR0", "Text": "West.  I'm Martin Savidge sitting in for "}
+{"StartTime": "20110125150014.000", "EndTime": "20110125150016.000", "PrimaryTag": "TR0", "Text": "Kyra Phillips."}
+{"StartTime": "20110125150016.000", "EndTime": "20110125150019.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150019.000", "EndTime": "20110125150021.000", "PrimaryTag": "TR0", "Text": "And here are some of the stories that have "}
+{"StartTime": "20110125150021.000", "EndTime": "20110125150024.000", "PrimaryTag": "TR0", "Text": "us talking this morning.  Take a look at "}
+{"StartTime": "20110125150024.000", "EndTime": "20110125150026.000", "PrimaryTag": "TR0", "Text": "this new video.  It shows the very moment "}
+{"StartTime": "20110125150026.000", "EndTime": "20110125150029.000", "PrimaryTag": "TR0", "Text": "of yesterday's suicide bombing in Moscow's "}
+{"StartTime": "20110125150029.000", "EndTime": "20110125150031.000", "PrimaryTag": "TR0", "Text": "busiest airport.  You see people walking "}
+{"StartTime": "20110125150031.000", "EndTime": "20110125150034.000", "PrimaryTag": "TR0", "Text": "around and then a flash of light."}
+{"StartTime": "20110125150034.000", "EndTime": "20110125150036.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150036.000", "EndTime": "20110125150039.000", "PrimaryTag": "TR0", "Text": "Russian authorities say 35 people were "}
+{"StartTime": "20110125150039.000", "EndTime": "20110125150041.000", "PrimaryTag": "TR0", "Text": "killed and more than 100 hurt.  President "}
+{"StartTime": "20110125150041.000", "EndTime": "20110125150044.000", "PrimaryTag": "TR0", "Text": "Dimitri Medvedev promises to find whoever "}
+{"StartTime": "20110125150044.000", "EndTime": "20110125150046.000", "PrimaryTag": "TR0", "Text": "is responsible but he's also blasting the "}
+{"StartTime": "20110125150046.000", "EndTime": "20110125150049.000", "PrimaryTag": "TR0", "Text": "airport security."}
+{"StartTime": "20110125150049.000", "EndTime": "20110125150051.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150051.000", "EndTime": "20110125150054.000", "PrimaryTag": "TR0", "Text": "Gas prices they have inched up yet again.  "}
+{"StartTime": "20110125150054.000", "EndTime": "20110125150056.000", "PrimaryTag": "TR0", "Text": "The nation-wide average of $3.11 is the "}
+{"StartTime": "20110125150056.000", "EndTime": "20110125150059.000", "PrimaryTag": "TR0", "Text": "highest that we've seen since the "}
+{"StartTime": "20110125150059.000", "EndTime": "20110125150101.000", "PrimaryTag": "TR0", "Text": "financial meltdown in October of 2008.  "}
+{"StartTime": "20110125150101.000", "EndTime": "20110125150104.000", "PrimaryTag": "TR0", "Text": "Many experts say don't expect a big spike "}
+{"StartTime": "20110125150104.000", "EndTime": "20110125150106.000", "PrimaryTag": "TR0", "Text": "in the immediate future."}
+{"StartTime": "20110125150106.000", "EndTime": "20110125150109.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150109.000", "EndTime": "20110125150111.000", "PrimaryTag": "TR0", "Text": "And all across Hollywood, blurry-eyed "}
+{"StartTime": "20110125150111.000", "EndTime": "20110125150114.000", "PrimaryTag": "TR0", "Text": "stars rolling out of bed, can you picture "}
+{"StartTime": "20110125150114.000", "EndTime": "20110125150116.000", "PrimaryTag": "TR0", "Text": "it?  To see if they will get a shot at an "}
+{"StartTime": "20110125150116.000", "EndTime": "20110125150119.000", "PrimaryTag": "TR0", "Text": "Oscar.  Academy Award nominations are "}
+{"StartTime": "20110125150119.000", "EndTime": "20110125150121.000", "PrimaryTag": "TR0", "Text": "being announce \"The King's Speech\" leads "}
+{"StartTime": "20110125150121.000", "EndTime": "20110125150124.000", "PrimaryTag": "TR0", "Text": "with 12 nominations.  We'll share some of "}
+{"StartTime": "20110125150124.000", "EndTime": "20110125150126.000", "PrimaryTag": "TR0", "Text": "the other big names."}
+{"StartTime": "20110125150126.000", "EndTime": "20110125150129.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150129.000", "EndTime": "20110125150131.000", "PrimaryTag": "TR0", "Text": "The president's \"State of the Union\" and "}
+{"StartTime": "20110125150131.000", "EndTime": "20110125150134.000", "PrimaryTag": "TR0", "Text": "the nation's state of mind.  Just hours "}
+{"StartTime": "20110125150134.000", "EndTime": "20110125150136.000", "PrimaryTag": "TR0", "Text": "before the president addresses the nation, "}
+{"StartTime": "20110125150136.000", "EndTime": "20110125150139.000", "PrimaryTag": "TR0", "Text": "there is a new poll that shows a "}
+{"StartTime": "20110125150139.000", "EndTime": "20110125150141.000", "PrimaryTag": "TR0", "Text": "surprising surge in national optimism, 43 "}
+{"StartTime": "20110125150141.000", "EndTime": "20110125150144.000", "PrimaryTag": "TR0", "Text": "percent now feel that things are  going "}
+{"StartTime": "20110125150144.000", "EndTime": "20110125150146.000", "PrimaryTag": "TR0", "Text": "well in the country.  That is compared to "}
+{"StartTime": "20110125150146.000", "EndTime": "20110125150149.000", "PrimaryTag": "TR0", "Text": "29 percent just last month."}
+{"StartTime": "20110125150149.000", "EndTime": "20110125150151.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150151.000", "EndTime": "20110125150154.000", "PrimaryTag": "TR0", "Text": "Lawmakers, they plan a show of unity "}
+{"StartTime": "20110125150154.000", "EndTime": "20110125150156.000", "PrimaryTag": "TR0", "Text": "tonight, many plan across the aisle and "}
+{"StartTime": "20110125150156.000", "EndTime": "20110125150159.000", "PrimaryTag": "TR0", "Text": "sit with members of the other political "}
+{"StartTime": "20110125150159.000", "EndTime": "20110125150201.000", "PrimaryTag": "TR0", "Text": "party.  The so- called state dates are in "}
+{"StartTime": "20110125150201.000", "EndTime": "20110125150204.000", "PrimaryTag": "TR0", "Text": "response to the Tucson shooting rampage "}
+{"StartTime": "20110125150204.000", "EndTime": "20110125150206.000", "PrimaryTag": "TR0", "Text": "and concerns that constant party bickering "}
+{"StartTime": "20110125150206.000", "EndTime": "20110125150209.000", "PrimaryTag": "TR0", "Text": "may be creating dangerous divisions.  But "}
+{"StartTime": "20110125150209.000", "EndTime": "20110125150211.000", "PrimaryTag": "TR0", "Text": "make no mistake, vast  differences still "}
+{"StartTime": "20110125150211.000", "EndTime": "20110125150214.000", "PrimaryTag": "TR0", "Text": "remain."}
+{"StartTime": "20110125150214.000", "EndTime": "20110125150216.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150216.000", "EndTime": "20110125150219.000", "PrimaryTag": "TR0", "Text": "For the first time in our history, there "}
+{"StartTime": "20110125150219.000", "EndTime": "20110125150221.000", "PrimaryTag": "TR0", "Text": "will be two responses to the president's "}
+{"StartTime": "20110125150221.000", "EndTime": "20110125150224.000", "PrimaryTag": "TR0", "Text": "speech.  Besides the Republicans, of "}
+{"StartTime": "20110125150224.000", "EndTime": "20110125150226.000", "PrimaryTag": "TR0", "Text": "course, will also hear from the Tea Party. "}
+{"StartTime": "20110125150226.000", "EndTime": "20110125150229.000", "PrimaryTag": "TR0", "Text": " Congresswoman Michele Bachmann of "}
+{"StartTime": "20110125150229.000", "EndTime": "20110125150231.000", "PrimaryTag": "TR0", "Text": "Minnesota is a rising star of that "}
+{"StartTime": "20110125150231.000", "EndTime": "20110125150234.000", "PrimaryTag": "TR0", "Text": "movement, which has had a huge impact in "}
+{"StartTime": "20110125150234.000", "EndTime": "20110125150236.000", "PrimaryTag": "TR0", "Text": "the November elections."}
+{"StartTime": "20110125150236.000", "EndTime": "20110125150239.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150239.000", "EndTime": "20110125150241.000", "PrimaryTag": "TR0", "Text": "So the stage is set and the speech is "}
+{"StartTime": "20110125150241.000", "EndTime": "20110125150244.000", "PrimaryTag": "TR0", "Text": "written.  Let's get a preview with CNN's "}
+{"StartTime": "20110125150244.000", "EndTime": "20110125150246.000", "PrimaryTag": "TR0", "Text": "Jim Acosta in our Washington bureau.  And "}
+{"StartTime": "20110125150246.000", "EndTime": "20110125150249.000", "PrimaryTag": "TR0", "Text": "Jim, what is going to be the president's "}
+{"StartTime": "20110125150249.000", "EndTime": "20110125150251.000", "PrimaryTag": "TR0", "Text": "main talking point tonight?     JIM "}
+{"StartTime": "20110125150251.000", "EndTime": "20110125150254.000", "PrimaryTag": "TR0", "Text": "ACOSTA, CNN CORRESPONDENT:  Well, all we "}
+{"StartTime": "20110125150254.000", "EndTime": "20110125150256.000", "PrimaryTag": "TR0", "Text": "have at this point, Martin, are talking "}
+{"StartTime": "20110125150256.000", "EndTime": "20110125150259.000", "PrimaryTag": "TR0", "Text": "points because we don't really know what "}
+{"StartTime": "20110125150259.000", "EndTime": "20110125150301.000", "PrimaryTag": "TR0", "Text": "the president is going to say.  But it "}
+{"StartTime": "20110125150301.000", "EndTime": "20110125150304.000", "PrimaryTag": "TR0", "Text": "looks like we'll see two big things "}
+{"StartTime": "20110125150304.000", "EndTime": "20110125150306.000", "PrimaryTag": "TR0", "Text": "tonight.  The White House says one theme "}
+{"StartTime": "20110125150306.000", "EndTime": "20110125150309.000", "PrimaryTag": "TR0", "Text": "is something that officials are calling "}
+{"StartTime": "20110125150309.000", "EndTime": "20110125150311.000", "PrimaryTag": "TR0", "Text": "winning the future.  The president is "}
+{"StartTime": "20110125150311.000", "EndTime": "20110125150314.000", "PrimaryTag": "TR0", "Text": "expected to offer some specifics on his "}
+{"StartTime": "20110125150314.000", "EndTime": "20110125150316.000", "PrimaryTag": "TR0", "Text": "agenda for getting the country on track to "}
+{"StartTime": "20110125150316.000", "EndTime": "20110125150319.000", "PrimaryTag": "TR0", "Text": "compete in the 21st century."}
+{"StartTime": "20110125150319.000", "EndTime": "20110125150321.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150321.000", "EndTime": "20110125150324.000", "PrimaryTag": "TR0", "Text": "That means what the administration is "}
+{"StartTime": "20110125150324.000", "EndTime": "20110125150326.000", "PrimaryTag": "TR0", "Text": "calling targeted investments in education, "}
+{"StartTime": "20110125150326.000", "EndTime": "20110125150329.000", "PrimaryTag": "TR0", "Text": "innovation, and infrastructure.  The other "}
+{"StartTime": "20110125150329.000", "EndTime": "20110125150331.000", "PrimaryTag": "TR0", "Text": "big theme it's national unity.  This is an "}
+{"StartTime": "20110125150331.000", "EndTime": "20110125150334.000", "PrimaryTag": "TR0", "Text": "idea that came out of the wake of the "}
+{"StartTime": "20110125150334.000", "EndTime": "20110125150336.000", "PrimaryTag": "TR0", "Text": "Tucson tragedy, something you just "}
+{"StartTime": "20110125150336.000", "EndTime": "20110125150339.000", "PrimaryTag": "TR0", "Text": "mentioned a few moments ago, Martin.  A "}
+{"StartTime": "20110125150339.000", "EndTime": "20110125150341.000", "PrimaryTag": "TR0", "Text": "group of roughly 60 Senate and House "}
+{"StartTime": "20110125150341.000", "EndTime": "20110125150344.000", "PrimaryTag": "TR0", "Text": "Democrats and Republicans, the state dates "}
+{"StartTime": "20110125150344.000", "EndTime": "20110125150346.000", "PrimaryTag": "TR0", "Text": "will be sitting together in a show of "}
+{"StartTime": "20110125150346.000", "EndTime": "20110125150349.000", "PrimaryTag": "TR0", "Text": "bipartisanship and civility.  And we "}
+{"StartTime": "20110125150349.000", "EndTime": "20110125150351.000", "PrimaryTag": "TR0", "Text": "caught up with two of them, Pennsylvania "}
+{"StartTime": "20110125150351.000", "EndTime": "20110125150354.000", "PrimaryTag": "TR0", "Text": "Senators Republican Pat Toomey and "}
+{"StartTime": "20110125150354.000", "EndTime": "20110125150356.000", "PrimaryTag": "TR0", "Text": "Democrat Bob Casey."}
+{"StartTime": "20110125150356.000", "EndTime": "20110125150359.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150359.000", "EndTime": "20110125150401.000", "PrimaryTag": "TR0", "Text": "(BEGIN VIDEOTAPE)"}
+{"StartTime": "20110125150401.000", "EndTime": "20110125150404.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150404.000", "EndTime": "20110125150406.000", "PrimaryTag": "TR0", "Text": "SEN. PAT TOOMEY (R), PENNSYLVANIA:  I "}
+{"StartTime": "20110125150406.000", "EndTime": "20110125150409.000", "PrimaryTag": "TR0", "Text": "personally do think that the level of "}
+{"StartTime": "20110125150409.000", "EndTime": "20110125150411.000", "PrimaryTag": "TR0", "Text": "discourse has not been nearly at the level "}
+{"StartTime": "20110125150411.000", "EndTime": "20110125150414.000", "PrimaryTag": "TR0", "Text": "it should be. I think it's been harsh and "}
+{"StartTime": "20110125150414.000", "EndTime": "20110125150416.000", "PrimaryTag": "TR0", "Text": "often shrill and often personal and that's "}
+{"StartTime": "20110125150416.000", "EndTime": "20110125150419.000", "PrimaryTag": "TR0", "Text": "really shouldn't be part of our politics."}
+{"StartTime": "20110125150419.000", "EndTime": "20110125150421.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150421.000", "EndTime": "20110125150424.000", "PrimaryTag": "TR0", "Text": "ACOSTA:  Has the rhetoric gotten out of "}
+{"StartTime": "20110125150424.000", "EndTime": "20110125150426.000", "PrimaryTag": "TR0", "Text": "control, do you think, Senator Casey?"}
+{"StartTime": "20110125150426.000", "EndTime": "20110125150429.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150429.000", "EndTime": "20110125150431.000", "PrimaryTag": "TR0", "Text": "SEN. BOB CASEY (), PENNSYLVANIA:  I think "}
+{"StartTime": "20110125150431.000", "EndTime": "20110125150434.000", "PrimaryTag": "TR0", "Text": "it has.  I've been here four years and I "}
+{"StartTime": "20110125150434.000", "EndTime": "20110125150436.000", "PrimaryTag": "TR0", "Text": "know there are numerous times when that's "}
+{"StartTime": "20110125150436.000", "EndTime": "20110125150439.000", "PrimaryTag": "TR0", "Text": "occurred and I'm not saying I'm blameless. "}
+{"StartTime": "20110125150439.000", "EndTime": "20110125150441.000", "PrimaryTag": "TR0", "Text": " We've all at some point in time engaged "}
+{"StartTime": "20110125150441.000", "EndTime": "20110125150444.000", "PrimaryTag": "TR0", "Text": "in that."}
+{"StartTime": "20110125150444.000", "EndTime": "20110125150446.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150446.000", "EndTime": "20110125150449.000", "PrimaryTag": "TR0", "Text": "(END VIDEOTAPE)"}
+{"StartTime": "20110125150449.000", "EndTime": "20110125150451.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150451.000", "EndTime": "20110125150454.000", "PrimaryTag": "TR0", "Text": "ACOSTA:  Something else that will catch "}
+{"StartTime": "20110125150454.000", "EndTime": "20110125150456.000", "PrimaryTag": "TR0", "Text": "your eye tonight, dueling responses to the "}
+{"StartTime": "20110125150456.000", "EndTime": "20110125150459.000", "PrimaryTag": "TR0", "Text": "president's \"State of the Union\" address.  "}
+{"StartTime": "20110125150459.000", "EndTime": "20110125150501.000", "PrimaryTag": "TR0", "Text": "House Budget Committee chairman Paul Ryan "}
+{"StartTime": "20110125150501.000", "EndTime": "20110125150504.000", "PrimaryTag": "TR0", "Text": "will give the Republican response to the "}
+{"StartTime": "20110125150504.000", "EndTime": "20110125150506.000", "PrimaryTag": "TR0", "Text": "president's address.  He is expected to "}
+{"StartTime": "20110125150506.000", "EndTime": "20110125150509.000", "PrimaryTag": "TR0", "Text": "say no to many of the president's new "}
+{"StartTime": "20110125150509.000", "EndTime": "20110125150511.000", "PrimaryTag": "TR0", "Text": "spending requests."}
+{"StartTime": "20110125150511.000", "EndTime": "20110125150514.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150514.000", "EndTime": "20110125150516.000", "PrimaryTag": "TR0", "Text": "Then you will also see the Tea Party "}
+{"StartTime": "20110125150516.000", "EndTime": "20110125150519.000", "PrimaryTag": "TR0", "Text": "response.  You mentioned this, Martin, "}
+{"StartTime": "20110125150519.000", "EndTime": "20110125150521.000", "PrimaryTag": "TR0", "Text": "delivered by another House Republican "}
+{"StartTime": "20110125150521.000", "EndTime": "20110125150524.000", "PrimaryTag": "TR0", "Text": "Michele Bachmann. Her remarks will also be "}
+{"StartTime": "20110125150524.000", "EndTime": "20110125150526.000", "PrimaryTag": "TR0", "Text": "carried on CNN, which sort of gives her "}
+{"StartTime": "20110125150526.000", "EndTime": "20110125150529.000", "PrimaryTag": "TR0", "Text": "equal billing on many of the news networks."}
+{"StartTime": "20110125150529.000", "EndTime": "20110125150531.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150531.000", "EndTime": "20110125150534.000", "PrimaryTag": "TR0", "Text": "Republican leaders are saying publicly "}
+{"StartTime": "20110125150534.000", "EndTime": "20110125150536.000", "PrimaryTag": "TR0", "Text": "they don't mind the attention that "}
+{"StartTime": "20110125150536.000", "EndTime": "20110125150539.000", "PrimaryTag": "TR0", "Text": "Bachmann is getting with all of this but "}
+{"StartTime": "20110125150539.000", "EndTime": "20110125150541.000", "PrimaryTag": "TR0", "Text": "they are reminding reporters that there is "}
+{"StartTime": "20110125150541.000", "EndTime": "20110125150544.000", "PrimaryTag": "TR0", "Text": "one party Republican response and it's "}
+{"StartTime": "20110125150544.000", "EndTime": "20110125150546.000", "PrimaryTag": "TR0", "Text": "coming from Paul Ryan.  Martin?"}
+{"StartTime": "20110125150546.000", "EndTime": "20110125150549.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150549.000", "EndTime": "20110125150551.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  I'm wondering, Jim, just how "}
+{"StartTime": "20110125150551.000", "EndTime": "20110125150554.000", "PrimaryTag": "TR0", "Text": "much can the president accomplish with "}
+{"StartTime": "20110125150554.000", "EndTime": "20110125150556.000", "PrimaryTag": "TR0", "Text": "such a divided Congress?"}
+{"StartTime": "20110125150556.000", "EndTime": "20110125150559.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150559.000", "EndTime": "20110125150601.000", "PrimaryTag": "TR0", "Text": "ACOSTA:  Yes, that is the big question "}
+{"StartTime": "20110125150601.000", "EndTime": "20110125150604.000", "PrimaryTag": "TR0", "Text": "because after tonight, after the show of "}
+{"StartTime": "20110125150604.000", "EndTime": "20110125150606.000", "PrimaryTag": "TR0", "Text": "national unity and bipartisanship, we will "}
+{"StartTime": "20110125150606.000", "EndTime": "20110125150609.000", "PrimaryTag": "TR0", "Text": "all go back to a House that is  controlled "}
+{"StartTime": "20110125150609.000", "EndTime": "20110125150611.000", "PrimaryTag": "TR0", "Text": "by Republicans and a Senate that is "}
+{"StartTime": "20110125150611.000", "EndTime": "20110125150614.000", "PrimaryTag": "TR0", "Text": "controlled by Democrats.  And so it's "}
+{"StartTime": "20110125150614.000", "EndTime": "20110125150616.000", "PrimaryTag": "TR0", "Text": "going to depend on what the president says "}
+{"StartTime": "20110125150616.000", "EndTime": "20110125150619.000", "PrimaryTag": "TR0", "Text": "tonight if he talks about only talking "}
+{"StartTime": "20110125150619.000", "EndTime": "20110125150621.000", "PrimaryTag": "TR0", "Text": "about spending in areas such as education, "}
+{"StartTime": "20110125150621.000", "EndTime": "20110125150624.000", "PrimaryTag": "TR0", "Text": "innovation, that sort of thing."}
+{"StartTime": "20110125150624.000", "EndTime": "20110125150626.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150626.000", "EndTime": "20110125150629.000", "PrimaryTag": "TR0", "Text": "Republicans are going to listen to that "}
+{"StartTime": "20110125150629.000", "EndTime": "20110125150631.000", "PrimaryTag": "TR0", "Text": "and hear new government spending and they "}
+{"StartTime": "20110125150631.000", "EndTime": "20110125150634.000", "PrimaryTag": "TR0", "Text": "are basically going to say no.  If he "}
+{"StartTime": "20110125150634.000", "EndTime": "20110125150636.000", "PrimaryTag": "TR0", "Text": "comes forward and says, along with this "}
+{"StartTime": "20110125150636.000", "EndTime": "20110125150639.000", "PrimaryTag": "TR0", "Text": "new spending we're going to have budget "}
+{"StartTime": "20110125150639.000", "EndTime": "20110125150641.000", "PrimaryTag": "TR0", "Text": "cuts, we're going to get serious about "}
+{"StartTime": "20110125150641.000", "EndTime": "20110125150644.000", "PrimaryTag": "TR0", "Text": "tackling the deficit and the national "}
+{"StartTime": "20110125150644.000", "EndTime": "20110125150646.000", "PrimaryTag": "TR0", "Text": "debt, then he may get some takers on the "}
+{"StartTime": "20110125150646.000", "EndTime": "20110125150649.000", "PrimaryTag": "TR0", "Text": "Republican side. We'll have to see."}
+{"StartTime": "20110125150649.000", "EndTime": "20110125150651.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150651.000", "EndTime": "20110125150654.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Yes, we will, indeed.  Thanks, "}
+{"StartTime": "20110125150654.000", "EndTime": "20110125150656.000", "PrimaryTag": "TR0", "Text": "Jim, very much."}
+{"StartTime": "20110125150656.000", "EndTime": "20110125150659.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150659.000", "EndTime": "20110125150701.000", "PrimaryTag": "TR0", "Text": "ACOSTA:  You bet."}
+{"StartTime": "20110125150701.000", "EndTime": "20110125150704.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150704.000", "EndTime": "20110125150706.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  There will be one seat "}
+{"StartTime": "20110125150706.000", "EndTime": "20110125150709.000", "PrimaryTag": "TR0", "Text": "conspicuously empty tonight, Congresswoman "}
+{"StartTime": "20110125150709.000", "EndTime": "20110125150711.000", "PrimaryTag": "TR0", "Text": "Gabrielle Giffords'.  To honor her, black "}
+{"StartTime": "20110125150711.000", "EndTime": "20110125150714.000", "PrimaryTag": "TR0", "Text": "and white ribbons will be worn by members "}
+{"StartTime": "20110125150714.000", "EndTime": "20110125150716.000", "PrimaryTag": "TR0", "Text": "of Congress.  Also being (INAUDIBLE) "}
+{"StartTime": "20110125150716.000", "EndTime": "20110125150719.000", "PrimaryTag": "TR0", "Text": "tonight, Daniel Hernandez.  He is the "}
+{"StartTime": "20110125150719.000", "EndTime": "20110125150721.000", "PrimaryTag": "TR0", "Text": "congressional intern who helped stabilize "}
+{"StartTime": "20110125150721.000", "EndTime": "20110125150724.000", "PrimaryTag": "TR0", "Text": "the congresswoman in the moments after she "}
+{"StartTime": "20110125150724.000", "EndTime": "20110125150726.000", "PrimaryTag": "TR0", "Text": "was shot.  He will be sitting in the first "}
+{"StartTime": "20110125150726.000", "EndTime": "20110125150729.000", "PrimaryTag": "TR0", "Text": "lady's box.  Christina Green's family will "}
+{"StartTime": "20110125150729.000", "EndTime": "20110125150731.000", "PrimaryTag": "TR0", "Text": "also be at the first lady's side.  Roxana "}
+{"StartTime": "20110125150731.000", "EndTime": "20110125150734.000", "PrimaryTag": "TR0", "Text": "and John Green's nine- year-old daughter "}
+{"StartTime": "20110125150734.000", "EndTime": "20110125150736.000", "PrimaryTag": "TR0", "Text": "was among the six people killed in that "}
+{"StartTime": "20110125150736.000", "EndTime": "20110125150739.000", "PrimaryTag": "TR0", "Text": "Tucson shooting."}
+{"StartTime": "20110125150739.000", "EndTime": "20110125150741.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150741.000", "EndTime": "20110125150744.000", "PrimaryTag": "TR0", "Text": "And join us tonight at 7:00 p.m. Eastern "}
+{"StartTime": "20110125150744.000", "EndTime": "20110125150746.000", "PrimaryTag": "TR0", "Text": "for out special coverage of the best "}
+{"StartTime": "20110125150746.000", "EndTime": "20110125150749.000", "PrimaryTag": "TR0", "Text": "political team on television.  The \"State "}
+{"StartTime": "20110125150749.000", "EndTime": "20110125150751.000", "PrimaryTag": "TR0", "Text": "of the Union\" address will be followed by "}
+{"StartTime": "20110125150751.000", "EndTime": "20110125150754.000", "PrimaryTag": "TR0", "Text": "the Republican and Tea Party response and "}
+{"StartTime": "20110125150754.000", "EndTime": "20110125150756.000", "PrimaryTag": "TR0", "Text": "then post speech analysis."}
+{"StartTime": "20110125150756.000", "EndTime": "20110125150759.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150759.000", "EndTime": "20110125150801.000", "PrimaryTag": "TR0", "Text": "President Obama may have a lock on "}
+{"StartTime": "20110125150801.000", "EndTime": "20110125150804.000", "PrimaryTag": "TR0", "Text": "primetime but Republicans have the "}
+{"StartTime": "20110125150804.000", "EndTime": "20110125150806.000", "PrimaryTag": "TR0", "Text": "spotlight this hour.  House GOP leaders "}
+{"StartTime": "20110125150806.000", "EndTime": "20110125150809.000", "PrimaryTag": "TR0", "Text": "are gathering on the steps of the U.S. "}
+{"StartTime": "20110125150809.000", "EndTime": "20110125150811.000", "PrimaryTag": "TR0", "Text": "capital to talk about the promise of "}
+{"StartTime": "20110125150811.000", "EndTime": "20110125150814.000", "PrimaryTag": "TR0", "Text": "cutting government spending.  They are "}
+{"StartTime": "20110125150814.000", "EndTime": "20110125150816.000", "PrimaryTag": "TR0", "Text": "caught a bit in a numbers game over the "}
+{"StartTime": "20110125150816.000", "EndTime": "20110125150819.000", "PrimaryTag": "TR0", "Text": "pledge to shave $100 billion from the "}
+{"StartTime": "20110125150819.000", "EndTime": "20110125150821.000", "PrimaryTag": "TR0", "Text": "budget.  They want to roll back spending "}
+{"StartTime": "20110125150821.000", "EndTime": "20110125150824.000", "PrimaryTag": "TR0", "Text": "to 2008 levels.  But because of the glitch "}
+{"StartTime": "20110125150824.000", "EndTime": "20110125150826.000", "PrimaryTag": "TR0", "Text": "in the math, the plan cuts total only "}
+{"StartTime": "20110125150826.000", "EndTime": "20110125150829.000", "PrimaryTag": "TR0", "Text": "about $50 to $60 billion.  Some House "}
+{"StartTime": "20110125150829.000", "EndTime": "20110125150831.000", "PrimaryTag": "TR0", "Text": "conservatives are demanding new cuts to "}
+{"StartTime": "20110125150831.000", "EndTime": "20110125150834.000", "PrimaryTag": "TR0", "Text": "make good on the originally promise of "}
+{"StartTime": "20110125150834.000", "EndTime": "20110125150836.000", "PrimaryTag": "TR0", "Text": "$100 billion."}
+{"StartTime": "20110125150836.000", "EndTime": "20110125150839.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150839.000", "EndTime": "20110125150841.000", "PrimaryTag": "TR0", "Text": "In Lubbock, Texas, a 15-year-old girl "}
+{"StartTime": "20110125150841.000", "EndTime": "20110125150844.000", "PrimaryTag": "TR0", "Text": "leaves for a baby sitting job and then "}
+{"StartTime": "20110125150844.000", "EndTime": "20110125150846.000", "PrimaryTag": "TR0", "Text": "never comes home.  That was two weeks ago. "}
+{"StartTime": "20110125150846.000", "EndTime": "20110125150849.000", "PrimaryTag": "TR0", "Text": " Now, police have discovered a young  "}
+{"StartTime": "20110125150849.000", "EndTime": "20110125150851.000", "PrimaryTag": "TR0", "Text": "girl's body and the community is waiting "}
+{"StartTime": "20110125150851.000", "EndTime": "20110125150854.000", "PrimaryTag": "TR0", "Text": "to see if it's her.  This is Elizabeth "}
+{"StartTime": "20110125150854.000", "EndTime": "20110125150856.000", "PrimaryTag": "TR0", "Text": "Ennen, who police say was abducted while "}
+{"StartTime": "20110125150856.000", "EndTime": "20110125150859.000", "PrimaryTag": "TR0", "Text": "babysitting at a motel on January 4.  "}
+{"StartTime": "20110125150859.000", "EndTime": "20110125150901.000", "PrimaryTag": "TR0", "Text": "Umberto Maldonado Salinas is charged with "}
+{"StartTime": "20110125150901.000", "EndTime": "20110125150904.000", "PrimaryTag": "TR0", "Text": "the kidnapping.  Ennen was baby sitting "}
+{"StartTime": "20110125150904.000", "EndTime": "20110125150906.000", "PrimaryTag": "TR0", "Text": "with his children.  Police say they have "}
+{"StartTime": "20110125150906.000", "EndTime": "20110125150909.000", "PrimaryTag": "TR0", "Text": "evidence linking him to her disappearance "}
+{"StartTime": "20110125150909.000", "EndTime": "20110125150911.000", "PrimaryTag": "TR0", "Text": "but they won't say what it is."}
+{"StartTime": "20110125150911.000", "EndTime": "20110125150914.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150914.000", "EndTime": "20110125150916.000", "PrimaryTag": "TR0", "Text": "Her parents reported her missing to police "}
+{"StartTime": "20110125150916.000", "EndTime": "20110125150919.000", "PrimaryTag": "TR0", "Text": "when she never came home that night but "}
+{"StartTime": "20110125150919.000", "EndTime": "20110125150921.000", "PrimaryTag": "TR0", "Text": "cops treated it as a runaway and yet her "}
+{"StartTime": "20110125150921.000", "EndTime": "20110125150924.000", "PrimaryTag": "TR0", "Text": "mom never believed that."}
+{"StartTime": "20110125150924.000", "EndTime": "20110125150926.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150926.000", "EndTime": "20110125150929.000", "PrimaryTag": "TR0", "Text": "(BEGIN VIDEO CLIP)"}
+{"StartTime": "20110125150929.000", "EndTime": "20110125150931.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150931.000", "EndTime": "20110125150934.000", "PrimaryTag": "TR0", "Text": "VIRGINIA ENNEN, MOTHER:  The last thing "}
+{"StartTime": "20110125150934.000", "EndTime": "20110125150936.000", "PrimaryTag": "TR0", "Text": "she told me when I talked to her a little "}
+{"StartTime": "20110125150936.000", "EndTime": "20110125150939.000", "PrimaryTag": "TR0", "Text": "after 8:00 on Tuesday night was that she "}
+{"StartTime": "20110125150939.000", "EndTime": "20110125150941.000", "PrimaryTag": "TR0", "Text": "loved me.     (END VIDEO CLIP)"}
+{"StartTime": "20110125150941.000", "EndTime": "20110125150944.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150944.000", "EndTime": "20110125150946.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  It took two weeks to list her as "}
+{"StartTime": "20110125150946.000", "EndTime": "20110125150949.000", "PrimaryTag": "TR0", "Text": "missing, which has citizens outraged.  One "}
+{"StartTime": "20110125150949.000", "EndTime": "20110125150951.000", "PrimaryTag": "TR0", "Text": "woman actually spotted Elizabeth with "}
+{"StartTime": "20110125150951.000", "EndTime": "20110125150954.000", "PrimaryTag": "TR0", "Text": "Salinas at a local dollar store and says "}
+{"StartTime": "20110125150954.000", "EndTime": "20110125150956.000", "PrimaryTag": "TR0", "Text": "that something seemed very wrong."}
+{"StartTime": "20110125150956.000", "EndTime": "20110125150959.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125150959.000", "EndTime": "20110125151001.000", "PrimaryTag": "TR0", "Text": "(BEGIN VIDEO CLIP)"}
+{"StartTime": "20110125151001.000", "EndTime": "20110125151004.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151004.000", "EndTime": "20110125151006.000", "PrimaryTag": "TR0", "Text": "DENA BOWELL, WITNESS:  It didn't look to "}
+{"StartTime": "20110125151006.000", "EndTime": "20110125151009.000", "PrimaryTag": "TR0", "Text": "me like she was a run away.  Because a run "}
+{"StartTime": "20110125151009.000", "EndTime": "20110125151011.000", "PrimaryTag": "TR0", "Text": "away can come and go as they please.  This "}
+{"StartTime": "20110125151011.000", "EndTime": "20110125151014.000", "PrimaryTag": "TR0", "Text": "child was almost hostage like.  And he put "}
+{"StartTime": "20110125151014.000", "EndTime": "20110125151016.000", "PrimaryTag": "TR0", "Text": "her in the car like a bag of garbage.  You "}
+{"StartTime": "20110125151016.000", "EndTime": "20110125151019.000", "PrimaryTag": "TR0", "Text": "know, he just like threw her in there.  "}
+{"StartTime": "20110125151019.000", "EndTime": "20110125151021.000", "PrimaryTag": "TR0", "Text": "Like I said, I had no clue that this child "}
+{"StartTime": "20110125151021.000", "EndTime": "20110125151024.000", "PrimaryTag": "TR0", "Text": "was missing at all until the next day."}
+{"StartTime": "20110125151024.000", "EndTime": "20110125151026.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151026.000", "EndTime": "20110125151029.000", "PrimaryTag": "TR0", "Text": "UNIDENTIFIED FEMALE:  So if the police put "}
+{"StartTime": "20110125151029.000", "EndTime": "20110125151031.000", "PrimaryTag": "TR0", "Text": "that picture out of her there sooner -"}
+{"StartTime": "20110125151031.000", "EndTime": "20110125151034.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151034.000", "EndTime": "20110125151036.000", "PrimaryTag": "TR0", "Text": "BOWELL:  I would have grabbed the little "}
+{"StartTime": "20110125151036.000", "EndTime": "20110125151039.000", "PrimaryTag": "TR0", "Text": "girl and I would have kicked him, tried to "}
+{"StartTime": "20110125151039.000", "EndTime": "20110125151041.000", "PrimaryTag": "TR0", "Text": "do everything I could to keep him back "}
+{"StartTime": "20110125151041.000", "EndTime": "20110125151044.000", "PrimaryTag": "TR0", "Text": "from her."}
+{"StartTime": "20110125151044.000", "EndTime": "20110125151046.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151046.000", "EndTime": "20110125151049.000", "PrimaryTag": "TR0", "Text": "(END VIDEO CLIP)"}
+{"StartTime": "20110125151049.000", "EndTime": "20110125151051.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151051.000", "EndTime": "20110125151054.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  We are also learning this "}
+{"StartTime": "20110125151054.000", "EndTime": "20110125151056.000", "PrimaryTag": "TR0", "Text": "morning there may be surveillance tape "}
+{"StartTime": "20110125151056.000", "EndTime": "20110125151059.000", "PrimaryTag": "TR0", "Text": "from the night that Elizabeth disappeared "}
+{"StartTime": "20110125151059.000", "EndTime": "20110125151101.000", "PrimaryTag": "TR0", "Text": "showing her with Salinas at the hotel "}
+{"StartTime": "20110125151101.000", "EndTime": "20110125151104.000", "PrimaryTag": "TR0", "Text": "where she was baby sitting.  However, "}
+{"StartTime": "20110125151104.000", "EndTime": "20110125151106.000", "PrimaryTag": "TR0", "Text": "police have not yet released that tape."}
+{"StartTime": "20110125151106.000", "EndTime": "20110125151109.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151109.000", "EndTime": "20110125151111.000", "PrimaryTag": "TR0", "Text": "We're going to send you live now back now "}
+{"StartTime": "20110125151111.000", "EndTime": "20110125151114.000", "PrimaryTag": "TR0", "Text": "to Capitol Hill where the GOP has begun "}
+{"StartTime": "20110125151114.000", "EndTime": "20110125151116.000", "PrimaryTag": "TR0", "Text": "their press conference.  Let's listen in."}
+{"StartTime": "20110125151116.000", "EndTime": "20110125151119.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151119.000", "EndTime": "20110125151121.000", "PrimaryTag": "TR0", "Text": "REP. JOHN BOEHNER, HOUSE SPEAKER:  ... "}
+{"StartTime": "20110125151121.000", "EndTime": "20110125151124.000", "PrimaryTag": "TR0", "Text": "more stimulus spending and a bigger "}
+{"StartTime": "20110125151124.000", "EndTime": "20110125151126.000", "PrimaryTag": "TR0", "Text": "government here in Washington.  So I'm "}
+{"StartTime": "20110125151126.000", "EndTime": "20110125151129.000", "PrimaryTag": "TR0", "Text": "looking forward to listening to what the "}
+{"StartTime": "20110125151129.000", "EndTime": "20110125151131.000", "PrimaryTag": "TR0", "Text": "president has to say tonight.  We're "}
+{"StartTime": "20110125151131.000", "EndTime": "20110125151134.000", "PrimaryTag": "TR0", "Text": "excited about Paul Ryan giving his "}
+{"StartTime": "20110125151134.000", "EndTime": "20110125151136.000", "PrimaryTag": "TR0", "Text": "response.  Paul is someone who has a lot "}
+{"StartTime": "20110125151136.000", "EndTime": "20110125151139.000", "PrimaryTag": "TR0", "Text": "of experience, well versed in our  budget "}
+{"StartTime": "20110125151139.000", "EndTime": "20110125151141.000", "PrimaryTag": "TR0", "Text": "problem and someone who I think can "}
+{"StartTime": "20110125151141.000", "EndTime": "20110125151144.000", "PrimaryTag": "TR0", "Text": "outline pretty clearly to the American "}
+{"StartTime": "20110125151144.000", "EndTime": "20110125151146.000", "PrimaryTag": "TR0", "Text": "people that this amount of debt that we're "}
+{"StartTime": "20110125151146.000", "EndTime": "20110125151149.000", "PrimaryTag": "TR0", "Text": "dealing with and not only will create big "}
+{"StartTime": "20110125151149.000", "EndTime": "20110125151151.000", "PrimaryTag": "TR0", "Text": "problems for our kids and grandkids but "}
+{"StartTime": "20110125151151.000", "EndTime": "20110125151154.000", "PrimaryTag": "TR0", "Text": "it's hurting job  creation in America "}
+{"StartTime": "20110125151154.000", "EndTime": "20110125151156.000", "PrimaryTag": "TR0", "Text": "today."}
+{"StartTime": "20110125151156.000", "EndTime": "20110125151159.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151159.000", "EndTime": "20110125151201.000", "PrimaryTag": "TR0", "Text": "ERIC CANTOR (R), HOUSE MAJORITY LEADER:  "}
+{"StartTime": "20110125151201.000", "EndTime": "20110125151204.000", "PrimaryTag": "TR0", "Text": "Good morning, as the speaker just "}
+{"StartTime": "20110125151204.000", "EndTime": "20110125151206.000", "PrimaryTag": "TR0", "Text": "indicated we're going to have on the floor "}
+{"StartTime": "20110125151206.000", "EndTime": "20110125151209.000", "PrimaryTag": "TR0", "Text": "today a resolution which delivers on our "}
+{"StartTime": "20110125151209.000", "EndTime": "20110125151211.000", "PrimaryTag": "TR0", "Text": "commitment that we are going to reduce "}
+{"StartTime": "20110125151211.000", "EndTime": "20110125151214.000", "PrimaryTag": "TR0", "Text": "spending levels for the remainder of the "}
+{"StartTime": "20110125151214.000", "EndTime": "20110125151216.000", "PrimaryTag": "TR0", "Text": "fiscal year. Following up on that, I'm  "}
+{"StartTime": "20110125151216.000", "EndTime": "20110125151219.000", "PrimaryTag": "TR0", "Text": "announcing today that the House will vote "}
+{"StartTime": "20110125151219.000", "EndTime": "20110125151221.000", "PrimaryTag": "TR0", "Text": "on the continuing resolution the week of "}
+{"StartTime": "20110125151221.000", "EndTime": "20110125151224.000", "PrimaryTag": "TR0", "Text": "February 14th."}
+{"StartTime": "20110125151224.000", "EndTime": "20110125151226.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151226.000", "EndTime": "20110125151229.000", "PrimaryTag": "TR0", "Text": "I know it's a little bit out of the norm "}
+{"StartTime": "20110125151229.000", "EndTime": "20110125151231.000", "PrimaryTag": "TR0", "Text": "to announce this early the scheduling of a "}
+{"StartTime": "20110125151231.000", "EndTime": "20110125151234.000", "PrimaryTag": "TR0", "Text": "vote.  But this is how serious we are in "}
+{"StartTime": "20110125151234.000", "EndTime": "20110125151236.000", "PrimaryTag": "TR0", "Text": "delivering on our commitment to cut "}
+{"StartTime": "20110125151236.000", "EndTime": "20110125151239.000", "PrimaryTag": "TR0", "Text": "spending.  The speaker has continued to "}
+{"StartTime": "20110125151239.000", "EndTime": "20110125151241.000", "PrimaryTag": "TR0", "Text": "say, we're going to have an open process "}
+{"StartTime": "20110125151241.000", "EndTime": "20110125151244.000", "PrimaryTag": "TR0", "Text": "in this House and the House will work its "}
+{"StartTime": "20110125151244.000", "EndTime": "20110125151246.000", "PrimaryTag": "TR0", "Text": "will.  Our intention is to allow every "}
+{"StartTime": "20110125151246.000", "EndTime": "20110125151249.000", "PrimaryTag": "TR0", "Text": "member on both sides of the political "}
+{"StartTime": "20110125151249.000", "EndTime": "20110125151251.000", "PrimaryTag": "TR0", "Text": "aisle to come forward and offer "}
+{"StartTime": "20110125151251.000", "EndTime": "20110125151254.000", "PrimaryTag": "TR0", "Text": "prescriptions for how we cut spending and "}
+{"StartTime": "20110125151254.000", "EndTime": "20110125151256.000", "PrimaryTag": "TR0", "Text": "reduce the size of government.  And that "}
+{"StartTime": "20110125151256.000", "EndTime": "20110125151259.000", "PrimaryTag": "TR0", "Text": "will take place on the week of March 14th. "}
+{"StartTime": "20110125151259.000", "EndTime": "20110125151301.000", "PrimaryTag": "TR0", "Text": " I'm sorry.  February 14th.  That is a "}
+{"StartTime": "20110125151301.000", "EndTime": "20110125151304.000", "PrimaryTag": "TR0", "Text": "couple weeks from now.     The other thing "}
+{"StartTime": "20110125151304.000", "EndTime": "20110125151306.000", "PrimaryTag": "TR0", "Text": "of note, I think around here is this "}
+{"StartTime": "20110125151306.000", "EndTime": "20110125151309.000", "PrimaryTag": "TR0", "Text": "morning we have seen many begin to attack "}
+{"StartTime": "20110125151309.000", "EndTime": "20110125151311.000", "PrimaryTag": "TR0", "Text": "somehow the Republican plan for how we "}
+{"StartTime": "20110125151311.000", "EndTime": "20110125151314.000", "PrimaryTag": "TR0", "Text": "take the country forward.  In particular, "}
+{"StartTime": "20110125151314.000", "EndTime": "20110125151316.000", "PrimaryTag": "TR0", "Text": "leader Reid and Senator Schumer has been "}
+{"StartTime": "20110125151316.000", "EndTime": "20110125151319.000", "PrimaryTag": "TR0", "Text": "out hurling criticisms that Paul Ryan and "}
+{"StartTime": "20110125151319.000", "EndTime": "20110125151321.000", "PrimaryTag": "TR0", "Text": "his being the individual giving the "}
+{"StartTime": "20110125151321.000", "EndTime": "20110125151324.000", "PrimaryTag": "TR0", "Text": "Republican response tonight."}
+{"StartTime": "20110125151324.000", "EndTime": "20110125151326.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151326.000", "EndTime": "20110125151329.000", "PrimaryTag": "TR0", "Text": "Well, just to sort of put all of these "}
+{"StartTime": "20110125151329.000", "EndTime": "20110125151331.000", "PrimaryTag": "TR0", "Text": "attacks and criticisms into context, you "}
+{"StartTime": "20110125151331.000", "EndTime": "20110125151334.000", "PrimaryTag": "TR0", "Text": "know, it was leader Reid who appeared on "}
+{"StartTime": "20110125151334.000", "EndTime": "20110125151336.000", "PrimaryTag": "TR0", "Text": "one of the Sunday shows a couple of weeks "}
+{"StartTime": "20110125151336.000", "EndTime": "20110125151339.000", "PrimaryTag": "TR0", "Text": "ago that said there were no fiscal "}
+{"StartTime": "20110125151339.000", "EndTime": "20110125151341.000", "PrimaryTag": "TR0", "Text": "problems with social security.  Now, I "}
+{"StartTime": "20110125151341.000", "EndTime": "20110125151344.000", "PrimaryTag": "TR0", "Text": "think that is obviously an irresponsible "}
+{"StartTime": "20110125151344.000", "EndTime": "20110125151346.000", "PrimaryTag": "TR0", "Text": "statement.  Clearly that puts leader Reid "}
+{"StartTime": "20110125151346.000", "EndTime": "20110125151349.000", "PrimaryTag": "TR0", "Text": "in opposition to statements made by the "}
+{"StartTime": "20110125151349.000", "EndTime": "20110125151351.000", "PrimaryTag": "TR0", "Text": "president and members of his party on this "}
+{"StartTime": "20110125151351.000", "EndTime": "20110125151354.000", "PrimaryTag": "TR0", "Text": "side of the capital."}
+{"StartTime": "20110125151354.000", "EndTime": "20110125151356.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151356.000", "EndTime": "20110125151359.000", "PrimaryTag": "TR0", "Text": "And, again, I think it also brings us to "}
+{"StartTime": "20110125151359.000", "EndTime": "20110125151401.000", "PrimaryTag": "TR0", "Text": "the point, we have got to, you know, stop "}
+{"StartTime": "20110125151401.000", "EndTime": "20110125151404.000", "PrimaryTag": "TR0", "Text": "the criticisms and accusations and act in "}
+{"StartTime": "20110125151404.000", "EndTime": "20110125151406.000", "PrimaryTag": "TR0", "Text": "a responsible way to cut spending  and to "}
+{"StartTime": "20110125151406.000", "EndTime": "20110125151409.000", "PrimaryTag": "TR0", "Text": "show the American people that we're going "}
+{"StartTime": "20110125151409.000", "EndTime": "20110125151411.000", "PrimaryTag": "TR0", "Text": "to take this country responsibly into the "}
+{"StartTime": "20110125151411.000", "EndTime": "20110125151414.000", "PrimaryTag": "TR0", "Text": "future.  But first things first.  We have "}
+{"StartTime": "20110125151414.000", "EndTime": "20110125151416.000", "PrimaryTag": "TR0", "Text": "got to cut spending because that has shown "}
+{"StartTime": "20110125151416.000", "EndTime": "20110125151419.000", "PrimaryTag": "TR0", "Text": "to be the largest impediment in the way of "}
+{"StartTime": "20110125151419.000", "EndTime": "20110125151421.000", "PrimaryTag": "TR0", "Text": "job creators and we need to pull "}
+{"StartTime": "20110125151421.000", "EndTime": "20110125151424.000", "PrimaryTag": "TR0", "Text": "government back."}
+{"StartTime": "20110125151424.000", "EndTime": "20110125151426.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151426.000", "EndTime": "20110125151429.000", "PrimaryTag": "TR0", "Text": "UNIDENTIFIED FEMALE:  In eastern "}
+{"StartTime": "20110125151429.000", "EndTime": "20110125151431.000", "PrimaryTag": "TR0", "Text": "Washington and all across the country, "}
+{"StartTime": "20110125151431.000", "EndTime": "20110125151434.000", "PrimaryTag": "TR0", "Text": "people are concerned that the American "}
+{"StartTime": "20110125151434.000", "EndTime": "20110125151436.000", "PrimaryTag": "TR0", "Text": "dream is slipping away for their children, "}
+{"StartTime": "20110125151436.000", "EndTime": "20110125151439.000", "PrimaryTag": "TR0", "Text": "their grandchildren, and I share that "}
+{"StartTime": "20110125151439.000", "EndTime": "20110125151441.000", "PrimaryTag": "TR0", "Text": "concern. And tonight as we listen to the "}
+{"StartTime": "20110125151441.000", "EndTime": "20110125151444.000", "PrimaryTag": "TR0", "Text": "State of the Union, it's really an "}
+{"StartTime": "20110125151444.000", "EndTime": "20110125151446.000", "PrimaryTag": "TR0", "Text": "opportunity for the president and the "}
+{"StartTime": "20110125151446.000", "EndTime": "20110125151449.000", "PrimaryTag": "TR0", "Text": "Congress to start anew and work together "}
+{"StartTime": "20110125151449.000", "EndTime": "20110125151451.000", "PrimaryTag": "TR0", "Text": "on the challenges that are facing America "}
+{"StartTime": "20110125151451.000", "EndTime": "20110125151454.000", "PrimaryTag": "TR0", "Text": "and the best way that we can restore the "}
+{"StartTime": "20110125151454.000", "EndTime": "20110125151456.000", "PrimaryTag": "TR0", "Text": "American dream  is to get our economic "}
+{"StartTime": "20110125151456.000", "EndTime": "20110125151459.000", "PrimaryTag": "TR0", "Text": "engine going.  That engine of ingenuity, "}
+{"StartTime": "20110125151459.000", "EndTime": "20110125151501.000", "PrimaryTag": "TR0", "Text": "of innovation, and giving small businesses "}
+{"StartTime": "20110125151501.000", "EndTime": "20110125151504.000", "PrimaryTag": "TR0", "Text": "that confidence to actually create jobs."}
+{"StartTime": "20110125151504.000", "EndTime": "20110125151506.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151506.000", "EndTime": "20110125151509.000", "PrimaryTag": "TR0", "Text": "We also need to stop the out of control "}
+{"StartTime": "20110125151509.000", "EndTime": "20110125151511.000", "PrimaryTag": "TR0", "Text": "government spending and the debt that we "}
+{"StartTime": "20110125151511.000", "EndTime": "20110125151514.000", "PrimaryTag": "TR0", "Text": "have piled up.  And so we asked the "}
+{"StartTime": "20110125151514.000", "EndTime": "20110125151516.000", "PrimaryTag": "TR0", "Text": "president to join us in committing, as in "}
+{"StartTime": "20110125151516.000", "EndTime": "20110125151519.000", "PrimaryTag": "TR0", "Text": "our pledge, to reducing spending to 2008 "}
+{"StartTime": "20110125151519.000", "EndTime": "20110125151521.000", "PrimaryTag": "TR0", "Text": "levels or less and to actually reforming "}
+{"StartTime": "20110125151521.000", "EndTime": "20110125151524.000", "PrimaryTag": "TR0", "Text": "the way Congress and the executive branch "}
+{"StartTime": "20110125151524.000", "EndTime": "20110125151526.000", "PrimaryTag": "TR0", "Text": "decides to spend money.  Instead of "}
+{"StartTime": "20110125151526.000", "EndTime": "20110125151529.000", "PrimaryTag": "TR0", "Text": "focusing so much on spending, let's focus "}
+{"StartTime": "20110125151529.000", "EndTime": "20110125151531.000", "PrimaryTag": "TR0", "Text": "on spending less.  That's our goal as we "}
+{"StartTime": "20110125151531.000", "EndTime": "20110125151534.000", "PrimaryTag": "TR0", "Text": "approach this evening's \"State of the "}
+{"StartTime": "20110125151534.000", "EndTime": "20110125151536.000", "PrimaryTag": "TR0", "Text": "Union."}
+{"StartTime": "20110125151536.000", "EndTime": "20110125151539.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151539.000", "EndTime": "20110125151541.000", "PrimaryTag": "TR0", "Text": "UNIDENTIFIED MALE:  We look forward to "}
+{"StartTime": "20110125151541.000", "EndTime": "20110125151544.000", "PrimaryTag": "TR0", "Text": "tonight's \"State of the Union\" but if  "}
+{"StartTime": "20110125151544.000", "EndTime": "20110125151546.000", "PrimaryTag": "TR0", "Text": "history is our guide, most Republicans "}
+{"StartTime": "20110125151546.000", "EndTime": "20110125151549.000", "PrimaryTag": "TR0", "Text": "will probably agree that they agree with "}
+{"StartTime": "20110125151549.000", "EndTime": "20110125151551.000", "PrimaryTag": "TR0", "Text": "80 percent of what the president says, "}
+{"StartTime": "20110125151551.000", "EndTime": "20110125151554.000", "PrimaryTag": "TR0", "Text": "they just disagree with 80 percent of what "}
+{"StartTime": "20110125151554.000", "EndTime": "20110125151556.000", "PrimaryTag": "TR0", "Text": "he does.  And so we look forward to "}
+{"StartTime": "20110125151556.000", "EndTime": "20110125151559.000", "PrimaryTag": "TR0", "Text": "finding ways to work with the president to "}
+{"StartTime": "20110125151559.000", "EndTime": "20110125151601.000", "PrimaryTag": "TR0", "Text": "create more jobs and less spending in "}
+{"StartTime": "20110125151601.000", "EndTime": "20110125151604.000", "PrimaryTag": "TR0", "Text": "Washington."}
+{"StartTime": "20110125151604.000", "EndTime": "20110125151606.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151606.000", "EndTime": "20110125151609.000", "PrimaryTag": "TR0", "Text": "But the American people, every time they "}
+{"StartTime": "20110125151609.000", "EndTime": "20110125151611.000", "PrimaryTag": "TR0", "Text": "hear someone in Washington say investment, "}
+{"StartTime": "20110125151611.000", "EndTime": "20110125151614.000", "PrimaryTag": "TR0", "Text": "all they hear, is let's go out and borrow "}
+{"StartTime": "20110125151614.000", "EndTime": "20110125151616.000", "PrimaryTag": "TR0", "Text": "40 cents on the dollar and send the bill "}
+{"StartTime": "20110125151616.000", "EndTime": "20110125151619.000", "PrimaryTag": "TR0", "Text": "to our children.  And no one, no on "}
+{"StartTime": "20110125151619.000", "EndTime": "20110125151621.000", "PrimaryTag": "TR0", "Text": "believes that you can make a great nation "}
+{"StartTime": "20110125151621.000", "EndTime": "20110125151624.000", "PrimaryTag": "TR0", "Text": "more competitive by somehow bankrupting "}
+{"StartTime": "20110125151624.000", "EndTime": "20110125151626.000", "PrimaryTag": "TR0", "Text": "future generations.  So again, House "}
+{"StartTime": "20110125151626.000", "EndTime": "20110125151629.000", "PrimaryTag": "TR0", "Text": "Republicans stand ready and eager to "}
+{"StartTime": "20110125151629.000", "EndTime": "20110125151631.000", "PrimaryTag": "TR0", "Text": "listen to the president and we hope that "}
+{"StartTime": "20110125151631.000", "EndTime": "20110125151634.000", "PrimaryTag": "TR0", "Text": "he will embrace what we are doing today "}
+{"StartTime": "20110125151634.000", "EndTime": "20110125151636.000", "PrimaryTag": "TR0", "Text": "and rolling spending back to pre- bailout, "}
+{"StartTime": "20110125151636.000", "EndTime": "20110125151639.000", "PrimaryTag": "TR0", "Text": "pre-stimulus levels.  That would be a "}
+{"StartTime": "20110125151639.000", "EndTime": "20110125151641.000", "PrimaryTag": "TR0", "Text": "wonderful opportunity to work on a "}
+{"StartTime": "20110125151641.000", "EndTime": "20110125151644.000", "PrimaryTag": "TR0", "Text": "bipartisan basis.     The American people, "}
+{"StartTime": "20110125151644.000", "EndTime": "20110125151646.000", "PrimaryTag": "TR0", "Text": "again, they want more jobs, they want less "}
+{"StartTime": "20110125151646.000", "EndTime": "20110125151649.000", "PrimaryTag": "TR0", "Text": "spending.  What they don't want is more "}
+{"StartTime": "20110125151649.000", "EndTime": "20110125151651.000", "PrimaryTag": "TR0", "Text": "investments that simply saddle their "}
+{"StartTime": "20110125151651.000", "EndTime": "20110125151654.000", "PrimaryTag": "TR0", "Text": "children with greater debt."}
+{"StartTime": "20110125151654.000", "EndTime": "20110125151656.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151656.000", "EndTime": "20110125151659.000", "PrimaryTag": "TR0", "Text": "UNIDENTIFIED FEMALE:  Mr. Speaker, you say "}
+{"StartTime": "20110125151659.000", "EndTime": "20110125151701.000", "PrimaryTag": "TR0", "Text": "(INAUDIBLE) the American people on cutting "}
+{"StartTime": "20110125151701.000", "EndTime": "20110125151704.000", "PrimaryTag": "TR0", "Text": "spending but some of your - many of your "}
+{"StartTime": "20110125151704.000", "EndTime": "20110125151706.000", "PrimaryTag": "TR0", "Text": "fellow conservatives here are  saying that "}
+{"StartTime": "20110125151706.000", "EndTime": "20110125151709.000", "PrimaryTag": "TR0", "Text": "they want you to, first of all, keep your "}
+{"StartTime": "20110125151709.000", "EndTime": "20110125151711.000", "PrimaryTag": "TR0", "Text": "promise, to cut $100 billion this year but "}
+{"StartTime": "20110125151711.000", "EndTime": "20110125151714.000", "PrimaryTag": "TR0", "Text": "also more importantly go even further than "}
+{"StartTime": "20110125151714.000", "EndTime": "20110125151716.000", "PrimaryTag": "TR0", "Text": "you're planning  to go in and cut "}
+{"StartTime": "20110125151716.000", "EndTime": "20110125151719.000", "PrimaryTag": "TR0", "Text": "spending.  Will you listen to them?"}
+{"StartTime": "20110125151719.000", "EndTime": "20110125151721.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151721.000", "EndTime": "20110125151724.000", "PrimaryTag": "TR0", "Text": "BOEHNER:  Well, that's why I believe it's "}
+{"StartTime": "20110125151724.000", "EndTime": "20110125151726.000", "PrimaryTag": "TR0", "Text": "important as Speaker to allow for an open "}
+{"StartTime": "20110125151726.000", "EndTime": "20110125151729.000", "PrimaryTag": "TR0", "Text": "process here in the  house, to allow "}
+{"StartTime": "20110125151729.000", "EndTime": "20110125151731.000", "PrimaryTag": "TR0", "Text": "members from both sides of the aisle to "}
+{"StartTime": "20110125151731.000", "EndTime": "20110125151734.000", "PrimaryTag": "TR0", "Text": "offer amendments and to allow the House to "}
+{"StartTime": "20110125151734.000", "EndTime": "20110125151736.000", "PrimaryTag": "TR0", "Text": "work its will.  Gone are the days of the "}
+{"StartTime": "20110125151736.000", "EndTime": "20110125151739.000", "PrimaryTag": "TR0", "Text": "leadership dictating to the members what "}
+{"StartTime": "20110125151739.000", "EndTime": "20110125151741.000", "PrimaryTag": "TR0", "Text": "they will get the vote on and dictating "}
+{"StartTime": "20110125151741.000", "EndTime": "20110125151744.000", "PrimaryTag": "TR0", "Text": "the outcome of what the House does every "}
+{"StartTime": "20110125151744.000", "EndTime": "20110125151746.000", "PrimaryTag": "TR0", "Text": "day.  So I'm fully prepared to allow all "}
+{"StartTime": "20110125151746.000", "EndTime": "20110125151749.000", "PrimaryTag": "TR0", "Text": "members to offer their amendments and, "}
+{"StartTime": "20110125151749.000", "EndTime": "20110125151751.000", "PrimaryTag": "TR0", "Text": "again, let's let the House work its will."}
+{"StartTime": "20110125151751.000", "EndTime": "20110125151754.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151754.000", "EndTime": "20110125151756.000", "PrimaryTag": "TR0", "Text": "UNIDENTIFIED MALE:  We sent you a letter "}
+{"StartTime": "20110125151756.000", "EndTime": "20110125151759.000", "PrimaryTag": "TR0", "Text": "yesterday saying -"}
+{"StartTime": "20110125151759.000", "EndTime": "20110125151801.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151801.000", "EndTime": "20110125151804.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  You're listening to a news "}
+{"StartTime": "20110125151804.000", "EndTime": "20110125151806.000", "PrimaryTag": "TR0", "Text": "conference being held by the Republican "}
+{"StartTime": "20110125151806.000", "EndTime": "20110125151809.000", "PrimaryTag": "TR0", "Text": "leadership of the House there.  Basically, "}
+{"StartTime": "20110125151809.000", "EndTime": "20110125151811.000", "PrimaryTag": "TR0", "Text": "what they are doing is using this "}
+{"StartTime": "20110125151811.000", "EndTime": "20110125151814.000", "PrimaryTag": "TR0", "Text": "opportunity of the day that is normally "}
+{"StartTime": "20110125151814.000", "EndTime": "20110125151816.000", "PrimaryTag": "TR0", "Text": "focused on the president's \"State of the  "}
+{"StartTime": "20110125151816.000", "EndTime": "20110125151819.000", "PrimaryTag": "TR0", "Text": "Union\" address, talking about their "}
+{"StartTime": "20110125151819.000", "EndTime": "20110125151821.000", "PrimaryTag": "TR0", "Text": "concerns of the national debt.  We'll take "}
+{"StartTime": "20110125151821.000", "EndTime": "20110125151824.000", "PrimaryTag": "TR0", "Text": "a break and be back with more in a moment."}
+{"StartTime": "20110125151824.000", "EndTime": "20110125151826.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151826.000", "EndTime": "20110125151829.000", "PrimaryTag": "TR0", "Text": "(COMMERCIAL BREAK)"}
+{"StartTime": "20110125151829.000", "EndTime": "20110125151831.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151831.000", "EndTime": "20110125151834.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Talk about getting iced in, this "}
+{"StartTime": "20110125151834.000", "EndTime": "20110125151836.000", "PrimaryTag": "TR0", "Text": "is what some unlucky auto owners who "}
+{"StartTime": "20110125151836.000", "EndTime": "20110125151839.000", "PrimaryTag": "TR0", "Text": "parked in Manhattan's lower east side woke "}
+{"StartTime": "20110125151839.000", "EndTime": "20110125151841.000", "PrimaryTag": "TR0", "Text": "up to yesterday morning.  A number of "}
+{"StartTime": "20110125151841.000", "EndTime": "20110125151844.000", "PrimaryTag": "TR0", "Text": "vehicles on east second street were "}
+{"StartTime": "20110125151844.000", "EndTime": "20110125151846.000", "PrimaryTag": "TR0", "Text": "encased in ice, the combination of a "}
+{"StartTime": "20110125151846.000", "EndTime": "20110125151849.000", "PrimaryTag": "TR0", "Text": "busted water main and some freezing "}
+{"StartTime": "20110125151849.000", "EndTime": "20110125151851.000", "PrimaryTag": "TR0", "Text": "temperatures during the (INAUDIBLE) "}
+{"StartTime": "20110125151851.000", "EndTime": "20110125151854.000", "PrimaryTag": "TR0", "Text": "leaving them literally frozen in their "}
+{"StartTime": "20110125151854.000", "EndTime": "20110125151856.000", "PrimaryTag": "TR0", "Text": "tracks.  You know what I think you're "}
+{"StartTime": "20110125151856.000", "EndTime": "20110125151859.000", "PrimaryTag": "TR0", "Text": "going to need a bigger ice scraper.  It "}
+{"StartTime": "20110125151859.000", "EndTime": "20110125151901.000", "PrimaryTag": "TR0", "Text": "should be pretty nice in the Big Apple but "}
+{"StartTime": "20110125151901.000", "EndTime": "20110125151904.000", "PrimaryTag": "TR0", "Text": "tomorrow that could be another story."}
+{"StartTime": "20110125151904.000", "EndTime": "20110125151906.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151906.000", "EndTime": "20110125151909.000", "PrimaryTag": "TR0", "Text": "Jacqui Jeras joins us and fills us in."}
+{"StartTime": "20110125151909.000", "EndTime": "20110125151911.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151911.000", "EndTime": "20110125151914.000", "PrimaryTag": "TR0", "Text": "JACQUI JERAS, AMS METEOROLOGIST:  Yes, "}
+{"StartTime": "20110125151914.000", "EndTime": "20110125151916.000", "PrimaryTag": "TR0", "Text": "amazing pictures there, by the way, "}
+{"StartTime": "20110125151916.000", "EndTime": "20110125151919.000", "PrimaryTag": "TR0", "Text": "Martin.  You need a steam blaster to get "}
+{"StartTime": "20110125151919.000", "EndTime": "20110125151921.000", "PrimaryTag": "TR0", "Text": "that off.  The chisel didn't work so much. "}
+{"StartTime": "20110125151921.000", "EndTime": "20110125151924.000", "PrimaryTag": "TR0", "Text": " I might suggest a hair dryer by the way."}
+{"StartTime": "20110125151924.000", "EndTime": "20110125151926.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151926.000", "EndTime": "20110125151929.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Good idea."}
+{"StartTime": "20110125151929.000", "EndTime": "20110125151931.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125151931.000", "EndTime": "20110125151934.000", "PrimaryTag": "TR0", "Text": "JERAS:  (INAUDIBLE) it's the worse, right? "}
+{"StartTime": "20110125151934.000", "EndTime": "20110125151936.000", "PrimaryTag": "TR0", "Text": " All right.  Here's a look at what the "}
+{"StartTime": "20110125151936.000", "EndTime": "20110125151939.000", "PrimaryTag": "TR0", "Text": "temperatures feel like to your body right "}
+{"StartTime": "20110125151939.000", "EndTime": "20110125151941.000", "PrimaryTag": "TR0", "Text": "now.  So much better.  I mean, we were "}
+{"StartTime": "20110125151941.000", "EndTime": "20110125151944.000", "PrimaryTag": "TR0", "Text": "subzero yesterday morning.  So we've done, "}
+{"StartTime": "20110125151944.000", "EndTime": "20110125151946.000", "PrimaryTag": "TR0", "Text": "you know, over a 20-degree swing for you.  "}
+{"StartTime": "20110125151946.000", "EndTime": "20110125151949.000", "PrimaryTag": "TR0", "Text": "So that's doing a lot better.  But we have "}
+{"StartTime": "20110125151949.000", "EndTime": "20110125151951.000", "PrimaryTag": "TR0", "Text": "this weak system moving on through and "}
+{"StartTime": "20110125151951.000", "EndTime": "20110125151954.000", "PrimaryTag": "TR0", "Text": "it's kind of coated everything with a "}
+{"StartTime": "20110125151954.000", "EndTime": "20110125151956.000", "PrimaryTag": "TR0", "Text": "little bit of snowfall and it's going to "}
+{"StartTime": "20110125151956.000", "EndTime": "20110125151959.000", "PrimaryTag": "TR0", "Text": "be ending probably in the noon hours.  And "}
+{"StartTime": "20110125151959.000", "EndTime": "20110125152001.000", "PrimaryTag": "TR0", "Text": "things are going to look a lot better.     "}
+{"StartTime": "20110125152001.000", "EndTime": "20110125152004.000", "PrimaryTag": "TR0", "Text": "This will then turn to be our main focus "}
+{"StartTime": "20110125152004.000", "EndTime": "20110125152006.000", "PrimaryTag": "TR0", "Text": "and this storm system is really going to "}
+{"StartTime": "20110125152006.000", "EndTime": "20110125152009.000", "PrimaryTag": "TR0", "Text": "rip up the coast and in fact, a whole lot "}
+{"StartTime": "20110125152009.000", "EndTime": "20110125152011.000", "PrimaryTag": "TR0", "Text": "of people in the upcoming days.  Right "}
+{"StartTime": "20110125152011.000", "EndTime": "20110125152014.000", "PrimaryTag": "TR0", "Text": "now, it's just relatively putting down "}
+{"StartTime": "20110125152014.000", "EndTime": "20110125152016.000", "PrimaryTag": "TR0", "Text": "rain showers, heavy at times but we are "}
+{"StartTime": "20110125152016.000", "EndTime": "20110125152019.000", "PrimaryTag": "TR0", "Text": "concerned about what's going to happen "}
+{"StartTime": "20110125152019.000", "EndTime": "20110125152021.000", "PrimaryTag": "TR0", "Text": "later on today and into the overnight "}
+{"StartTime": "20110125152021.000", "EndTime": "20110125152024.000", "PrimaryTag": "TR0", "Text": "hours across parts of Florida.  Let's take "}
+{"StartTime": "20110125152024.000", "EndTime": "20110125152026.000", "PrimaryTag": "TR0", "Text": "a look at our live picture that we have "}
+{"StartTime": "20110125152026.000", "EndTime": "20110125152029.000", "PrimaryTag": "TR0", "Text": "for you."}
+{"StartTime": "20110125152029.000", "EndTime": "20110125152031.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152031.000", "EndTime": "20110125152034.000", "PrimaryTag": "TR0", "Text": "Right now, from WPLG TV, this is out of "}
+{"StartTime": "20110125152034.000", "EndTime": "20110125152036.000", "PrimaryTag": "TR0", "Text": "Miami and there you can see the cloudy  "}
+{"StartTime": "20110125152036.000", "EndTime": "20110125152039.000", "PrimaryTag": "TR0", "Text": "conditions there.  73 degrees, that "}
+{"StartTime": "20110125152039.000", "EndTime": "20110125152041.000", "PrimaryTag": "TR0", "Text": "doesn't feel too bad but you can see the  "}
+{"StartTime": "20110125152041.000", "EndTime": "20110125152044.000", "PrimaryTag": "TR0", "Text": "shaking going on.  Oh, yes, those are some "}
+{"StartTime": "20110125152044.000", "EndTime": "20110125152046.000", "PrimaryTag": "TR0", "Text": "gusty winds up to about 25 miles per hour. "}
+{"StartTime": "20110125152046.000", "EndTime": "20110125152049.000", "PrimaryTag": "TR0", "Text": " The thunderstorms could be severe and "}
+{"StartTime": "20110125152049.000", "EndTime": "20110125152051.000", "PrimaryTag": "TR0", "Text": "they could be overnight.  So make sure "}
+{"StartTime": "20110125152051.000", "EndTime": "20110125152054.000", "PrimaryTag": "TR0", "Text": "you've got your NOAA weather radio on as "}
+{"StartTime": "20110125152054.000", "EndTime": "20110125152056.000", "PrimaryTag": "TR0", "Text": "we go to bed tonight.  Because tornadoes "}
+{"StartTime": "20110125152056.000", "EndTime": "20110125152059.000", "PrimaryTag": "TR0", "Text": "are going to be a possibility across parts "}
+{"StartTime": "20110125152059.000", "EndTime": "20110125152101.000", "PrimaryTag": "TR0", "Text": "of Florida."}
+{"StartTime": "20110125152101.000", "EndTime": "20110125152104.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152104.000", "EndTime": "20110125152106.000", "PrimaryTag": "TR0", "Text": "Now let's talk about where this storm "}
+{"StartTime": "20110125152106.000", "EndTime": "20110125152109.000", "PrimaryTag": "TR0", "Text": "system is going to be tracking here.  "}
+{"StartTime": "20110125152109.000", "EndTime": "20110125152111.000", "PrimaryTag": "TR0", "Text": "Here's our are of low pressure into the "}
+{"StartTime": "20110125152111.000", "EndTime": "20110125152114.000", "PrimaryTag": "TR0", "Text": "Gulf of Mexico.  It's going to be tracking "}
+{"StartTime": "20110125152114.000", "EndTime": "20110125152116.000", "PrimaryTag": "TR0", "Text": "off to the east, now cold air is going to "}
+{"StartTime": "20110125152116.000", "EndTime": "20110125152119.000", "PrimaryTag": "TR0", "Text": "mix in so we'll be watching the Tennessee "}
+{"StartTime": "20110125152119.000", "EndTime": "20110125152121.000", "PrimaryTag": "TR0", "Text": "Valley and then on up into the "}
+{"StartTime": "20110125152121.000", "EndTime": "20110125152124.000", "PrimaryTag": "TR0", "Text": "Appalachians, with sort of that rain "}
+{"StartTime": "20110125152124.000", "EndTime": "20110125152126.000", "PrimaryTag": "TR0", "Text": "changing over into some snowfall and then "}
+{"StartTime": "20110125152126.000", "EndTime": "20110125152129.000", "PrimaryTag": "TR0", "Text": "the storm will intensify and pulls into "}
+{"StartTime": "20110125152129.000", "EndTime": "20110125152131.000", "PrimaryTag": "TR0", "Text": "the northeast.  So the models have really "}
+{"StartTime": "20110125152131.000", "EndTime": "20110125152134.000", "PrimaryTag": "TR0", "Text": "been inconsistent with this thing.  I tell "}
+{"StartTime": "20110125152134.000", "EndTime": "20110125152136.000", "PrimaryTag": "TR0", "Text": "you, and it's really going to be a close "}
+{"StartTime": "20110125152136.000", "EndTime": "20110125152139.000", "PrimaryTag": "TR0", "Text": "call.  Because a couple of miles on either "}
+{"StartTime": "20110125152139.000", "EndTime": "20110125152141.000", "PrimaryTag": "TR0", "Text": "side of this storm system means you're "}
+{"StartTime": "20110125152141.000", "EndTime": "20110125152144.000", "PrimaryTag": "TR0", "Text": "either going to get a  foot of snow or "}
+{"StartTime": "20110125152144.000", "EndTime": "20110125152146.000", "PrimaryTag": "TR0", "Text": "you're going to get that mix which means "}
+{"StartTime": "20110125152146.000", "EndTime": "20110125152149.000", "PrimaryTag": "TR0", "Text": "very little accumulation."}
+{"StartTime": "20110125152149.000", "EndTime": "20110125152151.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152151.000", "EndTime": "20110125152154.000", "PrimaryTag": "TR0", "Text": "Right now, best thinking is that the worst "}
+{"StartTime": "20110125152154.000", "EndTime": "20110125152156.000", "PrimaryTag": "TR0", "Text": "accumulation is going to be  somewhere in "}
+{"StartTime": "20110125152156.000", "EndTime": "20110125152159.000", "PrimaryTag": "TR0", "Text": "this area and New York City, we think "}
+{"StartTime": "20110125152159.000", "EndTime": "20110125152201.000", "PrimaryTag": "TR0", "Text": "you'll have that mix and then change over "}
+{"StartTime": "20110125152201.000", "EndTime": "20110125152204.000", "PrimaryTag": "TR0", "Text": "to some snow.  So this is going to be a "}
+{"StartTime": "20110125152204.000", "EndTime": "20110125152206.000", "PrimaryTag": "TR0", "Text": "powerful storm, certainly impacting your "}
+{"StartTime": "20110125152206.000", "EndTime": "20110125152209.000", "PrimaryTag": "TR0", "Text": "travel.  Mostly a Wednesday, late into "}
+{"StartTime": "20110125152209.000", "EndTime": "20110125152211.000", "PrimaryTag": "TR0", "Text": "Thursday event for the  northeast.  But, "}
+{"StartTime": "20110125152211.000", "EndTime": "20110125152214.000", "PrimaryTag": "TR0", "Text": "boy, we're dealing with today and into "}
+{"StartTime": "20110125152214.000", "EndTime": "20110125152216.000", "PrimaryTag": "TR0", "Text": "tomorrow morning across many parts of the "}
+{"StartTime": "20110125152216.000", "EndTime": "20110125152219.000", "PrimaryTag": "TR0", "Text": "deep south.  So it's going to be pretty "}
+{"StartTime": "20110125152219.000", "EndTime": "20110125152221.000", "PrimaryTag": "TR0", "Text": "interesting the next couple of days, Marty."}
+{"StartTime": "20110125152221.000", "EndTime": "20110125152224.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152224.000", "EndTime": "20110125152226.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  As if it hasn't been interesting "}
+{"StartTime": "20110125152226.000", "EndTime": "20110125152229.000", "PrimaryTag": "TR0", "Text": "enough."}
+{"StartTime": "20110125152229.000", "EndTime": "20110125152231.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152231.000", "EndTime": "20110125152234.000", "PrimaryTag": "TR0", "Text": "JERAS:  Haven't it been.  You know, "}
+{"StartTime": "20110125152234.000", "EndTime": "20110125152236.000", "PrimaryTag": "TR0", "Text": "speaking of which, I'm going to use it as "}
+{"StartTime": "20110125152236.000", "EndTime": "20110125152239.000", "PrimaryTag": "TR0", "Text": "a quick tease, if you don't mind for "}
+{"StartTime": "20110125152239.000", "EndTime": "20110125152241.000", "PrimaryTag": "TR0", "Text": "tomorrow.  We're coming up with some "}
+{"StartTime": "20110125152241.000", "EndTime": "20110125152244.000", "PrimaryTag": "TR0", "Text": "numbers.  If you're sick of winter, you "}
+{"StartTime": "20110125152244.000", "EndTime": "20110125152246.000", "PrimaryTag": "TR0", "Text": "have the right to complain about it "}
+{"StartTime": "20110125152246.000", "EndTime": "20110125152249.000", "PrimaryTag": "TR0", "Text": "because the snowfall departure, how much "}
+{"StartTime": "20110125152249.000", "EndTime": "20110125152251.000", "PrimaryTag": "TR0", "Text": "more snow that we normally have for this "}
+{"StartTime": "20110125152251.000", "EndTime": "20110125152254.000", "PrimaryTag": "TR0", "Text": "time of the year is off the chain.  We'll "}
+{"StartTime": "20110125152254.000", "EndTime": "20110125152256.000", "PrimaryTag": "TR0", "Text": "have the numbers for you tomorrow."}
+{"StartTime": "20110125152256.000", "EndTime": "20110125152259.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152259.000", "EndTime": "20110125152301.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Well, we'll charge you for that. "}
+{"StartTime": "20110125152301.000", "EndTime": "20110125152304.000", "PrimaryTag": "TR0", "Text": " That's an extemporaneous (INAUDIBLE).  "}
+{"StartTime": "20110125152304.000", "EndTime": "20110125152306.000", "PrimaryTag": "TR0", "Text": "Thank you very much."}
+{"StartTime": "20110125152306.000", "EndTime": "20110125152309.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152309.000", "EndTime": "20110125152311.000", "PrimaryTag": "TR0", "Text": "JERAS:  Thank you."}
+{"StartTime": "20110125152311.000", "EndTime": "20110125152314.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152314.000", "EndTime": "20110125152316.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  We want to get to Dana Bash "}
+{"StartTime": "20110125152316.000", "EndTime": "20110125152319.000", "PrimaryTag": "TR0", "Text": "right now.  She's on Capitol Hill.  We "}
+{"StartTime": "20110125152319.000", "EndTime": "20110125152321.000", "PrimaryTag": "TR0", "Text": "just finished that press conference from "}
+{"StartTime": "20110125152321.000", "EndTime": "20110125152324.000", "PrimaryTag": "TR0", "Text": "GOP. They're talking about the national "}
+{"StartTime": "20110125152324.000", "EndTime": "20110125152326.000", "PrimaryTag": "TR0", "Text": "debt on this, usually the day reserved for "}
+{"StartTime": "20110125152326.000", "EndTime": "20110125152329.000", "PrimaryTag": "TR0", "Text": "the president.  Dana?"}
+{"StartTime": "20110125152329.000", "EndTime": "20110125152331.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152331.000", "EndTime": "20110125152334.000", "PrimaryTag": "TR0", "Text": "DANA BASH, CNN SENIOR CONGRESSIONAL "}
+{"StartTime": "20110125152334.000", "EndTime": "20110125152336.000", "PrimaryTag": "TR0", "Text": "CORRESPONDENT:  That's right. It's no "}
+{"StartTime": "20110125152336.000", "EndTime": "20110125152339.000", "PrimaryTag": "TR0", "Text": "accident, Marty, that the House "}
+{"StartTime": "20110125152339.000", "EndTime": "20110125152341.000", "PrimaryTag": "TR0", "Text": "Republicans have been planning this "}
+{"StartTime": "20110125152341.000", "EndTime": "20110125152344.000", "PrimaryTag": "TR0", "Text": "symbolic vote, if nothing  else, just "}
+{"StartTime": "20110125152344.000", "EndTime": "20110125152346.000", "PrimaryTag": "TR0", "Text": "hours before President Obama comes up here "}
+{"StartTime": "20110125152346.000", "EndTime": "20110125152349.000", "PrimaryTag": "TR0", "Text": "on spending and that vote is this "}
+{"StartTime": "20110125152349.000", "EndTime": "20110125152351.000", "PrimaryTag": "TR0", "Text": "resolution. It's really short."}
+{"StartTime": "20110125152351.000", "EndTime": "20110125152354.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152354.000", "EndTime": "20110125152356.000", "PrimaryTag": "TR0", "Text": "It's only about five or six lines but the "}
+{"StartTime": "20110125152356.000", "EndTime": "20110125152359.000", "PrimaryTag": "TR0", "Text": "message is clear and that is that they "}
+{"StartTime": "20110125152359.000", "EndTime": "20110125152401.000", "PrimaryTag": "TR0", "Text": "want to roll back spending levels to 2008 "}
+{"StartTime": "20110125152401.000", "EndTime": "20110125152404.000", "PrimaryTag": "TR0", "Text": "levels, levels before President Obama went "}
+{"StartTime": "20110125152404.000", "EndTime": "20110125152406.000", "PrimaryTag": "TR0", "Text": "into office and before he started "}
+{"StartTime": "20110125152406.000", "EndTime": "20110125152409.000", "PrimaryTag": "TR0", "Text": "spending.  That is what they talked about. "}
+{"StartTime": "20110125152409.000", "EndTime": "20110125152411.000", "PrimaryTag": "TR0", "Text": " And also they talked about the fact that "}
+{"StartTime": "20110125152411.000", "EndTime": "20110125152414.000", "PrimaryTag": "TR0", "Text": "there is dissent among conservatives about "}
+{"StartTime": "20110125152414.000", "EndTime": "20110125152416.000", "PrimaryTag": "TR0", "Text": "how far to go."}
+{"StartTime": "20110125152416.000", "EndTime": "20110125152419.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152419.000", "EndTime": "20110125152421.000", "PrimaryTag": "TR0", "Text": "We've been reporting on the fact that a "}
+{"StartTime": "20110125152421.000", "EndTime": "20110125152424.000", "PrimaryTag": "TR0", "Text": "very large group of conservatives say what "}
+{"StartTime": "20110125152424.000", "EndTime": "20110125152426.000", "PrimaryTag": "TR0", "Text": "the leaders are doing isn't far enough and "}
+{"StartTime": "20110125152426.000", "EndTime": "20110125152429.000", "PrimaryTag": "TR0", "Text": "they want them to go even  further."}
+{"StartTime": "20110125152429.000", "EndTime": "20110125152431.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152431.000", "EndTime": "20110125152434.000", "PrimaryTag": "TR0", "Text": "Other interesting news that Eric Cantor, "}
+{"StartTime": "20110125152434.000", "EndTime": "20110125152436.000", "PrimaryTag": "TR0", "Text": "the House majority leader, may hear is "}
+{"StartTime": "20110125152436.000", "EndTime": "20110125152439.000", "PrimaryTag": "TR0", "Text": "that this is just a resolution.  The "}
+{"StartTime": "20110125152439.000", "EndTime": "20110125152441.000", "PrimaryTag": "TR0", "Text": "really big fight is now set on spending.  "}
+{"StartTime": "20110125152441.000", "EndTime": "20110125152444.000", "PrimaryTag": "TR0", "Text": "It will be in just about three weeks from "}
+{"StartTime": "20110125152444.000", "EndTime": "20110125152446.000", "PrimaryTag": "TR0", "Text": "now, the week of February 14th, "}
+{"StartTime": "20110125152446.000", "EndTime": "20110125152449.000", "PrimaryTag": "TR0", "Text": "ironically, Valentine's day, that the "}
+{"StartTime": "20110125152449.000", "EndTime": "20110125152451.000", "PrimaryTag": "TR0", "Text": "House will vote on the next budget "}
+{"StartTime": "20110125152451.000", "EndTime": "20110125152454.000", "PrimaryTag": "TR0", "Text": "resolution, or I should say, a resolution "}
+{"StartTime": "20110125152454.000", "EndTime": "20110125152456.000", "PrimaryTag": "TR0", "Text": "to keep the government running.  That is "}
+{"StartTime": "20110125152456.000", "EndTime": "20110125152459.000", "PrimaryTag": "TR0", "Text": "the first big spending fight.  That is "}
+{"StartTime": "20110125152459.000", "EndTime": "20110125152501.000", "PrimaryTag": "TR0", "Text": "where you're going to see Republicans "}
+{"StartTime": "20110125152501.000", "EndTime": "20110125152504.000", "PrimaryTag": "TR0", "Text": "trying to put their money where their "}
+{"StartTime": "20110125152504.000", "EndTime": "20110125152506.000", "PrimaryTag": "TR0", "Text": "mouth is and saying, we're going to cut "}
+{"StartTime": "20110125152506.000", "EndTime": "20110125152509.000", "PrimaryTag": "TR0", "Text": "spending.  So that was a very interesting "}
+{"StartTime": "20110125152509.000", "EndTime": "20110125152511.000", "PrimaryTag": "TR0", "Text": "news conference we just heard."}
+{"StartTime": "20110125152511.000", "EndTime": "20110125152514.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152514.000", "EndTime": "20110125152516.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And Dana, from political "}
+{"StartTime": "20110125152516.000", "EndTime": "20110125152519.000", "PrimaryTag": "TR0", "Text": "division now to unity, that being the "}
+{"StartTime": "20110125152519.000", "EndTime": "20110125152521.000", "PrimaryTag": "TR0", "Text": "black and white ribbons, explain that for "}
+{"StartTime": "20110125152521.000", "EndTime": "20110125152524.000", "PrimaryTag": "TR0", "Text": "us."}
+{"StartTime": "20110125152524.000", "EndTime": "20110125152526.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152526.000", "EndTime": "20110125152529.000", "PrimaryTag": "TR0", "Text": "BASH:  That's right.  I have one right "}
+{"StartTime": "20110125152529.000", "EndTime": "20110125152531.000", "PrimaryTag": "TR0", "Text": "here.  Some of our viewers may recognize "}
+{"StartTime": "20110125152531.000", "EndTime": "20110125152534.000", "PrimaryTag": "TR0", "Text": "these from the memorial service that they "}
+{"StartTime": "20110125152534.000", "EndTime": "20110125152536.000", "PrimaryTag": "TR0", "Text": "saw in Tucson for Gabrielle Giffords and, "}
+{"StartTime": "20110125152536.000", "EndTime": "20110125152539.000", "PrimaryTag": "TR0", "Text": "of course, the six people who were killed "}
+{"StartTime": "20110125152539.000", "EndTime": "20110125152541.000", "PrimaryTag": "TR0", "Text": "in the line of fire during that shooting.  "}
+{"StartTime": "20110125152541.000", "EndTime": "20110125152544.000", "PrimaryTag": "TR0", "Text": "These ribbons, Marty, will be handed out "}
+{"StartTime": "20110125152544.000", "EndTime": "20110125152546.000", "PrimaryTag": "TR0", "Text": "with the help of Gabby Giffords' friend, "}
+{"StartTime": "20110125152546.000", "EndTime": "20110125152549.000", "PrimaryTag": "TR0", "Text": "Congresswoman Debbie Wasserman Shultz and "}
+{"StartTime": "20110125152549.000", "EndTime": "20110125152551.000", "PrimaryTag": "TR0", "Text": "her office here, to all members of "}
+{"StartTime": "20110125152551.000", "EndTime": "20110125152554.000", "PrimaryTag": "TR0", "Text": "Congress and my understanding is that the "}
+{"StartTime": "20110125152554.000", "EndTime": "20110125152556.000", "PrimaryTag": "TR0", "Text": "white represents peace and that the black, "}
+{"StartTime": "20110125152556.000", "EndTime": "20110125152559.000", "PrimaryTag": "TR0", "Text": "of course, commemorates and remembers "}
+{"StartTime": "20110125152559.000", "EndTime": "20110125152601.000", "PrimaryTag": "TR0", "Text": "people who were killed in that horrible "}
+{"StartTime": "20110125152601.000", "EndTime": "20110125152604.000", "PrimaryTag": "TR0", "Text": "shooting earlier this month.  Marty."}
+{"StartTime": "20110125152604.000", "EndTime": "20110125152606.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152606.000", "EndTime": "20110125152609.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Dana Bash, thanks very  much."}
+{"StartTime": "20110125152609.000", "EndTime": "20110125152611.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152611.000", "EndTime": "20110125152614.000", "PrimaryTag": "TR0", "Text": "We got some breaking news out of Egypt "}
+{"StartTime": "20110125152614.000", "EndTime": "20110125152616.000", "PrimaryTag": "TR0", "Text": "where demonstrations are boiling in the "}
+{"StartTime": "20110125152616.000", "EndTime": "20110125152619.000", "PrimaryTag": "TR0", "Text": "streets.  The protesters are railing "}
+{"StartTime": "20110125152619.000", "EndTime": "20110125152621.000", "PrimaryTag": "TR0", "Text": "against corruption.  We'll have more on "}
+{"StartTime": "20110125152621.000", "EndTime": "20110125152624.000", "PrimaryTag": "TR0", "Text": "that coming up, right after the break."}
+{"StartTime": "20110125152624.000", "EndTime": "20110125152626.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152626.000", "EndTime": "20110125152629.000", "PrimaryTag": "TR0", "Text": "(COMMERCIAL BREAK)"}
+{"StartTime": "20110125152629.000", "EndTime": "20110125152631.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152631.000", "EndTime": "20110125152634.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  As I lead before the break, we "}
+{"StartTime": "20110125152634.000", "EndTime": "20110125152636.000", "PrimaryTag": "TR0", "Text": "got some breaking news out of Egypt.  "}
+{"StartTime": "20110125152636.000", "EndTime": "20110125152639.000", "PrimaryTag": "TR0", "Text": "Demonstrations are boiling out on the "}
+{"StartTime": "20110125152639.000", "EndTime": "20110125152641.000", "PrimaryTag": "TR0", "Text": "streets.  Their protesters are rallying "}
+{"StartTime": "20110125152641.000", "EndTime": "20110125152644.000", "PrimaryTag": "TR0", "Text": "against corruption and the faltering "}
+{"StartTime": "20110125152644.000", "EndTime": "20110125152646.000", "PrimaryTag": "TR0", "Text": "economy. More importantly though, "}
+{"StartTime": "20110125152646.000", "EndTime": "20110125152649.000", "PrimaryTag": "TR0", "Text": "organizers say they are trying to seize on "}
+{"StartTime": "20110125152649.000", "EndTime": "20110125152651.000", "PrimaryTag": "TR0", "Text": "the unrest to topple that government in "}
+{"StartTime": "20110125152651.000", "EndTime": "20110125152654.000", "PrimaryTag": "TR0", "Text": "neighboring Tunisia.  Lukas Jarubicka is a "}
+{"StartTime": "20110125152654.000", "EndTime": "20110125152656.000", "PrimaryTag": "TR0", "Text": "student in Egypt and he joins us on the "}
+{"StartTime": "20110125152656.000", "EndTime": "20110125152659.000", "PrimaryTag": "TR0", "Text": "telephone and you've been watching this "}
+{"StartTime": "20110125152659.000", "EndTime": "20110125152701.000", "PrimaryTag": "TR0", "Text": "unfold.  Tell us what you've been seeing."}
+{"StartTime": "20110125152701.000", "EndTime": "20110125152704.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152704.000", "EndTime": "20110125152706.000", "PrimaryTag": "TR0", "Text": "LUKAS JARUBICKA, INTERN IN CAIRO (ON THE "}
+{"StartTime": "20110125152706.000", "EndTime": "20110125152709.000", "PrimaryTag": "TR0", "Text": "PHONE):  Hi there.  Yes, I'm seeing "}
+{"StartTime": "20110125152709.000", "EndTime": "20110125152711.000", "PrimaryTag": "TR0", "Text": "basically a group of, a group of Egyptians "}
+{"StartTime": "20110125152711.000", "EndTime": "20110125152714.000", "PrimaryTag": "TR0", "Text": "going down the street, main street of "}
+{"StartTime": "20110125152714.000", "EndTime": "20110125152716.000", "PrimaryTag": "TR0", "Text": "Cairo and screaming words that I don't "}
+{"StartTime": "20110125152716.000", "EndTime": "20110125152719.000", "PrimaryTag": "TR0", "Text": "understand but basically it was very "}
+{"StartTime": "20110125152719.000", "EndTime": "20110125152721.000", "PrimaryTag": "TR0", "Text": "peaceful, no guns, no fire, nothing, "}
+{"StartTime": "20110125152721.000", "EndTime": "20110125152724.000", "PrimaryTag": "TR0", "Text": "controlled by police when they ran back "}
+{"StartTime": "20110125152724.000", "EndTime": "20110125152726.000", "PrimaryTag": "TR0", "Text": "and then I lost them."}
+{"StartTime": "20110125152726.000", "EndTime": "20110125152729.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152729.000", "EndTime": "20110125152731.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And just give us a sense as to "}
+{"StartTime": "20110125152731.000", "EndTime": "20110125152734.000", "PrimaryTag": "TR0", "Text": "how unusual these kind of demonstrations "}
+{"StartTime": "20110125152734.000", "EndTime": "20110125152736.000", "PrimaryTag": "TR0", "Text": "are."}
+{"StartTime": "20110125152736.000", "EndTime": "20110125152739.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152739.000", "EndTime": "20110125152741.000", "PrimaryTag": "TR0", "Text": "JARUBICKA:  It's very unusual for Egypt.  "}
+{"StartTime": "20110125152741.000", "EndTime": "20110125152744.000", "PrimaryTag": "TR0", "Text": "As far as I know, but the protests are "}
+{"StartTime": "20110125152744.000", "EndTime": "20110125152746.000", "PrimaryTag": "TR0", "Text": "happening in various locations in the "}
+{"StartTime": "20110125152746.000", "EndTime": "20110125152749.000", "PrimaryTag": "TR0", "Text": "city.  Not just one (INAUDIBLE) but there "}
+{"StartTime": "20110125152749.000", "EndTime": "20110125152751.000", "PrimaryTag": "TR0", "Text": "are several groups in the city.  The "}
+{"StartTime": "20110125152751.000", "EndTime": "20110125152754.000", "PrimaryTag": "TR0", "Text": "biggest one is in downtown, I guess, where "}
+{"StartTime": "20110125152754.000", "EndTime": "20110125152756.000", "PrimaryTag": "TR0", "Text": "a lot of people are protesting, hundreds "}
+{"StartTime": "20110125152756.000", "EndTime": "20110125152759.000", "PrimaryTag": "TR0", "Text": "and hundreds of people basically."}
+{"StartTime": "20110125152759.000", "EndTime": "20110125152801.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152801.000", "EndTime": "20110125152804.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And what is it exactly people "}
+{"StartTime": "20110125152804.000", "EndTime": "20110125152806.000", "PrimaryTag": "TR0", "Text": "are asking for?  What is it that people "}
+{"StartTime": "20110125152806.000", "EndTime": "20110125152809.000", "PrimaryTag": "TR0", "Text": "want?"}
+{"StartTime": "20110125152809.000", "EndTime": "20110125152811.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152811.000", "EndTime": "20110125152814.000", "PrimaryTag": "TR0", "Text": "JARUBICKA:  I can't tell you clearly.  As "}
+{"StartTime": "20110125152814.000", "EndTime": "20110125152816.000", "PrimaryTag": "TR0", "Text": "far as I know, from media as well as "}
+{"StartTime": "20110125152816.000", "EndTime": "20110125152819.000", "PrimaryTag": "TR0", "Text": "protests against government and "}
+{"StartTime": "20110125152819.000", "EndTime": "20110125152821.000", "PrimaryTag": "TR0", "Text": "corruption, but as far as I don't "}
+{"StartTime": "20110125152821.000", "EndTime": "20110125152824.000", "PrimaryTag": "TR0", "Text": "understand what they are screaming out."}
+{"StartTime": "20110125152824.000", "EndTime": "20110125152826.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152826.000", "EndTime": "20110125152829.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And what's the attitude of the "}
+{"StartTime": "20110125152829.000", "EndTime": "20110125152831.000", "PrimaryTag": "TR0", "Text": "government there?  Are they just standing "}
+{"StartTime": "20110125152831.000", "EndTime": "20110125152834.000", "PrimaryTag": "TR0", "Text": "by willing to watch?  We see security "}
+{"StartTime": "20110125152834.000", "EndTime": "20110125152836.000", "PrimaryTag": "TR0", "Text": "officers that are there but we don't see "}
+{"StartTime": "20110125152836.000", "EndTime": "20110125152839.000", "PrimaryTag": "TR0", "Text": "them moving in."}
+{"StartTime": "20110125152839.000", "EndTime": "20110125152841.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152841.000", "EndTime": "20110125152844.000", "PrimaryTag": "TR0", "Text": "JARUBICKA:  It is basically officers "}
+{"StartTime": "20110125152844.000", "EndTime": "20110125152846.000", "PrimaryTag": "TR0", "Text": "controlling the crowd and they had "}
+{"StartTime": "20110125152846.000", "EndTime": "20110125152849.000", "PrimaryTag": "TR0", "Text": "everything under control.  They had a "}
+{"StartTime": "20110125152849.000", "EndTime": "20110125152851.000", "PrimaryTag": "TR0", "Text": "crowd of a few hundred people controlled "}
+{"StartTime": "20110125152851.000", "EndTime": "20110125152854.000", "PrimaryTag": "TR0", "Text": "by approximately 67, 80 policemen leading "}
+{"StartTime": "20110125152854.000", "EndTime": "20110125152856.000", "PrimaryTag": "TR0", "Text": "the crowd and being behind the crowd, kind "}
+{"StartTime": "20110125152856.000", "EndTime": "20110125152859.000", "PrimaryTag": "TR0", "Text": "of pushing them."}
+{"StartTime": "20110125152859.000", "EndTime": "20110125152901.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152901.000", "EndTime": "20110125152904.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And you're saying, from what you "}
+{"StartTime": "20110125152904.000", "EndTime": "20110125152906.000", "PrimaryTag": "TR0", "Text": "have seen so far, these demonstrations "}
+{"StartTime": "20110125152906.000", "EndTime": "20110125152909.000", "PrimaryTag": "TR0", "Text": "have been peaceful, correct?  Nobody has "}
+{"StartTime": "20110125152909.000", "EndTime": "20110125152911.000", "PrimaryTag": "TR0", "Text": "been violent in any  way, no arrests?"}
+{"StartTime": "20110125152911.000", "EndTime": "20110125152914.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152914.000", "EndTime": "20110125152916.000", "PrimaryTag": "TR0", "Text": "JARUBICKA:  I see only one demonstration "}
+{"StartTime": "20110125152916.000", "EndTime": "20110125152919.000", "PrimaryTag": "TR0", "Text": "right here from my balcony and it's "}
+{"StartTime": "20110125152919.000", "EndTime": "20110125152921.000", "PrimaryTag": "TR0", "Text": "peaceful.  I didn't see any, like I said, "}
+{"StartTime": "20110125152921.000", "EndTime": "20110125152924.000", "PrimaryTag": "TR0", "Text": "any guns. It looks really peaceful from "}
+{"StartTime": "20110125152924.000", "EndTime": "20110125152926.000", "PrimaryTag": "TR0", "Text": "the balcony's point of view."}
+{"StartTime": "20110125152926.000", "EndTime": "20110125152929.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152929.000", "EndTime": "20110125152931.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  All right.  We've been speaking "}
+{"StartTime": "20110125152931.000", "EndTime": "20110125152934.000", "PrimaryTag": "TR0", "Text": "with Lucas Jarubicka. He is a student and "}
+{"StartTime": "20110125152934.000", "EndTime": "20110125152936.000", "PrimaryTag": "TR0", "Text": "he is joining us from Egypt where we have "}
+{"StartTime": "20110125152936.000", "EndTime": "20110125152939.000", "PrimaryTag": "TR0", "Text": "seen thousands of people protesting in the "}
+{"StartTime": "20110125152939.000", "EndTime": "20110125152941.000", "PrimaryTag": "TR0", "Text": "streets.  This seems to be spreading from "}
+{"StartTime": "20110125152941.000", "EndTime": "20110125152944.000", "PrimaryTag": "TR0", "Text": "the public demonstration that took place "}
+{"StartTime": "20110125152944.000", "EndTime": "20110125152946.000", "PrimaryTag": "TR0", "Text": "in Tunisia a couple of weeks ago.  There "}
+{"StartTime": "20110125152946.000", "EndTime": "20110125152949.000", "PrimaryTag": "TR0", "Text": "has been concern that this could spread to "}
+{"StartTime": "20110125152949.000", "EndTime": "20110125152951.000", "PrimaryTag": "TR0", "Text": "other government's within the region.  "}
+{"StartTime": "20110125152951.000", "EndTime": "20110125152954.000", "PrimaryTag": "TR0", "Text": "Egypt apparently, is now the latest "}
+{"StartTime": "20110125152954.000", "EndTime": "20110125152956.000", "PrimaryTag": "TR0", "Text": "example of that."}
+{"StartTime": "20110125152956.000", "EndTime": "20110125152959.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125152959.000", "EndTime": "20110125153001.000", "PrimaryTag": "TR0", "Text": "Now we want to tell you how a Georgian man "}
+{"StartTime": "20110125153001.000", "EndTime": "20110125153004.000", "PrimaryTag": "TR0", "Text": "took on his cyber bully and won.  It was "}
+{"StartTime": "20110125153004.000", "EndTime": "20110125153006.000", "PrimaryTag": "TR0", "Text": "tragic enough that Gene Cooley's  fiancee "}
+{"StartTime": "20110125153006.000", "EndTime": "20110125153009.000", "PrimaryTag": "TR0", "Text": "was killed by her former husband.  But to "}
+{"StartTime": "20110125153009.000", "EndTime": "20110125153011.000", "PrimaryTag": "TR0", "Text": "add insult to injury, a woman Cooley "}
+{"StartTime": "20110125153011.000", "EndTime": "20110125153014.000", "PrimaryTag": "TR0", "Text": "barely even knew went on the community web "}
+{"StartTime": "20110125153014.000", "EndTime": "20110125153016.000", "PrimaryTag": "TR0", "Text": "site and then proceeded to essentially "}
+{"StartTime": "20110125153016.000", "EndTime": "20110125153019.000", "PrimaryTag": "TR0", "Text": "assassinate Cooley's character.  He said "}
+{"StartTime": "20110125153019.000", "EndTime": "20110125153021.000", "PrimaryTag": "TR0", "Text": "that he was a sex offender, that he got "}
+{"StartTime": "20110125153021.000", "EndTime": "20110125153024.000", "PrimaryTag": "TR0", "Text": "had a criminal record, that he was a drug "}
+{"StartTime": "20110125153024.000", "EndTime": "20110125153026.000", "PrimaryTag": "TR0", "Text": "addict.  None of that was remotely true.  "}
+{"StartTime": "20110125153026.000", "EndTime": "20110125153029.000", "PrimaryTag": "TR0", "Text": "Cooley sued the woman for libel and she "}
+{"StartTime": "20110125153029.000", "EndTime": "20110125153031.000", "PrimaryTag": "TR0", "Text": "won more than $4,000.  But you can argue, "}
+{"StartTime": "20110125153031.000", "EndTime": "20110125153034.000", "PrimaryTag": "TR0", "Text": "it's a hell of beans compared to what he "}
+{"StartTime": "20110125153034.000", "EndTime": "20110125153036.000", "PrimaryTag": "TR0", "Text": "has lost.  Gene Cooley is now with us.  "}
+{"StartTime": "20110125153036.000", "EndTime": "20110125153039.000", "PrimaryTag": "TR0", "Text": "Thanks very much for being with us."}
+{"StartTime": "20110125153039.000", "EndTime": "20110125153041.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153041.000", "EndTime": "20110125153044.000", "PrimaryTag": "TR0", "Text": "Thank you, Martin."}
+{"StartTime": "20110125153044.000", "EndTime": "20110125153046.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153046.000", "EndTime": "20110125153049.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Let me ask you, do you have any "}
+{"StartTime": "20110125153049.000", "EndTime": "20110125153051.000", "PrimaryTag": "TR0", "Text": "idea why this woman targeted you?"}
+{"StartTime": "20110125153051.000", "EndTime": "20110125153054.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153054.000", "EndTime": "20110125153056.000", "PrimaryTag": "TR0", "Text": "GENE COOLEY, WON ONLINE LIBEL CASE:  "}
+{"StartTime": "20110125153056.000", "EndTime": "20110125153059.000", "PrimaryTag": "TR0", "Text": "Apparently she targets just about anybody "}
+{"StartTime": "20110125153059.000", "EndTime": "20110125153101.000", "PrimaryTag": "TR0", "Text": "and everyone on the internet.  After the "}
+{"StartTime": "20110125153101.000", "EndTime": "20110125153104.000", "PrimaryTag": "TR0", "Text": "court case I received  numerous phone "}
+{"StartTime": "20110125153104.000", "EndTime": "20110125153106.000", "PrimaryTag": "TR0", "Text": "calls from individuals who she has already "}
+{"StartTime": "20110125153106.000", "EndTime": "20110125153109.000", "PrimaryTag": "TR0", "Text": "slandered on the internet.  She basically "}
+{"StartTime": "20110125153109.000", "EndTime": "20110125153111.000", "PrimaryTag": "TR0", "Text": "doesn't matter if she knows you or not, "}
+{"StartTime": "20110125153111.000", "EndTime": "20110125153114.000", "PrimaryTag": "TR0", "Text": "she'll just get on there and talk about "}
+{"StartTime": "20110125153114.000", "EndTime": "20110125153116.000", "PrimaryTag": "TR0", "Text": "whatever she wants to."}
+{"StartTime": "20110125153116.000", "EndTime": "20110125153119.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153119.000", "EndTime": "20110125153121.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  did you know her at all?"}
+{"StartTime": "20110125153121.000", "EndTime": "20110125153124.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153124.000", "EndTime": "20110125153126.000", "PrimaryTag": "TR0", "Text": "COOLEY:  Not really.  I've met her in "}
+{"StartTime": "20110125153126.000", "EndTime": "20110125153129.000", "PrimaryTag": "TR0", "Text": "passing in (INAUDIBLE) and I've seen her "}
+{"StartTime": "20110125153129.000", "EndTime": "20110125153131.000", "PrimaryTag": "TR0", "Text": "in different stores around our area.  It's "}
+{"StartTime": "20110125153131.000", "EndTime": "20110125153134.000", "PrimaryTag": "TR0", "Text": "a very small town."}
+{"StartTime": "20110125153134.000", "EndTime": "20110125153136.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153136.000", "EndTime": "20110125153139.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  I was saying that we should "}
+{"StartTime": "20110125153139.000", "EndTime": "20110125153141.000", "PrimaryTag": "TR0", "Text": "mention, that this really is a very small "}
+{"StartTime": "20110125153141.000", "EndTime": "20110125153144.000", "PrimaryTag": "TR0", "Text": "town."}
+{"StartTime": "20110125153144.000", "EndTime": "20110125153146.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153146.000", "EndTime": "20110125153149.000", "PrimaryTag": "TR0", "Text": "COOLEY:  It's a very small town, in "}
+{"StartTime": "20110125153149.000", "EndTime": "20110125153151.000", "PrimaryTag": "TR0", "Text": "Georgia."}
+{"StartTime": "20110125153151.000", "EndTime": "20110125153154.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153154.000", "EndTime": "20110125153156.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And so everybody would know and "}
+{"StartTime": "20110125153156.000", "EndTime": "20110125153159.000", "PrimaryTag": "TR0", "Text": "word of mouth would quickly spread "}
+{"StartTime": "20110125153159.000", "EndTime": "20110125153201.000", "PrimaryTag": "TR0", "Text": "whatever the internet didn't?"}
+{"StartTime": "20110125153201.000", "EndTime": "20110125153204.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153204.000", "EndTime": "20110125153206.000", "PrimaryTag": "TR0", "Text": "COOLEY:  Very quickly, yes, sir."}
+{"StartTime": "20110125153206.000", "EndTime": "20110125153209.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153209.000", "EndTime": "20110125153211.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And this came out when you were "}
+{"StartTime": "20110125153211.000", "EndTime": "20110125153214.000", "PrimaryTag": "TR0", "Text": "attending the funeral of your former "}
+{"StartTime": "20110125153214.000", "EndTime": "20110125153216.000", "PrimaryTag": "TR0", "Text": "fiancee?"}
+{"StartTime": "20110125153216.000", "EndTime": "20110125153219.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153219.000", "EndTime": "20110125153221.000", "PrimaryTag": "TR0", "Text": "COOLEY:  Yes, sir.  I was down in Florida "}
+{"StartTime": "20110125153221.000", "EndTime": "20110125153224.000", "PrimaryTag": "TR0", "Text": "and all of a sudden her father, my "}
+{"StartTime": "20110125153224.000", "EndTime": "20110125153226.000", "PrimaryTag": "TR0", "Text": "fiancee's father was wanting to ask me "}
+{"StartTime": "20110125153226.000", "EndTime": "20110125153229.000", "PrimaryTag": "TR0", "Text": "about a drug addiction, asked me about "}
+{"StartTime": "20110125153229.000", "EndTime": "20110125153231.000", "PrimaryTag": "TR0", "Text": "rehab and I had no idea what he was "}
+{"StartTime": "20110125153231.000", "EndTime": "20110125153234.000", "PrimaryTag": "TR0", "Text": "talking about."}
+{"StartTime": "20110125153234.000", "EndTime": "20110125153236.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153236.000", "EndTime": "20110125153239.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  You were blind sided?"}
+{"StartTime": "20110125153239.000", "EndTime": "20110125153241.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153241.000", "EndTime": "20110125153244.000", "PrimaryTag": "TR0", "Text": "COOLEY:  Totally blind sided.  So I asked "}
+{"StartTime": "20110125153244.000", "EndTime": "20110125153246.000", "PrimaryTag": "TR0", "Text": "what can I do to prove my point and "}
+{"StartTime": "20110125153246.000", "EndTime": "20110125153249.000", "PrimaryTag": "TR0", "Text": "everything?  Well, you want a background "}
+{"StartTime": "20110125153249.000", "EndTime": "20110125153251.000", "PrimaryTag": "TR0", "Text": "check?  And he said yes.  I went to the "}
+{"StartTime": "20110125153251.000", "EndTime": "20110125153254.000", "PrimaryTag": "TR0", "Text": "local sheriff's department, got a "}
+{"StartTime": "20110125153254.000", "EndTime": "20110125153256.000", "PrimaryTag": "TR0", "Text": "background check.  It came back with a "}
+{"StartTime": "20110125153256.000", "EndTime": "20110125153259.000", "PrimaryTag": "TR0", "Text": "clean bill of health.  In the meantime, "}
+{"StartTime": "20110125153259.000", "EndTime": "20110125153301.000", "PrimaryTag": "TR0", "Text": "after getting the background check, my "}
+{"StartTime": "20110125153301.000", "EndTime": "20110125153304.000", "PrimaryTag": "TR0", "Text": "sister  called me from Blairsville and let "}
+{"StartTime": "20110125153304.000", "EndTime": "20110125153306.000", "PrimaryTag": "TR0", "Text": "me know that I was being targeted and "}
+{"StartTime": "20110125153306.000", "EndTime": "20110125153309.000", "PrimaryTag": "TR0", "Text": "slandered on the internet."}
+{"StartTime": "20110125153309.000", "EndTime": "20110125153311.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153311.000", "EndTime": "20110125153314.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And all of this, we should just "}
+{"StartTime": "20110125153314.000", "EndTime": "20110125153316.000", "PrimaryTag": "TR0", "Text": "point out, is taking place while you're "}
+{"StartTime": "20110125153316.000", "EndTime": "20110125153319.000", "PrimaryTag": "TR0", "Text": "going through the grieving process, while "}
+{"StartTime": "20110125153319.000", "EndTime": "20110125153321.000", "PrimaryTag": "TR0", "Text": "her family is going through the grieving "}
+{"StartTime": "20110125153321.000", "EndTime": "20110125153324.000", "PrimaryTag": "TR0", "Text": "process."}
+{"StartTime": "20110125153324.000", "EndTime": "20110125153326.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153326.000", "EndTime": "20110125153329.000", "PrimaryTag": "TR0", "Text": "COOLEY:  Exactly."}
+{"StartTime": "20110125153329.000", "EndTime": "20110125153331.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153331.000", "EndTime": "20110125153334.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  They are beginning to look upon "}
+{"StartTime": "20110125153334.000", "EndTime": "20110125153336.000", "PrimaryTag": "TR0", "Text": "you on a whole different and very ugly way?"}
+{"StartTime": "20110125153336.000", "EndTime": "20110125153339.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153339.000", "EndTime": "20110125153341.000", "PrimaryTag": "TR0", "Text": "COOLEY:  Yes, sir.  They sure were.  They "}
+{"StartTime": "20110125153341.000", "EndTime": "20110125153344.000", "PrimaryTag": "TR0", "Text": "had no idea of really who I was except for "}
+{"StartTime": "20110125153344.000", "EndTime": "20110125153346.000", "PrimaryTag": "TR0", "Text": "the fact that I had been dating their "}
+{"StartTime": "20110125153346.000", "EndTime": "20110125153349.000", "PrimaryTag": "TR0", "Text": "daughter for a little over two years.  And "}
+{"StartTime": "20110125153349.000", "EndTime": "20110125153351.000", "PrimaryTag": "TR0", "Text": "-"}
+{"StartTime": "20110125153351.000", "EndTime": "20110125153354.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153354.000", "EndTime": "20110125153356.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  How bad did it get?"}
+{"StartTime": "20110125153356.000", "EndTime": "20110125153359.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153359.000", "EndTime": "20110125153401.000", "PrimaryTag": "TR0", "Text": "COOLEY:  It got horrible.  It got to the "}
+{"StartTime": "20110125153401.000", "EndTime": "20110125153404.000", "PrimaryTag": "TR0", "Text": "point - they actually were wanting me out "}
+{"StartTime": "20110125153404.000", "EndTime": "20110125153406.000", "PrimaryTag": "TR0", "Text": "of the house nearly immediately.  I had "}
+{"StartTime": "20110125153406.000", "EndTime": "20110125153409.000", "PrimaryTag": "TR0", "Text": "contacted a detective in Blairsville who "}
+{"StartTime": "20110125153409.000", "EndTime": "20110125153411.000", "PrimaryTag": "TR0", "Text": "called (INAUDIBLE) father and let him know "}
+{"StartTime": "20110125153411.000", "EndTime": "20110125153414.000", "PrimaryTag": "TR0", "Text": "that, no, none of the allegations were "}
+{"StartTime": "20110125153414.000", "EndTime": "20110125153416.000", "PrimaryTag": "TR0", "Text": "true and so forth."}
+{"StartTime": "20110125153416.000", "EndTime": "20110125153419.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153419.000", "EndTime": "20110125153421.000", "PrimaryTag": "TR0", "Text": "So at that point it did kind of turn "}
+{"StartTime": "20110125153421.000", "EndTime": "20110125153424.000", "PrimaryTag": "TR0", "Text": "around a little bit.  But due to the fact "}
+{"StartTime": "20110125153424.000", "EndTime": "20110125153426.000", "PrimaryTag": "TR0", "Text": "that all of the hurt and the pain was "}
+{"StartTime": "20110125153426.000", "EndTime": "20110125153429.000", "PrimaryTag": "TR0", "Text": "already there, I'm going to say it was "}
+{"StartTime": "20110125153429.000", "EndTime": "20110125153431.000", "PrimaryTag": "TR0", "Text": "irreparable."}
+{"StartTime": "20110125153431.000", "EndTime": "20110125153434.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153434.000", "EndTime": "20110125153436.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And so you sued and got $400,000 "}
+{"StartTime": "20110125153436.000", "EndTime": "20110125153439.000", "PrimaryTag": "TR0", "Text": "from this woman.  Have you seen any of it?"}
+{"StartTime": "20110125153439.000", "EndTime": "20110125153441.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153441.000", "EndTime": "20110125153444.000", "PrimaryTag": "TR0", "Text": "COOLEY:  No, sir.  Not yet."}
+{"StartTime": "20110125153444.000", "EndTime": "20110125153446.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153446.000", "EndTime": "20110125153449.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Any chance you will see the "}
+{"StartTime": "20110125153449.000", "EndTime": "20110125153451.000", "PrimaryTag": "TR0", "Text": "money?"}
+{"StartTime": "20110125153451.000", "EndTime": "20110125153454.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153454.000", "EndTime": "20110125153456.000", "PrimaryTag": "TR0", "Text": "COOLEY:  It's a possibility.  We are "}
+{"StartTime": "20110125153456.000", "EndTime": "20110125153459.000", "PrimaryTag": "TR0", "Text": "working on it."}
+{"StartTime": "20110125153459.000", "EndTime": "20110125153501.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153501.000", "EndTime": "20110125153504.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  In the meantime, life is "}
+{"StartTime": "20110125153504.000", "EndTime": "20110125153506.000", "PrimaryTag": "TR0", "Text": "beginning to turn back to what it was?"}
+{"StartTime": "20110125153506.000", "EndTime": "20110125153509.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153509.000", "EndTime": "20110125153511.000", "PrimaryTag": "TR0", "Text": "COOLEY:  It's beginning to.  The past "}
+{"StartTime": "20110125153511.000", "EndTime": "20110125153514.000", "PrimaryTag": "TR0", "Text": "couple of weeks have been pretty hectic "}
+{"StartTime": "20110125153514.000", "EndTime": "20110125153516.000", "PrimaryTag": "TR0", "Text": "with the trial and everything and of "}
+{"StartTime": "20110125153516.000", "EndTime": "20110125153519.000", "PrimaryTag": "TR0", "Text": "course, with all the media and publication "}
+{"StartTime": "20110125153519.000", "EndTime": "20110125153521.000", "PrimaryTag": "TR0", "Text": "and everything."}
+{"StartTime": "20110125153521.000", "EndTime": "20110125153524.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153524.000", "EndTime": "20110125153526.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Gene Cooley, thanks very much "}
+{"StartTime": "20110125153526.000", "EndTime": "20110125153529.000", "PrimaryTag": "TR0", "Text": "for sharing your story with us.  It's a "}
+{"StartTime": "20110125153529.000", "EndTime": "20110125153531.000", "PrimaryTag": "TR0", "Text": "cautionary tale of what can happen with "}
+{"StartTime": "20110125153531.000", "EndTime": "20110125153534.000", "PrimaryTag": "TR0", "Text": "the internet?"}
+{"StartTime": "20110125153534.000", "EndTime": "20110125153536.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153536.000", "EndTime": "20110125153539.000", "PrimaryTag": "TR0", "Text": "COOLEY: Yes, it is.  I would also like to "}
+{"StartTime": "20110125153539.000", "EndTime": "20110125153541.000", "PrimaryTag": "TR0", "Text": "thank Judge David Barrett for being so "}
+{"StartTime": "20110125153541.000", "EndTime": "20110125153544.000", "PrimaryTag": "TR0", "Text": "patient and trying this case.  Judge "}
+{"StartTime": "20110125153544.000", "EndTime": "20110125153546.000", "PrimaryTag": "TR0", "Text": "Barrett, bless his heart, had he to brave "}
+{"StartTime": "20110125153546.000", "EndTime": "20110125153549.000", "PrimaryTag": "TR0", "Text": "the snow.  We were having about ten inches "}
+{"StartTime": "20110125153549.000", "EndTime": "20110125153551.000", "PrimaryTag": "TR0", "Text": "of snow at that time --"}
+{"StartTime": "20110125153551.000", "EndTime": "20110125153554.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153554.000", "EndTime": "20110125153556.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Yes, we all remember that."}
+{"StartTime": "20110125153556.000", "EndTime": "20110125153559.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153559.000", "EndTime": "20110125153601.000", "PrimaryTag": "TR0", "Text": "COOLEY: -- 16 degrees.  I'd like to thank "}
+{"StartTime": "20110125153601.000", "EndTime": "20110125153604.000", "PrimaryTag": "TR0", "Text": "the jury for getting out there.  Braving "}
+{"StartTime": "20110125153604.000", "EndTime": "20110125153606.000", "PrimaryTag": "TR0", "Text": "the weather also.  I'd also like to thank "}
+{"StartTime": "20110125153606.000", "EndTime": "20110125153609.000", "PrimaryTag": "TR0", "Text": "Russell Stickey (ph) for all his wonderful "}
+{"StartTime": "20110125153609.000", "EndTime": "20110125153611.000", "PrimaryTag": "TR0", "Text": "work and all of the hard work that he did. "}
+{"StartTime": "20110125153611.000", "EndTime": "20110125153614.000", "PrimaryTag": "TR0", "Text": " This was not an easy case to go through.  "}
+{"StartTime": "20110125153614.000", "EndTime": "20110125153616.000", "PrimaryTag": "TR0", "Text": "It's not like they just give you the "}
+{"StartTime": "20110125153616.000", "EndTime": "20110125153619.000", "PrimaryTag": "TR0", "Text": "information.  It's a lot of --"}
+{"StartTime": "20110125153619.000", "EndTime": "20110125153621.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153621.000", "EndTime": "20110125153624.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  We've got to go right there, "}
+{"StartTime": "20110125153624.000", "EndTime": "20110125153626.000", "PrimaryTag": "TR0", "Text": "Gene.  Thanks very much for being with us."}
+{"StartTime": "20110125153626.000", "EndTime": "20110125153629.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153629.000", "EndTime": "20110125153631.000", "PrimaryTag": "TR0", "Text": "COOLEY:  I thank you very much."}
+{"StartTime": "20110125153631.000", "EndTime": "20110125153634.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153634.000", "EndTime": "20110125153636.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Appreciate it."}
+{"StartTime": "20110125153636.000", "EndTime": "20110125153639.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153639.000", "EndTime": "20110125153641.000", "PrimaryTag": "TR0", "Text": "COOLEY:  Thank you."}
+{"StartTime": "20110125153641.000", "EndTime": "20110125153644.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153644.000", "EndTime": "20110125153646.000", "PrimaryTag": "TR0", "Text": "SAVIDGE: Does a shrinking economy also "}
+{"StartTime": "20110125153646.000", "EndTime": "20110125153649.000", "PrimaryTag": "TR0", "Text": "shrink the size of your home?  The "}
+{"StartTime": "20110125153649.000", "EndTime": "20110125153651.000", "PrimaryTag": "TR0", "Text": "American dream for some has always been a "}
+{"StartTime": "20110125153651.000", "EndTime": "20110125153654.000", "PrimaryTag": "TR0", "Text": "big car, a big yard, a big house.  But "}
+{"StartTime": "20110125153654.000", "EndTime": "20110125153656.000", "PrimaryTag": "TR0", "Text": "those times are changing.  Our homes are "}
+{"StartTime": "20110125153656.000", "EndTime": "20110125153659.000", "PrimaryTag": "TR0", "Text": "getting smaller.  Coming up, we may all "}
+{"StartTime": "20110125153659.000", "EndTime": "20110125153701.000", "PrimaryTag": "TR0", "Text": "soon be living in little pink houses."}
+{"StartTime": "20110125153701.000", "EndTime": "20110125153704.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153704.000", "EndTime": "20110125153706.000", "PrimaryTag": "TR0", "Text": "(MUSIC PLAYING)"}
+{"StartTime": "20110125153706.000", "EndTime": "20110125153709.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153709.000", "EndTime": "20110125153711.000", "PrimaryTag": "TR0", "Text": "(COMMERCIAL BREAK)"}
+{"StartTime": "20110125153711.000", "EndTime": "20110125153714.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153714.000", "EndTime": "20110125153716.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  The stock market opening bell "}
+{"StartTime": "20110125153716.000", "EndTime": "20110125153719.000", "PrimaryTag": "TR0", "Text": "rang just about an hour ago.  So, let's "}
+{"StartTime": "20110125153719.000", "EndTime": "20110125153721.000", "PrimaryTag": "TR0", "Text": "check the numbers as they stand.  And "}
+{"StartTime": "20110125153721.000", "EndTime": "20110125153724.000", "PrimaryTag": "TR0", "Text": "there you see, looks like the Dow is down "}
+{"StartTime": "20110125153724.000", "EndTime": "20110125153726.000", "PrimaryTag": "TR0", "Text": "a little more than 33 points."}
+{"StartTime": "20110125153726.000", "EndTime": "20110125153729.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153729.000", "EndTime": "20110125153731.000", "PrimaryTag": "TR0", "Text": "Size matters.  Seemingly less these days "}
+{"StartTime": "20110125153731.000", "EndTime": "20110125153734.000", "PrimaryTag": "TR0", "Text": "for prospective new homeowners and "}
+{"StartTime": "20110125153734.000", "EndTime": "20110125153736.000", "PrimaryTag": "TR0", "Text": "builders, and they are building "}
+{"StartTime": "20110125153736.000", "EndTime": "20110125153739.000", "PrimaryTag": "TR0", "Text": "accordingly.  CNN's business correspondent "}
+{"StartTime": "20110125153739.000", "EndTime": "20110125153741.000", "PrimaryTag": "TR0", "Text": "Stephanie Elam is in New York with more on "}
+{"StartTime": "20110125153741.000", "EndTime": "20110125153744.000", "PrimaryTag": "TR0", "Text": "the shrinking McMansion syndrome.  So, "}
+{"StartTime": "20110125153744.000", "EndTime": "20110125153746.000", "PrimaryTag": "TR0", "Text": "cheap and small apparently is beating out "}
+{"StartTime": "20110125153746.000", "EndTime": "20110125153749.000", "PrimaryTag": "TR0", "Text": "being rich, is that right?"}
+{"StartTime": "20110125153749.000", "EndTime": "20110125153751.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153751.000", "EndTime": "20110125153754.000", "PrimaryTag": "TR0", "Text": "STEPHANIE ELAM, CNN BUSINESS "}
+{"StartTime": "20110125153754.000", "EndTime": "20110125153756.000", "PrimaryTag": "TR0", "Text": "CORRESPONDENT:  Yes, that's exactly it "}
+{"StartTime": "20110125153756.000", "EndTime": "20110125153759.000", "PrimaryTag": "TR0", "Text": "when you talk about what's going on in "}
+{"StartTime": "20110125153759.000", "EndTime": "20110125153801.000", "PrimaryTag": "TR0", "Text": "this country, Marty.  Things are getting a "}
+{"StartTime": "20110125153801.000", "EndTime": "20110125153804.000", "PrimaryTag": "TR0", "Text": "little smaller.  I know America is a land "}
+{"StartTime": "20110125153804.000", "EndTime": "20110125153806.000", "PrimaryTag": "TR0", "Text": "of big, but we're doing things smaller "}
+{"StartTime": "20110125153806.000", "EndTime": "20110125153809.000", "PrimaryTag": "TR0", "Text": "here."}
+{"StartTime": "20110125153809.000", "EndTime": "20110125153811.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153811.000", "EndTime": "20110125153814.000", "PrimaryTag": "TR0", "Text": "In fact, so much so that when you look at "}
+{"StartTime": "20110125153814.000", "EndTime": "20110125153816.000", "PrimaryTag": "TR0", "Text": "what the National Association of Home "}
+{"StartTime": "20110125153816.000", "EndTime": "20110125153819.000", "PrimaryTag": "TR0", "Text": "Builders say, they say by 2015, the "}
+{"StartTime": "20110125153819.000", "EndTime": "20110125153821.000", "PrimaryTag": "TR0", "Text": "average size of a house is going to be "}
+{"StartTime": "20110125153821.000", "EndTime": "20110125153824.000", "PrimaryTag": "TR0", "Text": "2,100 feet.  You see, back in 2007, it was "}
+{"StartTime": "20110125153824.000", "EndTime": "20110125153826.000", "PrimaryTag": "TR0", "Text": "at 2,500 feet.  Everything is getting "}
+{"StartTime": "20110125153826.000", "EndTime": "20110125153829.000", "PrimaryTag": "TR0", "Text": "smaller as they're starting to build out."}
+{"StartTime": "20110125153829.000", "EndTime": "20110125153831.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153831.000", "EndTime": "20110125153834.000", "PrimaryTag": "TR0", "Text": "Also, would you take a look at this?  Even "}
+{"StartTime": "20110125153834.000", "EndTime": "20110125153836.000", "PrimaryTag": "TR0", "Text": "though things are getting smaller, the one "}
+{"StartTime": "20110125153836.000", "EndTime": "20110125153839.000", "PrimaryTag": "TR0", "Text": "thing I have to point out here is, as you "}
+{"StartTime": "20110125153839.000", "EndTime": "20110125153841.000", "PrimaryTag": "TR0", "Text": "take a look at homes now, they are still "}
+{"StartTime": "20110125153841.000", "EndTime": "20110125153844.000", "PrimaryTag": "TR0", "Text": "about 50 percent bigger than they were in "}
+{"StartTime": "20110125153844.000", "EndTime": "20110125153846.000", "PrimaryTag": "TR0", "Text": "the '70s.  So, we're still living a little "}
+{"StartTime": "20110125153846.000", "EndTime": "20110125153849.000", "PrimaryTag": "TR0", "Text": "bit more comfortably, Marty."}
+{"StartTime": "20110125153849.000", "EndTime": "20110125153851.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153851.000", "EndTime": "20110125153854.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Well, so what's behind the trend "}
+{"StartTime": "20110125153854.000", "EndTime": "20110125153856.000", "PrimaryTag": "TR0", "Text": "and why do so many people want smaller "}
+{"StartTime": "20110125153856.000", "EndTime": "20110125153859.000", "PrimaryTag": "TR0", "Text": "homes?"}
+{"StartTime": "20110125153859.000", "EndTime": "20110125153901.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153901.000", "EndTime": "20110125153904.000", "PrimaryTag": "TR0", "Text": "ELAM:  Well, a lot of it has to do with "}
+{"StartTime": "20110125153904.000", "EndTime": "20110125153906.000", "PrimaryTag": "TR0", "Text": "the economy, which we know has been poor.  "}
+{"StartTime": "20110125153906.000", "EndTime": "20110125153909.000", "PrimaryTag": "TR0", "Text": "So, a lot of people are like, let me buy "}
+{"StartTime": "20110125153909.000", "EndTime": "20110125153911.000", "PrimaryTag": "TR0", "Text": "what we can really use and not overextend "}
+{"StartTime": "20110125153911.000", "EndTime": "20110125153914.000", "PrimaryTag": "TR0", "Text": "ourselves.  Also, we have theose baby "}
+{"StartTime": "20110125153914.000", "EndTime": "20110125153916.000", "PrimaryTag": "TR0", "Text": "boomers who are now hitting retirement "}
+{"StartTime": "20110125153916.000", "EndTime": "20110125153919.000", "PrimaryTag": "TR0", "Text": "age, so they are downsizing.  The kids are "}
+{"StartTime": "20110125153919.000", "EndTime": "20110125153921.000", "PrimaryTag": "TR0", "Text": "out of the house, they need less house, "}
+{"StartTime": "20110125153921.000", "EndTime": "20110125153924.000", "PrimaryTag": "TR0", "Text": "not more.  So, they're downsizing as well. "}
+{"StartTime": "20110125153924.000", "EndTime": "20110125153926.000", "PrimaryTag": "TR0", "Text": "And then, let's think about it. It takes a "}
+{"StartTime": "20110125153926.000", "EndTime": "20110125153929.000", "PrimaryTag": "TR0", "Text": "lot to heat a home.  So, if you have less "}
+{"StartTime": "20110125153929.000", "EndTime": "20110125153931.000", "PrimaryTag": "TR0", "Text": "house, then there's less cost involved "}
+{"StartTime": "20110125153931.000", "EndTime": "20110125153934.000", "PrimaryTag": "TR0", "Text": "with that as well."}
+{"StartTime": "20110125153934.000", "EndTime": "20110125153936.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153936.000", "EndTime": "20110125153939.000", "PrimaryTag": "TR0", "Text": "All of this is leading people to look at "}
+{"StartTime": "20110125153939.000", "EndTime": "20110125153941.000", "PrimaryTag": "TR0", "Text": "how they build their homes instead of "}
+{"StartTime": "20110125153941.000", "EndTime": "20110125153944.000", "PrimaryTag": "TR0", "Text": "having living rooms and dining rooms that "}
+{"StartTime": "20110125153944.000", "EndTime": "20110125153946.000", "PrimaryTag": "TR0", "Text": "just collect dust for most of the year, "}
+{"StartTime": "20110125153946.000", "EndTime": "20110125153949.000", "PrimaryTag": "TR0", "Text": "except for maybe Thanksgiving and the "}
+{"StartTime": "20110125153949.000", "EndTime": "20110125153951.000", "PrimaryTag": "TR0", "Text": "holidays.  They are going to put in "}
+{"StartTime": "20110125153951.000", "EndTime": "20110125153954.000", "PrimaryTag": "TR0", "Text": "multipurpose rooms and actually get more "}
+{"StartTime": "20110125153954.000", "EndTime": "20110125153956.000", "PrimaryTag": "TR0", "Text": "value out of their homes at this point."}
+{"StartTime": "20110125153956.000", "EndTime": "20110125153959.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125153959.000", "EndTime": "20110125154001.000", "PrimaryTag": "TR0", "Text": "The buyers really want storage and they "}
+{"StartTime": "20110125154001.000", "EndTime": "20110125154004.000", "PrimaryTag": "TR0", "Text": "want to make sure that they are keeping "}
+{"StartTime": "20110125154004.000", "EndTime": "20110125154006.000", "PrimaryTag": "TR0", "Text": "their costs down and that they are "}
+{"StartTime": "20110125154006.000", "EndTime": "20110125154009.000", "PrimaryTag": "TR0", "Text": "environmentally friendly with the new "}
+{"StartTime": "20110125154009.000", "EndTime": "20110125154011.000", "PrimaryTag": "TR0", "Text": "homes that are out there, Marty."}
+{"StartTime": "20110125154011.000", "EndTime": "20110125154014.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154014.000", "EndTime": "20110125154016.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Yes, all of those things occur "}
+{"StartTime": "20110125154016.000", "EndTime": "20110125154019.000", "PrimaryTag": "TR0", "Text": "to me, too. But it's not just the size of "}
+{"StartTime": "20110125154019.000", "EndTime": "20110125154021.000", "PrimaryTag": "TR0", "Text": "the house that is changing, right?  I "}
+{"StartTime": "20110125154021.000", "EndTime": "20110125154024.000", "PrimaryTag": "TR0", "Text": "mean, even the reasons why or what we are "}
+{"StartTime": "20110125154024.000", "EndTime": "20110125154026.000", "PrimaryTag": "TR0", "Text": "buying are influx."}
+{"StartTime": "20110125154026.000", "EndTime": "20110125154029.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154029.000", "EndTime": "20110125154031.000", "PrimaryTag": "TR0", "Text": "ELAM:  Yes, that's actually really "}
+{"StartTime": "20110125154031.000", "EndTime": "20110125154034.000", "PrimaryTag": "TR0", "Text": "interesting here.  If you take a look at "}
+{"StartTime": "20110125154034.000", "EndTime": "20110125154036.000", "PrimaryTag": "TR0", "Text": "the reason why people were buying in 2010, "}
+{"StartTime": "20110125154036.000", "EndTime": "20110125154039.000", "PrimaryTag": "TR0", "Text": "it was not about wanting a slice of the "}
+{"StartTime": "20110125154039.000", "EndTime": "20110125154041.000", "PrimaryTag": "TR0", "Text": "American dream, which is what so many of "}
+{"StartTime": "20110125154041.000", "EndTime": "20110125154044.000", "PrimaryTag": "TR0", "Text": "us have grown up thinking about."}
+{"StartTime": "20110125154044.000", "EndTime": "20110125154046.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154046.000", "EndTime": "20110125154049.000", "PrimaryTag": "TR0", "Text": "Take a look at this.  Because of the "}
+{"StartTime": "20110125154049.000", "EndTime": "20110125154051.000", "PrimaryTag": "TR0", "Text": "favorable financing in 2010, 28 percent of "}
+{"StartTime": "20110125154051.000", "EndTime": "20110125154054.000", "PrimaryTag": "TR0", "Text": "people said that's why they bought.  Not "}
+{"StartTime": "20110125154054.000", "EndTime": "20110125154056.000", "PrimaryTag": "TR0", "Text": "the way it was back in 2005 before the "}
+{"StartTime": "20110125154056.000", "EndTime": "20110125154059.000", "PrimaryTag": "TR0", "Text": "recession.  That wasn't it.  The desire to "}
+{"StartTime": "20110125154059.000", "EndTime": "20110125154101.000", "PrimaryTag": "TR0", "Text": "own versus rent had nothing to do with it "}
+{"StartTime": "20110125154101.000", "EndTime": "20110125154104.000", "PrimaryTag": "TR0", "Text": "for these people who were surveyed by "}
+{"StartTime": "20110125154104.000", "EndTime": "20110125154106.000", "PrimaryTag": "TR0", "Text": "Wiker Realtors (ph).  That was not the "}
+{"StartTime": "20110125154106.000", "EndTime": "20110125154109.000", "PrimaryTag": "TR0", "Text": "reason.  In 2005, that's why more than a "}
+{"StartTime": "20110125154109.000", "EndTime": "20110125154111.000", "PrimaryTag": "TR0", "Text": "quarter of people said that.  So, as you "}
+{"StartTime": "20110125154111.000", "EndTime": "20110125154114.000", "PrimaryTag": "TR0", "Text": "can see, the reason why people are getting "}
+{"StartTime": "20110125154114.000", "EndTime": "20110125154116.000", "PrimaryTag": "TR0", "Text": "into the market is very different than it "}
+{"StartTime": "20110125154116.000", "EndTime": "20110125154119.000", "PrimaryTag": "TR0", "Text": "was before."}
+{"StartTime": "20110125154119.000", "EndTime": "20110125154121.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154121.000", "EndTime": "20110125154124.000", "PrimaryTag": "TR0", "Text": "And analysts look at this and say, that "}
+{"StartTime": "20110125154124.000", "EndTime": "20110125154126.000", "PrimaryTag": "TR0", "Text": "means people are having a more realistic "}
+{"StartTime": "20110125154126.000", "EndTime": "20110125154129.000", "PrimaryTag": "TR0", "Text": "view of what home ownership is.  And "}
+{"StartTime": "20110125154129.000", "EndTime": "20110125154131.000", "PrimaryTag": "TR0", "Text": "besides, what we all know once you get "}
+{"StartTime": "20110125154131.000", "EndTime": "20110125154134.000", "PrimaryTag": "TR0", "Text": "into a house, there's a lot of costs of "}
+{"StartTime": "20110125154134.000", "EndTime": "20110125154136.000", "PrimaryTag": "TR0", "Text": "keeping that house up, too.  Right, Marty?"}
+{"StartTime": "20110125154136.000", "EndTime": "20110125154139.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154139.000", "EndTime": "20110125154141.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Absolutely.  Absolutely.  Can't "}
+{"StartTime": "20110125154141.000", "EndTime": "20110125154144.000", "PrimaryTag": "TR0", "Text": "be stated more.  Thank you, Stephanie, "}
+{"StartTime": "20110125154144.000", "EndTime": "20110125154146.000", "PrimaryTag": "TR0", "Text": "very much."}
+{"StartTime": "20110125154146.000", "EndTime": "20110125154149.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154149.000", "EndTime": "20110125154151.000", "PrimaryTag": "TR0", "Text": "ELAM:  Sure."}
+{"StartTime": "20110125154151.000", "EndTime": "20110125154154.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154154.000", "EndTime": "20110125154156.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Checking top stories right now.  "}
+{"StartTime": "20110125154156.000", "EndTime": "20110125154159.000", "PrimaryTag": "TR0", "Text": "Take a look at this new video.  It shows "}
+{"StartTime": "20110125154159.000", "EndTime": "20110125154201.000", "PrimaryTag": "TR0", "Text": "the very moment of yesterday's suicide "}
+{"StartTime": "20110125154201.000", "EndTime": "20110125154204.000", "PrimaryTag": "TR0", "Text": "bombing at Moscow's busiest airport.  You "}
+{"StartTime": "20110125154204.000", "EndTime": "20110125154206.000", "PrimaryTag": "TR0", "Text": "can see people walking around, and then a "}
+{"StartTime": "20110125154206.000", "EndTime": "20110125154209.000", "PrimaryTag": "TR0", "Text": "flash of light.  Russian authorities say "}
+{"StartTime": "20110125154209.000", "EndTime": "20110125154211.000", "PrimaryTag": "TR0", "Text": "35 people were killed, more than 100 hurt. "}
+{"StartTime": "20110125154211.000", "EndTime": "20110125154214.000", "PrimaryTag": "TR0", "Text": " President Dmitry Medvedev promises to "}
+{"StartTime": "20110125154214.000", "EndTime": "20110125154216.000", "PrimaryTag": "TR0", "Text": "find whoever is responsible, but he's also "}
+{"StartTime": "20110125154216.000", "EndTime": "20110125154219.000", "PrimaryTag": "TR0", "Text": "blasting airport security."}
+{"StartTime": "20110125154219.000", "EndTime": "20110125154221.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154221.000", "EndTime": "20110125154224.000", "PrimaryTag": "TR0", "Text": "And the case against the man accused of "}
+{"StartTime": "20110125154224.000", "EndTime": "20110125154226.000", "PrimaryTag": "TR0", "Text": "pulling the trigger in Tucson.  It moves "}
+{"StartTime": "20110125154226.000", "EndTime": "20110125154229.000", "PrimaryTag": "TR0", "Text": "forward.  Yesterday, a federal judge "}
+{"StartTime": "20110125154229.000", "EndTime": "20110125154231.000", "PrimaryTag": "TR0", "Text": "entered not guilty pleas on Jared "}
+{"StartTime": "20110125154231.000", "EndTime": "20110125154234.000", "PrimaryTag": "TR0", "Text": "Loughner's behalf to the attempted murder "}
+{"StartTime": "20110125154234.000", "EndTime": "20110125154236.000", "PrimaryTag": "TR0", "Text": "charges of Congresswoman Giffords and two "}
+{"StartTime": "20110125154236.000", "EndTime": "20110125154239.000", "PrimaryTag": "TR0", "Text": "of her aides.  Prosecutors plan to charge "}
+{"StartTime": "20110125154239.000", "EndTime": "20110125154241.000", "PrimaryTag": "TR0", "Text": "Loughner with murdering six people during "}
+{"StartTime": "20110125154241.000", "EndTime": "20110125154244.000", "PrimaryTag": "TR0", "Text": "that rampage."}
+{"StartTime": "20110125154244.000", "EndTime": "20110125154246.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154246.000", "EndTime": "20110125154249.000", "PrimaryTag": "TR0", "Text": "An empty chair will represent Arizona "}
+{"StartTime": "20110125154249.000", "EndTime": "20110125154251.000", "PrimaryTag": "TR0", "Text": "congresswoman Gabrielle Giffords on the "}
+{"StartTime": "20110125154251.000", "EndTime": "20110125154254.000", "PrimaryTag": "TR0", "Text": "House floor during the State of the Union. "}
+{"StartTime": "20110125154254.000", "EndTime": "20110125154256.000", "PrimaryTag": "TR0", "Text": " Tonight, her husband Mark Kelly has a big "}
+{"StartTime": "20110125154256.000", "EndTime": "20110125154259.000", "PrimaryTag": "TR0", "Text": "decision in the meantime to make. Should "}
+{"StartTime": "20110125154259.000", "EndTime": "20110125154301.000", "PrimaryTag": "TR0", "Text": "he back out as leader of the April 19 "}
+{"StartTime": "20110125154301.000", "EndTime": "20110125154304.000", "PrimaryTag": "TR0", "Text": "space shuttle mission to remain at her "}
+{"StartTime": "20110125154304.000", "EndTime": "20110125154306.000", "PrimaryTag": "TR0", "Text": "side?  His twin brother is also an "}
+{"StartTime": "20110125154306.000", "EndTime": "20110125154309.000", "PrimaryTag": "TR0", "Text": "astronaut.  In fact, he is on board the "}
+{"StartTime": "20110125154309.000", "EndTime": "20110125154311.000", "PrimaryTag": "TR0", "Text": "international space station right now."}
+{"StartTime": "20110125154311.000", "EndTime": "20110125154314.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154314.000", "EndTime": "20110125154316.000", "PrimaryTag": "TR0", "Text": "The president's theme for tonight's State "}
+{"StartTime": "20110125154316.000", "EndTime": "20110125154319.000", "PrimaryTag": "TR0", "Text": "of the Union address, winning the future "}
+{"StartTime": "20110125154319.000", "EndTime": "20110125154321.000", "PrimaryTag": "TR0", "Text": "and repairing the economy.  President "}
+{"StartTime": "20110125154321.000", "EndTime": "20110125154324.000", "PrimaryTag": "TR0", "Text": "Obama is ready to lay out the blueprints "}
+{"StartTime": "20110125154324.000", "EndTime": "20110125154326.000", "PrimaryTag": "TR0", "Text": "to restore America's greatness. That's a "}
+{"StartTime": "20110125154326.000", "EndTime": "20110125154329.000", "PrimaryTag": "TR0", "Text": "pretty big task.  So, we're taking a look "}
+{"StartTime": "20110125154329.000", "EndTime": "20110125154331.000", "PrimaryTag": "TR0", "Text": "back at the president's promises from the "}
+{"StartTime": "20110125154331.000", "EndTime": "20110125154334.000", "PrimaryTag": "TR0", "Text": "State of the Union in 2010.  Tom Foreman "}
+{"StartTime": "20110125154334.000", "EndTime": "20110125154336.000", "PrimaryTag": "TR0", "Text": "takes stock on how he's faring on health "}
+{"StartTime": "20110125154336.000", "EndTime": "20110125154339.000", "PrimaryTag": "TR0", "Text": "care."}
+{"StartTime": "20110125154339.000", "EndTime": "20110125154341.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154341.000", "EndTime": "20110125154344.000", "PrimaryTag": "TR0", "Text": "(BEGIN VIDEOTAPE)"}
+{"StartTime": "20110125154344.000", "EndTime": "20110125154346.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154346.000", "EndTime": "20110125154349.000", "PrimaryTag": "TR0", "Text": "TOM FOREMAN, CNN CORRESPONDENT:  The "}
+{"StartTime": "20110125154349.000", "EndTime": "20110125154351.000", "PrimaryTag": "TR0", "Text": "president's signature item for his first "}
+{"StartTime": "20110125154351.000", "EndTime": "20110125154354.000", "PrimaryTag": "TR0", "Text": "two years, health care reform.  And he "}
+{"StartTime": "20110125154354.000", "EndTime": "20110125154356.000", "PrimaryTag": "TR0", "Text": "highlighted his plan in the last State of "}
+{"StartTime": "20110125154356.000", "EndTime": "20110125154359.000", "PrimaryTag": "TR0", "Text": "the Union."}
+{"StartTime": "20110125154359.000", "EndTime": "20110125154401.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154401.000", "EndTime": "20110125154404.000", "PrimaryTag": "TR0", "Text": "(BEGIN VIDEO CLIP)"}
+{"StartTime": "20110125154404.000", "EndTime": "20110125154406.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154406.000", "EndTime": "20110125154409.000", "PrimaryTag": "TR0", "Text": "BARACK OBAMA, PRESIDENT OF THE UNITED "}
+{"StartTime": "20110125154409.000", "EndTime": "20110125154411.000", "PrimaryTag": "TR0", "Text": "STATES:  Our approach would preserve the "}
+{"StartTime": "20110125154411.000", "EndTime": "20110125154414.000", "PrimaryTag": "TR0", "Text": "right of Americans who have insurance to "}
+{"StartTime": "20110125154414.000", "EndTime": "20110125154416.000", "PrimaryTag": "TR0", "Text": "keep their doctor and their plan.  It "}
+{"StartTime": "20110125154416.000", "EndTime": "20110125154419.000", "PrimaryTag": "TR0", "Text": "would reduce costs and premiums for "}
+{"StartTime": "20110125154419.000", "EndTime": "20110125154421.000", "PrimaryTag": "TR0", "Text": "millions of families and businesses.  And "}
+{"StartTime": "20110125154421.000", "EndTime": "20110125154424.000", "PrimaryTag": "TR0", "Text": "according to the Congressional Budget "}
+{"StartTime": "20110125154424.000", "EndTime": "20110125154426.000", "PrimaryTag": "TR0", "Text": "Office, the independent organization that "}
+{"StartTime": "20110125154426.000", "EndTime": "20110125154429.000", "PrimaryTag": "TR0", "Text": "both parties have cited as the official "}
+{"StartTime": "20110125154429.000", "EndTime": "20110125154431.000", "PrimaryTag": "TR0", "Text": "score keeper for Congress, our approach "}
+{"StartTime": "20110125154431.000", "EndTime": "20110125154434.000", "PrimaryTag": "TR0", "Text": "would bring down the deficit by over $1 "}
+{"StartTime": "20110125154434.000", "EndTime": "20110125154436.000", "PrimaryTag": "TR0", "Text": "trillion over the next two decades."}
+{"StartTime": "20110125154436.000", "EndTime": "20110125154439.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154439.000", "EndTime": "20110125154441.000", "PrimaryTag": "TR0", "Text": "(END VIDEO CLIP)"}
+{"StartTime": "20110125154441.000", "EndTime": "20110125154444.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154444.000", "EndTime": "20110125154446.000", "PrimaryTag": "TR0", "Text": "FOREMAN:  Two months after that speech, he "}
+{"StartTime": "20110125154446.000", "EndTime": "20110125154449.000", "PrimaryTag": "TR0", "Text": "signed the most sweeping overhaul of "}
+{"StartTime": "20110125154449.000", "EndTime": "20110125154451.000", "PrimaryTag": "TR0", "Text": "health care law since the 1960s.  Once it "}
+{"StartTime": "20110125154451.000", "EndTime": "20110125154454.000", "PrimaryTag": "TR0", "Text": "is all in place, it should indeed reduce "}
+{"StartTime": "20110125154454.000", "EndTime": "20110125154456.000", "PrimaryTag": "TR0", "Text": "costs and premiums for many families, and, "}
+{"StartTime": "20110125154456.000", "EndTime": "20110125154459.000", "PrimaryTag": "TR0", "Text": "yes, the CBO says it will lower the "}
+{"StartTime": "20110125154459.000", "EndTime": "20110125154501.000", "PrimaryTag": "TR0", "Text": "deficit over time."}
+{"StartTime": "20110125154501.000", "EndTime": "20110125154504.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154504.000", "EndTime": "20110125154506.000", "PrimaryTag": "TR0", "Text": "That said, polls show many voters remain "}
+{"StartTime": "20110125154506.000", "EndTime": "20110125154509.000", "PrimaryTag": "TR0", "Text": "skeptical that it will all play out that "}
+{"StartTime": "20110125154509.000", "EndTime": "20110125154511.000", "PrimaryTag": "TR0", "Text": "way.  They gave the House back to the "}
+{"StartTime": "20110125154511.000", "EndTime": "20110125154514.000", "PrimaryTag": "TR0", "Text": "Republicans in the midterm election, and "}
+{"StartTime": "20110125154514.000", "EndTime": "20110125154516.000", "PrimaryTag": "TR0", "Text": "the Republican-controlled House voted a "}
+{"StartTime": "20110125154516.000", "EndTime": "20110125154519.000", "PrimaryTag": "TR0", "Text": "few days ago to repeal the reform law.  "}
+{"StartTime": "20110125154519.000", "EndTime": "20110125154521.000", "PrimaryTag": "TR0", "Text": "The effort is expected to die in the "}
+{"StartTime": "20110125154521.000", "EndTime": "20110125154524.000", "PrimaryTag": "TR0", "Text": "Senate.  But whatever happens, this is a "}
+{"StartTime": "20110125154524.000", "EndTime": "20110125154526.000", "PrimaryTag": "TR0", "Text": "promise kept by the president."}
+{"StartTime": "20110125154526.000", "EndTime": "20110125154529.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154529.000", "EndTime": "20110125154531.000", "PrimaryTag": "TR0", "Text": "(END VIDEOTAPE)"}
+{"StartTime": "20110125154531.000", "EndTime": "20110125154534.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154534.000", "EndTime": "20110125154536.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Join us tonight at 7:00 Eastern "}
+{"StartTime": "20110125154536.000", "EndTime": "20110125154539.000", "PrimaryTag": "TR0", "Text": "for our special coverage with The Best "}
+{"StartTime": "20110125154539.000", "EndTime": "20110125154541.000", "PrimaryTag": "TR0", "Text": "Political Team on Television.  The State "}
+{"StartTime": "20110125154541.000", "EndTime": "20110125154544.000", "PrimaryTag": "TR0", "Text": "of the Union address will be followed by "}
+{"StartTime": "20110125154544.000", "EndTime": "20110125154546.000", "PrimaryTag": "TR0", "Text": "the Republican and Tea Party responses and "}
+{"StartTime": "20110125154546.000", "EndTime": "20110125154549.000", "PrimaryTag": "TR0", "Text": "then post-speech analysis."}
+{"StartTime": "20110125154549.000", "EndTime": "20110125154551.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154551.000", "EndTime": "20110125154554.000", "PrimaryTag": "TR0", "Text": "(COMMERCIAL BREAK)"}
+{"StartTime": "20110125154554.000", "EndTime": "20110125154556.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154556.000", "EndTime": "20110125154559.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  This is a fascinating story.  "}
+{"StartTime": "20110125154559.000", "EndTime": "20110125154601.000", "PrimaryTag": "TR0", "Text": "They may be better than a hot water bottle "}
+{"StartTime": "20110125154601.000", "EndTime": "20110125154604.000", "PrimaryTag": "TR0", "Text": "on an electric blanket on a cold winter "}
+{"StartTime": "20110125154604.000", "EndTime": "20110125154606.000", "PrimaryTag": "TR0", "Text": "night.  But a new paper claims that by "}
+{"StartTime": "20110125154606.000", "EndTime": "20110125154609.000", "PrimaryTag": "TR0", "Text": "letting your pet sleep in your bed, you "}
+{"StartTime": "20110125154609.000", "EndTime": "20110125154611.000", "PrimaryTag": "TR0", "Text": "could be risking a case of cat-scratch "}
+{"StartTime": "20110125154611.000", "EndTime": "20110125154614.000", "PrimaryTag": "TR0", "Text": "fever or a heart or digestive system "}
+{"StartTime": "20110125154614.000", "EndTime": "20110125154616.000", "PrimaryTag": "TR0", "Text": "disorder or the plague.  Yep, the bubonic "}
+{"StartTime": "20110125154616.000", "EndTime": "20110125154619.000", "PrimaryTag": "TR0", "Text": "variety.  Two California researchers who "}
+{"StartTime": "20110125154619.000", "EndTime": "20110125154621.000", "PrimaryTag": "TR0", "Text": "wrote that paper, which appears in the "}
+{"StartTime": "20110125154621.000", "EndTime": "20110125154624.000", "PrimaryTag": "TR0", "Text": "Journal of Emerging Infectious Diseases "}
+{"StartTime": "20110125154624.000", "EndTime": "20110125154626.000", "PrimaryTag": "TR0", "Text": "says the risk is rare, but those with weak "}
+{"StartTime": "20110125154626.000", "EndTime": "20110125154629.000", "PrimaryTag": "TR0", "Text": "immune systems and the very young may be "}
+{"StartTime": "20110125154629.000", "EndTime": "20110125154631.000", "PrimaryTag": "TR0", "Text": "susceptible."}
+{"StartTime": "20110125154631.000", "EndTime": "20110125154634.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154634.000", "EndTime": "20110125154636.000", "PrimaryTag": "TR0", "Text": "Well, it's not easy to make the queen of "}
+{"StartTime": "20110125154636.000", "EndTime": "20110125154639.000", "PrimaryTag": "TR0", "Text": "talk speechless, but Oprah Winfrey found "}
+{"StartTime": "20110125154639.000", "EndTime": "20110125154641.000", "PrimaryTag": "TR0", "Text": "herself at a loss for words when she "}
+{"StartTime": "20110125154641.000", "EndTime": "20110125154644.000", "PrimaryTag": "TR0", "Text": "learned about her half sister.  Patricia "}
+{"StartTime": "20110125154644.000", "EndTime": "20110125154646.000", "PrimaryTag": "TR0", "Text": "was adopted at birth.  Oprah never knew "}
+{"StartTime": "20110125154646.000", "EndTime": "20110125154649.000", "PrimaryTag": "TR0", "Text": "about her.  She found out a few months "}
+{"StartTime": "20110125154649.000", "EndTime": "20110125154651.000", "PrimaryTag": "TR0", "Text": "ago, and the two met for the first time at "}
+{"StartTime": "20110125154651.000", "EndTime": "20110125154654.000", "PrimaryTag": "TR0", "Text": "Thanksgiving at their mother's house.  "}
+{"StartTime": "20110125154654.000", "EndTime": "20110125154656.000", "PrimaryTag": "TR0", "Text": "Oprah brought her fans in on that big news "}
+{"StartTime": "20110125154656.000", "EndTime": "20110125154659.000", "PrimaryTag": "TR0", "Text": "during her show."}
+{"StartTime": "20110125154659.000", "EndTime": "20110125154701.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154701.000", "EndTime": "20110125154704.000", "PrimaryTag": "TR0", "Text": "(BEGIN VIDEO CLIP)"}
+{"StartTime": "20110125154704.000", "EndTime": "20110125154706.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154706.000", "EndTime": "20110125154709.000", "PrimaryTag": "TR0", "Text": "OPRAH WINFREY, HOST, \"THE OPRAH WINFREY "}
+{"StartTime": "20110125154709.000", "EndTime": "20110125154711.000", "PrimaryTag": "TR0", "Text": "SHOW\":  My sister Patricia is here.  Come "}
+{"StartTime": "20110125154711.000", "EndTime": "20110125154714.000", "PrimaryTag": "TR0", "Text": "on out, Patricia!       PATRICIA, OPRAH'S "}
+{"StartTime": "20110125154714.000", "EndTime": "20110125154716.000", "PrimaryTag": "TR0", "Text": "HALF SISTER:  One reason why I didn't give "}
+{"StartTime": "20110125154716.000", "EndTime": "20110125154719.000", "PrimaryTag": "TR0", "Text": "up is because I know that I need to get it "}
+{"StartTime": "20110125154719.000", "EndTime": "20110125154721.000", "PrimaryTag": "TR0", "Text": "out or get in touch with you so that no "}
+{"StartTime": "20110125154721.000", "EndTime": "20110125154724.000", "PrimaryTag": "TR0", "Text": "one else would put it out there."}
+{"StartTime": "20110125154724.000", "EndTime": "20110125154726.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154726.000", "EndTime": "20110125154729.000", "PrimaryTag": "TR0", "Text": "WINFREY:  Uh-huh."}
+{"StartTime": "20110125154729.000", "EndTime": "20110125154731.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154731.000", "EndTime": "20110125154734.000", "PrimaryTag": "TR0", "Text": "PATRICIA:  And then another reason is for "}
+{"StartTime": "20110125154734.000", "EndTime": "20110125154736.000", "PrimaryTag": "TR0", "Text": "my children."}
+{"StartTime": "20110125154736.000", "EndTime": "20110125154739.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154739.000", "EndTime": "20110125154741.000", "PrimaryTag": "TR0", "Text": "(END VIDEO CLIP)"}
+{"StartTime": "20110125154741.000", "EndTime": "20110125154744.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154744.000", "EndTime": "20110125154746.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Patricia says she knows about "}
+{"StartTime": "20110125154746.000", "EndTime": "20110125154749.000", "PrimaryTag": "TR0", "Text": "her famous half sister - she's known about "}
+{"StartTime": "20110125154749.000", "EndTime": "20110125154751.000", "PrimaryTag": "TR0", "Text": "her, that is, since 2007, but she wanted "}
+{"StartTime": "20110125154751.000", "EndTime": "20110125154754.000", "PrimaryTag": "TR0", "Text": "to protect Oprah from the tabloids.  "}
+{"StartTime": "20110125154754.000", "EndTime": "20110125154756.000", "PrimaryTag": "TR0", "Text": "Sometimes secrets are worth keeping."}
+{"StartTime": "20110125154756.000", "EndTime": "20110125154759.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154759.000", "EndTime": "20110125154801.000", "PrimaryTag": "TR0", "Text": "And we're following breaking news out of "}
+{"StartTime": "20110125154801.000", "EndTime": "20110125154804.000", "PrimaryTag": "TR0", "Text": "Egypt, where demonstrations are boiling up "}
+{"StartTime": "20110125154804.000", "EndTime": "20110125154806.000", "PrimaryTag": "TR0", "Text": "in the streets.  Protestors are railing "}
+{"StartTime": "20110125154806.000", "EndTime": "20110125154809.000", "PrimaryTag": "TR0", "Text": "against corruption and the faltering "}
+{"StartTime": "20110125154809.000", "EndTime": "20110125154811.000", "PrimaryTag": "TR0", "Text": "economy.  More importantly, though, "}
+{"StartTime": "20110125154811.000", "EndTime": "20110125154814.000", "PrimaryTag": "TR0", "Text": "organizers say that they are ceasing on "}
+{"StartTime": "20110125154814.000", "EndTime": "20110125154816.000", "PrimaryTag": "TR0", "Text": "the unrest to topple the government, as "}
+{"StartTime": "20110125154816.000", "EndTime": "20110125154819.000", "PrimaryTag": "TR0", "Text": "may have happened in nearby Tunisia.  "}
+{"StartTime": "20110125154819.000", "EndTime": "20110125154821.000", "PrimaryTag": "TR0", "Text": "We'll bring you more after the break."}
+{"StartTime": "20110125154821.000", "EndTime": "20110125154824.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154824.000", "EndTime": "20110125154826.000", "PrimaryTag": "TR0", "Text": "(COMMERCIAL BREAK)"}
+{"StartTime": "20110125154826.000", "EndTime": "20110125154829.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154829.000", "EndTime": "20110125154831.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  We're following breaking news "}
+{"StartTime": "20110125154831.000", "EndTime": "20110125154834.000", "PrimaryTag": "TR0", "Text": "out of Egypt, where demonstrations are "}
+{"StartTime": "20110125154834.000", "EndTime": "20110125154836.000", "PrimaryTag": "TR0", "Text": "boiling up in the streets.  The protesters "}
+{"StartTime": "20110125154836.000", "EndTime": "20110125154839.000", "PrimaryTag": "TR0", "Text": "are railing against corruption and the "}
+{"StartTime": "20110125154839.000", "EndTime": "20110125154841.000", "PrimaryTag": "TR0", "Text": "faltering economy.  Joining us on the "}
+{"StartTime": "20110125154841.000", "EndTime": "20110125154844.000", "PrimaryTag": "TR0", "Text": "telephone now, our own Ben Wedeman, who is "}
+{"StartTime": "20110125154844.000", "EndTime": "20110125154846.000", "PrimaryTag": "TR0", "Text": "there."}
+{"StartTime": "20110125154846.000", "EndTime": "20110125154849.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154849.000", "EndTime": "20110125154851.000", "PrimaryTag": "TR0", "Text": "Ben, what have you seen and, first of all, "}
+{"StartTime": "20110125154851.000", "EndTime": "20110125154854.000", "PrimaryTag": "TR0", "Text": "how large are these demonstrations "}
+{"StartTime": "20110125154854.000", "EndTime": "20110125154856.000", "PrimaryTag": "TR0", "Text": "compared to demonstrations that you've "}
+{"StartTime": "20110125154856.000", "EndTime": "20110125154859.000", "PrimaryTag": "TR0", "Text": "seen in the past there?"}
+{"StartTime": "20110125154859.000", "EndTime": "20110125154901.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154901.000", "EndTime": "20110125154904.000", "PrimaryTag": "TR0", "Text": "BEN WEDEMAN, CNN SENIOR INTERNATIONAL "}
+{"StartTime": "20110125154904.000", "EndTime": "20110125154906.000", "PrimaryTag": "TR0", "Text": "CORRESPONDENT (via phone): Martin, these "}
+{"StartTime": "20110125154906.000", "EndTime": "20110125154909.000", "PrimaryTag": "TR0", "Text": "are the biggest demonstrations that I've "}
+{"StartTime": "20110125154909.000", "EndTime": "20110125154911.000", "PrimaryTag": "TR0", "Text": "seen in Egypt ever.  There are literally "}
+{"StartTime": "20110125154911.000", "EndTime": "20110125154914.000", "PrimaryTag": "TR0", "Text": "thousands and thousands of people in what "}
+{"StartTime": "20110125154914.000", "EndTime": "20110125154916.000", "PrimaryTag": "TR0", "Text": "is known as (SPEAKING IN FOREIGN "}
+{"StartTime": "20110125154916.000", "EndTime": "20110125154919.000", "PrimaryTag": "TR0", "Text": "LANGUAGE), the very middle of the (AUDIO "}
+{"StartTime": "20110125154919.000", "EndTime": "20110125154921.000", "PrimaryTag": "TR0", "Text": "GAP) next to the famous Egyptian museum "}
+{"StartTime": "20110125154921.000", "EndTime": "20110125154924.000", "PrimaryTag": "TR0", "Text": "and the old (INAUDIBLE) hotel.  There are "}
+{"StartTime": "20110125154924.000", "EndTime": "20110125154926.000", "PrimaryTag": "TR0", "Text": "thousands and thousands of people here.  "}
+{"StartTime": "20110125154926.000", "EndTime": "20110125154929.000", "PrimaryTag": "TR0", "Text": "And they're now chanting (SPEAKING IN "}
+{"StartTime": "20110125154929.000", "EndTime": "20110125154931.000", "PrimaryTag": "TR0", "Text": "FOREIGN LANGUAGE), you should go.  They "}
+{"StartTime": "20110125154931.000", "EndTime": "20110125154934.000", "PrimaryTag": "TR0", "Text": "were rocks at the police before.  The "}
+{"StartTime": "20110125154934.000", "EndTime": "20110125154936.000", "PrimaryTag": "TR0", "Text": "police are responding with very intense "}
+{"StartTime": "20110125154936.000", "EndTime": "20110125154939.000", "PrimaryTag": "TR0", "Text": "tear gas."}
+{"StartTime": "20110125154939.000", "EndTime": "20110125154941.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125154941.000", "EndTime": "20110125154944.000", "PrimaryTag": "TR0", "Text": "This demonstration here, in this part of "}
+{"StartTime": "20110125154944.000", "EndTime": "20110125154946.000", "PrimaryTag": "TR0", "Text": "town, has been going on for at least three "}
+{"StartTime": "20110125154946.000", "EndTime": "20110125154949.000", "PrimaryTag": "TR0", "Text": "hours.  But the demonstrations began "}
+{"StartTime": "20110125154949.000", "EndTime": "20110125154951.000", "PrimaryTag": "TR0", "Text": "around midday, another (INAUDIBLE) about "}
+{"StartTime": "20110125154951.000", "EndTime": "20110125154954.000", "PrimaryTag": "TR0", "Text": "six hours ago.  (INAUDIBLE) Cairo, very "}
+{"StartTime": "20110125154954.000", "EndTime": "20110125154956.000", "PrimaryTag": "TR0", "Text": "filled pocket, which has spread and "}
+{"StartTime": "20110125154956.000", "EndTime": "20110125154959.000", "PrimaryTag": "TR0", "Text": "connected.  And I've watched thousands of "}
+{"StartTime": "20110125154959.000", "EndTime": "20110125155001.000", "PrimaryTag": "TR0", "Text": "people, mostly university students, poured "}
+{"StartTime": "20110125155001.000", "EndTime": "20110125155004.000", "PrimaryTag": "TR0", "Text": "over one of the main bridges from Giza "}
+{"StartTime": "20110125155004.000", "EndTime": "20110125155006.000", "PrimaryTag": "TR0", "Text": "(ph), which is another part of Cairo, into "}
+{"StartTime": "20110125155006.000", "EndTime": "20110125155009.000", "PrimaryTag": "TR0", "Text": "the main part of the city."}
+{"StartTime": "20110125155009.000", "EndTime": "20110125155011.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155011.000", "EndTime": "20110125155014.000", "PrimaryTag": "TR0", "Text": "And the police seem to be utterly "}
+{"StartTime": "20110125155014.000", "EndTime": "20110125155016.000", "PrimaryTag": "TR0", "Text": "overwhelmed.  They don't seem to know how "}
+{"StartTime": "20110125155016.000", "EndTime": "20110125155019.000", "PrimaryTag": "TR0", "Text": "to deal with such a huge crowd, a crowd "}
+{"StartTime": "20110125155019.000", "EndTime": "20110125155021.000", "PrimaryTag": "TR0", "Text": "that seems persistent in challenging the "}
+{"StartTime": "20110125155021.000", "EndTime": "20110125155024.000", "PrimaryTag": "TR0", "Text": "police and actually pushing them back."}
+{"StartTime": "20110125155024.000", "EndTime": "20110125155026.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155026.000", "EndTime": "20110125155029.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Do we have any idea, Ben, as you "}
+{"StartTime": "20110125155029.000", "EndTime": "20110125155031.000", "PrimaryTag": "TR0", "Text": "look at this crowd, the makeup?  Are they "}
+{"StartTime": "20110125155031.000", "EndTime": "20110125155034.000", "PrimaryTag": "TR0", "Text": "all just students, or do they seem to "}
+{"StartTime": "20110125155034.000", "EndTime": "20110125155036.000", "PrimaryTag": "TR0", "Text": "represent all ages and all walks of life "}
+{"StartTime": "20110125155036.000", "EndTime": "20110125155039.000", "PrimaryTag": "TR0", "Text": "there in Egypt?"}
+{"StartTime": "20110125155039.000", "EndTime": "20110125155041.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155041.000", "EndTime": "20110125155044.000", "PrimaryTag": "TR0", "Text": "WEDEMAN:  As far as I can tell, Martin, "}
+{"StartTime": "20110125155044.000", "EndTime": "20110125155046.000", "PrimaryTag": "TR0", "Text": "it's all walks of life. (INAUDIBLE) "}
+{"StartTime": "20110125155046.000", "EndTime": "20110125155049.000", "PrimaryTag": "TR0", "Text": "students, business men.  One we met works "}
+{"StartTime": "20110125155049.000", "EndTime": "20110125155051.000", "PrimaryTag": "TR0", "Text": "in a marketing firm.  He told me this is "}
+{"StartTime": "20110125155051.000", "EndTime": "20110125155054.000", "PrimaryTag": "TR0", "Text": "the first time he's ever come to a "}
+{"StartTime": "20110125155054.000", "EndTime": "20110125155056.000", "PrimaryTag": "TR0", "Text": "demonstration, and he said he wants to "}
+{"StartTime": "20110125155056.000", "EndTime": "20110125155059.000", "PrimaryTag": "TR0", "Text": "(INAUDIBLE).  Like so many other "}
+{"StartTime": "20110125155059.000", "EndTime": "20110125155101.000", "PrimaryTag": "TR0", "Text": "Egyptians, fed up with economic decay, "}
+{"StartTime": "20110125155101.000", "EndTime": "20110125155104.000", "PrimaryTag": "TR0", "Text": "corruption, and (INAUDIBLE) totalitarian "}
+{"StartTime": "20110125155104.000", "EndTime": "20110125155106.000", "PrimaryTag": "TR0", "Text": "government.  And so they want no part of "}
+{"StartTime": "20110125155106.000", "EndTime": "20110125155109.000", "PrimaryTag": "TR0", "Text": "it. They want this government to go."}
+{"StartTime": "20110125155109.000", "EndTime": "20110125155111.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155111.000", "EndTime": "20110125155114.000", "PrimaryTag": "TR0", "Text": "Obviously, they watched events in Tunisia, "}
+{"StartTime": "20110125155114.000", "EndTime": "20110125155116.000", "PrimaryTag": "TR0", "Text": "and they want the same sort of thing to "}
+{"StartTime": "20110125155116.000", "EndTime": "20110125155119.000", "PrimaryTag": "TR0", "Text": "happen here.  Marty?"}
+{"StartTime": "20110125155119.000", "EndTime": "20110125155121.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155121.000", "EndTime": "20110125155124.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Ben Wedeman is referring to the "}
+{"StartTime": "20110125155124.000", "EndTime": "20110125155126.000", "PrimaryTag": "TR0", "Text": "events in Tunisia. That's another North "}
+{"StartTime": "20110125155126.000", "EndTime": "20110125155129.000", "PrimaryTag": "TR0", "Text": "African nation, in which actually the "}
+{"StartTime": "20110125155129.000", "EndTime": "20110125155131.000", "PrimaryTag": "TR0", "Text": "president was overthrown and forced to "}
+{"StartTime": "20110125155131.000", "EndTime": "20110125155134.000", "PrimaryTag": "TR0", "Text": "flee to Saudi Arabia as a result of public "}
+{"StartTime": "20110125155134.000", "EndTime": "20110125155136.000", "PrimaryTag": "TR0", "Text": "protests there."}
+{"StartTime": "20110125155136.000", "EndTime": "20110125155139.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155139.000", "EndTime": "20110125155141.000", "PrimaryTag": "TR0", "Text": "Ben, Egypt is such a strong ally of the "}
+{"StartTime": "20110125155141.000", "EndTime": "20110125155144.000", "PrimaryTag": "TR0", "Text": "United States there in the Mideast region. "}
+{"StartTime": "20110125155144.000", "EndTime": "20110125155146.000", "PrimaryTag": "TR0", "Text": " What is the real threat?  How much of a "}
+{"StartTime": "20110125155146.000", "EndTime": "20110125155149.000", "PrimaryTag": "TR0", "Text": "threat is there to the government as a "}
+{"StartTime": "20110125155149.000", "EndTime": "20110125155151.000", "PrimaryTag": "TR0", "Text": "result of these demonstrations?"}
+{"StartTime": "20110125155151.000", "EndTime": "20110125155154.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155154.000", "EndTime": "20110125155156.000", "PrimaryTag": "TR0", "Text": "WEDEMAN:  Well, obviously this is going to "}
+{"StartTime": "20110125155156.000", "EndTime": "20110125155159.000", "PrimaryTag": "TR0", "Text": "be a problem for the United States, which "}
+{"StartTime": "20110125155159.000", "EndTime": "20110125155201.000", "PrimaryTag": "TR0", "Text": "has invested so much politically, "}
+{"StartTime": "20110125155201.000", "EndTime": "20110125155204.000", "PrimaryTag": "TR0", "Text": "financially, militarily in Egypt.  Egypt "}
+{"StartTime": "20110125155204.000", "EndTime": "20110125155206.000", "PrimaryTag": "TR0", "Text": "is the second-largest recipient of foreign "}
+{"StartTime": "20110125155206.000", "EndTime": "20110125155209.000", "PrimaryTag": "TR0", "Text": "aid for the (INAUDIBLE) after Israel, and "}
+{"StartTime": "20110125155209.000", "EndTime": "20110125155211.000", "PrimaryTag": "TR0", "Text": "this unrest is obviously going to have to "}
+{"StartTime": "20110125155211.000", "EndTime": "20110125155214.000", "PrimaryTag": "TR0", "Text": "constantly recalculate in political "}
+{"StartTime": "20110125155214.000", "EndTime": "20110125155216.000", "PrimaryTag": "TR0", "Text": "recalculations (ph)."}
+{"StartTime": "20110125155216.000", "EndTime": "20110125155219.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155219.000", "EndTime": "20110125155221.000", "PrimaryTag": "TR0", "Text": "Any way, right now (INAUDIBLE), tear gas.  "}
+{"StartTime": "20110125155221.000", "EndTime": "20110125155224.000", "PrimaryTag": "TR0", "Text": "(COUGHS)."}
+{"StartTime": "20110125155224.000", "EndTime": "20110125155226.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155226.000", "EndTime": "20110125155229.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  All right.  Are you able to "}
+{"StartTime": "20110125155229.000", "EndTime": "20110125155231.000", "PrimaryTag": "TR0", "Text": "carry on, or do you want to get to a place "}
+{"StartTime": "20110125155231.000", "EndTime": "20110125155234.000", "PrimaryTag": "TR0", "Text": "of safety, Ben?"}
+{"StartTime": "20110125155234.000", "EndTime": "20110125155236.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155236.000", "EndTime": "20110125155239.000", "PrimaryTag": "TR0", "Text": "WEDEMAN:  I'm going to do my best, Marty.  "}
+{"StartTime": "20110125155239.000", "EndTime": "20110125155241.000", "PrimaryTag": "TR0", "Text": "I'll do my best, but I'm just going to "}
+{"StartTime": "20110125155241.000", "EndTime": "20110125155244.000", "PrimaryTag": "TR0", "Text": "have to keep my one eye open."}
+{"StartTime": "20110125155244.000", "EndTime": "20110125155246.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155246.000", "EndTime": "20110125155249.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  The tear gas that's being fired "}
+{"StartTime": "20110125155249.000", "EndTime": "20110125155251.000", "PrimaryTag": "TR0", "Text": "there, is that the only thing that's being "}
+{"StartTime": "20110125155251.000", "EndTime": "20110125155254.000", "PrimaryTag": "TR0", "Text": "used or has the police actually moved in "}
+{"StartTime": "20110125155254.000", "EndTime": "20110125155256.000", "PrimaryTag": "TR0", "Text": "on the crowd?"}
+{"StartTime": "20110125155256.000", "EndTime": "20110125155259.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155259.000", "EndTime": "20110125155301.000", "PrimaryTag": "TR0", "Text": "WEDEMAN:  No, basically, it's tear gas, "}
+{"StartTime": "20110125155301.000", "EndTime": "20110125155304.000", "PrimaryTag": "TR0", "Text": "but before, demonstrators were firing - or "}
+{"StartTime": "20110125155304.000", "EndTime": "20110125155306.000", "PrimaryTag": "TR0", "Text": "rather, throwing rocks at the police, and "}
+{"StartTime": "20110125155306.000", "EndTime": "20110125155309.000", "PrimaryTag": "TR0", "Text": "the police were throwing rocks back.  "}
+{"StartTime": "20110125155309.000", "EndTime": "20110125155311.000", "PrimaryTag": "TR0", "Text": "(INAUDIBLE) tear gas."}
+{"StartTime": "20110125155311.000", "EndTime": "20110125155314.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155314.000", "EndTime": "20110125155316.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  What you're watching and what "}
+{"StartTime": "20110125155316.000", "EndTime": "20110125155319.000", "PrimaryTag": "TR0", "Text": "you're listening to is our CNN reporter, "}
+{"StartTime": "20110125155319.000", "EndTime": "20110125155321.000", "PrimaryTag": "TR0", "Text": "Ben Wedeman, who is in Cairo, where he is "}
+{"StartTime": "20110125155321.000", "EndTime": "20110125155324.000", "PrimaryTag": "TR0", "Text": "reporting some of the largest if not the "}
+{"StartTime": "20110125155324.000", "EndTime": "20110125155326.000", "PrimaryTag": "TR0", "Text": "largest demonstrations he's ever witnessed "}
+{"StartTime": "20110125155326.000", "EndTime": "20110125155329.000", "PrimaryTag": "TR0", "Text": "there in the capital there.  And what he "}
+{"StartTime": "20110125155329.000", "EndTime": "20110125155331.000", "PrimaryTag": "TR0", "Text": "is saying is that these are protests that "}
+{"StartTime": "20110125155331.000", "EndTime": "20110125155334.000", "PrimaryTag": "TR0", "Text": "seem to be mirroring protests that took "}
+{"StartTime": "20110125155334.000", "EndTime": "20110125155336.000", "PrimaryTag": "TR0", "Text": "place in Tunisia a number of weeks ago in "}
+{"StartTime": "20110125155336.000", "EndTime": "20110125155339.000", "PrimaryTag": "TR0", "Text": "which that government there fell as a "}
+{"StartTime": "20110125155339.000", "EndTime": "20110125155341.000", "PrimaryTag": "TR0", "Text": "result of public street protests."}
+{"StartTime": "20110125155341.000", "EndTime": "20110125155344.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155344.000", "EndTime": "20110125155346.000", "PrimaryTag": "TR0", "Text": "Now it appears that the protests are "}
+{"StartTime": "20110125155346.000", "EndTime": "20110125155349.000", "PrimaryTag": "TR0", "Text": "spreading to other countries, and there "}
+{"StartTime": "20110125155349.000", "EndTime": "20110125155351.000", "PrimaryTag": "TR0", "Text": "was especially concern that those "}
+{"StartTime": "20110125155351.000", "EndTime": "20110125155354.000", "PrimaryTag": "TR0", "Text": "countries that had authoritarian regimes, "}
+{"StartTime": "20110125155354.000", "EndTime": "20110125155356.000", "PrimaryTag": "TR0", "Text": "such as Eqypt with President Hosni "}
+{"StartTime": "20110125155356.000", "EndTime": "20110125155359.000", "PrimaryTag": "TR0", "Text": "Mubarak, who has had a very tight grip on "}
+{"StartTime": "20110125155359.000", "EndTime": "20110125155401.000", "PrimaryTag": "TR0", "Text": "power, but he is also a strong ally of the "}
+{"StartTime": "20110125155401.000", "EndTime": "20110125155404.000", "PrimaryTag": "TR0", "Text": "United States.  Ben, you don't think that "}
+{"StartTime": "20110125155404.000", "EndTime": "20110125155406.000", "PrimaryTag": "TR0", "Text": "this could actually bring the government "}
+{"StartTime": "20110125155406.000", "EndTime": "20110125155409.000", "PrimaryTag": "TR0", "Text": "down at this stage?"}
+{"StartTime": "20110125155409.000", "EndTime": "20110125155411.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155411.000", "EndTime": "20110125155414.000", "PrimaryTag": "TR0", "Text": "WEDEMAN:  It's very early to tell, Martin. "}
+{"StartTime": "20110125155414.000", "EndTime": "20110125155416.000", "PrimaryTag": "TR0", "Text": " I mean, it took several weeks of "}
+{"StartTime": "20110125155416.000", "EndTime": "20110125155419.000", "PrimaryTag": "TR0", "Text": "demonstrations -- and bloody "}
+{"StartTime": "20110125155419.000", "EndTime": "20110125155421.000", "PrimaryTag": "TR0", "Text": "demonstrations to take down the regime in "}
+{"StartTime": "20110125155421.000", "EndTime": "20110125155424.000", "PrimaryTag": "TR0", "Text": "Tunisia.  And as far as I know, and I "}
+{"StartTime": "20110125155424.000", "EndTime": "20110125155426.000", "PrimaryTag": "TR0", "Text": "don't have access to all the information "}
+{"StartTime": "20110125155426.000", "EndTime": "20110125155429.000", "PrimaryTag": "TR0", "Text": "where I am - as far as I know, there have "}
+{"StartTime": "20110125155429.000", "EndTime": "20110125155431.000", "PrimaryTag": "TR0", "Text": "been no fatalities.  I've seen lots of "}
+{"StartTime": "20110125155431.000", "EndTime": "20110125155434.000", "PrimaryTag": "TR0", "Text": "people that have been injured with rocks "}
+{"StartTime": "20110125155434.000", "EndTime": "20110125155436.000", "PrimaryTag": "TR0", "Text": "and what not.  But it hasn't really gotten "}
+{"StartTime": "20110125155436.000", "EndTime": "20110125155439.000", "PrimaryTag": "TR0", "Text": "to the point where, you know -- when "}
+{"StartTime": "20110125155439.000", "EndTime": "20110125155441.000", "PrimaryTag": "TR0", "Text": "people start getting killed in these "}
+{"StartTime": "20110125155441.000", "EndTime": "20110125155444.000", "PrimaryTag": "TR0", "Text": "demonstrations, then it can get very "}
+{"StartTime": "20110125155444.000", "EndTime": "20110125155446.000", "PrimaryTag": "TR0", "Text": "volatile."}
+{"StartTime": "20110125155446.000", "EndTime": "20110125155449.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155449.000", "EndTime": "20110125155451.000", "PrimaryTag": "TR0", "Text": "At the moment, I'm just seeing lots of "}
+{"StartTime": "20110125155451.000", "EndTime": "20110125155454.000", "PrimaryTag": "TR0", "Text": "tear gas - no (INAUDIBLE) yet."}
+{"StartTime": "20110125155454.000", "EndTime": "20110125155456.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155456.000", "EndTime": "20110125155459.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Has the government responded "}
+{"StartTime": "20110125155459.000", "EndTime": "20110125155501.000", "PrimaryTag": "TR0", "Text": "publicly on television in anyway to try to "}
+{"StartTime": "20110125155501.000", "EndTime": "20110125155504.000", "PrimaryTag": "TR0", "Text": "simmer the situation down?"}
+{"StartTime": "20110125155504.000", "EndTime": "20110125155506.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155506.000", "EndTime": "20110125155509.000", "PrimaryTag": "TR0", "Text": "WEDEMAN:  As far as I know, not today.  "}
+{"StartTime": "20110125155509.000", "EndTime": "20110125155511.000", "PrimaryTag": "TR0", "Text": "The government has been sending out some "}
+{"StartTime": "20110125155511.000", "EndTime": "20110125155514.000", "PrimaryTag": "TR0", "Text": "press releases to try to knock down the "}
+{"StartTime": "20110125155514.000", "EndTime": "20110125155516.000", "PrimaryTag": "TR0", "Text": "more wild stories that are coming out.  "}
+{"StartTime": "20110125155516.000", "EndTime": "20110125155519.000", "PrimaryTag": "TR0", "Text": "After (INAUDIBLE) demonstrations, for "}
+{"StartTime": "20110125155519.000", "EndTime": "20110125155521.000", "PrimaryTag": "TR0", "Text": "instance, there was one rumor that a group "}
+{"StartTime": "20110125155521.000", "EndTime": "20110125155524.000", "PrimaryTag": "TR0", "Text": "of school girls participated in the "}
+{"StartTime": "20110125155524.000", "EndTime": "20110125155526.000", "PrimaryTag": "TR0", "Text": "demonstrations, and then were arrested by "}
+{"StartTime": "20110125155526.000", "EndTime": "20110125155529.000", "PrimaryTag": "TR0", "Text": "the police.  So, the minister of the "}
+{"StartTime": "20110125155529.000", "EndTime": "20110125155531.000", "PrimaryTag": "TR0", "Text": "interior quickly stopped that rumor to the "}
+{"StartTime": "20110125155531.000", "EndTime": "20110125155534.000", "PrimaryTag": "TR0", "Text": "best of their abilities."}
+{"StartTime": "20110125155534.000", "EndTime": "20110125155536.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155536.000", "EndTime": "20110125155539.000", "PrimaryTag": "TR0", "Text": "But my feeling is that the government "}
+{"StartTime": "20110125155539.000", "EndTime": "20110125155541.000", "PrimaryTag": "TR0", "Text": "simply did not anticipate that these "}
+{"StartTime": "20110125155541.000", "EndTime": "20110125155544.000", "PrimaryTag": "TR0", "Text": "demonstrations would get so big and so "}
+{"StartTime": "20110125155544.000", "EndTime": "20110125155546.000", "PrimaryTag": "TR0", "Text": "widespread.  Because it's not just in "}
+{"StartTime": "20110125155546.000", "EndTime": "20110125155549.000", "PrimaryTag": "TR0", "Text": "Cairo.  There are demonstrations in "}
+{"StartTime": "20110125155549.000", "EndTime": "20110125155551.000", "PrimaryTag": "TR0", "Text": "Alexandria, in cities in upper Egypt.  "}
+{"StartTime": "20110125155551.000", "EndTime": "20110125155554.000", "PrimaryTag": "TR0", "Text": "Really in almost every major Egyptian city "}
+{"StartTime": "20110125155554.000", "EndTime": "20110125155556.000", "PrimaryTag": "TR0", "Text": "there is some sort of demonstration or "}
+{"StartTime": "20110125155556.000", "EndTime": "20110125155559.000", "PrimaryTag": "TR0", "Text": "protest going on along the same lines as "}
+{"StartTime": "20110125155559.000", "EndTime": "20110125155601.000", "PrimaryTag": "TR0", "Text": "this one."}
+{"StartTime": "20110125155601.000", "EndTime": "20110125155604.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155604.000", "EndTime": "20110125155606.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  And do we know, are these "}
+{"StartTime": "20110125155606.000", "EndTime": "20110125155609.000", "PrimaryTag": "TR0", "Text": "spontaneous demonstrations or were these "}
+{"StartTime": "20110125155609.000", "EndTime": "20110125155611.000", "PrimaryTag": "TR0", "Text": "called for and organized in some way?"}
+{"StartTime": "20110125155611.000", "EndTime": "20110125155614.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155614.000", "EndTime": "20110125155616.000", "PrimaryTag": "TR0", "Text": "WEDEMAN:  Yes, they were organized.  This "}
+{"StartTime": "20110125155616.000", "EndTime": "20110125155619.000", "PrimaryTag": "TR0", "Text": "is something that - sort of activists were "}
+{"StartTime": "20110125155619.000", "EndTime": "20110125155621.000", "PrimaryTag": "TR0", "Text": "well aware of this more than a week ago.  "}
+{"StartTime": "20110125155621.000", "EndTime": "20110125155624.000", "PrimaryTag": "TR0", "Text": "There are two international groups, two "}
+{"StartTime": "20110125155624.000", "EndTime": "20110125155626.000", "PrimaryTag": "TR0", "Text": "Facebook groups.  One organized "}
+{"StartTime": "20110125155626.000", "EndTime": "20110125155629.000", "PrimaryTag": "TR0", "Text": "(INAUDIBLE) youth. And another group that "}
+{"StartTime": "20110125155629.000", "EndTime": "20110125155631.000", "PrimaryTag": "TR0", "Text": "rallied around the young Egyptian who was "}
+{"StartTime": "20110125155631.000", "EndTime": "20110125155634.000", "PrimaryTag": "TR0", "Text": "killed in Alexandria by the police.  These "}
+{"StartTime": "20110125155634.000", "EndTime": "20110125155636.000", "PrimaryTag": "TR0", "Text": "two groups have really been canvassing the "}
+{"StartTime": "20110125155636.000", "EndTime": "20110125155639.000", "PrimaryTag": "TR0", "Text": "country, sending SMSes, posting messages "}
+{"StartTime": "20110125155639.000", "EndTime": "20110125155641.000", "PrimaryTag": "TR0", "Text": "on Facebook and Twitter.  And really "}
+{"StartTime": "20110125155641.000", "EndTime": "20110125155644.000", "PrimaryTag": "TR0", "Text": "through word of mouth, it's spread around."}
+{"StartTime": "20110125155644.000", "EndTime": "20110125155646.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155646.000", "EndTime": "20110125155649.000", "PrimaryTag": "TR0", "Text": "So, it wasn't anything (AUDIO GAP) well "}
+{"StartTime": "20110125155649.000", "EndTime": "20110125155651.000", "PrimaryTag": "TR0", "Text": "aware that this was in the works.  But I "}
+{"StartTime": "20110125155651.000", "EndTime": "20110125155654.000", "PrimaryTag": "TR0", "Text": "don't think they realized that there would "}
+{"StartTime": "20110125155654.000", "EndTime": "20110125155656.000", "PrimaryTag": "TR0", "Text": "be quite this many people who responded to "}
+{"StartTime": "20110125155656.000", "EndTime": "20110125155659.000", "PrimaryTag": "TR0", "Text": "the call."}
+{"StartTime": "20110125155659.000", "EndTime": "20110125155701.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155701.000", "EndTime": "20110125155704.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  All right.  Ben Wedeman on the "}
+{"StartTime": "20110125155704.000", "EndTime": "20110125155706.000", "PrimaryTag": "TR0", "Text": "streets of Cairo, who is being tear gassed "}
+{"StartTime": "20110125155706.000", "EndTime": "20110125155709.000", "PrimaryTag": "TR0", "Text": "and in the middle of the demonstrations, "}
+{"StartTime": "20110125155709.000", "EndTime": "20110125155711.000", "PrimaryTag": "TR0", "Text": "the largest of which he says he's ever "}
+{"StartTime": "20110125155711.000", "EndTime": "20110125155714.000", "PrimaryTag": "TR0", "Text": "seen since he's been covering events "}
+{"StartTime": "20110125155714.000", "EndTime": "20110125155716.000", "PrimaryTag": "TR0", "Text": "there, and that says quite a bit."}
+{"StartTime": "20110125155716.000", "EndTime": "20110125155719.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155719.000", "EndTime": "20110125155721.000", "PrimaryTag": "TR0", "Text": "Ben Wedeman, thanks very much.  We'll "}
+{"StartTime": "20110125155721.000", "EndTime": "20110125155724.000", "PrimaryTag": "TR0", "Text": "continue to stay in touch."}
+{"StartTime": "20110125155724.000", "EndTime": "20110125155726.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155726.000", "EndTime": "20110125155729.000", "PrimaryTag": "TR0", "Text": "In the meantime, we'll take a break.  Be "}
+{"StartTime": "20110125155729.000", "EndTime": "20110125155731.000", "PrimaryTag": "TR0", "Text": "back with more after this."}
+{"StartTime": "20110125155731.000", "EndTime": "20110125155734.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155734.000", "EndTime": "20110125155736.000", "PrimaryTag": "TR0", "Text": "(COMMERCIAL BREAK)"}
+{"StartTime": "20110125155736.000", "EndTime": "20110125155739.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155739.000", "EndTime": "20110125155741.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  There will not be just one "}
+{"StartTime": "20110125155741.000", "EndTime": "20110125155744.000", "PrimaryTag": "TR0", "Text": "Republican response at tonight's State of "}
+{"StartTime": "20110125155744.000", "EndTime": "20110125155746.000", "PrimaryTag": "TR0", "Text": "the Union address, but two of them.  "}
+{"StartTime": "20110125155746.000", "EndTime": "20110125155749.000", "PrimaryTag": "TR0", "Text": "Political producer Shannon Travis has the "}
+{"StartTime": "20110125155749.000", "EndTime": "20110125155751.000", "PrimaryTag": "TR0", "Text": "story from the CNNpoltics.com desk."}
+{"StartTime": "20110125155751.000", "EndTime": "20110125155754.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155754.000", "EndTime": "20110125155756.000", "PrimaryTag": "TR0", "Text": "SHANNON TRAVIS, CNN POLITICAL PRODUER:  "}
+{"StartTime": "20110125155756.000", "EndTime": "20110125155759.000", "PrimaryTag": "TR0", "Text": "Hey there, Martin.  Well, we're getting "}
+{"StartTime": "20110125155759.000", "EndTime": "20110125155801.000", "PrimaryTag": "TR0", "Text": "ready here in the political unit for a "}
+{"StartTime": "20110125155801.000", "EndTime": "20110125155804.000", "PrimaryTag": "TR0", "Text": "very long night. I've got my coffee that "}
+{"StartTime": "20110125155804.000", "EndTime": "20110125155806.000", "PrimaryTag": "TR0", "Text": "I've been drinking already."}
+{"StartTime": "20110125155806.000", "EndTime": "20110125155809.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155809.000", "EndTime": "20110125155811.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  Good idea."}
+{"StartTime": "20110125155811.000", "EndTime": "20110125155814.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155814.000", "EndTime": "20110125155816.000", "PrimaryTag": "TR0", "Text": "TRAVIS:  It will be made even longer "}
+{"StartTime": "20110125155816.000", "EndTime": "20110125155819.000", "PrimaryTag": "TR0", "Text": "because after the president delivers his "}
+{"StartTime": "20110125155819.000", "EndTime": "20110125155821.000", "PrimaryTag": "TR0", "Text": "State of the Union address, we already "}
+{"StartTime": "20110125155821.000", "EndTime": "20110125155824.000", "PrimaryTag": "TR0", "Text": "know that House Budget chairman Paul Ryan "}
+{"StartTime": "20110125155824.000", "EndTime": "20110125155826.000", "PrimaryTag": "TR0", "Text": "will be delivering the official Republican "}
+{"StartTime": "20110125155826.000", "EndTime": "20110125155829.000", "PrimaryTag": "TR0", "Text": "response, but then something strange will "}
+{"StartTime": "20110125155829.000", "EndTime": "20110125155831.000", "PrimaryTag": "TR0", "Text": "happen.  Congresswoman Michele Bachmann of "}
+{"StartTime": "20110125155831.000", "EndTime": "20110125155834.000", "PrimaryTag": "TR0", "Text": "Minnesota, the Republican, she will "}
+{"StartTime": "20110125155834.000", "EndTime": "20110125155836.000", "PrimaryTag": "TR0", "Text": "deliver the Tea Party response.  We've got "}
+{"StartTime": "20110125155836.000", "EndTime": "20110125155839.000", "PrimaryTag": "TR0", "Text": "that up on the ticker, actually."}
+{"StartTime": "20110125155839.000", "EndTime": "20110125155841.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155841.000", "EndTime": "20110125155844.000", "PrimaryTag": "TR0", "Text": "She just got off the House floor a few "}
+{"StartTime": "20110125155844.000", "EndTime": "20110125155846.000", "PrimaryTag": "TR0", "Text": "moments ago, talking about what she "}
+{"StartTime": "20110125155846.000", "EndTime": "20110125155849.000", "PrimaryTag": "TR0", "Text": "expects and hopes to hear from the "}
+{"StartTime": "20110125155849.000", "EndTime": "20110125155851.000", "PrimaryTag": "TR0", "Text": "president tonight.  She didn't mention her "}
+{"StartTime": "20110125155851.000", "EndTime": "20110125155854.000", "PrimaryTag": "TR0", "Text": "address.  It'll be here at the National "}
+{"StartTime": "20110125155854.000", "EndTime": "20110125155856.000", "PrimaryTag": "TR0", "Text": "Press Club. She didn't talk about that.  "}
+{"StartTime": "20110125155856.000", "EndTime": "20110125155859.000", "PrimaryTag": "TR0", "Text": "But we do expect for it to stick to very "}
+{"StartTime": "20110125155859.000", "EndTime": "20110125155901.000", "PrimaryTag": "TR0", "Text": "Tea Party type of things."}
+{"StartTime": "20110125155901.000", "EndTime": "20110125155904.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155904.000", "EndTime": "20110125155906.000", "PrimaryTag": "TR0", "Text": "Dan Lothian at the top of the hour will "}
+{"StartTime": "20110125155906.000", "EndTime": "20110125155909.000", "PrimaryTag": "TR0", "Text": "have a little bit more on the State of the "}
+{"StartTime": "20110125155909.000", "EndTime": "20110125155911.000", "PrimaryTag": "TR0", "Text": "Union.  Martin?"}
+{"StartTime": "20110125155911.000", "EndTime": "20110125155914.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155914.000", "EndTime": "20110125155916.000", "PrimaryTag": "TR0", "Text": "SAVIDGE:  All right.  A highly caffeinated "}
+{"StartTime": "20110125155916.000", "EndTime": "20110125155919.000", "PrimaryTag": "TR0", "Text": "team standing by. We'll have the next "}
+{"StartTime": "20110125155919.000", "EndTime": "20110125155921.000", "PrimaryTag": "TR0", "Text": "political update in one hour.  And a "}
+{"StartTime": "20110125155921.000", "EndTime": "20110125155924.000", "PrimaryTag": "TR0", "Text": "reminder, for all of the latest political "}
+{"StartTime": "20110125155924.000", "EndTime": "20110125155926.000", "PrimaryTag": "TR0", "Text": "news, go to our Web site.  That's "}
+{"StartTime": "20110125155926.000", "EndTime": "20110125155929.000", "PrimaryTag": "TR0", "Text": "CNNpolitics.com."}
+{"StartTime": "20110125155929.000", "EndTime": "20110125155931.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155931.000", "EndTime": "20110125155934.000", "PrimaryTag": "TR0", "Text": "Well, that does it for me.  Remember, you "}
+{"StartTime": "20110125155934.000", "EndTime": "20110125155936.000", "PrimaryTag": "TR0", "Text": "can find me on Facebook and Twitter.  "}
+{"StartTime": "20110125155936.000", "EndTime": "20110125155939.000", "PrimaryTag": "TR0", "Text": "Carol Costello is going to join me right "}
+{"StartTime": "20110125155939.000", "EndTime": "20110125155941.000", "PrimaryTag": "TR0", "Text": "after the break."}
+{"StartTime": "20110125155941.000", "EndTime": "20110125155944.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155944.000", "EndTime": "20110125155946.000", "PrimaryTag": "TR0", "Text": "(COMMERCIAL BREAK)"}
+{"StartTime": "20110125155946.000", "EndTime": "20110125155948.000", "PrimaryTag": "TR0", "Text": ""}
+{"StartTime": "20110125155948.000", "EndTime": "20110125155949.000", "PrimaryTag": "TR0", "Text": ""}
+{"End": "20110125155949", "FileName": "2011-01-25_1500_US_CNN_Newsroom"}

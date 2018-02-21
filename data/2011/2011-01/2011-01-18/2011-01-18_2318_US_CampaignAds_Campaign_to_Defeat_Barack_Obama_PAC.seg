@@ -1,0 +1,27 @@
+TOP|20110118231800|2011-01-18_2318_US_CampaignAds_Campaign_to_Defeat_Barack_Obama_PAC
+COL|Communication Studies Archive, UCLA
+UID|30d3fee2-0efa-11e2-b680-a7937e799945
+AQD|2012-10-05 1437 UTC
+DUR|0:00:29.98
+VID|960x720
+TTL|Audio for New TV Ad: Repeal ObamaCare Now!
+URL|http://youtube.com/watch?v=S-fUSUyWN94
+TTS|Youtube English machine transcript 2012-10-05 1437 UTC
+CMT|
+HED|Support this effort: <a href="https://secure.donationsafe.com/dbo" target="_blank" title="https://secure.donationsafe.com/dbo">https://secure.donationsafe.com/dbo</a>
+LAN|ENG
+LBT|2011-01-18 18:18 America/New_York
+SEG_02|2014-02-25 00:36|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+SMT_01|2014-07-28 03:17|Source_Program=Pattern 2.6, seg-sentiment|Source_Person=Tom De Smedt
+SMT_02|2014-07-28 03:17|Source_Program=SentiWordNet 3.0, seg-sentiment|Source_Person=Andrea Esuli
+POS_01|2014-08-11 03:00|Source_Program=MBSP 1.4, PartsOfSpeech-MBSP-05.py|Source_Person=Walter Daelemans, FFS|Codebook=Treebank II
+POS_02|2014-08-12 15:22|Source_Program=stanford-postagger 3.4, PartsOfSpeech-StanfordNLP-02.py|Source_Person=Kristina Toutanova, FFS|Codebook=Treebank II
+NER_03|2016-12-18 22:46|Source_Program=stanford-ner 3.4, NER-StanfordNLP-03.py|Source_Person=Jenny Rose Finkel, FFS|Codebook=Category=Entity
+20110118231800.900|20110118231829.099|SEG_02|Type=Story|Score=1.0
+20110118231800.900|20110118231829.099|TR1|momentum is building for the repeal the for rocco obama's health care bill obama's plan is two thousand pages of the government grabbing power squeezing employers in britain and doctors will become part of it was even unconstitutional americans deserve a better health care that empowers families and doctors to make their own decisions politicians like this time penal colony country deserves better tea party expressed on work is responsible content of this event
+20110118231800.900|20110118231829.099|NER_03|PERSON=rocco obama|PERSON=bill obama|LOCATION=britain
+20110118231800.900|20110118231829.099|POS_02|momentum/NN|is/VBZ|building/VBG|for/IN|the/DT|repeal/NN|the/DT|for/IN|rocco/NNP|obama's/NNP|health/NNP|care/NNP|bill/NNP|obama's/NNP|plan/NN|is/VBZ|two/CD|thousand/CD|pages/NNS|of/IN|the/DT|government/NN|grabbing/VBG|power/NN|squeezing/VBG|employers/NNS|in/IN|britain/NNP|and/CC|doctors/NNS|will/MD|become/VB|part/NN|of/IN|it/PRP|was/VBD|even/RB|unconstitutional/JJ|americans/NNPS|deserve/VBP|a/DT|better/JJR|health/NN|care/NN|that/WDT|empowers/VBZ|families/NNS|and/CC|doctors/NNS|to/TO|make/VB|their/PRP$|own/JJ|decisions/NNS|politicians/NNS|like/IN|this/DT|time/NN|penal/JJ|colony/NN|country/NN|deserves/VBZ|better/JJR|tea/NN|party/NN|expressed/VBN|on/IN|work/NN|is/VBZ|responsible/JJ|content/NN|of/IN|this/DT|event/NN|
+20110118231800.900|20110118231829.099|POS_01|momentum/NN/I-NP/O/momentum|is/VBZ/I-VP/O/be|building/VBG/I-VP/O/build|for/IN/I-PP/B-PNP/for|the/DT/I-NP/I-PNP/the|repeal/NN/I-NP/I-PNP/repeal|the/DT/B-NP/O/the|for/IN/I-PP/B-PNP/for|rocco/NN/I-NP/I-PNP/rocco|obama/NN/I-NP/I-PNP/obama|'s/POS/B-NP/O/'s|health/NN/I-NP/O/health|care/NN/I-NP/O/care|bill/NN/I-NP/O/bill|obama/NN/I-NP/O/obama|'s/POS/B-NP/O/'s|plan/NN/I-NP/O/plan|is/VBZ/I-VP/O/be|two/CD/I-NP/O/two|thousand/CD/I-NP/O/thousand|pages/NNS/I-NP/O/page|of/IN/I-PP/B-PNP/of|the/DT/I-NP/I-PNP/the|government/NN/I-NP/I-PNP/government|grabbing/VBG/I-VP/O/grab|power/NN/I-NP/O/power|squeezing/VBG/I-VP/O/squeeze|employers/NNS/I-NP/O/employer|in/IN/I-PP/B-PNP/in|britain/NN/I-NP/I-PNP/britain|and/CC/I-NP/I-PNP/and|doctors/NNS/I-NP/I-PNP/doctor|will/MD/I-VP/O/will|become/VB/I-VP/O/become|part/NN/I-NP/O/part|of/IN/I-PP/B-PNP/of|it/PRP/I-NP/I-PNP/it|was/VBD/I-VP/O/be|even/RB/I-ADJP/O/even|unconstitutional/JJ/I-ADJP/O/unconstitutional|americans/NNS/I-NP/O/american|deserve/VBP/I-VP/O/deserve|a/DT/I-NP/O/a|better/JJR/I-NP/O/good|health/NN/I-NP/O/health|care/NN/I-NP/O/care|that/WDT/B-NP/O/that|empowers/VBZ/I-VP/O/empower|families/NNS/I-NP/O/family|and/CC/I-NP/O/and|doctors/NNS/I-NP/O/doctor|to/TO/I-VP/O/to|make/VB/I-VP/O/make|their/PRP$/I-NP/O/their|own/JJ/I-NP/O/own|decisions/NNS/I-NP/O/decision|politicians/NNS/I-NP/O/politician|like/IN/I-PP/B-PNP/like|this/DT/I-NP/I-PNP/this|time/NN/I-NP/I-PNP/time|penal/JJ/I-NP/I-PNP/penal|colony/NN/I-NP/I-PNP/colony|country/NN/I-NP/I-PNP/country|deserves/VBZ/I-VP/O/deserve|better/JJR/I-NP/O/good|tea/NN/I-NP/O/tea|party/NN/I-NP/O/party|expressed/VBD/I-VP/O/express|on/IN/I-PP/B-PNP/on|work/NN/I-NP/I-PNP/work|is/VBZ/I-VP/O/be|responsible/JJ/I-ADJP/O/responsible|content/NN/I-NP/O/content|of/IN/I-PP/B-PNP/of|this/DT/I-NP/I-PNP/this|event/NN/I-NP/I-PNP/event
+20110118231800.900|20110118231829.099|SMT_01|0.45|0.6375|better|0.5|0.5|own|0.6|1.0|better|0.5|0.5|responsible|0.2|0.55
+20110118231800.900|20110118231829.099|SMT_02|two|0.0|0.0|thousand|0.0|0.0|in|0.0|0.0|even|0.375|0.375|unconstitutional|-0.75|0.75|better|0.875|0.875|own|0.0|0.0|like|-0.25|0.25|penal|0.0|0.0|better|0.875|0.875|expressed|0.0|0.0|on|0.0|0.0|responsible|0.625|0.625|content|0.0|0.0
+END|20110118231829|2011-01-18_2318_US_CampaignAds_Campaign_to_Defeat_Barack_Obama_PAC

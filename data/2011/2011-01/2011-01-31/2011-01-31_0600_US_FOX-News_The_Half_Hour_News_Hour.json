@@ -1,0 +1,721 @@
+{"Top": "20110131060001", "Filename": "2011-01-31_0600_US_FOX-News_The_Half_Hour_News_Hour"}
+{"Collection": "Communication Studies Archive, UCLA"}
+{"UID": "83055a92-2d03-11e0-a97b-001517add60e"}
+{"Duration": "0:29:49.42"}
+{"Video_Picture_Size": "640x352", "Original_Picture_Size": ""}
+{"Comment": ""}
+{"Language": "ENG"}
+{"Local_Broadcast_Time": "2011-01-30 22:00 America/Los_Angeles"}
+{"Annotation_Tag": "SEG_01", "Creation_Time": "2014-02-14 18:23:43", "Source_Program": "commercial_detection.py", "Source_Person": "Weixin Li"}
+{"StartTime": "20110131060003.000", "EndTime": "20110131060003.000", "PrimaryTag": "XDS", "Text": "%  NETWORK: Fox News Channel"}
+{"StartTime": "20110131060004.000", "EndTime": "20110131060004.000", "PrimaryTag": "XDS", "Text": "%   RATING: (NOT RATED) (72)"}
+{"StartTime": "20110131060006.000", "EndTime": "20110131060006.000", "PrimaryTag": "XDS", "Text": "%     CALL: FNC "}
+{"StartTime": "20110131060017.000", "EndTime": "20110131060512.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110131060017.000", "EndTime": "20110131060024.000", "PrimaryTag": "CC1", "Text": "GACHI,GANUCHI,GANUCHI,GANUCHI.  "}
+{"StartTime": "20110131060024.000", "EndTime": "20110131060024.000", "PrimaryTag": "XDS", "Text": "%    TITLE: News, Fair and Balanced"}
+{"StartTime": "20110131060024.000", "EndTime": "20110131060026.000", "PrimaryTag": "CC1", "Text": ">> YEF BEEN AFRAID FO 20-YES    "}
+{"StartTime": "20110131060026.000", "EndTime": "20110131060028.000", "PrimaryTag": "CC1", "Text": "AND WE ARE NOT AFRAID NOW.      "}
+{"StartTime": "20110131060028.000", "EndTime": "20110131060030.000", "PrimaryTag": "CC1", "Text": "WE WANT TO BE FREE TO ELECT A   "}
+{"StartTime": "20110131060030.000", "EndTime": "20110131060034.000", "PrimaryTag": "CC1", "Text": "PRIDENT A REA PRESIDENT THAT    "}
+{"StartTime": "20110131060034.000", "EndTime": "20110131060036.000", "PrimaryTag": "CC1", "Text": "CAN TAKE THIS COUNTRY FORWARD.  "}
+{"StartTime": "20110131060036.000", "EndTime": "20110131060040.000", "PrimaryTag": "CC1", "Text": ">> LIVE AND A LAR AS EGYPT IS   "}
+{"StartTime": "20110131060040.000", "EndTime": "20110131060042.000", "PrimaryTag": "CC1", "Text": "ON THE BRINK OF AN NC KEY.      "}
+{"StartTime": "20110131060042.000", "EndTime": "20110131060044.000", "PrimaryTag": "CC1", "Text": "SHOPS HOMES AND BUSINESSES BEI  "}
+{"StartTime": "20110131060044.000", "EndTime": "20110131060046.000", "PrimaryTag": "CC1", "Text": "LOOTD THEY HAVE A CURFEW.       "}
+{"StartTime": "20110131060046.000", "EndTime": "20110131060049.000", "PrimaryTag": "CC1", "Text": "THE GYPTIAN MUSEUM ITSELF BEIN  "}
+{"StartTime": "20110131060049.000", "EndTime": "20110131060050.000", "PrimaryTag": "CC1", "Text": "DEFILED THE RICH FLEEING THE    "}
+{"StartTime": "20110131060050.000", "EndTime": "20110131060051.000", "PrimaryTag": "CC1", "Text": "COUNTRY.                        "}
+{"StartTime": "20110131060051.000", "EndTime": "20110131060052.000", "PrimaryTag": "CC1", "Text": "GOVERNMTS INCLUDING OUR OWN     "}
+{"StartTime": "20110131060052.000", "EndTime": "20110131060054.000", "PrimaryTag": "CC1", "Text": "MAKING PLANS TO EVAATE THEY'RE  "}
+{"StartTime": "20110131060054.000", "EndTime": "20110131060055.000", "PrimaryTag": "CC1", "Text": "SIT AGAINS.                     "}
+{"StartTime": "20110131060055.000", "EndTime": "20110131060058.000", "PrimaryTag": "CC1", "Text": "LAW AGUIDING CITIZENS CLASHING  "}
+{"StartTime": "20110131060058.000", "EndTime": "20110131060100.000", "PrimaryTag": "CC1", "Text": "ARE BANDS OF THIEVES AS THE ARM "}
+{"StartTime": "20110131060100.000", "EndTime": "20110131060103.000", "PrimaryTag": "CC1", "Text": "A POLICE DO LTLE TO QUELL       "}
+{"StartTime": "20110131060103.000", "EndTime": "20110131060105.000", "PrimaryTag": "CC1", "Text": "THES WELLING SILENCE.           "}
+{"StartTime": "20110131060105.000", "EndTime": "20110131060108.000", "PrimaryTag": "CC1", "Text": "THE CONNUING CHAOS IN CAIRO.    "}
+{"StartTime": "20110131060108.000", "EndTime": "20110131060110.000", "PrimaryTag": "CC1", "Text": "WE START HOUR 2 IN THE EGYPTIAN "}
+{"StartTime": "20110131060110.000", "EndTime": "20110131060112.000", "PrimaryTag": "CC1", "Text": "CAPITAL WHERE ON THE 6TH DAY NOW"}
+{"StartTime": "20110131060112.000", "EndTime": "20110131060115.000", "PrimaryTag": "CC1", "Text": "SOON TO BEGIN THE 7TH DAY OF    "}
+{"StartTime": "20110131060115.000", "EndTime": "20110131060117.000", "PrimaryTag": "CC1", "Text": "THESERESIDENTIAL PROTEST        "}
+{"StartTime": "20110131060117.000", "EndTime": "20110131060119.000", "PrimaryTag": "CC1", "Text": "AGAINST THE IRONISTED RIME      "}
+{"StartTime": "20110131060119.000", "EndTime": "20110131060121.000", "PrimaryTag": "CC1", "Text": "OF THE PRESIDENT THA ROCKED THE "}
+{"StartTime": "20110131060121.000", "EndTime": "20110131060123.000", "PrimaryTag": "CC1", "Text": "ARAB WORLD.                     "}
+{"StartTime": "20110131060123.000", "EndTime": "20110131060125.000", "PrimaryTag": "CC1", "Text": "ARMED GANGSFHUGS FREED          "}
+{"StartTime": "20110131060125.000", "EndTime": "20110131060127.000", "PrimaryTag": "CC1", "Text": "HUNDREDS OF MILITANTS FROM THE  "}
+{"StartTime": "20110131060127.000", "EndTime": "20110131060130.000", "PrimaryTag": "CC1", "Text": "PRISON HEADI TO THE ALREADY     "}
+{"StartTime": "20110131060130.000", "EndTime": "20110131060131.000", "PrimaryTag": "CC1", "Text": "NGEROUS INSTABILITY THAT        "}
+{"StartTime": "20110131060131.000", "EndTime": "20110131060132.000", "PrimaryTag": "CC1", "Text": "CONTINUES TO SPREAD READY       "}
+{"StartTime": "20110131060132.000", "EndTime": "20110131060134.000", "PrimaryTag": "CC1", "Text": "CLAIMING MORE THAN 100 LIVES.   "}
+{"StartTime": "20110131060134.000", "EndTime": "20110131060136.000", "PrimaryTag": "CC1", "Text": "IN THE FACE OF THE ESCALATIN    "}
+{"StartTime": "20110131060136.000", "EndTime": "20110131060137.000", "PrimaryTag": "CC1", "Text": "VIOLENCE THE UNITED STATES AND  "}
+{"StartTime": "20110131060137.000", "EndTime": "20110131060139.000", "PrimaryTag": "CC1", "Text": "OTHER WESTN COUNTRIES ARE       "}
+{"StartTime": "20110131060139.000", "EndTime": "20110131060141.000", "PrimaryTag": "CC1", "Text": "WARNING CIZENS TO CONSER        "}
+{"StartTime": "20110131060141.000", "EndTime": "20110131060142.000", "PrimaryTag": "CC1", "Text": "LEING EGYPTS SOON AS            "}
+{"StartTime": "20110131060142.000", "EndTime": "20110131060142.000", "PrimaryTag": "CC1", "Text": "POSSIBLE.                       "}
+{"StartTime": "20110131060142.000", "EndTime": "20110131060145.000", "PrimaryTag": "CC1", "Text": "MA ARE CHAERING FLIGHTS TO      "}
+{"StartTime": "20110131060145.000", "EndTime": "20110131060147.000", "PrimaryTag": "CC1", "Text": "BEGIN EVACUATN TOMORROW         "}
+{"StartTime": "20110131060147.000", "EndTime": "20110131060147.000", "PrimaryTag": "CC1", "Text": "MOING.                          "}
+{"StartTime": "20110131060147.000", "EndTime": "20110131060149.000", "PrimaryTag": "CC1", "Text": "IF NOT ALL OTHE WAY HOME TO     "}
+{"StartTime": "20110131060149.000", "EndTime": "20110131060152.000", "PrimaryTag": "CC1", "Text": "SAVE HAVS IN EURO AS SOON AS    "}
+{"StartTime": "20110131060152.000", "EndTime": "20110131060154.000", "PrimaryTag": "CC1", "Text": "MONDAY MORNING.                 "}
+{"StartTime": "20110131060154.000", "EndTime": "20110131060158.000", "PrimaryTag": "CC1", "Text": "DOMINIC DENATAHI IS IN EGYPT    "}
+{"StartTime": "20110131060158.000", "EndTime": "20110131060201.000", "PrimaryTag": "CC1", "Text": "BEGINNG WITH THEROUBLING        "}
+{"StartTime": "20110131060201.000", "EndTime": "20110131060202.000", "PrimaryTag": "CC1", "Text": "PRISONBREAKS.                   "}
+{"StartTime": "20110131060202.000", "EndTime": "20110131060203.000", "PrimaryTag": "CC1", "Text": "WHAT'S TH THAT?                 "}
+{"StartTime": "20110131060203.000", "EndTime": "20110131060204.000", "PrimaryTag": "CC1", "Text": ">> ABSOLUTELY.                  "}
+{"StartTime": "20110131060204.000", "EndTime": "20110131060206.000", "PrimaryTag": "CC1", "Text": "WE DON'T KW EXACTLY HOW MANY    "}
+{"StartTime": "20110131060206.000", "EndTime": "20110131060210.000", "PrimaryTag": "CC1", "Text": "CRIMINALS HAVE ACTUALLY MANAGED "}
+{"StartTime": "20110131060210.000", "EndTime": "20110131060412.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110131060210.000", "EndTime": "20110131060211.000", "PrimaryTag": "CC1", "Text": " ESCAPE.                        "}
+{"StartTime": "20110131060211.000", "EndTime": "20110131060212.000", "PrimaryTag": "CC1", "Text": "ESTIMATE BETWE 20,000 AND       "}
+{"StartTime": "20110131060212.000", "EndTime": "20110131060215.000", "PrimaryTag": "CC1", "Text": "BELIEVE  OR NOT 6000 TRILLS     "}
+{"StartTime": "20110131060215.000", "EndTime": "20110131060222.000", "PrimaryTag": "CC1", "Text": "LOSE OTHE STREETS OF THE        "}
+{"StartTime": "20110131060222.000", "EndTime": "20110131060223.000", "PrimaryTag": "CC1", "Text": "CNTRY.                          "}
+{"StartTime": "20110131060223.000", "EndTime": "20110131060228.000", "PrimaryTag": "CC1", "Text": "THEY BELIEVE NANNY CRIMINALS    "}
+{"StartTime": "20110131060228.000", "EndTime": "20110131060231.000", "PrimaryTag": "CC1", "Text": "HA SPRUNG FREE WHICH BNGS       "}
+{"StartTime": "20110131060231.000", "EndTime": "20110131060233.000", "PrimaryTag": "CC1", "Text": "THEM TO CAPITAL A CRACK DOWN    "}
+{"StartTime": "20110131060233.000", "EndTime": "20110131060235.000", "PrimaryTag": "CC1", "Text": "ON THE PROTESTORS SIMULTANEOUSLY"}
+{"StartTime": "20110131060235.000", "EndTime": "20110131060237.000", "PrimaryTag": "CC1", "Text": "WE HEA FROM JOUALISTS WHO       "}
+{"StartTime": "20110131060237.000", "EndTime": "20110131060238.000", "PrimaryTag": "CC1", "Text": "HAVE BEEN INSOME OF THE PRISONS "}
+{"StartTime": "20110131060238.000", "EndTime": "20110131060241.000", "PrimaryTag": "CC1", "Text": "WHERE PRISONS HAVE ESCAD.       "}
+{"StartTime": "20110131060241.000", "EndTime": "20110131060243.000", "PrimaryTag": "CC1", "Text": "IT TAKES 20,000 PRISONERS TO    "}
+{"StartTime": "20110131060243.000", "EndTime": "20110131060245.000", "PrimaryTag": "CC1", "Text": "ESCA FROM ONE MAIN PRISONN      "}
+{"StartTime": "20110131060245.000", "EndTime": "20110131060246.000", "PrimaryTag": "CC1", "Text": "EGYPT ALONE.                    "}
+{"StartTime": "20110131060246.000", "EndTime": "20110131060247.000", "PrimaryTag": "CC1", "Text": "WHAT HPENED WITH THE            "}
+{"StartTime": "20110131060247.000", "EndTime": "20110131060250.000", "PrimaryTag": "CC1", "Text": "SUPPORRS OF PRISONERS INSIDE    "}
+{"StartTime": "20110131060250.000", "EndTime": "20110131060252.000", "PrimaryTag": "CC1", "Text": "LAID SEE TO THIS PARTICULAR     "}
+{"StartTime": "20110131060252.000", "EndTime": "20110131060254.000", "PrimaryTag": "CC1", "Text": "PRISON AND ACTUALLY OVERWHELMED "}
+{"StartTime": "20110131060254.000", "EndTime": "20110131060256.000", "PrimaryTag": "CC1", "Text": "THE GUARDS WHO SURRENDED AND    "}
+{"StartTime": "20110131060256.000", "EndTime": "20110131060258.000", "PrimaryTag": "CC1", "Text": "ALL OF THE PRISONERS R FREE.    "}
+{"StartTime": "20110131060258.000", "EndTime": "20110131060300.000", "PrimaryTag": "CC1", "Text": "OT ENTIRELY SURE WHAT THE CAUSE "}
+{"StartTime": "20110131060300.000", "EndTime": "20110131060302.000", "PrimaryTag": "CC1", "Text": "IS ONOT CLEAR WHAT THE EXACT    "}
+{"StartTime": "20110131060302.000", "EndTime": "20110131060305.000", "PrimaryTag": "CC1", "Text": "CAUSESARE.                      "}
+{"StartTime": "20110131060305.000", "EndTime": "20110131060307.000", "PrimaryTag": "CC1", "Text": "THE CRIMINAL FRATERNIT IS AT    "}
+{"StartTime": "20110131060307.000", "EndTime": "20110131060315.000", "PrimaryTag": "CC1", "Text": "LOSEND AT LAR IN EGYPT.         "}
+{"StartTime": "20110131060315.000", "EndTime": "20110131060317.000", "PrimaryTag": "CC1", "Text": ">> ARE T CLOUDS SKILLS          "}
+{"StartTime": "20110131060317.000", "EndTime": "20110131060318.000", "PrimaryTag": "CC1", "Text": "ENERGIZED?                      "}
+{"StartTime": "20110131060318.000", "EndTime": "20110131060319.000", "PrimaryTag": "CC1", "Text": "ARE EY STILL AS LARGE AS THEY   "}
+{"StartTime": "20110131060319.000", "EndTime": "20110131060324.000", "PrimaryTag": "CC1", "Text": "HAVE BEEN R THE FIRST 6 DAYS    "}
+{"StartTime": "20110131060324.000", "EndTime": "20110131060333.000", "PrimaryTag": "CC1", "Text": "OF THIS?                        "}
+{"StartTime": "20110131060333.000", "EndTime": "20110131060334.000", "PrimaryTag": "CC1", "Text": " TOWARDS THENDS OF THE          "}
+{"StartTime": "20110131060334.000", "EndTime": "20110131060348.000", "PrimaryTag": "CC1", "Text": "EVENING IS WHERE THEY ARE MOST  "}
+{"StartTime": "20110131060348.000", "EndTime": "20110131060349.000", "PrimaryTag": "CC1", "Text": "ROWED DIE.                      "}
+{"StartTime": "20110131060349.000", "EndTime": "20110131060351.000", "PrimaryTag": "CC1", "Text": "IT WILL BEALM THROUGH T         "}
+{"StartTime": "20110131060351.000", "EndTime": "20110131060353.000", "PrimaryTag": "CC1", "Text": "MORNG AND YOU WILL START        "}
+{"StartTime": "20110131060353.000", "EndTime": "20110131060356.000", "PrimaryTag": "CC1", "Text": "SEEING PEOPLE AMASS AGAIN.      "}
+{"StartTime": "20110131060356.000", "EndTime": "20110131060358.000", "PrimaryTag": "CC1", "Text": "YOU GETARGE CONCENTRATIONSND    "}
+{"StartTime": "20110131060358.000", "EndTime": "20110131060400.000", "PrimaryTag": "CC1", "Text": "SMALLER CONCENTRATIONS.         "}
+{"StartTime": "20110131060400.000", "EndTime": "20110131060402.000", "PrimaryTag": "CC1", "Text": "COLLECTIVELY THE SMALLER        "}
+{"StartTime": "20110131060402.000", "EndTime": "20110131060403.000", "PrimaryTag": "CC1", "Text": "CONCENTRATIONS IT'S HARD TO     "}
+{"StartTime": "20110131060403.000", "EndTime": "20110131060405.000", "PrimaryTag": "CC1", "Text": "LCULATE HOW MANY THERE WILL BE  "}
+{"StartTime": "20110131060405.000", "EndTime": "20110131060408.000", "PrimaryTag": "CC1", "Text": "BUT IT'S A PENT FORCEND         "}
+{"StartTime": "20110131060408.000", "EndTime": "20110131060410.000", "PrimaryTag": "CC1", "Text": "ENERGY AND DESIRE TO CONGREGATE "}
+{"StartTime": "20110131060410.000", "EndTime": "20110131060412.000", "PrimaryTag": "CC1", "Text": "HAS NOT GONEAWAY.               "}
+{"StartTime": "20110131060412.000", "EndTime": "20110131060414.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110131060412.000", "EndTime": "20110131060414.000", "PrimaryTag": "CC1", "Text": ">> AL-JAERA HAS BEEN TAKENFF    "}
+{"StartTime": "20110131060414.000", "EndTime": "20110131060415.000", "PrimaryTag": "CC1", "Text": "E AIR BY THE GOVERNMENT BUT     "}
+{"StartTime": "20110131060415.000", "EndTime": "20110131060417.000", "PrimaryTag": "CC1", "Text": "ARFOLKS GETTINGADIO AND TV      "}
+{"StartTime": "20110131060417.000", "EndTime": "20110131060422.000", "PrimaryTag": "CC1", "Text": "NEWS AT LEAST FROM GOVERNMENT   "}
+{"StartTime": "20110131060422.000", "EndTime": "20110131060422.000", "PrimaryTag": "CC1", "Text": "SOURES?                         "}
+{"StartTime": "20110131060422.000", "EndTime": "20110131060424.000", "PrimaryTag": "CC1", "Text": ">> THEY AREETTING IT FROM       "}
+{"StartTime": "20110131060424.000", "EndTime": "20110131060604.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110131060424.000", "EndTime": "20110131060427.000", "PrimaryTag": "CC1", "Text": "ATE CONTRLED TV.                "}
+{"StartTime": "20110131060427.000", "EndTime": "20110131060430.000", "PrimaryTag": "CC1", "Text": "IT'S PURE PROPAGANDA BEI        "}
+{"StartTime": "20110131060430.000", "EndTime": "20110131060431.000", "PrimaryTag": "CC1", "Text": "PUMPED OUT.                     "}
+{"StartTime": "20110131060431.000", "EndTime": "20110131060432.000", "PrimaryTag": "CC1", "Text": "HERE ARE SATLITE DISHES         "}
+{"StartTime": "20110131060432.000", "EndTime": "20110131060434.000", "PrimaryTag": "CC1", "Text": "PEOPLE ARE ABLE TO ACCESS THINGS"}
+{"StartTime": "20110131060434.000", "EndTime": "20110131060436.000", "PrimaryTag": "CC1", "Text": "LIKE SOM ARE ABL TO GET FOX     "}
+{"StartTime": "20110131060436.000", "EndTime": "20110131060439.000", "PrimaryTag": "CC1", "Text": "NEWS AND OTHERS BBC AND OTHER   "}
+{"StartTime": "20110131060439.000", "EndTime": "20110131060440.000", "PrimaryTag": "CC1", "Text": "EUROPEAN BROADCASTERS.          "}
+{"StartTime": "20110131060440.000", "EndTime": "20110131060441.000", "PrimaryTag": "CC1", "Text": "THEY ARE AWARE OF WT'S REALLY   "}
+{"StartTime": "20110131060441.000", "EndTime": "20110131060442.000", "PrimaryTag": "CC1", "Text": "GOING ON.                       "}
+{"StartTime": "20110131060442.000", "EndTime": "20110131060443.000", "PrimaryTag": "CC1", "Text": "ALSO WORDS OF MOUTH.            "}
+{"StartTime": "20110131060443.000", "EndTime": "20110131060448.000", "PrimaryTag": "CC1", "Text": "THEY CUT THE INTERNET OFF FOR   "}
+{"StartTime": "20110131060448.000", "EndTime": "20110131060451.000", "PrimaryTag": "CC1", "Text": "THREE-DAYS NO                   "}
+{"StartTime": "20110131060451.000", "EndTime": "20110131060454.000", "PrimaryTag": "CC1", "Text": "CL PHONES JUSTENT BACK ON.      "}
+{"StartTime": "20110131060454.000", "EndTime": "20110131060456.000", "PrimaryTag": "CC1", "Text": "YOU CAN'T TEXT EFFECTIVELY.     "}
+{"StartTime": "20110131060456.000", "EndTime": "20110131060458.000", "PrimaryTag": "CC1", "Text": "PEOPLE E USING WD OF MOUT       "}
+{"StartTime": "20110131060458.000", "EndTime": "20110131060459.000", "PrimaryTag": "CC1", "Text": "THOSE THAT GET INTERNATIONAL    "}
+{"StartTime": "20110131060459.000", "EndTime": "20110131060501.000", "PrimaryTag": "CC1", "Text": "NEWSOURCES ARE FINDING OUT BIT  "}
+{"StartTime": "20110131060501.000", "EndTime": "20110131060504.000", "PrimaryTag": "CC1", "Text": "BY BIT EXACTLY WHAT'SOING ON.   "}
+{"StartTime": "20110131060504.000", "EndTime": "20110131060505.000", "PrimaryTag": "CC1", "Text": "T NEWS FLOW HAST GONEWAY.       "}
+{"StartTime": "20110131060505.000", "EndTime": "20110131060507.000", "PrimaryTag": "CC1", "Text": "PEOPLE ARE GETTING TO KN WHAT   "}
+{"StartTime": "20110131060507.000", "EndTime": "20110131060509.000", "PrimaryTag": "CC1", "Text": "IS HAPPENING IN THE COUNTRY.    "}
+{"StartTime": "20110131060509.000", "EndTime": "20110131060510.000", "PrimaryTag": "CC1", "Text": ">>OMINIC THANK YOU FOR YOUR     "}
+{"StartTime": "20110131060510.000", "EndTime": "20110131060511.000", "PrimaryTag": "CC1", "Text": "PORTING.                        "}
+{"StartTime": "20110131060511.000", "EndTime": "20110131060512.000", "PrimaryTag": "CC1", "Text": "KEEP IT UP, MATE.               "}
+{"StartTime": "20110131060512.000", "EndTime": "20110131060733.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110131060512.000", "EndTime": "20110131060514.000", "PrimaryTag": "CC1", "Text": ">>> AMERICANS ARE WALNG A       "}
+{"StartTime": "20110131060514.000", "EndTime": "20110131060515.000", "PrimaryTag": "CC1", "Text": "TIGHTROPE.                      "}
+{"StartTime": "20110131060515.000", "EndTime": "20110131060516.000", "PrimaryTag": "CC1", "Text": "WE DON'T WANT EGYPTIAN ARMY TO  "}
+{"StartTime": "20110131060516.000", "EndTime": "20110131060518.000", "PrimaryTag": "CC1", "Text": "OPEN FIREN ITS OWN CITIZENS     "}
+{"StartTime": "20110131060518.000", "EndTime": "20110131060523.000", "PrimaryTag": "CC1", "Text": "BUT WE DON'T WANT THE MUBAK     "}
+{"StartTime": "20110131060523.000", "EndTime": "20110131060526.000", "PrimaryTag": "CC1", "Text": "GOVERNMENT TO -PRESIDENT OMA    "}
+{"StartTime": "20110131060526.000", "EndTime": "20110131060527.000", "PrimaryTag": "CC1", "Text": "POKE TODAY WITH LEADERS OF      "}
+{"StartTime": "20110131060527.000", "EndTime": "20110131060531.000", "PrimaryTag": "CC1", "Text": "TURKEY, ISRAEL, SAUDI ABIA AND  "}
+{"StartTime": "20110131060531.000", "EndTime": "20110131060532.000", "PrimaryTag": "CC1", "Text": "GAT BRITAIN MAY MORE TO GE      "}
+{"StartTime": "20110131060532.000", "EndTime": "20110131060534.000", "PrimaryTag": "CC1", "Text": "THR INPUT ONHAT'S GOING O       "}
+{"StartTime": "20110131060534.000", "EndTime": "20110131060535.000", "PrimaryTag": "CC1", "Text": "HOW  STOP IT.                   "}
+{"StartTime": "20110131060535.000", "EndTime": "20110131060537.000", "PrimaryTag": "CC1", "Text": "SPINNIN TOTALLY OUT O CONOL     "}
+{"StartTime": "20110131060537.000", "EndTime": "20110131060540.000", "PrimaryTag": "CC1", "Text": "AS JIM ANGLE REPOS.             "}
+{"StartTime": "20110131060540.000", "EndTime": "20110131060542.000", "PrimaryTag": "CC1", "Text": ">> THE U.S. IS TRYING T         "}
+{"StartTime": "20110131060542.000", "EndTime": "20110131060544.000", "PrimaryTag": "CC1", "Text": "MAINAIN A DIFFICULT BALANCEO    "}
+{"StartTime": "20110131060544.000", "EndTime": "20110131060546.000", "PrimaryTag": "CC1", "Text": "EMBRACE THE DANDS OR CHANG IN   "}
+{"StartTime": "20110131060546.000", "EndTime": "20110131060552.000", "PrimaryTag": "CC1", "Text": "EGYPT WITHOUTALLING FOR THE     "}
+{"StartTime": "20110131060552.000", "EndTime": "20110131060554.000", "PrimaryTag": "CC1", "Text": "MUBARAK T IS ONE OTHE           "}
+{"StartTime": "20110131060554.000", "EndTime": "20110131060556.000", "PrimaryTag": "CC1", "Text": "CLOSEST ALLIES IN THE REGION.   "}
+{"StartTime": "20110131060556.000", "EndTime": "20110131060557.000", "PrimaryTag": "CC1", "Text": "SECRETARY OF STATE HLARY        "}
+{"StartTime": "20110131060557.000", "EndTime": "20110131060559.000", "PrimaryTag": "CC1", "Text": "CLINTON WKED THE FINE LINE ON   "}
+{"StartTime": "20110131060559.000", "EndTime": "20110131060600.000", "PrimaryTag": "CC1", "Text": "SUNDAY THISORNING REFERRING TO  "}
+{"StartTime": "20110131060600.000", "EndTime": "20110131060603.000", "PrimaryTag": "CC1", "Text": "THE QUOTE LEGITIMATE GRIEVANCES "}
+{"StartTime": "20110131060603.000", "EndTime": "20110131060604.000", "PrimaryTag": "CC1", "Text": " THE EGYPTIAN PEOPLE.           "}
+{"StartTime": "20110131060604.000", "EndTime": "20110131060605.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110131060604.000", "EndTime": "20110131060605.000", "PrimaryTag": "CC1", "Text": ">> WE HAVE BEEN CLEAR WE WANTO  "}
+{"StartTime": "20110131060605.000", "EndTime": "20110131060610.000", "PrimaryTag": "CC1", "Text": "EE A TRANSITION TO DEMOCRY,     "}
+{"StartTime": "20110131060610.000", "EndTime": "20110131060611.000", "PrimaryTag": "CC1", "Text": "AND WE WANT TOEE THE KIND OF    "}
+{"StartTime": "20110131060611.000", "EndTime": "20110131060613.000", "PrimaryTag": "CC1", "Text": "STS TAKEN THA WILL BRING THAT   "}
+{"StartTime": "20110131060613.000", "EndTime": "20110131060614.000", "PrimaryTag": "CC1", "Text": "ABOUT.                          "}
+{"StartTime": "20110131060614.000", "EndTime": "20110131060616.000", "PrimaryTag": "CC1", "Text": "WE WANT TO SEE AN               "}
+{"StartTime": "20110131060616.000", "EndTime": "20110131060617.000", "PrimaryTag": "CC1", "Text": "TRANSITION.                     "}
+{"StartTime": "20110131060617.000", "EndTime": "20110131060618.000", "PrimaryTag": "CC1", "Text": ">> ORDERLY TNSITION SUGGESTS    "}
+{"StartTime": "20110131060618.000", "EndTime": "20110131060621.000", "PrimaryTag": "CC1", "Text": "NEW LEADERSHIP AS WELL AS NEW   "}
+{"StartTime": "20110131060621.000", "EndTime": "20110131060621.000", "PrimaryTag": "CC1", "Text": "POLICIES.                       "}
+{"StartTime": "20110131060621.000", "EndTime": "20110131060624.000", "PrimaryTag": "CC1", "Text": ">> SO FAR TH PROTESTS AHOUGH    "}
+{"StartTime": "20110131060624.000", "EndTime": "20110131060626.000", "PrimaryTag": "CC1", "Text": "VIOLENT HAVE BE SECULAR AIMED   "}
+{"StartTime": "20110131060626.000", "EndTime": "20110131060628.000", "PrimaryTag": "CC1", "Text": "MORE AT DOCRATIC AND ECONOMIC   "}
+{"StartTime": "20110131060628.000", "EndTime": "20110131060631.000", "PrimaryTag": "CC1", "Text": "REFORMSITH NO EDENCE RADICAL    "}
+{"StartTime": "20110131060631.000", "EndTime": "20110131060633.000", "PrimaryTag": "CC1", "Text": "ISLAMIS GROUPS ARE BIND THEM.   "}
+{"StartTime": "20110131060633.000", "EndTime": "20110131060635.000", "PrimaryTag": "CC1", "Text": "AS SOON AS THE REFOS ARE UNDER  "}
+{"StartTime": "20110131060635.000", "EndTime": "20110131060638.000", "PrimaryTag": "CC1", "Text": "TAKENHE LESS RISK TRE IS THE    "}
+{"StartTime": "20110131060638.000", "EndTime": "20110131060639.000", "PrimaryTag": "CC1", "Text": "MOVEMENCOULD BE HIJACKED BY     "}
+{"StartTime": "20110131060639.000", "EndTime": "20110131060642.000", "PrimaryTag": "CC1", "Text": "RADICAL ISLAMIS GROUPS.         "}
+{"StartTime": "20110131060642.000", "EndTime": "20110131060644.000", "PrimaryTag": "CC1", "Text": ">> WHA WE DON'T WT IS CHAOS.    "}
+{"StartTime": "20110131060644.000", "EndTime": "20110131060645.000", "PrimaryTag": "CC1", "Text": "I DON'T THINK THE EGYPTIAN      "}
+{"StartTime": "20110131060645.000", "EndTime": "20110131060646.000", "PrimaryTag": "CC1", "Text": "PEOPLE WANTHAT.                 "}
+{"StartTime": "20110131060646.000", "EndTime": "20110131060648.000", "PrimaryTag": "CC1", "Text": "THEY WANT THEIR GRIEVANCES TO BE"}
+{"StartTime": "20110131060648.000", "EndTime": "20110131060649.000", "PrimaryTag": "CC1", "Text": "ADDRESSED.                      "}
+{"StartTime": "20110131060649.000", "EndTime": "20110131060650.000", "PrimaryTag": "CC1", "Text": "WE DON'T WANT O SEE SOME        "}
+{"StartTime": "20110131060650.000", "EndTime": "20110131060652.000", "PrimaryTag": "CC1", "Text": "TAKEOVER THAWOULD LEAD NOT TO   "}
+{"StartTime": "20110131060652.000", "EndTime": "20110131060654.000", "PrimaryTag": "CC1", "Text": "DECRACY BUT TO OPPRESSION.      "}
+{"StartTime": "20110131060654.000", "EndTime": "20110131060656.000", "PrimaryTag": "CC1", "Text": ">> SECTARY OFLINTON THANKED     "}
+{"StartTime": "20110131060656.000", "EndTime": "20110131060657.000", "PrimaryTag": "CC1", "Text": "THE EGYPTIAN ARMY FOR THE       "}
+{"StartTime": "20110131060657.000", "EndTime": "20110131060659.000", "PrimaryTag": "CC1", "Text": "CURITY PROVIDED THE AMECAN      "}
+{"StartTime": "20110131060659.000", "EndTime": "20110131060700.000", "PrimaryTag": "CC1", "Text": "EMBASSY A NO AMERICANS ARE      "}
+{"StartTime": "20110131060700.000", "EndTime": "20110131060702.000", "PrimaryTag": "CC1", "Text": "KNOWN TO BE INJURED SO FAR.     "}
+{"StartTime": "20110131060702.000", "EndTime": "20110131060704.000", "PrimaryTag": "CC1", "Text": "THERE ARE 38 OFFICIALS AT THE   "}
+{"StartTime": "20110131060704.000", "EndTime": "20110131060708.000", "PrimaryTag": "CC1", "Text": "S. EMBASSYHERE AND 760          "}
+{"StartTime": "20110131060708.000", "EndTime": "20110131060708.000", "PrimaryTag": "CC1", "Text": "DEPENDENTS.                     "}
+{"StartTime": "20110131060708.000", "EndTime": "20110131060709.000", "PrimaryTag": "CC1", "Text": "E STATE DEPARTMENT PLANS T      "}
+{"StartTime": "20110131060709.000", "EndTime": "20110131060711.000", "PrimaryTag": "CC1", "Text": "Y OUT NONESSENTIAL PERNNEL      "}
+{"StartTime": "20110131060711.000", "EndTime": "20110131060713.000", "PrimaryTag": "CC1", "Text": "AND DEFENDANTS ON MONDAY.       "}
+{"StartTime": "20110131060713.000", "EndTime": "20110131060715.000", "PrimaryTag": "CC1", "Text": "THEY SAYNY OF THE OTHER 50,000  "}
+{"StartTime": "20110131060715.000", "EndTime": "20110131060717.000", "PrimaryTag": "CC1", "Text": "AMERICA REGISTED WITH THE       "}
+{"StartTime": "20110131060717.000", "EndTime": "20110131060718.000", "PrimaryTag": "CC1", "Text": "EMBASS WHO WISH TLEAVE.         "}
+{"StartTime": "20110131060718.000", "EndTime": "20110131060720.000", "PrimaryTag": "CC1", "Text": "THE STATE DEPARTMT SAYS U.S.    "}
+{"StartTime": "20110131060720.000", "EndTime": "20110131060722.000", "PrimaryTag": "CC1", "Text": "CITIZENS THERE SHOULDONSIDER    "}
+{"StartTime": "20110131060722.000", "EndTime": "20110131060723.000", "PrimaryTag": "CC1", "Text": "LEAVING AS SOON AS THEY CAN     "}
+{"StartTime": "20110131060723.000", "EndTime": "20110131060727.000", "PrimaryTag": "CC1", "Text": "BECAUS OF THE SPRDING UNREST.   "}
+{"StartTime": "20110131060727.000", "EndTime": "20110131060729.000", "PrimaryTag": "CC1", "Text": "U.S. OFFICLS HOPE AEW           "}
+{"StartTime": "20110131060729.000", "EndTime": "20110131060730.000", "PrimaryTag": "CC1", "Text": "GOVERNNT DEDICATE TO DO         "}
+{"StartTime": "20110131060730.000", "EndTime": "20110131060733.000", "PrimaryTag": "CC1", "Text": "REFORMS WILL QUELL THAT UNREST. "}
+{"StartTime": "20110131060733.000", "EndTime": "20110131060739.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110131060733.000", "EndTime": "20110131060734.000", "PrimaryTag": "CC1", "Text": ">>> JIM ENGEL TNK YOU.          "}
+{"StartTime": "20110131060734.000", "EndTime": "20110131060736.000", "PrimaryTag": "CC1", "Text": "WHAT DO YOUHINK THE SAUDIS      "}
+{"StartTime": "20110131060736.000", "EndTime": "20110131060739.000", "PrimaryTag": "CC1", "Text": "TOLD PRESIDENT AMA?             "}
+{"StartTime": "20110131060739.000", "EndTime": "20110131060849.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110131060739.000", "EndTime": "20110131060742.000", "PrimaryTag": "CC1", "Text": ">>> THE SAUDI PRESS AGENT IS    "}
+{"StartTime": "20110131060742.000", "EndTime": "20110131060744.000", "PrimaryTag": "CC1", "Text": "SAYING THEY WTTABILITY THEY     "}
+{"StartTime": "20110131060744.000", "EndTime": "20110131060745.000", "PrimaryTag": "CC1", "Text": "SUPPORT MUBARAK.                "}
+{"StartTime": "20110131060745.000", "EndTime": "20110131060748.000", "PrimaryTag": "CC1", "Text": "OTR RULERSORRIED WHAT           "}
+{"StartTime": "20110131060748.000", "EndTime": "20110131060750.000", "PrimaryTag": "CC1", "Text": "HAPPENS IF MUBARAK GS WHAT      "}
+{"StartTime": "20110131060750.000", "EndTime": "20110131060751.000", "PrimaryTag": "CC1", "Text": "HAPPENS  THEIR OWN GOVERNMENT.  "}
+{"StartTime": "20110131060751.000", "EndTime": "20110131060754.000", "PrimaryTag": "CC1", "Text": ">> WORRY ABOUT THEIR OWN        "}
+{"StartTime": "20110131060754.000", "EndTime": "20110131060756.000", "PrimaryTag": "CC1", "Text": "PRESSIVE TALITARIAN             "}
+{"StartTime": "20110131060756.000", "EndTime": "20110131060756.000", "PrimaryTag": "CC1", "Text": "GOVERNMENT.                     "}
+{"StartTime": "20110131060756.000", "EndTime": "20110131060759.000", "PrimaryTag": "CC1", "Text": ">>HATUPPLYITH OIL.              "}
+{"StartTime": "20110131060759.000", "EndTime": "20110131060801.000", "PrimaryTag": "CC1", "Text": ">> NOBODY KNOWS BETTER THAN     "}
+{"StartTime": "20110131060801.000", "EndTime": "20110131060805.000", "PrimaryTag": "CC1", "Text": "KEVIN HEANING WHO W THE         "}
+{"StartTime": "20110131060805.000", "EndTime": "20110131060808.000", "PrimaryTag": "CC1", "Text": "YOUNGEST AMECAN HOSTAGE AT THE  "}
+{"StartTime": "20110131060808.000", "EndTime": "20110131060810.000", "PrimaryTag": "CC1", "Text": "TIME HELD AT THE U.S.  BASS     "}
+{"StartTime": "20110131060810.000", "EndTime": "20110131060812.000", "PrimaryTag": "CC1", "Text": "SIGH IN IRA FOR 440 DAYS DURIN  "}
+{"StartTime": "20110131060812.000", "EndTime": "20110131060815.000", "PrimaryTag": "CC1", "Text": "THE 1979 CRISIS.                "}
+{"StartTime": "20110131060815.000", "EndTime": "20110131060816.000", "PrimaryTag": "CC1", "Text": "KEVIN IS LIVE TONIGH            "}
+{"StartTime": "20110131060816.000", "EndTime": "20110131060818.000", "PrimaryTag": "CC1", "Text": "GREATO SEE YOU MATE ALL         "}
+{"StartTime": "20110131060818.000", "EndTime": "20110131060818.000", "PrimaryTag": "CC1", "Text": "GROWN-UP.                       "}
+{"StartTime": "20110131060818.000", "EndTime": "20110131060819.000", "PrimaryTag": "CC1", "Text": ">> EVENING.                     "}
+{"StartTime": "20110131060819.000", "EndTime": "20110131060821.000", "PrimaryTag": "CC1", "Text": ">> ARE YOU HAVING FLASHBACKS?   "}
+{"StartTime": "20110131060821.000", "EndTime": "20110131060824.000", "PrimaryTag": "CC1", "Text": ">> NO, BUT THERE IS A LOT O     "}
+{"StartTime": "20110131060824.000", "EndTime": "20110131060824.000", "PrimaryTag": "CC1", "Text": "DÉJÀ VU.                        "}
+{"StartTime": "20110131060824.000", "EndTime": "20110131060825.000", "PrimaryTag": "CC1", "Text": "WHEN YOU LOOK AT WHAT'S         "}
+{"StartTime": "20110131060825.000", "EndTime": "20110131060827.000", "PrimaryTag": "CC1", "Text": "HAPPENING IN TH STREETS IT IS   "}
+{"StartTime": "20110131060827.000", "EndTime": "20110131060829.000", "PrimaryTag": "CC1", "Text": "NOTNLIKE WHATAPPENED IN         "}
+{"StartTime": "20110131060829.000", "EndTime": "20110131060833.000", "PrimaryTag": "CC1", "Text": "1979, T OPPOSITN TO THE         "}
+{"StartTime": "20110131060833.000", "EndTime": "20110131060835.000", "PrimaryTag": "CC1", "Text": "SHAW'S REGIME AND EVE AEAR      "}
+{"StartTime": "20110131060835.000", "EndTime": "20110131060837.000", "PrimaryTag": "CC1", "Text": "AND A HALF TO TWO YEARS AGO THE "}
+{"StartTime": "20110131060837.000", "EndTime": "20110131060839.000", "PrimaryTag": "CC1", "Text": "REVOLUTION AFTER THE STOLEN     "}
+{"StartTime": "20110131060839.000", "EndTime": "20110131060843.000", "PrimaryTag": "CC1", "Text": "ELECON IN IRAN WH               "}
+{"StartTime": "20110131060843.000", "EndTime": "20110131060845.000", "PrimaryTag": "CC1", "Text": "AHMADINEJAD STEING THE VO.      "}
+{"StartTime": "20110131060845.000", "EndTime": "20110131060849.000", "PrimaryTag": "CC1", "Text": ">>HAT LESSONS DO YOU DRAW?      "}
+{"StartTime": "20110131060849.000", "EndTime": "20110131062540.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110131060849.000", "EndTime": "20110131060851.000", "PrimaryTag": "CC1", "Text": ">>> WELL, I THINK I HAVE SOME   "}
+{"StartTime": "20110131060851.000", "EndTime": "20110131060853.000", "PrimaryTag": "CC1", "Text": "CONCER I THINK YOUR OTHER       "}
+{"StartTime": "20110131060853.000", "EndTime": "20110131060855.000", "PrimaryTag": "CC1", "Text": "GUES HAVE CERINLY EXPSSED       "}
+{"StartTime": "20110131060855.000", "EndTime": "20110131060856.000", "PrimaryTag": "CC1", "Text": "MANY OF THOSE THAT ARE          "}
+{"StartTime": "20110131060856.000", "EndTime": "20110131060858.000", "PrimaryTag": "CC1", "Text": "RESINANG THROUGHOU THE          "}
+{"StartTime": "20110131060858.000", "EndTime": "20110131060900.000", "PrimaryTag": "CC1", "Text": "DEPARTMENT O STATE O ENTIRE     "}
+{"StartTime": "20110131060900.000", "EndTime": "20110131060902.000", "PrimaryTag": "CC1", "Text": "GOVERNMENT CERTAINLY ALLIED     "}
+{"StartTime": "20110131060902.000", "EndTime": "20110131060903.000", "PrimaryTag": "CC1", "Text": "NATIONS AUND THEORLD THE        "}
+{"StartTime": "20110131060903.000", "EndTime": "20110131060905.000", "PrimaryTag": "CC1", "Text": "WESTERN NATIONS IN PARTICULAR   "}
+{"StartTime": "20110131060905.000", "EndTime": "20110131060908.000", "PrimaryTag": "CC1", "Text": "WORRIE ABOUT PERHAPS THE MUSLIM "}
+{"StartTime": "20110131060908.000", "EndTime": "20110131060910.000", "PrimaryTag": "CC1", "Text": "BROTHHOOD KINDS OF USI THIS     "}
+{"StartTime": "20110131060910.000", "EndTime": "20110131060911.000", "PrimaryTag": "CC1", "Text": "OPPOUNITY STAYINGN THE SIDE     "}
+{"StartTime": "20110131060911.000", "EndTime": "20110131060913.000", "PrimaryTag": "CC1", "Text": "LINES F A FEW DAY IN THE        "}
+{"StartTime": "20110131060913.000", "EndTime": "20110131060915.000", "PrimaryTag": "CC1", "Text": "EARLY HOURSND DAYS OF THE       "}
+{"StartTime": "20110131060915.000", "EndTime": "20110131060917.000", "PrimaryTag": "CC1", "Text": "CURRENT REVOLUTION IN EGYPT AND "}
+{"StartTime": "20110131060917.000", "EndTime": "20110131060919.000", "PrimaryTag": "CC1", "Text": "NOW KINDS OF PUSHING THEIR      "}
+{"StartTime": "20110131060919.000", "EndTime": "20110131060920.000", "PrimaryTag": "CC1", "Text": "ELEMENTS AND THEIR SUPPORTER    "}
+{"StartTime": "20110131060920.000", "EndTime": "20110131060920.000", "PrimaryTag": "CC1", "Text": "OUT.                            "}
+{"StartTime": "20110131060920.000", "EndTime": "20110131060922.000", "PrimaryTag": "CC1", "Text": "U TALKED ABOUT THE PRISON       "}
+{"StartTime": "20110131060922.000", "EndTime": "20110131060923.000", "PrimaryTag": "CC1", "Text": "BREAKS.                         "}
+{"StartTime": "20110131060923.000", "EndTime": "20110131060925.000", "PrimaryTag": "CC1", "Text": "WE DON'TNOW WHAT IS BEHIND ALL  "}
+{"StartTime": "20110131060925.000", "EndTime": "20110131060927.000", "PrimaryTag": "CC1", "Text": "OF THE TERRIBLE THINGS THAT ARE "}
+{"StartTime": "20110131060927.000", "EndTime": "20110131060928.000", "PrimaryTag": "CC1", "Text": "HAPPENING.                      "}
+{"StartTime": "20110131060928.000", "EndTime": "20110131060929.000", "PrimaryTag": "CC1", "Text": "MUCH OF WHAT IS HAPPENING       "}
+{"StartTime": "20110131060929.000", "EndTime": "20110131060931.000", "PrimaryTag": "CC1", "Text": "CERTAINLY IS THE PEACEFUL       "}
+{"StartTime": "20110131060931.000", "EndTime": "20110131060933.000", "PrimaryTag": "CC1", "Text": "BUSINESS OWNERS AND THE STEW    "}
+{"StartTime": "20110131060933.000", "EndTime": "20110131060937.000", "PrimaryTag": "CC1", "Text": "DEPARTMENTS AND THEK DEM        "}
+{"StartTime": "20110131060937.000", "EndTime": "20110131060940.000", "PrimaryTag": "CC1", "Text": "MISSION AND SCIENTISTS CURRE    "}
+{"StartTime": "20110131060940.000", "EndTime": "20110131060941.000", "PrimaryTag": "CC1", "Text": "LOCAL GOVERNMENT PEOPL WHO      "}
+{"StartTime": "20110131060941.000", "EndTime": "20110131060942.000", "PrimaryTag": "CC1", "Text": "WOULD KE TO SEECHANGE.          "}
+{"StartTime": "20110131060942.000", "EndTime": "20110131060944.000", "PrimaryTag": "CC1", "Text": "I WASSKED THISORNING WHILE I    "}
+{"StartTime": "20110131060944.000", "EndTime": "20110131060946.000", "PrimaryTag": "CC1", "Text": "WAS ACHURCH WHY ARE THEEOPLE    "}
+{"StartTime": "20110131060946.000", "EndTime": "20110131060947.000", "PrimaryTag": "CC1", "Text": "PROTESTIN IN THE STREETS T      "}
+{"StartTime": "20110131060947.000", "EndTime": "20110131060949.000", "PrimaryTag": "CC1", "Text": "TS DOWN TO THE BASIC.           "}
+{"StartTime": "20110131060949.000", "EndTime": "20110131060951.000", "PrimaryTag": "CC1", "Text": "PERHAPS OUR MEDIA TREATS A LOT  "}
+{"StartTime": "20110131060951.000", "EndTime": "20110131060953.000", "PrimaryTag": "CC1", "Text": "OF THIS ALMOST AS A SUPPORTLING "}
+{"StartTime": "20110131060953.000", "EndTime": "20110131060957.000", "PrimaryTag": "CC1", "Text": "EN -PORTINGVENT WHO IS          "}
+{"StartTime": "20110131060957.000", "EndTime": "20110131060958.000", "PrimaryTag": "CC1", "Text": "GOG TO WIN WHOS AHEA            "}
+{"StartTime": "20110131060958.000", "EndTime": "20110131061001.000", "PrimaryTag": "CC1", "Text": "EN YOU ARE ORESSED AND YOU      "}
+{"StartTime": "20110131061001.000", "EndTime": "20110131061003.000", "PrimaryTag": "CC1", "Text": "ARE NOT GIN THE FREEDOM OF      "}
+{"StartTime": "20110131061003.000", "EndTime": "20110131061004.000", "PrimaryTag": "CC1", "Text": "EXPRESSION, SHOULD GO BACK A    "}
+{"StartTime": "20110131061004.000", "EndTime": "20110131061006.000", "PrimaryTag": "CC1", "Text": "SAY THE TEN ANCE UN WHICH       "}
+{"StartTime": "20110131061006.000", "EndTime": "20110131061009.000", "PrimaryTag": "CC1", "Text": "AMERICA WAS FOUND AND THE IDEA  "}
+{"StartTime": "20110131061009.000", "EndTime": "20110131061011.000", "PrimaryTag": "CC1", "Text": "WE HA GOD GIVEN RIGHTS IT'S     "}
+{"StartTime": "20110131061011.000", "EndTime": "20110131061013.000", "PrimaryTag": "CC1", "Text": "MORE THAN AN IDEAL PEOPLE HAVE  "}
+{"StartTime": "20110131061013.000", "EndTime": "20110131061015.000", "PrimaryTag": "CC1", "Text": "VAES ANDMORALITY.               "}
+{"StartTime": "20110131061015.000", "EndTime": "20110131061018.000", "PrimaryTag": "CC1", "Text": "THIS SHOWS ME THAT THE MYH THAT "}
+{"StartTime": "20110131061018.000", "EndTime": "20110131061020.000", "PrimaryTag": "CC1", "Text": "PEOPLE IN ARAB COUNTRIES DON'T  "}
+{"StartTime": "20110131061020.000", "EndTime": "20110131061023.000", "PrimaryTag": "CC1", "Text": "YEARN FOR FREEDOM IT'S ST       "}
+{"StartTime": "20110131061023.000", "EndTime": "20110131061023.000", "PrimaryTag": "CC1", "Text": "THAT.                           "}
+{"StartTime": "20110131061023.000", "EndTime": "20110131061025.000", "PrimaryTag": "CC1", "Text": ">> LET ME ASK YOU KEVIN QUICKLY "}
+{"StartTime": "20110131061025.000", "EndTime": "20110131061028.000", "PrimaryTag": "CC1", "Text": "BERE THE COMMCIAL, ARE YOU      "}
+{"StartTime": "20110131061028.000", "EndTime": "20110131061031.000", "PrimaryTag": "CC1", "Text": "SUGGESTING THE 197 TAKEOVER IN  "}
+{"StartTime": "20110131061031.000", "EndTime": "20110131061034.000", "PrimaryTag": "CC1", "Text": "TEHRAN WAS A GOOD DEMRATIC      "}
+{"StartTime": "20110131061034.000", "EndTime": "20110131061035.000", "PrimaryTag": "CC1", "Text": "EXPRESSION OTHE REVOLUTNARY     "}
+{"StartTime": "20110131061035.000", "EndTime": "20110131061037.000", "PrimaryTag": "CC1", "Text": "FOUNDING TENANTS OF THE UNITED  "}
+{"StartTime": "20110131061037.000", "EndTime": "20110131061039.000", "PrimaryTag": "CC1", "Text": "STATES ANDTHER REPUBLICANS?     "}
+{"StartTime": "20110131061039.000", "EndTime": "20110131061041.000", "PrimaryTag": "CC1", "Text": ">> NOT ATALL, BUTT WAS BORN     "}
+{"StartTime": "20110131061041.000", "EndTime": "20110131061043.000", "PrimaryTag": "CC1", "Text": "OUT OF FSTRATION OF PEOPLE OUT  "}
+{"StartTime": "20110131061043.000", "EndTime": "20110131061044.000", "PrimaryTag": "CC1", "Text": "IN THE STREETSEOPLE IN THE      "}
+{"StartTime": "20110131061044.000", "EndTime": "20110131061048.000", "PrimaryTag": "CC1", "Text": "SCHOOL, PEOPLE IN E BIZARRE     "}
+{"StartTime": "20110131061048.000", "EndTime": "20110131061050.000", "PrimaryTag": "CC1", "Text": "WHO WERE YEARNING F FREE        "}
+{"StartTime": "20110131061050.000", "EndTime": "20110131061051.000", "PrimaryTag": "CC1", "Text": "EXPRESSION.                     "}
+{"StartTime": "20110131061051.000", "EndTime": "20110131061052.000", "PrimaryTag": "CC1", "Text": "IT WAS A DFICULT TIME.          "}
+{"StartTime": "20110131061052.000", "EndTime": "20110131061053.000", "PrimaryTag": "CC1", "Text": "WE WERE IN THEIDST OF TH COLD   "}
+{"StartTime": "20110131061053.000", "EndTime": "20110131061056.000", "PrimaryTag": "CC1", "Text": "WAR AND IRAN WASHE B CAN        "}
+{"StartTime": "20110131061056.000", "EndTime": "20110131061100.000", "PrimaryTag": "CC1", "Text": "WORK AINST THEOVIET ION'S       "}
+{"StartTime": "20110131061100.000", "EndTime": "20110131061102.000", "PrimaryTag": "CC1", "Text": "APPROACH AN ATTAINING A PORT.   "}
+{"StartTime": "20110131061102.000", "EndTime": "20110131061104.000", "PrimaryTag": "CC1", "Text": ">> I AM NOT SURE IRANIAN PEOPLE "}
+{"StartTime": "20110131061104.000", "EndTime": "20110131061105.000", "PrimaryTag": "CC1", "Text": "HAVE MORE DOCRACY NOW THAN      "}
+{"StartTime": "20110131061105.000", "EndTime": "20110131061108.000", "PrimaryTag": "CC1", "Text": "THEYID UER THE SHAW OR MORE     "}
+{"StartTime": "20110131061108.000", "EndTime": "20110131061112.000", "PrimaryTag": "CC1", "Text": "FREEDOM TH THEY DID UNDER THE   "}
+{"StartTime": "20110131061112.000", "EndTime": "20110131061112.000", "PrimaryTag": "CC1", "Text": "SHAW.                           "}
+{"StartTime": "20110131061112.000", "EndTime": "20110131061114.000", "PrimaryTag": "CC1", "Text": ">> GERALDO THAT IS WHAT WORRI   "}
+{"StartTime": "20110131061114.000", "EndTime": "20110131061116.000", "PrimaryTag": "CC1", "Text": "ME ABOUT THE MUSLIM BROTHERHOOD "}
+{"StartTime": "20110131061116.000", "EndTime": "20110131061118.000", "PrimaryTag": "CC1", "Text": "EFFORT TO GN THE UPPERAND       "}
+{"StartTime": "20110131061118.000", "EndTime": "20110131061124.000", "PrimaryTag": "CC1", "Text": "PERHAPS EVEN USING EL BARADEI AS"}
+{"StartTime": "20110131061124.000", "EndTime": "20110131061125.000", "PrimaryTag": "CC1", "Text": "THEIR FRONT M MAKING IT LOOK    "}
+{"StartTime": "20110131061125.000", "EndTime": "20110131061126.000", "PrimaryTag": "CC1", "Text": "KE A DEMOCRATICMOVEMENT.        "}
+{"StartTime": "20110131061126.000", "EndTime": "20110131061129.000", "PrimaryTag": "CC1", "Text": "I AM NOT SURE IT IS AT THE END. "}
+{"StartTime": "20110131061129.000", "EndTime": "20110131061133.000", "PrimaryTag": "CC1", "Text": ">> KEVIN HERMENG THE YNGEST     "}
+{"StartTime": "20110131061133.000", "EndTime": "20110131061135.000", "PrimaryTag": "CC1", "Text": "HOAGE WHEN E TOLA CO MAIN       "}
+{"StartTime": "20110131061135.000", "EndTime": "20110131061137.000", "PrimaryTag": "CC1", "Text": "KNEE GOT THERE STARTED T        "}
+{"StartTime": "20110131061137.000", "EndTime": "20110131061139.000", "PrimaryTag": "CC1", "Text": "VOLUTION AND TY WERE HELD       "}
+{"StartTime": "20110131061139.000", "EndTime": "20110131061141.000", "PrimaryTag": "CC1", "Text": "MEMBER AMERICA HELD HOSTAGE     "}
+{"StartTime": "20110131061141.000", "EndTime": "20110131061145.000", "PrimaryTag": "CC1", "Text": "DAY ON DAY TWO, DAY 100, DAY    "}
+{"StartTime": "20110131061145.000", "EndTime": "20110131061145.000", "PrimaryTag": "CC1", "Text": "144.                            "}
+{"StartTime": "20110131061145.000", "EndTime": "20110131061146.000", "PrimaryTag": "CC1", "Text": "GREAT TO SEE YOU.               "}
+{"StartTime": "20110131061146.000", "EndTime": "20110131061149.000", "PrimaryTag": "CC1", "Text": "THANK YOU VERY MUCH, KE         "}
+{"StartTime": "20110131061149.000", "EndTime": "20110131061151.000", "PrimaryTag": "CC1", "Text": "OUR CONTINUING COVAGE OF THE    "}
+{"StartTime": "20110131061151.000", "EndTime": "20110131061152.000", "PrimaryTag": "CC1", "Text": "CRISIS THERE.                   "}
+{"StartTime": "20110131061152.000", "EndTime": "20110131061154.000", "PrimaryTag": "CC1", "Text": "WHAT CANHE UNITED STATES DO     "}
+{"StartTime": "20110131061154.000", "EndTime": "20110131061156.000", "PrimaryTag": "CC1", "Text": "ALLY TO HEAD O CATASTROPHE.     "}
+{"StartTime": "20110131061156.000", "EndTime": "20110131061158.000", "PrimaryTag": "CC1", "Text": "I WILL TELL YOU WHAT I THINK    "}
+{"StartTime": "20110131061158.000", "EndTime": "20110131061233.000", "PrimaryTag": "CC1", "Text": "AFTER THIS.                     "}
+{"StartTime": "20110131061233.000", "EndTime": "20110131061318.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110131061233.000", "EndTime": "20110131061249.000", "PrimaryTag": "CC1", "Text": "           ñ?ñoW÷?;ÑNvgvú?ú?÷Y÷O"}
+{"StartTime": "20110131061249.000", "EndTime": "20110131061249.000", "PrimaryTag": "CC1", "Text": "    CAN A TRADING SITE HELMAKE  "}
+{"StartTime": "20110131061249.000", "EndTime": "20110131061250.000", "PrimaryTag": "CC1", "Text": "    YOU A SHARPER TRADER        "}
+{"StartTime": "20110131061250.000", "EndTime": "20110131061250.000", "PrimaryTag": "CC1", "Text": "            MINE CAN.           "}
+{"StartTime": "20110131061250.000", "EndTime": "20110131061252.000", "PrimaryTag": "CC1", "Text": "    TD AMERITRADE CAN.          "}
+{"StartTime": "20110131061252.000", "EndTime": "20110131061252.000", "PrimaryTag": "CC1", "Text": "        THEY'VE GOT             "}
+{"StartTime": "20110131061252.000", "EndTime": "20110131061253.000", "PrimaryTag": "CC1", "Text": "        TRADG SPECIALISTS       "}
+{"StartTime": "20110131061253.000", "EndTime": "20110131061254.000", "PrimaryTag": "CC1", "Text": "        I CAN LL FOR HELP.      "}
+{"StartTime": "20110131061254.000", "EndTime": "20110131061257.000", "PrimaryTag": "CC1", "Text": "            AND PER TRADING.    "}
+{"StartTime": "20110131061257.000", "EndTime": "20110131061257.000", "PrimaryTag": "CC1", "Text": "    FREE PRACTICE TRADING THAT  "}
+{"StartTime": "20110131061257.000", "EndTime": "20110131061259.000", "PrimaryTag": "CC1", "Text": "    HELPS ME HONE MY TECHNIQUE  "}
+{"StartTime": "20110131061259.000", "EndTime": "20110131061301.000", "PrimaryTag": "CC1", "Text": "            MPLEX OPTIONS.      "}
+{"StartTime": "20110131061301.000", "EndTime": "20110131061301.000", "PrimaryTag": "CC1", "Text": "        AND FREE TUTORLS.       "}
+{"StartTime": "20110131061301.000", "EndTime": "20110131061304.000", "PrimaryTag": "CC1", "Text": "        ONLINE OR IN PERSON.    "}
+{"StartTime": "20110131061304.000", "EndTime": "20110131061304.000", "PrimaryTag": "CC1", "Text": "    CAN A TRADING SI REALLY     "}
+{"StartTime": "20110131061304.000", "EndTime": "20110131061306.000", "PrimaryTag": "CC1", "Text": "    MAKE A DIFFERENC            "}
+{"StartTime": "20110131061306.000", "EndTime": "20110131061307.000", "PrimaryTag": "CC1", "Text": "         IT CAN'T, WHY ARE      "}
+{"StartTime": "20110131061307.000", "EndTime": "20110131061308.000", "PrimaryTag": "CC1", "Text": "        YOU ADING THERE?        "}
+{"StartTime": "20110131061308.000", "EndTime": "20110131061310.000", "PrimaryTag": "CC1", "Text": "    NUER ONE IN ONLINE EQUITY   "}
+{"StartTime": "20110131061310.000", "EndTime": "20110131061312.000", "PrimaryTag": "CC1", "Text": "    TRADES: TD AMERITRADE.      "}
+{"StartTime": "20110131061312.000", "EndTime": "20110131061312.000", "PrimaryTag": "CC1", "Text": "    TRADE COMMSION-FREE         "}
+{"StartTime": "20110131061312.000", "EndTime": "20110131061314.000", "PrimaryTag": "CC1", "Text": "        FOR 30 DAYS,            "}
+{"StartTime": "20110131061314.000", "EndTime": "20110131061314.000", "PrimaryTag": "CC1", "Text": "    PLUS G UP TO $500           "}
+{"StartTime": "20110131061314.000", "EndTime": "20110131061318.000", "PrimaryTag": "CC1", "Text": "    WHEN YOU OPEAN ACCOUNT.     "}
+{"StartTime": "20110131061318.000", "EndTime": "20110131061517.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110131061318.000", "EndTime": "20110131061517.000", "PrimaryTag": "CC1", "Text": ">>E HAVE A RUNDOWN OF THE       "}
+{"StartTime": "20110131061517.000", "EndTime": "20110131061519.000", "PrimaryTag": "CC1", "Text": "RIPPLE EFFECT OF THIS CRISIS.   "}
+{"StartTime": "20110131061519.000", "EndTime": "20110131061521.000", "PrimaryTag": "CC1", "Text": ">> GERALDO, TS COUL GET VERY    "}
+{"StartTime": "20110131061521.000", "EndTime": "20110131061521.000", "PrimaryTag": "CC1", "Text": "BPY.                            "}
+{"StartTime": "20110131061521.000", "EndTime": "20110131061525.000", "PrimaryTag": "CC1", "Text": "THE STOCK EXCHANGE INAUDI       "}
+{"StartTime": "20110131061525.000", "EndTime": "20110131061527.000", "PrimaryTag": "CC1", "Text": "ARABIA WASOWN 6ERCENT TODAY.    "}
+{"StartTime": "20110131061527.000", "EndTime": "20110131061530.000", "PrimaryTag": "CC1", "Text": "IN THE U.S. THAT WOULD BE A 700 "}
+{"StartTime": "20110131061530.000", "EndTime": "20110131061531.000", "PrimaryTag": "CC1", "Text": "POT DROP IN THE DOW             "}
+{"StartTime": "20110131061531.000", "EndTime": "20110131061532.000", "PrimaryTag": "CC1", "Text": "INDUSTRIALS.                    "}
+{"StartTime": "20110131061532.000", "EndTime": "20110131061535.000", "PrimaryTag": "CC1", "Text": "THE DOITSELF WAS DOWN 16        "}
+{"StartTime": "20110131061535.000", "EndTime": "20110131061538.000", "PrimaryTag": "CC1", "Text": "POINTS FRIDAY A 1.5 PERCENT     "}
+{"StartTime": "20110131061538.000", "EndTime": "20110131061538.000", "PrimaryTag": "CC1", "Text": "DECLINE                         "}
+{"StartTime": "20110131061538.000", "EndTime": "20110131061540.000", "PrimaryTag": "CC1", "Text": "THAT ERASE ALMT HALF OF THE     "}
+{"StartTime": "20110131061540.000", "EndTime": "20110131061542.000", "PrimaryTag": "CC1", "Text": "GAINS IN TH DOW SINCEHE         "}
+{"StartTime": "20110131061542.000", "EndTime": "20110131061543.000", "PrimaryTag": "CC1", "Text": "GYPING OF THE YEAR.             "}
+{"StartTime": "20110131061543.000", "EndTime": "20110131061544.000", "PrimaryTag": "CC1", "Text": "NOT GOOD F YOUR RETIREMENT      "}
+{"StartTime": "20110131061544.000", "EndTime": "20110131061545.000", "PrimaryTag": "CC1", "Text": "ACUNT.                          "}
+{"StartTime": "20110131061545.000", "EndTime": "20110131061547.000", "PrimaryTag": "CC1", "Text": "L PRICES SHOTP JUMPING          "}
+{"StartTime": "20110131061547.000", "EndTime": "20110131061550.000", "PrimaryTag": "CC1", "Text": "NEARLY $4 A BARREL TO $90 A     "}
+{"StartTime": "20110131061550.000", "EndTime": "20110131061550.000", "PrimaryTag": "CC1", "Text": "BARREL.                         "}
+{"StartTime": "20110131061550.000", "EndTime": "20110131061552.000", "PrimaryTag": "CC1", "Text": "ANY SUSTAINED INCREASE LIKE THAT"}
+{"StartTime": "20110131061552.000", "EndTime": "20110131061554.000", "PrimaryTag": "CC1", "Text": "COULD SEND GAS PRICEAT THE      "}
+{"StartTime": "20110131061554.000", "EndTime": "20110131061556.000", "PrimaryTag": "CC1", "Text": "PUMP HIGHE AND INFLATION IN     "}
+{"StartTime": "20110131061556.000", "EndTime": "20110131061558.000", "PrimaryTag": "CC1", "Text": "GENERAL HIGHER BECAUSE OIL IS   "}
+{"StartTime": "20110131061558.000", "EndTime": "20110131061600.000", "PrimaryTag": "CC1", "Text": "UD IN MING AND PROCESSING SO    "}
+{"StartTime": "20110131061600.000", "EndTime": "20110131061602.000", "PrimaryTag": "CC1", "Text": "MANY DIFFERENT PRODUCTS FROM    "}
+{"StartTime": "20110131061602.000", "EndTime": "20110131061605.000", "PrimaryTag": "CC1", "Text": "PLASTICS TO TIRESO CLOTHING.    "}
+{"StartTime": "20110131061605.000", "EndTime": "20110131061607.000", "PrimaryTag": "CC1", "Text": "HIGHER OIL PCESOULD HURT        "}
+{"StartTime": "20110131061607.000", "EndTime": "20110131061609.000", "PrimaryTag": "CC1", "Text": "ECOMIC GWTH AT A TIME WHEN      "}
+{"StartTime": "20110131061609.000", "EndTime": "20110131061611.000", "PrimaryTag": "CC1", "Text": "RECOVERY HERE AND AROUND THE    "}
+{"StartTime": "20110131061611.000", "EndTime": "20110131061613.000", "PrimaryTag": "CC1", "Text": "WORLD IS SLL FRAGILE.           "}
+{"StartTime": "20110131061613.000", "EndTime": "20110131061615.000", "PrimaryTag": "CC1", "Text": "THEY VE ASKED OIL PRODUCING     "}
+{"StartTime": "20110131061615.000", "EndTime": "20110131061617.000", "PrimaryTag": "CC1", "Text": "COMPANIES TO BE FLEXIE WITH     "}
+{"StartTime": "20110131061617.000", "EndTime": "20110131061618.000", "PrimaryTag": "CC1", "Text": "PRODUCTION WHILE EGYPT IS IN    "}
+{"StartTime": "20110131061618.000", "EndTime": "20110131061619.000", "PrimaryTag": "CC1", "Text": "CRISIS.                         "}
+{"StartTime": "20110131061619.000", "EndTime": "20110131061622.000", "PrimaryTag": "CC1", "Text": "A KEY FOCUS IS THEPERATIS OF    "}
+{"StartTime": "20110131061622.000", "EndTime": "20110131061625.000", "PrimaryTag": "CC1", "Text": "THE S E CANAL AND WTHER         "}
+{"StartTime": "20110131061625.000", "EndTime": "20110131061626.000", "PrimaryTag": "CC1", "Text": "THEY COULD BE DISRUPTED.        "}
+{"StartTime": "20110131061626.000", "EndTime": "20110131061628.000", "PrimaryTag": "CC1", "Text": "SO FAR THE CANAL REMAINS OPEN.  "}
+{"StartTime": "20110131061628.000", "EndTime": "20110131061630.000", "PrimaryTag": "CC1", "Text": "THEHIPPING NEWS SERCE LLOYDS    "}
+{"StartTime": "20110131061630.000", "EndTime": "20110131061633.000", "PrimaryTag": "CC1", "Text": "LISTND BRITAINS REPORTI         "}
+{"StartTime": "20110131061633.000", "EndTime": "20110131061636.000", "PrimaryTag": "CC1", "Text": "ONE CONVOY OF SPS THAN          "}
+{"StartTime": "20110131061636.000", "EndTime": "20110131061637.000", "PrimaryTag": "CC1", "Text": "CANCELED BECAUSE THE EVENTS IN  "}
+{"StartTime": "20110131061637.000", "EndTime": "20110131061639.000", "PrimaryTag": "CC1", "Text": "EGYPT WE ARE TRYING TO NAIL DOWN"}
+{"StartTime": "20110131061639.000", "EndTime": "20110131061641.000", "PrimaryTag": "CC1", "Text": "THETAILS ON THAT.               "}
+{"StartTime": "20110131061641.000", "EndTime": "20110131061643.000", "PrimaryTag": "CC1", "Text": "3 PCENT OFIL OIL SPMENTS        "}
+{"StartTime": "20110131061643.000", "EndTime": "20110131061645.000", "PrimaryTag": "CC1", "Text": "GO THROUGH THE CAN ALONG WITH   "}
+{"StartTime": "20110131061645.000", "EndTime": "20110131061646.000", "PrimaryTag": "CC1", "Text": "A BIG OIL PIPELINE THAT RUNS    "}
+{"StartTime": "20110131061646.000", "EndTime": "20110131061647.000", "PrimaryTag": "CC1", "Text": "NEAR IT.                        "}
+{"StartTime": "20110131061647.000", "EndTime": "20110131061650.000", "PrimaryTag": "CC1", "Text": "ANY REDTION OR DELAYS I THOSE   "}
+{"StartTime": "20110131061650.000", "EndTime": "20110131061651.000", "PrimaryTag": "CC1", "Text": "SHIENTS OBVIOUSLY COULDEND      "}
+{"StartTime": "20110131061651.000", "EndTime": "20110131061653.000", "PrimaryTag": "CC1", "Text": "OIL PRICES HIER.                "}
+{"StartTime": "20110131061653.000", "EndTime": "20110131061654.000", "PrimaryTag": "CC1", "Text": "IT IS NOT JUS OIL.              "}
+{"StartTime": "20110131061654.000", "EndTime": "20110131061657.000", "PrimaryTag": "CC1", "Text": "MORE THAN 7 HS OF ALL PDUCTS    "}
+{"StartTime": "20110131061657.000", "EndTime": "20110131061659.000", "PrimaryTag": "CC1", "Text": "AND COMMOTIES ITHE WORLD        "}
+{"StartTime": "20110131061659.000", "EndTime": "20110131061702.000", "PrimaryTag": "CC1", "Text": "SS THROUGH THE UE EZ CANAL.     "}
+{"StartTime": "20110131061702.000", "EndTime": "20110131061704.000", "PrimaryTag": "CC1", "Text": "LOTS OFRAIN AND FINISH          "}
+{"StartTime": "20110131061704.000", "EndTime": "20110131061706.000", "PrimaryTag": "CC1", "Text": "PRUCTS AND TOYS.                "}
+{"StartTime": "20110131061706.000", "EndTime": "20110131061709.000", "PrimaryTag": "CC1", "Text": "35 TUSAND SHIPS A YEAR.         "}
+{"StartTime": "20110131061711.000", "EndTime": "20110131061711.000", "PrimaryTag": "XDS", "Text": "%    TITLE: ws, Fair and Banced"}
+{"StartTime": "20110131061709.000", "EndTime": "20110131061715.000", "PrimaryTag": "CC1", "Text": ">> PETER THANK YOU.             "}
+{"StartTime": "20110131061715.000", "EndTime": "20110131061717.000", "PrimaryTag": "CC1", "Text": ">> TOM PRICE THI ON THE         "}
+{"StartTime": "20110131061717.000", "EndTime": "20110131061718.000", "PrimaryTag": "CC1", "Text": "POWERFUL WEIGHS AND MEANS       "}
+{"StartTime": "20110131061718.000", "EndTime": "20110131061719.000", "PrimaryTag": "CC1", "Text": "COMMITE.                        "}
+{"StartTime": "20110131061719.000", "EndTime": "20110131061725.000", "PrimaryTag": "CC1", "Text": "HE JOINS ME.                    "}
+{"StartTime": "20110131061725.000", "EndTime": "20110131061736.000", "PrimaryTag": "CC1", "Text": ">> I THINK WE ARE ALL WORRIED.  "}
+{"StartTime": "20110131061736.000", "EndTime": "20110131061738.000", "PrimaryTag": "CC1", "Text": ">> AS WELL AS PROCTSND GOODS    "}
+{"StartTime": "20110131061738.000", "EndTime": "20110131061739.000", "PrimaryTag": "CC1", "Text": "AND SERVICES THRGH THA AREA     "}
+{"StartTime": "20110131061739.000", "EndTime": "20110131061741.000", "PrimaryTag": "CC1", "Text": "E AUNT OF OIL 33 PERCENT OF     "}
+{"StartTime": "20110131061741.000", "EndTime": "20110131061743.000", "PrimaryTag": "CC1", "Text": "THE RLD'S OILHROUGH THAT        "}
+{"StartTime": "20110131061743.000", "EndTime": "20110131061743.000", "PrimaryTag": "CC1", "Text": "AREA.                           "}
+{"StartTime": "20110131061744.000", "EndTime": "20110131061744.000", "PrimaryTag": "XDS", "Text": "%    TITLE: News, Fair and Balanced"}
+{"StartTime": "20110131061743.000", "EndTime": "20110131061744.000", "PrimaryTag": "CC1", "Text": "CLEARLY THE STABILTY, THE       "}
+{"StartTime": "20110131061744.000", "EndTime": "20110131061747.000", "PrimaryTag": "CC1", "Text": "SECUTY IN THAT AREA IS NOT      "}
+{"StartTime": "20110131061747.000", "EndTime": "20110131061749.000", "PrimaryTag": "CC1", "Text": "JUST FORHE REGN BUTOR THE       "}
+{"StartTime": "20110131061749.000", "EndTime": "20110131061750.000", "PrimaryTag": "CC1", "Text": "WORLD.                          "}
+{"StartTime": "20110131061750.000", "EndTime": "20110131061751.000", "PrimaryTag": "CC1", "Text": "WE ALL LOOK FORWARD TO THIS     "}
+{"StartTime": "20110131061751.000", "EndTime": "20110131061753.000", "PrimaryTag": "CC1", "Text": "ORDERLY TRANSITION THATE HAVE   "}
+{"StartTime": "20110131061753.000", "EndTime": "20110131061754.000", "PrimaryTag": "CC1", "Text": "TALKED ABOUT.                   "}
+{"StartTime": "20110131061754.000", "EndTime": "20110131061756.000", "PrimaryTag": "CC1", "Text": "THAT IS WHERE WE NEED TO        "}
+{"StartTime": "20110131061756.000", "EndTime": "20110131061800.000", "PrimaryTag": "CC1", "Text": "CONCENTRATE OUR EFFORTS.        "}
+{"StartTime": "20110131061800.000", "EndTime": "20110131061803.000", "PrimaryTag": "CC1", "Text": "MONEY HAS A WAY OF MODERATING   "}
+{"StartTime": "20110131061803.000", "EndTime": "20110131061804.000", "PrimaryTag": "CC1", "Text": "MANY RADICALS.                  "}
+{"StartTime": "20110131061804.000", "EndTime": "20110131061808.000", "PrimaryTag": "CC1", "Text": "AS MUCH AS THE REAGAN ATTACK ON "}
+{"StartTime": "20110131061808.000", "EndTime": "20110131061809.000", "PrimaryTag": "CC1", "Text": "TRIPOLI THE MON HE COULD MAK    "}
+{"StartTime": "20110131061809.000", "EndTime": "20110131061812.000", "PrimaryTag": "CC1", "Text": "WITTHE OIL IS ONE OF THE        "}
+{"StartTime": "20110131061812.000", "EndTime": "20110131061821.000", "PrimaryTag": "CC1", "Text": "REASONS MOAMM KDDAFY HAS        "}
+{"StartTime": "20110131061821.000", "EndTime": "20110131061823.000", "PrimaryTag": "CC1", "Text": "BEEN SUCH A NICE GUY.           "}
+{"StartTime": "20110131061823.000", "EndTime": "20110131061824.000", "PrimaryTag": "CC1", "Text": "DO U THINK THEY CAN KEEP        "}
+{"StartTime": "20110131061824.000", "EndTime": "20110131061826.000", "PrimaryTag": "CC1", "Text": "ECONOMIC RELATIONS GOING?       "}
+{"StartTime": "20110131061826.000", "EndTime": "20110131061828.000", "PrimaryTag": "CC1", "Text": ">> I DON'T THINK THERE'S ANY    "}
+{"StartTime": "20110131061828.000", "EndTime": "20110131061829.000", "PrimaryTag": "CC1", "Text": "DESI ON THE PAR OF THE          "}
+{"StartTime": "20110131061829.000", "EndTime": "20110131061831.000", "PrimaryTag": "CC1", "Text": "EGYPTIAN PEOE FRANKLY OR        "}
+{"StartTime": "20110131061831.000", "EndTime": "20110131061832.000", "PrimaryTag": "CC1", "Text": "WHATEVER GOVERNMENT COMES IN    "}
+{"StartTime": "20110131061832.000", "EndTime": "20110131061837.000", "PrimaryTag": "CC1", "Text": "ACE AFTERHIS TRAITION TO        "}
+{"StartTime": "20110131061837.000", "EndTime": "20110131061838.000", "PrimaryTag": "CC1", "Text": "UPSE THE APPLE CART AT THE      "}
+{"StartTime": "20110131061838.000", "EndTime": "20110131061840.000", "PrimaryTag": "CC1", "Text": "MILE EAST OR IN THE WORLD THE   "}
+{"StartTime": "20110131061840.000", "EndTime": "20110131061841.000", "PrimaryTag": "CC1", "Text": "LATIONSHIP THE HAVEN'T          "}
+{"StartTime": "20110131061841.000", "EndTime": "20110131061843.000", "PrimaryTag": "CC1", "Text": "CLEARLY BENEFITED T EGYPTIANS   "}
+{"StartTime": "20110131061843.000", "EndTime": "20110131061845.000", "PrimaryTag": "CC1", "Text": "AS WELL AS THE AREA AND THE     "}
+{"StartTime": "20110131061845.000", "EndTime": "20110131061847.000", "PrimaryTag": "CC1", "Text": "WOD, AND THINK THEY OUGHT TO    "}
+{"StartTime": "20110131061847.000", "EndTime": "20110131061848.000", "PrimaryTag": "CC1", "Text": "BEONTINUED.                     "}
+{"StartTime": "20110131061848.000", "EndTime": "20110131061849.000", "PrimaryTag": "CC1", "Text": "I THINK THAS THE GENERAL        "}
+{"StartTime": "20110131061849.000", "EndTime": "20110131061851.000", "PrimaryTag": "CC1", "Text": "PERSPECTIVE  THE MILITARY IN    "}
+{"StartTime": "20110131061851.000", "EndTime": "20110131061852.000", "PrimaryTag": "CC1", "Text": "EGYPT RIGHT NOW.                "}
+{"StartTime": "20110131061852.000", "EndTime": "20110131061853.000", "PrimaryTag": "CC1", "Text": "THEY HAVE CONTINUED TO MAKE     "}
+{"StartTime": "20110131061853.000", "EndTime": "20110131061857.000", "PrimaryTag": "CC1", "Text": "TERNE THE SUEZ CANAL AND OTHER  "}
+{"StartTime": "20110131061857.000", "EndTime": "20110131061859.000", "PrimaryTag": "CC1", "Text": "AREA OF TRADE A PASSAGEF        "}
+{"StartTime": "20110131061859.000", "EndTime": "20110131061900.000", "PrimaryTag": "CC1", "Text": "OIL ANDRUDE THROUGH THE AREA    "}
+{"StartTime": "20110131061900.000", "EndTime": "20110131061903.000", "PrimaryTag": "CC1", "Text": "ARE SECURE AND HOPEFULLYILL     "}
+{"StartTime": "20110131061903.000", "EndTime": "20110131061904.000", "PrimaryTag": "CC1", "Text": "CONTIN TO BE SO.                "}
+{"StartTime": "20110131061904.000", "EndTime": "20110131061906.000", "PrimaryTag": "CC1", "Text": "IT'S O JOB TO GE THEM THE       "}
+{"StartTime": "20110131061906.000", "EndTime": "20110131061907.000", "PrimaryTag": "CC1", "Text": "FOCUS O MAKE CERTAIN THAT THAT  "}
+{"StartTime": "20110131061907.000", "EndTime": "20110131061908.000", "PrimaryTag": "CC1", "Text": "CONTINUE THROUGH THIS RY,       "}
+{"StartTime": "20110131061908.000", "EndTime": "20110131061910.000", "PrimaryTag": "CC1", "Text": "VERY CHALLENGING ME.            "}
+{"StartTime": "20110131061910.000", "EndTime": "20110131061912.000", "PrimaryTag": "CC1", "Text": ">> VERY CHALNGING TIME INDEED.  "}
+{"StartTime": "20110131061912.000", "EndTime": "20110131061915.000", "PrimaryTag": "CC1", "Text": ">> CONGRESSM PRICE STAND BY     "}
+{"StartTime": "20110131061915.000", "EndTime": "20110131061916.000", "PrimaryTag": "CC1", "Text": "AASSADOR BOLN DO YOU THINK      "}
+{"StartTime": "20110131061916.000", "EndTime": "20110131061919.000", "PrimaryTag": "CC1", "Text": "THE GENERAL -- THE WILD CARD YOU"}
+{"StartTime": "20110131061919.000", "EndTime": "20110131061921.000", "PrimaryTag": "CC1", "Text": "HAVE 20,000 CROOKON THE         "}
+{"StartTime": "20110131061921.000", "EndTime": "20110131061923.000", "PrimaryTag": "CC1", "Text": "STREETS NOW FROM THE PRISS.     "}
+{"StartTime": "20110131061923.000", "EndTime": "20110131061924.000", "PrimaryTag": "CC1", "Text": "HEY ARE NOT INTESTED IN THE     "}
+{"StartTime": "20110131061924.000", "EndTime": "20110131061925.000", "PrimaryTag": "CC1", "Text": "GROSS NATINAL PRODUCT OF E      "}
+{"StartTime": "20110131061925.000", "EndTime": "20110131061926.000", "PrimaryTag": "CC1", "Text": "NATION.                         "}
+{"StartTime": "20110131061926.000", "EndTime": "20110131061928.000", "PrimaryTag": "CC1", "Text": "THEY ARE INTERESD IN ANARCHY.   "}
+{"StartTime": "20110131061928.000", "EndTime": "20110131061929.000", "PrimaryTag": "CC1", "Text": ">> THE EGYPTIAN ECONOMY IS GOING"}
+{"StartTime": "20110131061929.000", "EndTime": "20110131061931.000", "PrimaryTag": "CC1", "Text": "TOO THROUGH THE BASEMENT        "}
+{"StartTime": "20110131061931.000", "EndTime": "20110131061932.000", "PrimaryTag": "CC1", "Text": "BECAUSE TOUSM IS GOINGO DRY     "}
+{"StartTime": "20110131061932.000", "EndTime": "20110131061933.000", "PrimaryTag": "CC1", "Text": "OUT.                            "}
+{"StartTime": "20110131061933.000", "EndTime": "20110131061934.000", "PrimaryTag": "CC1", "Text": "IHINK IT'S SIIFICANT.           "}
+{"StartTime": "20110131061934.000", "EndTime": "20110131061935.000", "PrimaryTag": "CC1", "Text": "SOME OF THE WORST VIOLENCE      "}
+{"StartTime": "20110131061935.000", "EndTime": "20110131061937.000", "PrimaryTag": "CC1", "Text": "THSDAY AND FRIDAY NIGHTS I IN   "}
+{"StartTime": "20110131061937.000", "EndTime": "20110131061942.000", "PrimaryTag": "CC1", "Text": "THE CITY OF THE SUE A CANAL.    "}
+{"StartTime": "20110131061942.000", "EndTime": "20110131061944.000", "PrimaryTag": "CC1", "Text": "ONE THEY VE GOT TOOCK THAT      "}
+{"StartTime": "20110131061944.000", "EndTime": "20110131061945.000", "PrimaryTag": "CC1", "Text": "DOWN TO MAKE SE THE TRANSIT     "}
+{"StartTime": "20110131061945.000", "EndTime": "20110131061947.000", "PrimaryTag": "CC1", "Text": "ROUGH THE CAL IS NOT            "}
+{"StartTime": "20110131061947.000", "EndTime": "20110131061948.000", "PrimaryTag": "CC1", "Text": "AFFECTED.                       "}
+{"StartTime": "20110131061948.000", "EndTime": "20110131061954.000", "PrimaryTag": "CC1", "Text": "THEY UNDERSTAND THAT QUITE WELL."}
+{"StartTime": "20110131061954.000", "EndTime": "20110131061956.000", "PrimaryTag": "CC1", "Text": "ANY QUICK THOUGHTS ON HOW       "}
+{"StartTime": "20110131061956.000", "EndTime": "20110131061958.000", "PrimaryTag": "CC1", "Text": "PRESENT OBAMAS HANING           "}
+{"StartTime": "20110131061958.000", "EndTime": "20110131061959.000", "PrimaryTag": "CC1", "Text": "THIS?                           "}
+{"StartTime": "20110131061959.000", "EndTime": "20110131062000.000", "PrimaryTag": "CC1", "Text": ">> I THINK HE'S DOING AS WELL AS"}
+{"StartTime": "20110131062000.000", "EndTime": "20110131062002.000", "PrimaryTag": "CC1", "Text": "ONE CAN AT THE MOMENT.          "}
+{"StartTime": "20110131062002.000", "EndTime": "20110131062003.000", "PrimaryTag": "CC1", "Text": "HOWEVER I WAS RUCK BY THE       "}
+{"StartTime": "20110131062003.000", "EndTime": "20110131062005.000", "PrimaryTag": "CC1", "Text": "NATURE OF THE INDIVIDUALS THAT  "}
+{"StartTime": "20110131062005.000", "EndTime": "20110131062007.000", "PrimaryTag": "CC1", "Text": "APPEAR TO  IN THETREET          "}
+{"StartTime": "20110131062007.000", "EndTime": "20110131062007.000", "PrimaryTag": "CC1", "Text": "PROTESTING.                     "}
+{"StartTime": "20110131062007.000", "EndTime": "20110131062009.000", "PrimaryTag": "CC1", "Text": "IT'S INDIVIDUALS WHO HAVE A     "}
+{"StartTime": "20110131062009.000", "EndTime": "20110131062011.000", "PrimaryTag": "CC1", "Text": "SIRE FOR FREOM ANDEMOCRACY      "}
+{"StartTime": "20110131062011.000", "EndTime": "20110131062012.000", "PrimaryTag": "CC1", "Text": "AND OPPOUNITY.                  "}
+{"StartTime": "20110131062012.000", "EndTime": "20110131062333.000", "PrimaryTag": "CC1", "Text": ">> LEAVE IT AT??mÑ@çqp@W?7?v?÷o?"}
+{"StartTime": "20110131062333.000", "EndTime": "20110131062335.000", "PrimaryTag": "CC1", "Text": ">> I AEDONGRESSMAN PRICE        "}
+{"StartTime": "20110131062335.000", "EndTime": "20110131062336.000", "PrimaryTag": "CC1", "Text": "WHAT HE THOUGHT ABOUT THE       "}
+{"StartTime": "20110131062336.000", "EndTime": "20110131062338.000", "PrimaryTag": "CC1", "Text": "PRESIDENT'S RFORMANCE?          "}
+{"StartTime": "20110131062338.000", "EndTime": "20110131062340.000", "PrimaryTag": "CC1", "Text": "HE SAID AS WELL ASOULD BE       "}
+{"StartTime": "20110131062340.000", "EndTime": "20110131062340.000", "PrimaryTag": "CC1", "Text": "DONE.                           "}
+{"StartTime": "20110131062340.000", "EndTime": "20110131062342.000", "PrimaryTag": "CC1", "Text": "WE DON'T KNOW A WHOLE LOT.      "}
+{"StartTime": "20110131062342.000", "EndTime": "20110131062343.000", "PrimaryTag": "CC1", "Text": "THE PRESIDENT ALL OF THE        "}
+{"StartTime": "20110131062343.000", "EndTime": "20110131062345.000", "PrimaryTag": "CC1", "Text": "CONGSSIONAL LEADERS BOTH SIDES  "}
+{"StartTime": "20110131062345.000", "EndTime": "20110131062348.000", "PrimaryTag": "CC1", "Text": "OTHE I'LL PER TUDUCI IS LIVE    "}
+{"StartTime": "20110131062348.000", "EndTime": "20110131062349.000", "PrimaryTag": "CC1", "Text": "WITH THE LATEST FROM THE CAPITAL"}
+{"StartTime": "20110131062349.000", "EndTime": "20110131062352.000", "PrimaryTag": "CC1", "Text": "WIT THE PRESENT'S BURNING THE   "}
+{"StartTime": "20110131062352.000", "EndTime": "20110131062353.000", "PrimaryTag": "CC1", "Text": "MIDNIGHT OIL AND BURNING UP HIS "}
+{"StartTime": "20110131062353.000", "EndTime": "20110131062354.000", "PrimaryTag": "CC1", "Text": "PHON CARD, TOO.                 "}
+{"StartTime": "20110131062354.000", "EndTime": "20110131062357.000", "PrimaryTag": "CC1", "Text": "RIGHT PETER?                    "}
+{"StartTime": "20110131062357.000", "EndTime": "20110131062358.000", "PrimaryTag": "CC1", "Text": ">> THAT'SRIGHT.                 "}
+{"StartTime": "20110131062358.000", "EndTime": "20110131062400.000", "PrimaryTag": "CC1", "Text": "WE FOUNDUT BETWEEN YESTERDAY    "}
+{"StartTime": "20110131062400.000", "EndTime": "20110131062401.000", "PrimaryTag": "CC1", "Text": "AND TODAY PRESIDENT OBA HAS     "}
+{"StartTime": "20110131062401.000", "EndTime": "20110131062403.000", "PrimaryTag": "CC1", "Text": "SPOKEN ON THEHONE TO THERIME    "}
+{"StartTime": "20110131062403.000", "EndTime": "20110131062408.000", "PrimaryTag": "CC1", "Text": "MINISTERS OF RKEY ISRAEL A      "}
+{"StartTime": "20110131062408.000", "EndTime": "20110131062409.000", "PrimaryTag": "CC1", "Text": "GREAT BRITAIN AS WELAS THE      "}
+{"StartTime": "20110131062409.000", "EndTime": "20110131062410.000", "PrimaryTag": "CC1", "Text": "KING.                           "}
+{"StartTime": "20110131062410.000", "EndTime": "20110131062411.000", "PrimaryTag": "CC1", "Text": "THE PRESIDENT REITERATED HI     "}
+{"StartTime": "20110131062411.000", "EndTime": "20110131062413.000", "PrimaryTag": "CC1", "Text": "FOCUSN OPPOSIN VIOLEE AND       "}
+{"StartTime": "20110131062413.000", "EndTime": "20110131062414.000", "PrimaryTag": "CC1", "Text": "SUPPORTI UNIVERSAL RIGHTS       "}
+{"StartTime": "20110131062414.000", "EndTime": "20110131062416.000", "PrimaryTag": "CC1", "Text": "INCLUDINTHE RIGHTS TO PEACEFUL  "}
+{"StartTime": "20110131062416.000", "EndTime": "20110131062417.000", "PrimaryTag": "CC1", "Text": "ASSEMBLY.                       "}
+{"StartTime": "20110131062417.000", "EndTime": "20110131062418.000", "PrimaryTag": "CC1", "Text": "THE PRESIDENTLSO SAYS HE        "}
+{"StartTime": "20110131062418.000", "EndTime": "20110131062420.000", "PrimaryTag": "CC1", "Text": "SUORTS AN OERLY TRANSFER T      "}
+{"StartTime": "20110131062420.000", "EndTime": "20110131062422.000", "PrimaryTag": "CC1", "Text": "WHATER GOVERENT THE EGYPTN      "}
+{"StartTime": "20110131062422.000", "EndTime": "20110131062424.000", "PrimaryTag": "CC1", "Text": "PEOPLE WANT AND OBAMA APAIR     "}
+{"StartTime": "20110131062424.000", "EndTime": "20110131062427.000", "PrimaryTag": "CC1", "Text": "AREN'T AD ASKED THOSE WORLD     "}
+{"StartTime": "20110131062427.000", "EndTime": "20110131062430.000", "PrimaryTag": "CC1", "Text": "LEADERS ON THE PHONE FOR THEIRA "}
+{"StartTime": "20110131062430.000", "EndTime": "20110131062431.000", "PrimaryTag": "CC1", "Text": "THE STRES RIGHT NOW.            "}
+{"StartTime": "20110131062431.000", "EndTime": "20110131062432.000", "PrimaryTag": "CC1", "Text": "WE VE NO WORD ON WHAT THEY      "}
+{"StartTime": "20110131062432.000", "EndTime": "20110131062433.000", "PrimaryTag": "CC1", "Text": "FERED UP.                       "}
+{"StartTime": "20110131062433.000", "EndTime": "20110131062435.000", "PrimaryTag": "CC1", "Text": "HERE IWASHINGTON THE T          "}
+{"StartTime": "20110131062435.000", "EndTime": "20110131062438.000", "PrimaryTag": "CC1", "Text": "REPUBLICAN SPEAKER OF TH HOUSE  "}
+{"StartTime": "20110131062438.000", "EndTime": "20110131062440.000", "PrimaryTag": "CC1", "Text": "JOHN BOEHN WHO HAS BEEN HIGHLY  "}
+{"StartTime": "20110131062440.000", "EndTime": "20110131062442.000", "PrimaryTag": "CC1", "Text": "CRITICAL OF THE OBAMA           "}
+{"StartTime": "20110131062442.000", "EndTime": "20110131062443.000", "PrimaryTag": "CC1", "Text": "ADMINISTRATION IN THE FA HE     "}
+{"StartTime": "20110131062443.000", "EndTime": "20110131062444.000", "PrimaryTag": "CC1", "Text": "THIN SO FAR THE PREDENT HAS     "}
+{"StartTime": "20110131062444.000", "EndTime": "20110131062446.000", "PrimaryTag": "CC1", "Text": "DONE A DECENT JOB OF DEALING    "}
+{"StartTime": "20110131062446.000", "EndTime": "20110131062448.000", "PrimaryTag": "CC1", "Text": "WITH A DELICATE SITUATION.      "}
+{"StartTime": "20110131062448.000", "EndTime": "20110131062449.000", "PrimaryTag": "CC1", "Text": ">> I THI THE ADMINISTRATION     "}
+{"StartTime": "20110131062449.000", "EndTime": "20110131062452.000", "PrimaryTag": "CC1", "Text": "OUR ADMINIRATION SO FAR HAS     "}
+{"StartTime": "20110131062452.000", "EndTime": "20110131062455.000", "PrimaryTag": "CC1", "Text": "HANDLED THIS SITUATION PTTY     "}
+{"StartTime": "20110131062455.000", "EndTime": "20110131062456.000", "PrimaryTag": "CC1", "Text": "WELL.                           "}
+{"StartTime": "20110131062456.000", "EndTime": "20110131062501.000", "PrimaryTag": "CC1", "Text": "CLEARLY FORMS NEED TO OCCUR IN  "}
+{"StartTime": "20110131062501.000", "EndTime": "20110131062501.000", "PrimaryTag": "CC1", "Text": "EGYP.                           "}
+{"StartTime": "20110131062501.000", "EndTime": "20110131062502.000", "PrimaryTag": "CC1", "Text": "ANY PLACE AROUND TH WORLD WHERE "}
+{"StartTime": "20110131062502.000", "EndTime": "20110131062504.000", "PrimaryTag": "CC1", "Text": "PEOPLE ARE CLING OUT FOR        "}
+{"StartTime": "20110131062504.000", "EndTime": "20110131062506.000", "PrimaryTag": "CC1", "Text": "FREEDOM AND DEMOCRACY.          "}
+{"StartTime": "20110131062506.000", "EndTime": "20110131062508.000", "PrimaryTag": "CC1", "Text": ">> DEMOCRATIC NEW YK SENATOR    "}
+{"StartTime": "20110131062508.000", "EndTime": "20110131062515.000", "PrimaryTag": "CC1", "Text": "CHUCK SHOE -- CHUCK SHOEER      "}
+{"StartTime": "20110131062515.000", "EndTime": "20110131062517.000", "PrimaryTag": "CC1", "Text": "SAYS IT S BEEN STAILIZING FOR   "}
+{"StartTime": "20110131062517.000", "EndTime": "20110131062517.000", "PrimaryTag": "CC1", "Text": "YEA.                            "}
+{"StartTime": "20110131062517.000", "EndTime": "20110131062518.000", "PrimaryTag": "CC1", "Text": "IF THEWANT CHANGE MAYBE IT'S    "}
+{"StartTime": "20110131062518.000", "EndTime": "20110131062520.000", "PrimaryTag": "CC1", "Text": "TIME FORCHANGE.                 "}
+{"StartTime": "20110131062520.000", "EndTime": "20110131062522.000", "PrimaryTag": "CC1", "Text": ">> NOT EVERY COURY CAN BECE     "}
+{"StartTime": "20110131062522.000", "EndTime": "20110131062948.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110131062522.000", "EndTime": "20110131062525.000", "PrimaryTag": "CC1", "Text": " DEMOCRACY AT E SNAP OF THE     "}
+{"StartTime": "20110131062525.000", "EndTime": "20110131062525.000", "PrimaryTag": "CC1", "Text": "FINGER.                         "}
+{"StartTime": "20110131062525.000", "EndTime": "20110131062527.000", "PrimaryTag": "CC1", "Text": "EGYPTIGHT WE WILL BE READY FOR  "}
+{"StartTime": "20110131062527.000", "EndTime": "20110131062529.000", "PrimaryTag": "CC1", "Text": "IT AND THAT WOULD BE THE BEST   "}
+{"StartTime": "20110131062529.000", "EndTime": "20110131062533.000", "PrimaryTag": "CC1", "Text": "OUTCE AS I SAY A LOT OFAD       "}
+{"StartTime": "20110131062533.000", "EndTime": "20110131062534.000", "PrimaryTag": "CC1", "Text": "JOYCES.                         "}
+{"StartTime": "20110131062534.000", "EndTime": "20110131062537.000", "PrimaryTag": "CC1", "Text": "MUBARAK CAN'T RETURN WITH THE   "}
+{"StartTime": "20110131062537.000", "EndTime": "20110131062539.000", "PrimaryTag": "CC1", "Text": "REGIME HE HAS NOW THE           "}
+{"StartTime": "20110131062539.000", "EndTime": "20110131062540.000", "PrimaryTag": "CC1", "Text": "DEMONSTRATORS AREHOWN THAT.     "}
+{"StartTime": "20110131062540.000", "EndTime": "20110131062815.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110131062540.000", "EndTime": "20110131062544.000", "PrimaryTag": "CC1", "Text": ">>> RUBLICANS AND DEMOCRATS     "}
+{"StartTime": "20110131062544.000", "EndTime": "20110131062546.000", "PrimaryTag": "CC1", "Text": "SPEAKING THE MINDS BUT NODY     "}
+{"StartTime": "20110131062546.000", "EndTime": "20110131062548.000", "PrimaryTag": "CC1", "Text": "OFFERING A REAL SOLUTION TO THE "}
+{"StartTime": "20110131062548.000", "EndTime": "20110131062549.000", "PrimaryTag": "CC1", "Text": "PROBLEM.                        "}
+{"StartTime": "20110131062549.000", "EndTime": "20110131062551.000", "PrimaryTag": "CC1", "Text": "AP IS REPORTING FORMERRESIDENT  "}
+{"StartTime": "20110131062551.000", "EndTime": "20110131062553.000", "PrimaryTag": "CC1", "Text": "JIMMYARTER TOLD A SUNDAY        "}
+{"StartTime": "20110131062553.000", "EndTime": "20110131062555.000", "PrimaryTag": "CC1", "Text": "HOOL CLASS HE TEACHES IN        "}
+{"StartTime": "20110131062555.000", "EndTime": "20110131062556.000", "PrimaryTag": "CC1", "Text": "GEORGIA THAT THIS INGYPT IS     "}
+{"StartTime": "20110131062556.000", "EndTime": "20110131062558.000", "PrimaryTag": "CC1", "Text": "THE MOST PRO FUND SITUATION IN  "}
+{"StartTime": "20110131062558.000", "EndTime": "20110131062600.000", "PrimaryTag": "CC1", "Text": "THE MIDDLE EAST SINCE HE LEFT   "}
+{"StartTime": "20110131062600.000", "EndTime": "20110131062601.000", "PrimaryTag": "CC1", "Text": "OFCE.                           "}
+{"StartTime": "20110131062601.000", "EndTime": "20110131062603.000", "PrimaryTag": "CC1", "Text": "HE TNKS MUBARAK WL HAVE TO      "}
+{"StartTime": "20110131062603.000", "EndTime": "20110131062606.000", "PrimaryTag": "CC1", "Text": "STEP DOWN BUT THE NEW VICE      "}
+{"StartTime": "20110131062606.000", "EndTime": "20110131062609.000", "PrimaryTag": "CC1", "Text": "PRESIDENT SULIMAN IS A          "}
+{"StartTime": "20110131062609.000", "EndTime": "20110131062611.000", "PrimaryTag": "CC1", "Text": "INTELLIGENT MAN HE LES VERY     "}
+{"StartTime": "20110131062611.000", "EndTime": "20110131062611.000", "PrimaryTag": "CC1", "Text": "MUCH.                           "}
+{"StartTime": "20110131062611.000", "EndTime": "20110131062612.000", "PrimaryTag": "CC1", "Text": " THANK YOU PETER.               "}
+{"StartTime": "20110131062612.000", "EndTime": "20110131062614.000", "PrimaryTag": "CC1", "Text": "WHA DO YOU THINK ABOUTARTER     "}
+{"StartTime": "20110131062614.000", "EndTime": "20110131062617.000", "PrimaryTag": "CC1", "Text": "WHO IS ENORMOUSLY UNDER RATED.  "}
+{"StartTime": "20110131062617.000", "EndTime": "20110131062620.000", "PrimaryTag": "CC1", "Text": "THAT MAYE THE MOST              "}
+{"StartTime": "20110131062620.000", "EndTime": "20110131062623.000", "PrimaryTag": "CC1", "Text": "CONTVERSIAL THING IAY           "}
+{"StartTime": "20110131062623.000", "EndTime": "20110131062623.000", "PrimaryTag": "CC1", "Text": "TONIGHT.                        "}
+{"StartTime": "20110131062623.000", "EndTime": "20110131062626.000", "PrimaryTag": "CC1", "Text": ">> HIS COMMENT IS SULIMAN FMER  "}
+{"StartTime": "20110131062626.000", "EndTime": "20110131062627.000", "PrimaryTag": "CC1", "Text": "MILITY OFFIR.                   "}
+{"StartTime": "20110131062627.000", "EndTime": "20110131062628.000", "PrimaryTag": "CC1", "Text": "I THINTHIS IS WHAT --           "}
+{"StartTime": "20110131062628.000", "EndTime": "20110131062631.000", "PrimaryTag": "CC1", "Text": ">> AND NOW VICE PRESIDEN        "}
+{"StartTime": "20110131062631.000", "EndTime": "20110131062633.000", "PrimaryTag": "CC1", "Text": ">> ITHE LINE  SUCCESSION.       "}
+{"StartTime": "20110131062633.000", "EndTime": "20110131062634.000", "PrimaryTag": "CC1", "Text": "I THINK E MILITARY HAS CREATED  "}
+{"StartTime": "20110131062634.000", "EndTime": "20110131062636.000", "PrimaryTag": "CC1", "Text": "WHAT THEY THINK THE NEXT        "}
+{"StartTime": "20110131062636.000", "EndTime": "20110131062637.000", "PrimaryTag": "CC1", "Text": "ESIDENT WILL BE.                "}
+{"StartTime": "20110131062637.000", "EndTime": "20110131062640.000", "PrimaryTag": "CC1", "Text": "WHETHER MUBARAK CAN LASIT WAS   "}
+{"StartTime": "20110131062640.000", "EndTime": "20110131062642.000", "PrimaryTag": "CC1", "Text": "GOING TO BE IN SEPTEMBNYWAY     "}
+{"StartTime": "20110131062642.000", "EndTime": "20110131062645.000", "PrimaryTag": "CC1", "Text": "NOT THAMUCH F -- FURTHER        "}
+{"StartTime": "20110131062645.000", "EndTime": "20110131062647.000", "PrimaryTag": "CC1", "Text": "DOWN THE ROAD TH MILITARY IS    "}
+{"StartTime": "20110131062647.000", "EndTime": "20110131062648.000", "PrimaryTag": "CC1", "Text": "SETTIN UP FOR THE LO-TERM.      "}
+{"StartTime": "20110131062648.000", "EndTime": "20110131062650.000", "PrimaryTag": "CC1", "Text": ">> IF YOU AREHERE WHAT DO Y     "}
+{"StartTime": "20110131062650.000", "EndTime": "20110131062651.000", "PrimaryTag": "CC1", "Text": "THINK THE UNITED STES CAN DO.   "}
+{"StartTime": "20110131062651.000", "EndTime": "20110131062656.000", "PrimaryTag": "CC1", "Text": "IT ISEALLY IMPRESSIVE MIDDLE    "}
+{"StartTime": "20110131062656.000", "EndTime": "20110131062657.000", "PrimaryTag": "CC1", "Text": "PERT IMPSSIVE TO LEA BOTH       "}
+{"StartTime": "20110131062657.000", "EndTime": "20110131062659.000", "PrimaryTag": "CC1", "Text": "SIDES OF THE AISLE UNDERSTANDING"}
+{"StartTime": "20110131062659.000", "EndTime": "20110131062703.000", "PrimaryTag": "CC1", "Text": "THE FRURATION ON E YEARNINGS    "}
+{"StartTime": "20110131062703.000", "EndTime": "20110131062705.000", "PrimaryTag": "CC1", "Text": "OTHE EGYPTIAN PEOPLE AND        "}
+{"StartTime": "20110131062705.000", "EndTime": "20110131062707.000", "PrimaryTag": "CC1", "Text": "CAUTIONING SOME PEACEFUL ORDERLY"}
+{"StartTime": "20110131062707.000", "EndTime": "20110131062708.000", "PrimaryTag": "CC1", "Text": "TRANSITION.                     "}
+{"StartTime": "20110131062708.000", "EndTime": "20110131062711.000", "PrimaryTag": "CC1", "Text": "WHAT CAN WE DO TO HELP THAT?    "}
+{"StartTime": "20110131062711.000", "EndTime": "20110131062713.000", "PrimaryTag": "CC1", "Text": ">> THINK THE MOS IMPORTANT      "}
+{"StartTime": "20110131062713.000", "EndTime": "20110131062715.000", "PrimaryTag": "CC1", "Text": "THING IS TO CONNECT WT WE SEE   "}
+{"StartTime": "20110131062715.000", "EndTime": "20110131062718.000", "PrimaryTag": "CC1", "Text": " WHAT IT IS IN REALITY ON THE   "}
+{"StartTime": "20110131062718.000", "EndTime": "20110131062719.000", "PrimaryTag": "CC1", "Text": "OUND.                           "}
+{"StartTime": "20110131062719.000", "EndTime": "20110131062720.000", "PrimaryTag": "CC1", "Text": "THE FOOTAGEE SEE THE PICTURES   "}
+{"StartTime": "20110131062720.000", "EndTime": "20110131062723.000", "PrimaryTag": "CC1", "Text": "REPORTS THEY ARE GETTING FROM   "}
+{"StartTime": "20110131062723.000", "EndTime": "20110131062725.000", "PrimaryTag": "CC1", "Text": "EGYPT WHICH IS PIECES OF        "}
+{"StartTime": "20110131062725.000", "EndTime": "20110131062726.000", "PrimaryTag": "CC1", "Text": "EVERYTHI IN THE SSE THAT TO     "}
+{"StartTime": "20110131062726.000", "EndTime": "20110131062728.000", "PrimaryTag": "CC1", "Text": "HAVE DEMSTRATIONS, AOS,         "}
+{"StartTime": "20110131062728.000", "EndTime": "20110131062729.000", "PrimaryTag": "CC1", "Text": "LOOTI, STATEMES OF CONRN        "}
+{"StartTime": "20110131062729.000", "EndTime": "20110131062734.000", "PrimaryTag": "CC1", "Text": "BY U.S., ISRAELIS AND OTHERS.   "}
+{"StartTime": "20110131062734.000", "EndTime": "20110131062735.000", "PrimaryTag": "CC1", "Text": "REALITYS TWO FAC YOU HAVE A     "}
+{"StartTime": "20110131062735.000", "EndTime": "20110131062737.000", "PrimaryTag": "CC1", "Text": "SURGE BY THE EGYPTIAN PUBLIC    "}
+{"StartTime": "20110131062737.000", "EndTime": "20110131062740.000", "PrimaryTag": "CC1", "Text": "THEY DON'T WAN BARAK.           "}
+{"StartTime": "20110131062740.000", "EndTime": "20110131062743.000", "PrimaryTag": "CC1", "Text": "WE HAVE TO DEAL WITH THAT FA.   "}
+{"StartTime": "20110131062743.000", "EndTime": "20110131062747.000", "PrimaryTag": "CC1", "Text": "THERE ARE MULTIPLE DECISION     "}
+{"StartTime": "20110131062747.000", "EndTime": "20110131062748.000", "PrimaryTag": "CC1", "Text": "EFFORTS.                        "}
+{"StartTime": "20110131062748.000", "EndTime": "20110131062750.000", "PrimaryTag": "CC1", "Text": "I WOULD THINK PRESIDENT MUBARAK "}
+{"StartTime": "20110131062750.000", "EndTime": "20110131062752.000", "PrimaryTag": "CC1", "Text": "HAS A EXIT STRATEGY.            "}
+{"StartTime": "20110131062752.000", "EndTime": "20110131062757.000", "PrimaryTag": "CC1", "Text": "THE ARMY IS CONCERN ABOUTON     "}
+{"StartTime": "20110131062757.000", "EndTime": "20110131062759.000", "PrimaryTag": "CC1", "Text": "WHO WILL PA THEIR WAGESND       "}
+{"StartTime": "20110131062759.000", "EndTime": "20110131062801.000", "PrimaryTag": "CC1", "Text": "WHAT KIN OF GOVERNMENT IS       "}
+{"StartTime": "20110131062801.000", "EndTime": "20110131062803.000", "PrimaryTag": "CC1", "Text": "OVERSEEING THE ARMY AND THEN YOU"}
+{"StartTime": "20110131062803.000", "EndTime": "20110131062807.000", "PrimaryTag": "CC1", "Text": "HAVE HAJJ MAP OF POLITICAL      "}
+{"StartTime": "20110131062807.000", "EndTime": "20110131062809.000", "PrimaryTag": "CC1", "Text": "FORCES EACH WANTS TO BE PART OF "}
+{"StartTime": "20110131062809.000", "EndTime": "20110131062810.000", "PrimaryTag": "CC1", "Text": "THE NEXT GOVERNMENTNE WHO       "}
+{"StartTime": "20110131062810.000", "EndTime": "20110131062812.000", "PrimaryTag": "CC1", "Text": "WANTS TO BE PART OTHE           "}
+{"StartTime": "20110131062812.000", "EndTime": "20110131062815.000", "PrimaryTag": "CC1", "Text": "GORNMENT ANDLSO THE MUSM        "}
+{"StartTime": "20110131062815.000", "EndTime": "20110131062815.000", "PrimaryTag": "CC1", "Text": "BROTHEROD.                      "}
+{"StartTime": "20110131062815.000", "EndTime": "20110131062950.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110131062815.000", "EndTime": "20110131062817.000", "PrimaryTag": "CC1", "Text": ">>> MAE IT'S TIME F THEM TO     "}
+{"StartTime": "20110131062817.000", "EndTime": "20110131062818.000", "PrimaryTag": "CC1", "Text": "BE PART OF THE GOVERNMENT.      "}
+{"StartTime": "20110131062818.000", "EndTime": "20110131062819.000", "PrimaryTag": "CC1", "Text": "I DON'T KN.                     "}
+{"StartTime": "20110131062819.000", "EndTime": "20110131062821.000", "PrimaryTag": "CC1", "Text": " THEY HAVE POPULAR SUPPORT AND  "}
+{"StartTime": "20110131062821.000", "EndTime": "20110131062825.000", "PrimaryTag": "CC1", "Text": "THEY AGREE TO PY BY THE RULES   "}
+{"StartTime": "20110131062825.000", "EndTime": "20110131062826.000", "PrimaryTag": "CC1", "Text": "MAYBE TRE SHOULD BE PART OF     "}
+{"StartTime": "20110131062826.000", "EndTime": "20110131062827.000", "PrimaryTag": "CC1", "Text": "IT.                             "}
+{"StartTime": "20110131062827.000", "EndTime": "20110131062829.000", "PrimaryTag": "CC1", "Text": "FORMER SENR OFFICIAL FOR ONE    "}
+{"StartTime": "20110131062829.000", "EndTime": "20110131062830.000", "PrimaryTag": "CC1", "Text": "OF THEIBERAL POLITICAL PARTIES  "}
+{"StartTime": "20110131062830.000", "EndTime": "20110131062834.000", "PrimaryTag": "CC1", "Text": "IN GYPT, WHAT DO YOU THINK?     "}
+{"StartTime": "20110131062834.000", "EndTime": "20110131062837.000", "PrimaryTag": "CC1", "Text": "OULD THE WT ENCOUNSEL RAJ       "}
+{"StartTime": "20110131062837.000", "EndTime": "20110131062840.000", "PrimaryTag": "CC1", "Text": "THE INCLUSION EVEN PPLE LIKE    "}
+{"StartTime": "20110131062840.000", "EndTime": "20110131062842.000", "PrimaryTag": "CC1", "Text": "THE MUSLIM BROTHEROD IN SOME    "}
+{"StartTime": "20110131062842.000", "EndTime": "20110131062844.000", "PrimaryTag": "CC1", "Text": "KIND O DEMOCRACY GOING FORWARD? "}
+{"StartTime": "20110131062844.000", "EndTime": "20110131062845.000", "PrimaryTag": "CC1", "Text": ">> I THINK THE WEST SHOUL       "}
+{"StartTime": "20110131062845.000", "EndTime": "20110131062848.000", "PrimaryTag": "CC1", "Text": "LIST TO WHAT EGYPTIAN SECULS    "}
+{"StartTime": "20110131062848.000", "EndTime": "20110131062850.000", "PrimaryTag": "CC1", "Text": "D EGYPTIA POSITION WANT.        "}
+{"StartTime": "20110131062850.000", "EndTime": "20110131062853.000", "PrimaryTag": "CC1", "Text": "THE EGYPTIAN SECTIONER DO NOT   "}
+{"StartTime": "20110131062853.000", "EndTime": "20110131062857.000", "PrimaryTag": "CC1", "Text": "WANT TO SEEN EYE RAINIAN        "}
+{"StartTime": "20110131062857.000", "EndTime": "20110131062858.000", "PrimaryTag": "CC1", "Text": "SCENARIO IT COME IN EGYPT.      "}
+{"StartTime": "20110131062858.000", "EndTime": "20110131062900.000", "PrimaryTag": "CC1", "Text": "THEY ARE ARE OF THEISTAKES      "}
+{"StartTime": "20110131062900.000", "EndTime": "20110131062903.000", "PrimaryTag": "CC1", "Text": "IN THE REGION AND LET'S NOT WAIT"}
+{"StartTime": "20110131062903.000", "EndTime": "20110131062906.000", "PrimaryTag": "CC1", "Text": "INIVING ANDHEIR DICK DATE       "}
+{"StartTime": "20110131062906.000", "EndTime": "20110131062908.000", "PrimaryTag": "CC1", "Text": "TORE SHIP FOR 60EARS TO HAND    "}
+{"StartTime": "20110131062908.000", "EndTime": "20110131062911.000", "PrimaryTag": "CC1", "Text": "OVER T ENTIRE TO ONE GROUP.     "}
+{"StartTime": "20110131062911.000", "EndTime": "20110131062913.000", "PrimaryTag": "CC1", "Text": "WHAT TYPE OF GOVNMENT WILL      "}
+{"StartTime": "20110131062913.000", "EndTime": "20110131062914.000", "PrimaryTag": "CC1", "Text": "COME OF THIS.                   "}
+{"StartTime": "20110131062914.000", "EndTime": "20110131062917.000", "PrimaryTag": "CC1", "Text": "WHATRE THE RULES OF E GAME.     "}
+{"StartTime": "20110131062917.000", "EndTime": "20110131062919.000", "PrimaryTag": "CC1", "Text": "SO FAR THERE'SN AGRMENT TO      "}
+{"StartTime": "20110131062919.000", "EndTime": "20110131062921.000", "PrimaryTag": "CC1", "Text": "HAVE ASSISTANCE IN WCH THERE    "}
+{"StartTime": "20110131062921.000", "EndTime": "20110131062923.000", "PrimaryTag": "CC1", "Text": "IS LESS POWER IN THE HANDS OF   "}
+{"StartTime": "20110131062923.000", "EndTime": "20110131062926.000", "PrimaryTag": "CC1", "Text": "THE PRESIDENT AND MORE POW      "}
+{"StartTime": "20110131062926.000", "EndTime": "20110131062928.000", "PrimaryTag": "CC1", "Text": "TH THE PRIME MINISTER WITH      "}
+{"StartTime": "20110131062928.000", "EndTime": "20110131062933.000", "PrimaryTag": "CC1", "Text": "CHECKS AND BALANCES THAT WOULD  "}
+{"StartTime": "20110131062933.000", "EndTime": "20110131062934.000", "PrimaryTag": "CC1", "Text": "PREVE.                          "}
+{"StartTime": "20110131062934.000", "EndTime": "20110131062934.000", "PrimaryTag": "CC1", "Text": " I HAVE AN IDEA.                "}
+{"StartTime": "20110131062934.000", "EndTime": "20110131062938.000", "PrimaryTag": "CC1", "Text": "I WAS I IRAQ THEY DISBANDED THE "}
+{"StartTime": "20110131062938.000", "EndTime": "20110131062939.000", "PrimaryTag": "CC1", "Text": "MY.                             "}
+{"StartTime": "20110131062939.000", "EndTime": "20110131062942.000", "PrimaryTag": "CC1", "Text": "E FRS WOINT THEY EVER MADE.     "}
+{"StartTime": "20110131062942.000", "EndTime": "20110131062948.000", "PrimaryTag": "CC1", "Text": "WE HAVEOT TO EOURAGE THE        "}
+{"StartTime": "20110131062948.000", "EndTime": "20110131062948.000", "PrimaryTag": "CC1", "Text": "ARMY.                           "}
+{"StartTime": "20110131062948.000", "EndTime": "20110131062949.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110131062948.000", "EndTime": "20110131062949.000", "PrimaryTag": "CC1", "Text": ">> I THINK THIS IS VERY         "}
+{"StartTime": "20110131062949.000", "EndTime": "20110131062950.000", "PrimaryTag": "CC1", "Text": "IMPORTANT BECAUSEE HAVE         "}
+{"End": "20110131062950", "FileName": "2011-01-31_0600_US_FOX-News_The_Half_Hour_News_Hour"}

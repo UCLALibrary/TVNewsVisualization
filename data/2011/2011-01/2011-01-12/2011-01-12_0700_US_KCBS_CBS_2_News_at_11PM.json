@@ -1,0 +1,920 @@
+{"Top": "20110112070001", "Filename": "2011-01-12_0700_US_KCBS_CBS_2_News_at_11PM"}
+{"Collection": "Communication Studies Archive, UCLA"}
+{"UID": "6f9e2ca2-1e1e-11e0-b0ca-001517add6fa"}
+{"Duration": "0:34:44.54"}
+{"Video_Picture_Size": "640x368", "Original_Picture_Size": ""}
+{"Comment": ""}
+{"Language": "ENG"}
+{"Local_Broadcast_Time": "2011-01-11 23:00 America/Los_Angeles"}
+{"Annotation_Tag": "SEG_01", "Creation_Time": "2014-02-03 01:07:18", "Source_Program": "commercial_detection.py", "Source_Person": "Weixin Li"}
+{"StartTime": "20110112070002.000", "EndTime": "20110112070002.000", "PrimaryTag": "XDS", "Text": "%    TITLE: WIF111EC"}
+{"StartTime": "20110112070002.000", "EndTime": "20110112070002.000", "PrimaryTag": "XDS", "Text": "%     CALL:   "}
+{"StartTime": "20110112070002.000", "EndTime": "20110112070002.000", "PrimaryTag": "XDS", "Text": "%  NETWORK: CBS"}
+{"StartTime": "20110112070004.000", "EndTime": "20110112073445.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110112070004.000", "EndTime": "20110112070005.000", "PrimaryTag": "CC1", "Text": "RUSHED TO THE HOSPITAL.         "}
+{"StartTime": "20110112070005.000", "EndTime": "20110112070007.000", "PrimaryTag": "CC1", "Text": "HIS DISTRAUGHT COLLEAGUES       "}
+{"StartTime": "20110112070007.000", "EndTime": "20110112070007.000", "PrimaryTag": "CC1", "Text": "RACE TO THE EMERGENCY ROOM      "}
+{"StartTime": "20110112070007.000", "EndTime": "20110112070115.000", "PrimaryTag": "CC1", "Text": "123450                          "}
+{"StartTime": "20110112070115.000", "EndTime": "20110112070117.000", "PrimaryTag": "CC1", "Text": "PAT: BREAKING NEWS ON \"CBS2     "}
+{"StartTime": "20110112070117.000", "EndTime": "20110112070119.000", "PrimaryTag": "CC1", "Text": "NEWS\" AT 11:00 AN L.A.          "}
+{"StartTime": "20110112070119.000", "EndTime": "20110112070121.000", "PrimaryTag": "CC1", "Text": "COUNTY DEPUTY WHO HAS ONLY      "}
+{"StartTime": "20110112070121.000", "EndTime": "20110112070123.000", "PrimaryTag": "CC1", "Text": "BEEN ON THE BEAT THREE WEEKS    "}
+{"StartTime": "20110112070123.000", "EndTime": "20110112070124.000", "PrimaryTag": "CC1", "Text": "IS SHOT IN THE FACE IN A        "}
+{"StartTime": "20110112070124.000", "EndTime": "20110112070125.000", "PrimaryTag": "CC1", "Text": "CONFRONTATION WITH A GANG       "}
+{"StartTime": "20110112070125.000", "EndTime": "20110112070125.000", "PrimaryTag": "CC1", "Text": "MEMBER.                         "}
+{"StartTime": "20110112070125.000", "EndTime": "20110112070127.000", "PrimaryTag": "CC1", "Text": "TONIGHT THE GANG MEMBER IS      "}
+{"StartTime": "20110112070127.000", "EndTime": "20110112070128.000", "PrimaryTag": "CC1", "Text": "DEAD AND THE DEPARTMENT IS      "}
+{"StartTime": "20110112070128.000", "EndTime": "20110112070129.000", "PrimaryTag": "CC1", "Text": "RAMP INK BEHIND ONE OF THEIR    "}
+{"StartTime": "20110112070129.000", "EndTime": "20110112070129.000", "PrimaryTag": "CC1", "Text": "OWN.                            "}
+{"StartTime": "20110112070129.000", "EndTime": "20110112070132.000", "PrimaryTag": "CC1", "Text": "PAUL: THIS IS WHERE IT          "}
+{"StartTime": "20110112070132.000", "EndTime": "20110112070134.000", "PrimaryTag": "CC1", "Text": "STARTED IN CITY TERRACE         "}
+{"StartTime": "20110112070134.000", "EndTime": "20110112070138.000", "PrimaryTag": "CC1", "Text": "WHERE DETECTIVES ARE COMBING    "}
+{"StartTime": "20110112070138.000", "EndTime": "20110112070139.000", "PrimaryTag": "CC1", "Text": "THROUGH THE CRIME SCENE.        "}
+{"StartTime": "20110112070139.000", "EndTime": "20110112070141.000", "PrimaryTag": "CC1", "Text": "PAT: WE GIVE WITH SUZANNE       "}
+{"StartTime": "20110112070141.000", "EndTime": "20110112070142.000", "PrimaryTag": "CC1", "Text": "MARQUES LIVE AT THE HOSPITAL    "}
+{"StartTime": "20110112070142.000", "EndTime": "20110112070143.000", "PrimaryTag": "CC1", "Text": "WHERE SHE SPOKE WITH THE        "}
+{"StartTime": "20110112070143.000", "EndTime": "20110112070144.000", "PrimaryTag": "CC1", "Text": "SHERIFF.                        "}
+{"StartTime": "20110112070144.000", "EndTime": "20110112070145.000", "PrimaryTag": "CC1", "Text": ">>Reporter: THAT'S RIGHT THE    "}
+{"StartTime": "20110112070145.000", "EndTime": "20110112070148.000", "PrimaryTag": "CC1", "Text": "DEPUTY IS IN INTENSIVE CARE.    "}
+{"StartTime": "20110112070148.000", "EndTime": "20110112070149.000", "PrimaryTag": "CC1", "Text": "HE'S BEEN WITH THE              "}
+{"StartTime": "20110112070149.000", "EndTime": "20110112070151.000", "PrimaryTag": "CC1", "Text": "DEPARTMENT SINCE 2007 BUT       "}
+{"StartTime": "20110112070151.000", "EndTime": "20110112070153.000", "PrimaryTag": "CC1", "Text": "JUST HIT THE STREETS OF EAST    "}
+{"StartTime": "20110112070153.000", "EndTime": "20110112070154.000", "PrimaryTag": "CC1", "Text": "L.A. THREE WEEKS AGO.           "}
+{"StartTime": "20110112070154.000", "EndTime": "20110112070155.000", "PrimaryTag": "CC1", "Text": "TONIGHT HE WAS OUT TRAINING     "}
+{"StartTime": "20110112070155.000", "EndTime": "20110112070158.000", "PrimaryTag": "CC1", "Text": "WHEN THEY CONFRONTED A          "}
+{"StartTime": "20110112070158.000", "EndTime": "20110112070158.000", "PrimaryTag": "CC1", "Text": "PAROLEE.                        "}
+{"StartTime": "20110112070158.000", "EndTime": "20110112070159.000", "PrimaryTag": "CC1", "Text": "IT HAPPENED AS THE SUSPECT      "}
+{"StartTime": "20110112070159.000", "EndTime": "20110112070201.000", "PrimaryTag": "CC1", "Text": "WAS HEAVILY ARMED WITH TWO      "}
+{"StartTime": "20110112070201.000", "EndTime": "20110112070202.000", "PrimaryTag": "CC1", "Text": "HANDGUNS.                       "}
+{"StartTime": "20110112070202.000", "EndTime": "20110112070204.000", "PrimaryTag": "CC1", "Text": "DURING THE FIGHT SEVERAL        "}
+{"StartTime": "20110112070204.000", "EndTime": "20110112070209.000", "PrimaryTag": "CC1", "Text": "SHOTS WERE FIRED ONE BULLET     "}
+{"StartTime": "20110112070209.000", "EndTime": "20110112070210.000", "PrimaryTag": "CC1", "Text": "LODGING UNDER THE DEPUTY'S      "}
+{"StartTime": "20110112070210.000", "EndTime": "20110112070212.000", "PrimaryTag": "CC1", "Text": "RIGHT EYE.                      "}
+{"StartTime": "20110112070212.000", "EndTime": "20110112070214.000", "PrimaryTag": "CC1", "Text": "SHERIFF LEE BACA CAME TO SEE    "}
+{"StartTime": "20110112070214.000", "EndTime": "20110112070215.000", "PrimaryTag": "CC1", "Text": "HIM AT THE HOSPITAL.            "}
+{"StartTime": "20110112070215.000", "EndTime": "20110112070217.000", "PrimaryTag": "CC1", "Text": "THERE WERE NO INJURIES TO       "}
+{"StartTime": "20110112070217.000", "EndTime": "20110112070219.000", "PrimaryTag": "CC1", "Text": "HIS BRAIN BUT HE IS STILL IN    "}
+{"StartTime": "20110112070219.000", "EndTime": "20110112070220.000", "PrimaryTag": "CC1", "Text": "A CAUTIOUS STATE AN HERE'S      "}
+{"StartTime": "20110112070220.000", "EndTime": "20110112070222.000", "PrimaryTag": "CC1", "Text": "MORE ON THE DEPUTY AND WHAT     "}
+{"StartTime": "20110112070222.000", "EndTime": "20110112070226.000", "PrimaryTag": "CC1", "Text": "WENT DOWN TONIGHT.              "}
+{"StartTime": "20110112070226.000", "EndTime": "20110112070228.000", "PrimaryTag": "CC1", "Text": ">> OUR SCENARIO STARTED         "}
+{"StartTime": "20110112070228.000", "EndTime": "20110112070228.000", "PrimaryTag": "CC1", "Text": "EARLIER THIS EVENING.           "}
+{"StartTime": "20110112070228.000", "EndTime": "20110112070231.000", "PrimaryTag": "CC1", "Text": "THERE WAS A WOMAN IN A CAR      "}
+{"StartTime": "20110112070231.000", "EndTime": "20110112070233.000", "PrimaryTag": "CC1", "Text": "WITH A MAN.                     "}
+{"StartTime": "20110112070233.000", "EndTime": "20110112070235.000", "PrimaryTag": "CC1", "Text": "OUR EXPERIENCED TRAINING        "}
+{"StartTime": "20110112070235.000", "EndTime": "20110112070237.000", "PrimaryTag": "CC1", "Text": "OFFICER AND BY THE WAY THE      "}
+{"StartTime": "20110112070237.000", "EndTime": "20110112070239.000", "PrimaryTag": "CC1", "Text": "INJURED DEPUTY IS A TRAINEE,    "}
+{"StartTime": "20110112070239.000", "EndTime": "20110112070242.000", "PrimaryTag": "CC1", "Text": "HIS NAME IS MOHAMMED AHMED.     "}
+{"StartTime": "20110112070242.000", "EndTime": "20110112070249.000", "PrimaryTag": "CC1", "Text": "HE'S A SMILEIAN AMERICAN.       "}
+{"StartTime": "20110112070249.000", "EndTime": "20110112070250.000", "PrimaryTag": "CC1", "Text": "THE TRAINEE APPROACHED THE      "}
+{"StartTime": "20110112070250.000", "EndTime": "20110112070250.000", "PrimaryTag": "CC1", "Text": "CAR.                            "}
+{"StartTime": "20110112070250.000", "EndTime": "20110112070254.000", "PrimaryTag": "CC1", "Text": "THE SUSPECT WHO IS A PAROLEE    "}
+{"StartTime": "20110112070254.000", "EndTime": "20110112070257.000", "PrimaryTag": "CC1", "Text": "CAME OUT OF THE CAR             "}
+{"StartTime": "20110112070257.000", "EndTime": "20110112070257.000", "PrimaryTag": "CC1", "Text": "IMMEDIATELY STARTED FIGHTING    "}
+{"StartTime": "20110112070257.000", "EndTime": "20110112070300.000", "PrimaryTag": "CC1", "Text": "WITH THE TRAINEE.               "}
+{"StartTime": "20110112070300.000", "EndTime": "20110112070301.000", "PrimaryTag": "CC1", "Text": "AT THAT POINT THE TRAINEE       "}
+{"StartTime": "20110112070301.000", "EndTime": "20110112070303.000", "PrimaryTag": "CC1", "Text": "WAS SHOT.                       "}
+{"StartTime": "20110112070303.000", "EndTime": "20110112070306.000", "PrimaryTag": "CC1", "Text": "IT WAS UNCERTAIN AS TO WHERE    "}
+{"StartTime": "20110112070306.000", "EndTime": "20110112070307.000", "PrimaryTag": "CC1", "Text": "AND HOW THAT OCCURRED OTHER     "}
+{"StartTime": "20110112070307.000", "EndTime": "20110112070309.000", "PrimaryTag": "CC1", "Text": "THAN THE TRAINING OFFICER       "}
+{"StartTime": "20110112070309.000", "EndTime": "20110112070313.000", "PrimaryTag": "CC1", "Text": "IMMEDIATELY JUMPED INTO THE     "}
+{"StartTime": "20110112070313.000", "EndTime": "20110112070314.000", "PrimaryTag": "CC1", "Text": "FRAY.                           "}
+{"StartTime": "20110112070314.000", "EndTime": "20110112070316.000", "PrimaryTag": "CC1", "Text": "THE SHOT DEPUTY WENT DOWN TO    "}
+{"StartTime": "20110112070316.000", "EndTime": "20110112070317.000", "PrimaryTag": "CC1", "Text": "THE SIDEWALK.                   "}
+{"StartTime": "20110112070317.000", "EndTime": "20110112070319.000", "PrimaryTag": "CC1", "Text": "THE TRAINING OFFICER            "}
+{"StartTime": "20110112070319.000", "EndTime": "20110112070320.000", "PrimaryTag": "CC1", "Text": "ULTIMATELY WAS FACING THE       "}
+{"StartTime": "20110112070320.000", "EndTime": "20110112070322.000", "PrimaryTag": "CC1", "Text": "SUSPECT AND STRUGGLING WITH     "}
+{"StartTime": "20110112070322.000", "EndTime": "20110112070322.000", "PrimaryTag": "CC1", "Text": "HIM.                            "}
+{"StartTime": "20110112070322.000", "EndTime": "20110112070324.000", "PrimaryTag": "CC1", "Text": "THAT SAME SUSPECT THAT SHOT     "}
+{"StartTime": "20110112070324.000", "EndTime": "20110112070326.000", "PrimaryTag": "CC1", "Text": "THE FIRST DEPUTY PUT THE GUN    "}
+{"StartTime": "20110112070326.000", "EndTime": "20110112070329.000", "PrimaryTag": "CC1", "Text": "TO THE SECOND DEPUTY'S          "}
+{"StartTime": "20110112070329.000", "EndTime": "20110112070329.000", "PrimaryTag": "CC1", "Text": "CHEST.                          "}
+{"StartTime": "20110112070329.000", "EndTime": "20110112070333.000", "PrimaryTag": "CC1", "Text": "THE SECOND DEPUTY SLAPPED       "}
+{"StartTime": "20110112070333.000", "EndTime": "20110112070335.000", "PrimaryTag": "CC1", "Text": "THE GUN AWAY FROM HIS CHEST.    "}
+{"StartTime": "20110112070335.000", "EndTime": "20110112070338.000", "PrimaryTag": "CC1", "Text": "THE SUSPECT FIRED TWO SHOTS     "}
+{"StartTime": "20110112070338.000", "EndTime": "20110112070340.000", "PrimaryTag": "CC1", "Text": "IN THAT TRANSITION OF THE       "}
+{"StartTime": "20110112070340.000", "EndTime": "20110112070341.000", "PrimaryTag": "CC1", "Text": "SLAPPING DID NOT HIT THE        "}
+{"StartTime": "20110112070341.000", "EndTime": "20110112070341.000", "PrimaryTag": "CC1", "Text": "DEPUTY.                         "}
+{"StartTime": "20110112070341.000", "EndTime": "20110112070344.000", "PrimaryTag": "CC1", "Text": "THE DEPUTY FIRED A SHOT INTO    "}
+{"StartTime": "20110112070344.000", "EndTime": "20110112070345.000", "PrimaryTag": "CC1", "Text": "THE CHEST OF THE SUSPECT AND    "}
+{"StartTime": "20110112070345.000", "EndTime": "20110112070346.000", "PrimaryTag": "CC1", "Text": "THE SUSPECT WAS KILLED AND      "}
+{"StartTime": "20110112070346.000", "EndTime": "20110112070348.000", "PrimaryTag": "CC1", "Text": "THE SUSPECT IS A GANG MEMBER    "}
+{"StartTime": "20110112070348.000", "EndTime": "20110112070353.000", "PrimaryTag": "CC1", "Text": "OF A LOCAL GANG ON PAROLE.      "}
+{"StartTime": "20110112070353.000", "EndTime": "20110112070355.000", "PrimaryTag": "CC1", "Text": ">>Reporter: DEPUTY AHMED'S      "}
+{"StartTime": "20110112070355.000", "EndTime": "20110112070357.000", "PrimaryTag": "CC1", "Text": "WIFE AND SISTER ARE WITH HIM    "}
+{"StartTime": "20110112070357.000", "EndTime": "20110112070359.000", "PrimaryTag": "CC1", "Text": "AT THE HOSPITAL.                "}
+{"StartTime": "20110112070359.000", "EndTime": "20110112070400.000", "PrimaryTag": "CC1", "Text": "SHERIFF BACA SAYS HIS           "}
+{"StartTime": "20110112070400.000", "EndTime": "20110112070401.000", "PrimaryTag": "CC1", "Text": "INJURIES ARE NOT                "}
+{"StartTime": "20110112070401.000", "EndTime": "20110112070403.000", "PrimaryTag": "CC1", "Text": "LIFE-THREATENING BUT THE        "}
+{"StartTime": "20110112070403.000", "EndTime": "20110112070405.000", "PrimaryTag": "CC1", "Text": "CONCERN IS HE MAY LOSE HIS      "}
+{"StartTime": "20110112070405.000", "EndTime": "20110112070406.000", "PrimaryTag": "CC1", "Text": "RIGHT EYE.                      "}
+{"StartTime": "20110112070406.000", "EndTime": "20110112070409.000", "PrimaryTag": "CC1", "Text": "SUZANNE MARQUES \"CBS2 NEWS\".    "}
+{"StartTime": "20110112070409.000", "EndTime": "20110112070411.000", "PrimaryTag": "CC1", "Text": "PAUL: A WIDE AREA OF CITY       "}
+{"StartTime": "20110112070411.000", "EndTime": "20110112070414.000", "PrimaryTag": "CC1", "Text": "TERRACE REMAINS AN ACTIVE       "}
+{"StartTime": "20110112070414.000", "EndTime": "20110112070414.000", "PrimaryTag": "CC1", "Text": "CRIME SCENE.                    "}
+{"StartTime": "20110112070414.000", "EndTime": "20110112070416.000", "PrimaryTag": "CC1", "Text": "SERENE BRANSON JOINS US LIVE    "}
+{"StartTime": "20110112070416.000", "EndTime": "20110112070417.000", "PrimaryTag": "CC1", "Text": "WITH THE INVESTIGATION.         "}
+{"StartTime": "20110112070417.000", "EndTime": "20110112070418.000", "PrimaryTag": "CC1", "Text": ">>Reporter: PAUL WE ARE         "}
+{"StartTime": "20110112070418.000", "EndTime": "20110112070420.000", "PrimaryTag": "CC1", "Text": "BEING KEPT A GOOD DISTANCE      "}
+{"StartTime": "20110112070420.000", "EndTime": "20110112070421.000", "PrimaryTag": "CC1", "Text": "AWAY FROM THE CRIME SCENE       "}
+{"StartTime": "20110112070421.000", "EndTime": "20110112070422.000", "PrimaryTag": "CC1", "Text": "BEHIND ME HERE.                 "}
+{"StartTime": "20110112070422.000", "EndTime": "20110112070423.000", "PrimaryTag": "CC1", "Text": "TAKE A LOOK.                    "}
+{"StartTime": "20110112070423.000", "EndTime": "20110112070424.000", "PrimaryTag": "CC1", "Text": "THERE'S A HEAVY LAW             "}
+{"StartTime": "20110112070424.000", "EndTime": "20110112070425.000", "PrimaryTag": "CC1", "Text": "ENFORCEMENT PRESENCE OUT        "}
+{"StartTime": "20110112070425.000", "EndTime": "20110112070425.000", "PrimaryTag": "CC1", "Text": "HERE.                           "}
+{"StartTime": "20110112070425.000", "EndTime": "20110112070427.000", "PrimaryTag": "CC1", "Text": "THERE ARE AT LEAST FIVE         "}
+{"StartTime": "20110112070427.000", "EndTime": "20110112070428.000", "PrimaryTag": "CC1", "Text": "SHERIFF'S DEPUTIES CARS HERE    "}
+{"StartTime": "20110112070428.000", "EndTime": "20110112070430.000", "PrimaryTag": "CC1", "Text": "AT THE CORNER OF HAZARD AND     "}
+{"StartTime": "20110112070430.000", "EndTime": "20110112070432.000", "PrimaryTag": "CC1", "Text": "FLOOR AND WE ARE TOLD THE       "}
+{"StartTime": "20110112070432.000", "EndTime": "20110112070434.000", "PrimaryTag": "CC1", "Text": "CRIME SCENE IS JUST ABOUT A     "}
+{"StartTime": "20110112070434.000", "EndTime": "20110112070436.000", "PrimaryTag": "CC1", "Text": "HALF BLOCK DOWN AT THE          "}
+{"StartTime": "20110112070436.000", "EndTime": "20110112070443.000", "PrimaryTag": "CC1", "Text": "CORNER OF FLOOR -- FLORAL       "}
+{"StartTime": "20110112070443.000", "EndTime": "20110112070445.000", "PrimaryTag": "CC1", "Text": "AND BRANNICK.                   "}
+{"StartTime": "20110112070445.000", "EndTime": "20110112070447.000", "PrimaryTag": "CC1", "Text": "WE ARE TOLD TWO DEPUTIES        "}
+{"StartTime": "20110112070447.000", "EndTime": "20110112070449.000", "PrimaryTag": "CC1", "Text": "WERE ON PATROL WHEN THEY        "}
+{"StartTime": "20110112070449.000", "EndTime": "20110112070449.000", "PrimaryTag": "CC1", "Text": "APPROACHED A SUSPECT IN         "}
+{"StartTime": "20110112070449.000", "EndTime": "20110112070452.000", "PrimaryTag": "CC1", "Text": "FRONT OF A LIQUOR STORE.        "}
+{"StartTime": "20110112070452.000", "EndTime": "20110112070453.000", "PrimaryTag": "CC1", "Text": "THIS SUSPECT WAS A PAROLEE      "}
+{"StartTime": "20110112070453.000", "EndTime": "20110112070454.000", "PrimaryTag": "CC1", "Text": "ACCORDING TO LAW ENFORCEMENT    "}
+{"StartTime": "20110112070455.000", "EndTime": "20110112070455.000", "PrimaryTag": "XDS", "Text": "%    TITLE:   "}
+{"StartTime": "20110112070454.000", "EndTime": "20110112070456.000", "PrimaryTag": "CC1", "Text": "AND STRUGGLE ENSUED.            "}
+{"StartTime": "20110112070456.000", "EndTime": "20110112070459.000", "PrimaryTag": "CC1", "Text": "DEPUTIES SAY THE PAROLEE WAS    "}
+{"StartTime": "20110112070459.000", "EndTime": "20110112070501.000", "PrimaryTag": "CC1", "Text": "WITH HIS GIRLFRIEND AND HAD     "}
+{"StartTime": "20110112070501.000", "EndTime": "20110112070502.000", "PrimaryTag": "CC1", "Text": "TWO GUNS ON HIM.                "}
+{"StartTime": "20110112070502.000", "EndTime": "20110112070504.000", "PrimaryTag": "CC1", "Text": "RESIDENTS TOLD US WHAT THEY     "}
+{"StartTime": "20110112070504.000", "EndTime": "20110112070504.000", "PrimaryTag": "CC1", "Text": "HEARD AND SAW.                  "}
+{"StartTime": "20110112070504.000", "EndTime": "20110112070506.000", "PrimaryTag": "CC1", "Text": ">> IT LOOKED AS IF THE COP      "}
+{"StartTime": "20110112070506.000", "EndTime": "20110112070508.000", "PrimaryTag": "CC1", "Text": "STOPPED HIM LIKE YOU KNOW,      "}
+{"StartTime": "20110112070508.000", "EndTime": "20110112070510.000", "PrimaryTag": "CC1", "Text": "STOP AND CAN I SEE YOUR         "}
+{"StartTime": "20110112070510.000", "EndTime": "20110112070510.000", "PrimaryTag": "CC1", "Text": "LICENSE.                        "}
+{"StartTime": "20110112070510.000", "EndTime": "20110112070511.000", "PrimaryTag": "CC1", "Text": "THAT'S WHAT IT LOOKED LIKE      "}
+{"StartTime": "20110112070511.000", "EndTime": "20110112070514.000", "PrimaryTag": "CC1", "Text": "AND THEN IT LOOKED LIKE HE      "}
+{"StartTime": "20110112070514.000", "EndTime": "20110112070515.000", "PrimaryTag": "CC1", "Text": "MIGHT HAVE HAD A GUN AND        "}
+{"StartTime": "20110112070515.000", "EndTime": "20110112070518.000", "PrimaryTag": "CC1", "Text": "THEY WERE LIKE FIGHTING AND     "}
+{"StartTime": "20110112070518.000", "EndTime": "20110112070519.000", "PrimaryTag": "CC1", "Text": "THEY SHOT EACH OTHER I GUESS    "}
+{"StartTime": "20110112070519.000", "EndTime": "20110112070520.000", "PrimaryTag": "CC1", "Text": "BECAUSE WE HEARD THE SHOTS.     "}
+{"StartTime": "20110112070520.000", "EndTime": "20110112070522.000", "PrimaryTag": "CC1", "Text": ">> WHAT DID IT SOUND LIKE?      "}
+{"StartTime": "20110112070522.000", "EndTime": "20110112070524.000", "PrimaryTag": "CC1", "Text": ">> THE FIRST TWO WERE REALLY    "}
+{"StartTime": "20110112070524.000", "EndTime": "20110112070526.000", "PrimaryTag": "CC1", "Text": "LOUD AND THEN YOU HEARD LIKE    "}
+{"StartTime": "20110112070526.000", "EndTime": "20110112070527.000", "PrimaryTag": "CC1", "Text": "SCREAMING AND YELLING.          "}
+{"StartTime": "20110112070527.000", "EndTime": "20110112070528.000", "PrimaryTag": "CC1", "Text": ">>Reporter: AND AS WE TAKE      "}
+{"StartTime": "20110112070528.000", "EndTime": "20110112070531.000", "PrimaryTag": "CC1", "Text": "ANOTHER LOOK AT THE VIEW        "}
+{"StartTime": "20110112070531.000", "EndTime": "20110112070535.000", "PrimaryTag": "CC1", "Text": "FROM SKY 2 YOU HEARD LUPE       "}
+{"StartTime": "20110112070535.000", "EndTime": "20110112070536.000", "PrimaryTag": "CC1", "Text": "SCREAMING WHEN WE ARRIVED IT    "}
+{"StartTime": "20110112070536.000", "EndTime": "20110112070538.000", "PrimaryTag": "CC1", "Text": "WAS A CHAOTIC SCENE WITH        "}
+{"StartTime": "20110112070538.000", "EndTime": "20110112070539.000", "PrimaryTag": "CC1", "Text": "RESIDENTS TRYING TO FIGURE      "}
+{"StartTime": "20110112070539.000", "EndTime": "20110112070540.000", "PrimaryTag": "CC1", "Text": "OUT WHAT WAS GOING ON.          "}
+{"StartTime": "20110112070540.000", "EndTime": "20110112070542.000", "PrimaryTag": "CC1", "Text": "THIS HAS CORDONED OFF A         "}
+{"StartTime": "20110112070542.000", "EndTime": "20110112070543.000", "PrimaryTag": "CC1", "Text": "FAIRLY LARGE PERIMETER HERE     "}
+{"StartTime": "20110112070543.000", "EndTime": "20110112070546.000", "PrimaryTag": "CC1", "Text": "AND DEPUTIES HAVE BEEN GOING    "}
+{"StartTime": "20110112070546.000", "EndTime": "20110112070547.000", "PrimaryTag": "CC1", "Text": "DOOR TO DOOR TO HOMES IN THE    "}
+{"StartTime": "20110112070547.000", "EndTime": "20110112070548.000", "PrimaryTag": "CC1", "Text": "NEIGHBORHOOD SURROUNDING THE    "}
+{"StartTime": "20110112070548.000", "EndTime": "20110112070549.000", "PrimaryTag": "CC1", "Text": "LIQUOR STORE WHERE THE          "}
+{"StartTime": "20110112070549.000", "EndTime": "20110112070551.000", "PrimaryTag": "CC1", "Text": "SHOOTING TOOK PLACE TRYING      "}
+{"StartTime": "20110112070551.000", "EndTime": "20110112070552.000", "PrimaryTag": "CC1", "Text": "TO GET WITNESS STATEMENTS       "}
+{"StartTime": "20110112070552.000", "EndTime": "20110112070553.000", "PrimaryTag": "CC1", "Text": "AND ACCOUNTS OF WHAT            "}
+{"StartTime": "20110112070553.000", "EndTime": "20110112070554.000", "PrimaryTag": "CC1", "Text": "HAPPENED BUT A NEIGHBORHOOD     "}
+{"StartTime": "20110112070554.000", "EndTime": "20110112070555.000", "PrimaryTag": "CC1", "Text": "SHUT DOWN AS THE DETECTIVES     "}
+{"StartTime": "20110112070555.000", "EndTime": "20110112070557.000", "PrimaryTag": "CC1", "Text": "CONTINUE TO INVESTIGATE AND     "}
+{"StartTime": "20110112070557.000", "EndTime": "20110112070559.000", "PrimaryTag": "CC1", "Text": "GATHER ALL THE EVIDENCE THEY    "}
+{"StartTime": "20110112070559.000", "EndTime": "20110112070601.000", "PrimaryTag": "CC1", "Text": "CAN FROM THIS                   "}
+{"StartTime": "20110112070601.000", "EndTime": "20110112070602.000", "PrimaryTag": "CC1", "Text": "DEPUTY-INVOLVED SHOOTING.       "}
+{"StartTime": "20110112070602.000", "EndTime": "20110112070603.000", "PrimaryTag": "CC1", "Text": "THAT'S THE LATEST FROM CITY     "}
+{"StartTime": "20110112070603.000", "EndTime": "20110112070604.000", "PrimaryTag": "CC1", "Text": "TERRACE, SERENE BRANSON         "}
+{"StartTime": "20110112070604.000", "EndTime": "20110112070604.000", "PrimaryTag": "CC1", "Text": "CBS2 NEWS.                    "}
+{"StartTime": "20110112070604.000", "EndTime": "20110112070606.000", "PrimaryTag": "CC1", "Text": "PAT: AND HERE'S THE BOTTOM      "}
+{"StartTime": "20110112070606.000", "EndTime": "20110112070609.000", "PrimaryTag": "CC1", "Text": "LINE, A 27-YEAR-OLD DEPUTY      "}
+{"StartTime": "20110112070609.000", "EndTime": "20110112070610.000", "PrimaryTag": "CC1", "Text": "WHO HAD BEEN ON THE STREET      "}
+{"StartTime": "20110112070610.000", "EndTime": "20110112070612.000", "PrimaryTag": "CC1", "Text": "THREE WEEKS WAS SHOT IN THE     "}
+{"StartTime": "20110112070612.000", "EndTime": "20110112070614.000", "PrimaryTag": "CC1", "Text": "FACE TONIGHT HIT NEAR HIS       "}
+{"StartTime": "20110112070614.000", "EndTime": "20110112070615.000", "PrimaryTag": "CC1", "Text": "RIGHT 'AND THE PAROLEE WHO      "}
+{"StartTime": "20110112070615.000", "EndTime": "20110112070618.000", "PrimaryTag": "CC1", "Text": "SHOT HIM IS DEAD.               "}
+{"StartTime": "20110112070618.000", "EndTime": "20110112070619.000", "PrimaryTag": "CC1", "Text": "WE WILL HAVE THE LATEST ON      "}
+{"StartTime": "20110112070619.000", "EndTime": "20110112070621.000", "PrimaryTag": "CC1", "Text": "THE DEPUTY'S CONDITION AND      "}
+{"StartTime": "20110112070621.000", "EndTime": "20110112070621.000", "PrimaryTag": "CC1", "Text": "THE INVESTIGATION TOMORROW      "}
+{"StartTime": "20110112070621.000", "EndTime": "20110112070623.000", "PrimaryTag": "CC1", "Text": "MORNING ON \"CBS2 NEWS\" AT       "}
+{"StartTime": "20110112070623.000", "EndTime": "20110112070624.000", "PrimaryTag": "CC1", "Text": "4:30 A.M..                      "}
+{"StartTime": "20110112070624.000", "EndTime": "20110112070626.000", "PrimaryTag": "CC1", "Text": "PAUL: MICHAEL JACKSON'S         "}
+{"StartTime": "20110112070626.000", "EndTime": "20110112070626.000", "PrimaryTag": "CC1", "Text": "PRIVATE DOCTOR, CONRAD          "}
+{"StartTime": "20110112070626.000", "EndTime": "20110112070629.000", "PrimaryTag": "CC1", "Text": "MURRAY, WILL STAND TRIAL FOR    "}
+{"StartTime": "20110112070629.000", "EndTime": "20110112070630.000", "PrimaryTag": "CC1", "Text": "MANSLAUGHTER.                   "}
+{"StartTime": "20110112070630.000", "EndTime": "20110112070631.000", "PrimaryTag": "CC1", "Text": "CBS2'S RACHEL KIM IS LIVE IN    "}
+{"StartTime": "20110112070631.000", "EndTime": "20110112070633.000", "PrimaryTag": "CC1", "Text": "THE NEWS ROOM WITH DETAILS      "}
+{"StartTime": "20110112070633.000", "EndTime": "20110112070635.000", "PrimaryTag": "CC1", "Text": "THAT LED TO TODAY'S RULING.     "}
+{"StartTime": "20110112070635.000", "EndTime": "20110112070636.000", "PrimaryTag": "CC1", "Text": ">>Reporter: THE JUDGE SAID      "}
+{"StartTime": "20110112070636.000", "EndTime": "20110112070637.000", "PrimaryTag": "CC1", "Text": "AFTER HEARING ALL THE           "}
+{"StartTime": "20110112070637.000", "EndTime": "20110112070639.000", "PrimaryTag": "CC1", "Text": "TESTIMONY PRESENTED HE          "}
+{"StartTime": "20110112070639.000", "EndTime": "20110112070640.000", "PrimaryTag": "CC1", "Text": "BELIEVES THAT ALLOWING          "}
+{"StartTime": "20110112070640.000", "EndTime": "20110112070640.000", "PrimaryTag": "CC1", "Text": "MEASURE TOY KEEP HIS LICENSE    "}
+{"StartTime": "20110112070640.000", "EndTime": "20110112070642.000", "PrimaryTag": "CC1", "Text": "WOULD CONSTITUTE AND            "}
+{"StartTime": "20110112070642.000", "EndTime": "20110112070643.000", "PrimaryTag": "CC1", "Text": "IMMINENT DANGER TO PUBLIC       "}
+{"StartTime": "20110112070643.000", "EndTime": "20110112070644.000", "PrimaryTag": "CC1", "Text": "SAFETY.                         "}
+{"StartTime": "20110112070644.000", "EndTime": "20110112070645.000", "PrimaryTag": "CC1", "Text": "MEMBERS OF THE JACKSON          "}
+{"StartTime": "20110112070645.000", "EndTime": "20110112070646.000", "PrimaryTag": "CC1", "Text": "FAMILY WALKED AWAY HAPPY        "}
+{"StartTime": "20110112070646.000", "EndTime": "20110112070650.000", "PrimaryTag": "CC1", "Text": "WITH THE JUDGE'S DECISION.      "}
+{"StartTime": "20110112070650.000", "EndTime": "20110112070651.000", "PrimaryTag": "CC1", "Text": "PROSECUTOR DAVID WALGREN        "}
+{"StartTime": "20110112070651.000", "EndTime": "20110112070653.000", "PrimaryTag": "CC1", "Text": "SUMMED UP HIS CASE TO THE       "}
+{"StartTime": "20110112070653.000", "EndTime": "20110112070655.000", "PrimaryTag": "CC1", "Text": "JUDGE LIKE THIS.                "}
+{"StartTime": "20110112070655.000", "EndTime": "20110112070656.000", "PrimaryTag": "CC1", "Text": "BECAUSE OF DR. MURRAY'S         "}
+{"StartTime": "20110112070656.000", "EndTime": "20110112070658.000", "PrimaryTag": "CC1", "Text": "ACTIONS MICHAEL'S CHILDREN      "}
+{"StartTime": "20110112070658.000", "EndTime": "20110112070659.000", "PrimaryTag": "CC1", "Text": "ARE LEFT WITHOUT A FATHER.      "}
+{"StartTime": "20110112070659.000", "EndTime": "20110112070701.000", "PrimaryTag": "CC1", "Text": "THE PROSECUTION CLAIMS          "}
+{"StartTime": "20110112070701.000", "EndTime": "20110112070702.000", "PrimaryTag": "CC1", "Text": "DR. CONRAD MURRAY IS            "}
+{"StartTime": "20110112070702.000", "EndTime": "20110112070703.000", "PrimaryTag": "CC1", "Text": "RESPONSIBLE FOR THE DEATH OF    "}
+{"StartTime": "20110112070703.000", "EndTime": "20110112070704.000", "PrimaryTag": "CC1", "Text": "MICHAEL JACKSON BY PROVIDING    "}
+{"StartTime": "20110112070704.000", "EndTime": "20110112070705.000", "PrimaryTag": "CC1", "Text": "THE POWERFUL ANESTHETIC         "}
+{"StartTime": "20110112070705.000", "EndTime": "20110112070707.000", "PrimaryTag": "CC1", "Text": "PROPOFYL AND OTHER SEDATIVES    "}
+{"StartTime": "20110112070707.000", "EndTime": "20110112070709.000", "PrimaryTag": "CC1", "Text": "NOT MONITORING JACKSON          "}
+{"StartTime": "20110112070709.000", "EndTime": "20110112070711.000", "PrimaryTag": "CC1", "Text": "PROPERLY AND FAILING TO         "}
+{"StartTime": "20110112070711.000", "EndTime": "20110112070713.000", "PrimaryTag": "CC1", "Text": "PERFORM BASIC LIFESAVING        "}
+{"StartTime": "20110112070713.000", "EndTime": "20110112070714.000", "PrimaryTag": "CC1", "Text": "MEASURES ONCE THE SINGER        "}
+{"StartTime": "20110112070714.000", "EndTime": "20110112070715.000", "PrimaryTag": "CC1", "Text": "STOPPED BREATHING N. THE        "}
+{"StartTime": "20110112070715.000", "EndTime": "20110112070717.000", "PrimaryTag": "CC1", "Text": "DEFENSE CLOSING REMARKS THEY    "}
+{"StartTime": "20110112070717.000", "EndTime": "20110112070717.000", "PrimaryTag": "CC1", "Text": "MAINTAIN IT WAS MICHAEL         "}
+{"StartTime": "20110112070717.000", "EndTime": "20110112070718.000", "PrimaryTag": "CC1", "Text": "JACKSON WHO LIKELY              "}
+{"StartTime": "20110112070718.000", "EndTime": "20110112070720.000", "PrimaryTag": "CC1", "Text": "ADMINISTERED THE LETHAL DOSE    "}
+{"StartTime": "20110112070720.000", "EndTime": "20110112070722.000", "PrimaryTag": "CC1", "Text": "OF PROEFL TO HIMSELF THAT       "}
+{"StartTime": "20110112070722.000", "EndTime": "20110112070723.000", "PrimaryTag": "CC1", "Text": "DR. MURRAY WAS NOT IN THE       "}
+{"StartTime": "20110112070723.000", "EndTime": "20110112070724.000", "PrimaryTag": "CC1", "Text": "ROOM SAYING IT DOESN'T MAKE     "}
+{"StartTime": "20110112070724.000", "EndTime": "20110112070726.000", "PrimaryTag": "CC1", "Text": "IT SHOW.                        "}
+{"StartTime": "20110112070726.000", "EndTime": "20110112070727.000", "PrimaryTag": "CC1", "Text": "IT'S A MAT EARTH OF PROOF       "}
+{"StartTime": "20110112070727.000", "EndTime": "20110112070731.000", "PrimaryTag": "CC1", "Text": "DEFENSE ATTORNEY TOLD THE       "}
+{"StartTime": "20110112070731.000", "EndTime": "20110112070732.000", "PrimaryTag": "CC1", "Text": "JUDGE BUT MICHAEL PASTOR        "}
+{"StartTime": "20110112070732.000", "EndTime": "20110112070734.000", "PrimaryTag": "CC1", "Text": "SAID IT APPEARS THE FELONY      "}
+{"StartTime": "20110112070734.000", "EndTime": "20110112070736.000", "PrimaryTag": "CC1", "Text": "OF INVOLUNTARY MANSLAUGHTER     "}
+{"StartTime": "20110112070736.000", "EndTime": "20110112070738.000", "PrimaryTag": "CC1", "Text": "HAS BEEN COMMITTED AND THERE    "}
+{"StartTime": "20110112070738.000", "EndTime": "20110112070741.000", "PrimaryTag": "CC1", "Text": "EXISTS SUFFICIENT CAUSE TO      "}
+{"StartTime": "20110112070741.000", "EndTime": "20110112070741.000", "PrimaryTag": "CC1", "Text": "CONSIDER CONRAD MURRAY          "}
+{"StartTime": "20110112070741.000", "EndTime": "20110112070742.000", "PrimaryTag": "CC1", "Text": "GUILTY.                         "}
+{"StartTime": "20110112070742.000", "EndTime": "20110112070746.000", "PrimaryTag": "CC1", "Text": "AFTER TODAY'S RULING LATOYA     "}
+{"StartTime": "20110112070746.000", "EndTime": "20110112070747.000", "PrimaryTag": "CC1", "Text": "JACKSON THANKED FANS FOR        "}
+{"StartTime": "20110112070747.000", "EndTime": "20110112070749.000", "PrimaryTag": "CC1", "Text": "THEIR SUPPORT AND SAID THIS     "}
+{"StartTime": "20110112070749.000", "EndTime": "20110112070750.000", "PrimaryTag": "CC1", "Text": "AS SHE WAS LEAVING.             "}
+{"StartTime": "20110112070750.000", "EndTime": "20110112070757.000", "PrimaryTag": "CC1", "Text": ">> I'M SO HAPPY SO FAR.         "}
+{"StartTime": "20110112070757.000", "EndTime": "20110112070758.000", "PrimaryTag": "CC1", "Text": ">>Reporter: IN A FEW WEEKS      "}
+{"StartTime": "20110112070758.000", "EndTime": "20110112070759.000", "PrimaryTag": "CC1", "Text": "CONRAD MURRAY WILL BE IN        "}
+{"StartTime": "20110112070759.000", "EndTime": "20110112070801.000", "PrimaryTag": "CC1", "Text": "COURT FOR ARRAIGNMENT THE       "}
+{"StartTime": "20110112070801.000", "EndTime": "20110112070802.000", "PrimaryTag": "CC1", "Text": "CHARGE INVOLUNTARY              "}
+{"StartTime": "20110112070802.000", "EndTime": "20110112070803.000", "PrimaryTag": "CC1", "Text": "MANSLAUGHTER.                   "}
+{"StartTime": "20110112070803.000", "EndTime": "20110112070804.000", "PrimaryTag": "CC1", "Text": "HE'S EXPECTED TO PLEAD NOT      "}
+{"StartTime": "20110112070804.000", "EndTime": "20110112070805.000", "PrimaryTag": "CC1", "Text": "GUILTY AND FACES UP TO FOUR     "}
+{"StartTime": "20110112070805.000", "EndTime": "20110112070806.000", "PrimaryTag": "CC1", "Text": "YEARS IN PRISON IF              "}
+{"StartTime": "20110112070806.000", "EndTime": "20110112070807.000", "PrimaryTag": "CC1", "Text": "CONVICTED.                      "}
+{"StartTime": "20110112070807.000", "EndTime": "20110112070807.000", "PrimaryTag": "CC1", "Text": "LIVE IN THE NEWS ROOM \"CBS2     "}
+{"StartTime": "20110112070807.000", "EndTime": "20110112070810.000", "PrimaryTag": "CC1", "Text": "NEWS\".                          "}
+{"StartTime": "20110112070810.000", "EndTime": "20110112070811.000", "PrimaryTag": "CC1", "Text": "PAT: TO THE TRAGEDY IN          "}
+{"StartTime": "20110112070811.000", "EndTime": "20110112070813.000", "PrimaryTag": "CC1", "Text": "TUCSON AND A VERY LATEST        "}
+{"StartTime": "20110112070813.000", "EndTime": "20110112070814.000", "PrimaryTag": "CC1", "Text": "DEVELOPMENTS.                   "}
+{"StartTime": "20110112070814.000", "EndTime": "20110112070816.000", "PrimaryTag": "CC1", "Text": "PROBIOTIC WILL FLY INTO THE     "}
+{"StartTime": "20110112070816.000", "EndTime": "20110112070819.000", "PrimaryTag": "CC1", "Text": "-- PRESIDENT OBAMA WILL FLY     "}
+{"StartTime": "20110112070819.000", "EndTime": "20110112070821.000", "PrimaryTag": "CC1", "Text": "INTO THE CITY TO ATTEND A       "}
+{"StartTime": "20110112070821.000", "EndTime": "20110112070822.000", "PrimaryTag": "CC1", "Text": "MEMORIAL.                       "}
+{"StartTime": "20110112070822.000", "EndTime": "20110112070825.000", "PrimaryTag": "CC1", "Text": "DOCTORS TREATING GABRIELLE      "}
+{"StartTime": "20110112070825.000", "EndTime": "20110112070827.000", "PrimaryTag": "CC1", "Text": "GIFFORDS SAID THEY'RE 101%      "}
+{"StartTime": "20110112070827.000", "EndTime": "20110112070829.000", "PrimaryTag": "CC1", "Text": "CONVINCED SHE WILL SURVIVE      "}
+{"StartTime": "20110112070829.000", "EndTime": "20110112070830.000", "PrimaryTag": "CC1", "Text": "BEING SHOT IN THE BRAIN BUT     "}
+{"StartTime": "20110112070830.000", "EndTime": "20110112070832.000", "PrimaryTag": "CC1", "Text": "THEY ALSO SAY HOW QUICKLY       "}
+{"StartTime": "20110112070832.000", "EndTime": "20110112070833.000", "PrimaryTag": "CC1", "Text": "AND WELL SHE RECOVERS WILL      "}
+{"StartTime": "20110112070833.000", "EndTime": "20110112070834.000", "PrimaryTag": "CC1", "Text": "BE UP TO HER.                   "}
+{"StartTime": "20110112070834.000", "EndTime": "20110112070836.000", "PrimaryTag": "CC1", "Text": "THERE'S SIMPLY NO TIMETABLE     "}
+{"StartTime": "20110112070836.000", "EndTime": "20110112070838.000", "PrimaryTag": "CC1", "Text": "FOR THIS KIND OF INJURY.        "}
+{"StartTime": "20110112070838.000", "EndTime": "20110112070841.000", "PrimaryTag": "CC1", "Text": ">> AN INJURY THROUGH THE        "}
+{"StartTime": "20110112070841.000", "EndTime": "20110112070843.000", "PrimaryTag": "CC1", "Text": "SKULL THE SURVIVAL LET ALONE    "}
+{"StartTime": "20110112070843.000", "EndTime": "20110112070849.000", "PrimaryTag": "CC1", "Text": "RECOVERY IS BAD.                "}
+{"StartTime": "20110112070849.000", "EndTime": "20110112070851.000", "PrimaryTag": "CC1", "Text": "JIP GIFFORDS'S OFFICE           "}
+{"StartTime": "20110112070851.000", "EndTime": "20110112070853.000", "PrimaryTag": "CC1", "Text": "RELEASED THIS PHOTO OF HER      "}
+{"StartTime": "20110112070853.000", "EndTime": "20110112070857.000", "PrimaryTag": "CC1", "Text": "HUSBAND ASTRONAUT MARK KELLY    "}
+{"StartTime": "20110112070857.000", "EndTime": "20110112070900.000", "PrimaryTag": "CC1", "Text": "HOLDING HER HAND.               "}
+{"StartTime": "20110112070900.000", "EndTime": "20110112070900.000", "PrimaryTag": "CC1", "Text": "PAUL: SUPPORT FOR THE           "}
+{"StartTime": "20110112070900.000", "EndTime": "20110112070902.000", "PrimaryTag": "CC1", "Text": "VICTIMS OF THE TRAGEDY IN       "}
+{"StartTime": "20110112070902.000", "EndTime": "20110112070904.000", "PrimaryTag": "CC1", "Text": "TUCSON HAS BEEN POURING IN      "}
+{"StartTime": "20110112070904.000", "EndTime": "20110112070906.000", "PrimaryTag": "CC1", "Text": "MUCH OF IT FOCUSED ON THE       "}
+{"StartTime": "20110112070906.000", "EndTime": "20110112070907.000", "PrimaryTag": "CC1", "Text": "FAMILY OF NINE-YEAR-OLD         "}
+{"StartTime": "20110112070907.000", "EndTime": "20110112070908.000", "PrimaryTag": "CC1", "Text": "CHRISTINA GREEN.                "}
+{"StartTime": "20110112070908.000", "EndTime": "20110112070912.000", "PrimaryTag": "CC1", "Text": "HE'S A HER DAD IS A SCOUT       "}
+{"StartTime": "20110112070912.000", "EndTime": "20110112070914.000", "PrimaryTag": "CC1", "Text": "FOR THE LOS ANGELES DODGERS.    "}
+{"StartTime": "20110112070914.000", "EndTime": "20110112070915.000", "PrimaryTag": "CC1", "Text": "ADDITIONALTY GREENS HAVE SET    "}
+{"StartTime": "20110112070915.000", "EndTime": "20110112070917.000", "PrimaryTag": "CC1", "Text": "UP A MEMORIAL FUND IN           "}
+{"StartTime": "20110112070917.000", "EndTime": "20110112070918.000", "PrimaryTag": "CC1", "Text": "CHRISTINAS NAME.                "}
+{"StartTime": "20110112070918.000", "EndTime": "20110112070919.000", "PrimaryTag": "CC1", "Text": "FOR DETAILS HOW YOU CAN         "}
+{"StartTime": "20110112070919.000", "EndTime": "20110112070920.000", "PrimaryTag": "CC1", "Text": "CONTRIBUTE TO THAT FUND AS      "}
+{"StartTime": "20110112070920.000", "EndTime": "20110112070921.000", "PrimaryTag": "CC1", "Text": "WELL AS SEND LETTERS CARDS      "}
+{"StartTime": "20110112070921.000", "EndTime": "20110112070926.000", "PrimaryTag": "CC1", "Text": "OR EMAILS TO THE GREENS GO      "}
+{"StartTime": "20110112070926.000", "EndTime": "20110112070927.000", "PrimaryTag": "CC1", "Text": "TO WWW.CBSLA.COM AND CLICK      "}
+{"StartTime": "20110112070927.000", "EndTime": "20110112070928.000", "PrimaryTag": "CC1", "Text": "ON \"SEEN ON TV\".                "}
+{"StartTime": "20110112070928.000", "EndTime": "20110112070929.000", "PrimaryTag": "CC1", "Text": "PAT: THE HUSBAND OF THE         "}
+{"StartTime": "20110112070929.000", "EndTime": "20110112070931.000", "PrimaryTag": "CC1", "Text": "WOMAN WHO TOOK CHRISTINA        "}
+{"StartTime": "20110112070931.000", "EndTime": "20110112070933.000", "PrimaryTag": "CC1", "Text": "GREEN TO THE RALLY SAYS         "}
+{"StartTime": "20110112070933.000", "EndTime": "20110112070935.000", "PrimaryTag": "CC1", "Text": "SHE'S BEING HAUNTED BY          "}
+{"StartTime": "20110112070935.000", "EndTime": "20110112070936.000", "PrimaryTag": "CC1", "Text": "FLASHBACKS AND THE FAMILY OF    "}
+{"StartTime": "20110112070936.000", "EndTime": "20110112070938.000", "PrimaryTag": "CC1", "Text": "THE ACCUSED GUNMAN SAYS NO      "}
+{"StartTime": "20110112070938.000", "EndTime": "20110112070940.000", "PrimaryTag": "CC1", "Text": "WORDS CAN EXPRESS THEIR         "}
+{"StartTime": "20110112070940.000", "EndTime": "20110112070941.000", "PrimaryTag": "CC1", "Text": "SORROW.                         "}
+{"StartTime": "20110112070941.000", "EndTime": "20110112070943.000", "PrimaryTag": "CC1", "Text": "AMY MURPHY HAS A LOOK AT THE    "}
+{"StartTime": "20110112070943.000", "EndTime": "20110112070944.000", "PrimaryTag": "CC1", "Text": "GRIEF AND THE GUILT BINDING     "}
+{"StartTime": "20110112070944.000", "EndTime": "20110112070945.000", "PrimaryTag": "CC1", "Text": "ALL SIDES IN THIS TRAGEDY.      "}
+{"StartTime": "20110112070945.000", "EndTime": "20110112070947.000", "PrimaryTag": "CC1", "Text": ">>Reporter: GUILT AND GRIEF     "}
+{"StartTime": "20110112070947.000", "EndTime": "20110112070949.000", "PrimaryTag": "CC1", "Text": "TWO EMOTIONS RESULTING FROM     "}
+{"StartTime": "20110112070949.000", "EndTime": "20110112070952.000", "PrimaryTag": "CC1", "Text": "THE TRAGEDY IN TUCSON IN THE    "}
+{"StartTime": "20110112070952.000", "EndTime": "20110112070953.000", "PrimaryTag": "CC1", "Text": "WRITTEN STATEMENT THE           "}
+{"StartTime": "20110112070953.000", "EndTime": "20110112070954.000", "PrimaryTag": "CC1", "Text": "PARENTS OF JARED LOUGHNER       "}
+{"StartTime": "20110112070954.000", "EndTime": "20110112070955.000", "PrimaryTag": "CC1", "Text": "WRITE, WE DON'T UNDERSTAND      "}
+{"StartTime": "20110112070955.000", "EndTime": "20110112070956.000", "PrimaryTag": "CC1", "Text": "WHAT HAS HAPPENED.              "}
+{"StartTime": "20110112070956.000", "EndTime": "20110112070958.000", "PrimaryTag": "CC1", "Text": "WE CARE DEEPLY ABOUT THE        "}
+{"StartTime": "20110112070958.000", "EndTime": "20110112071001.000", "PrimaryTag": "CC1", "Text": "VICTIMS AND THEIR FAMILIES.     "}
+{"StartTime": "20110112071001.000", "EndTime": "20110112071003.000", "PrimaryTag": "CC1", "Text": "GRIEF SPECIALISTS AND           "}
+{"StartTime": "20110112071003.000", "EndTime": "20110112071006.000", "PrimaryTag": "CC1", "Text": "FOUNDER OF GRIEF HAVEN.ORG      "}
+{"StartTime": "20110112071006.000", "EndTime": "20110112071008.000", "PrimaryTag": "CC1", "Text": "SAYS NEURONS IN THE HUMAN       "}
+{"StartTime": "20110112071008.000", "EndTime": "20110112071010.000", "PrimaryTag": "CC1", "Text": "BRAIN OFTEN REFLECT TRAGEDY     "}
+{"StartTime": "20110112071010.000", "EndTime": "20110112071011.000", "PrimaryTag": "CC1", "Text": "IN OTHERS AND HIS PARENTS       "}
+{"StartTime": "20110112071011.000", "EndTime": "20110112071013.000", "PrimaryTag": "CC1", "Text": "ARE MOST LIKELY FEELING         "}
+{"StartTime": "20110112071013.000", "EndTime": "20110112071013.000", "PrimaryTag": "CC1", "Text": "THAT.                           "}
+{"StartTime": "20110112071013.000", "EndTime": "20110112071015.000", "PrimaryTag": "CC1", "Text": ">> AND DOING A LOT OF WHAT      "}
+{"StartTime": "20110112071015.000", "EndTime": "20110112071015.000", "PrimaryTag": "CC1", "Text": "IFS.                            "}
+{"StartTime": "20110112071015.000", "EndTime": "20110112071017.000", "PrimaryTag": "CC1", "Text": "WHAT DID I MISS.                "}
+{"StartTime": "20110112071017.000", "EndTime": "20110112071018.000", "PrimaryTag": "CC1", "Text": "WHAT IF I HAD DONE THIS?        "}
+{"StartTime": "20110112071018.000", "EndTime": "20110112071019.000", "PrimaryTag": "CC1", "Text": "MAYBE THESE PEOPLE WOULD BE     "}
+{"StartTime": "20110112071019.000", "EndTime": "20110112071020.000", "PrimaryTag": "CC1", "Text": "ALIVE.                          "}
+{"StartTime": "20110112071020.000", "EndTime": "20110112071020.000", "PrimaryTag": "CC1", "Text": ">>Reporter: TODAY THE PRESS     "}
+{"StartTime": "20110112071020.000", "EndTime": "20110112071023.000", "PrimaryTag": "CC1", "Text": "HEARD FROM BILL HEILMAN,        "}
+{"StartTime": "20110112071023.000", "EndTime": "20110112071028.000", "PrimaryTag": "CC1", "Text": "HUSBAND HAVE SUSIE HEILMAN,     "}
+{"StartTime": "20110112071028.000", "EndTime": "20110112071033.000", "PrimaryTag": "CC1", "Text": "WHO TOOK CHRISTINA GREEN TO     "}
+{"StartTime": "20110112071033.000", "EndTime": "20110112071035.000", "PrimaryTag": "CC1", "Text": "MEPT GABRIELLE GIFFORDS.        "}
+{"StartTime": "20110112071035.000", "EndTime": "20110112071037.000", "PrimaryTag": "CC1", "Text": ">> I HEAR HER IN HER            "}
+{"StartTime": "20110112071037.000", "EndTime": "20110112071039.000", "PrimaryTag": "CC1", "Text": "SEMICONSCIOUS RAMBLINGS         "}
+{"StartTime": "20110112071039.000", "EndTime": "20110112071041.000", "PrimaryTag": "CC1", "Text": "SCREAMING OUT CHRISTINA,        "}
+{"StartTime": "20110112071041.000", "EndTime": "20110112071042.000", "PrimaryTag": "CC1", "Text": "CHRISTINA, LET'S GET OUT OF     "}
+{"StartTime": "20110112071042.000", "EndTime": "20110112071042.000", "PrimaryTag": "CC1", "Text": "HERE.                           "}
+{"StartTime": "20110112071042.000", "EndTime": "20110112071044.000", "PrimaryTag": "CC1", "Text": ">>Reporter: AS FOR THE GREEN    "}
+{"StartTime": "20110112071044.000", "EndTime": "20110112071047.000", "PrimaryTag": "CC1", "Text": "FAMILY'S OVERWHELMING GRIEF     "}
+{"StartTime": "20110112071047.000", "EndTime": "20110112071048.000", "PrimaryTag": "CC1", "Text": "WHEN IT MORE SAYS ONE NEVER     "}
+{"StartTime": "20110112071048.000", "EndTime": "20110112071050.000", "PrimaryTag": "CC1", "Text": "GETS OVER THE DEATH OF A        "}
+{"StartTime": "20110112071050.000", "EndTime": "20110112071051.000", "PrimaryTag": "CC1", "Text": "CHILD BUT REALLY ONLY LEARNS    "}
+{"StartTime": "20110112071051.000", "EndTime": "20110112071052.000", "PrimaryTag": "CC1", "Text": "TO LIVE WITH IT.                "}
+{"StartTime": "20110112071052.000", "EndTime": "20110112071055.000", "PrimaryTag": "CC1", "Text": ">> THE PARENTS GO THROUGH A     "}
+{"StartTime": "20110112071055.000", "EndTime": "20110112071059.000", "PrimaryTag": "CC1", "Text": "HUGE RANGE OF EMOTIONS, RAGE,   "}
+{"StartTime": "20110112071059.000", "EndTime": "20110112071101.000", "PrimaryTag": "CC1", "Text": "INTENSE GUT WRENCHING PAIN      "}
+{"StartTime": "20110112071101.000", "EndTime": "20110112071102.000", "PrimaryTag": "CC1", "Text": "THAT'S UNLIKE ANYTHING          "}
+{"StartTime": "20110112071102.000", "EndTime": "20110112071103.000", "PrimaryTag": "CC1", "Text": "THEY'VE EVER EXPERIENCED.       "}
+{"StartTime": "20110112071103.000", "EndTime": "20110112071104.000", "PrimaryTag": "CC1", "Text": ">>Reporter: AMY MURPHY \"CBS2    "}
+{"StartTime": "20110112071104.000", "EndTime": "20110112071106.000", "PrimaryTag": "CC1", "Text": "NEWS\".                          "}
+{"StartTime": "20110112071106.000", "EndTime": "20110112071108.000", "PrimaryTag": "CC1", "Text": "PAUL: A CHP OFFICER IS UNDER    "}
+{"StartTime": "20110112071108.000", "EndTime": "20110112071109.000", "PrimaryTag": "CC1", "Text": "ARREST CHARGED WITH             "}
+{"StartTime": "20110112071109.000", "EndTime": "20110112071110.000", "PrimaryTag": "CC1", "Text": "MURDERING HER HUSBAND TWO       "}
+{"StartTime": "20110112071110.000", "EndTime": "20110112071111.000", "PrimaryTag": "CC1", "Text": "YEARS AGO.                      "}
+{"StartTime": "20110112071111.000", "EndTime": "20110112071114.000", "PrimaryTag": "CC1", "Text": "DETECTIVES ARRESTED 31 COLD     "}
+{"StartTime": "20110112071114.000", "EndTime": "20110112071116.000", "PrimaryTag": "CC1", "Text": "TAMIKA JOHNSON AT AN L.A.       "}
+{"StartTime": "20110112071116.000", "EndTime": "20110112071117.000", "PrimaryTag": "CC1", "Text": "CHP OFFICE.                     "}
+{"StartTime": "20110112071117.000", "EndTime": "20110112071119.000", "PrimaryTag": "CC1", "Text": "SHE'S ACCUSED OF SHOOTING       "}
+{"StartTime": "20110112071119.000", "EndTime": "20110112071122.000", "PrimaryTag": "CC1", "Text": "MARCUS LEMONS AND DRIVING TO    "}
+{"StartTime": "20110112071122.000", "EndTime": "20110112071123.000", "PrimaryTag": "CC1", "Text": "HER PARENTS HOME WITH THE       "}
+{"StartTime": "20110112071123.000", "EndTime": "20110112071125.000", "PrimaryTag": "CC1", "Text": "BODY BESIDE HER.                "}
+{"StartTime": "20110112071125.000", "EndTime": "20110112071128.000", "PrimaryTag": "CC1", "Text": "JACKSON CLAIMS SHE ACTED IN     "}
+{"StartTime": "20110112071128.000", "EndTime": "20110112071130.000", "PrimaryTag": "CC1", "Text": "SELF-DEFENSE.                   "}
+{"StartTime": "20110112071130.000", "EndTime": "20110112071131.000", "PrimaryTag": "CC1", "Text": "SHE'S BEING HELD ON $2          "}
+{"StartTime": "20110112071131.000", "EndTime": "20110112071132.000", "PrimaryTag": "CC1", "Text": "MILLION BAIL.                   "}
+{"StartTime": "20110112071132.000", "EndTime": "20110112071135.000", "PrimaryTag": "CC1", "Text": "PAT: DEVELOPING NEWS THE        "}
+{"StartTime": "20110112071135.000", "EndTime": "20110112071136.000", "PrimaryTag": "CC1", "Text": "MEMBER OF AN ICONIC TV          "}
+{"StartTime": "20110112071136.000", "EndTime": "20110112071139.000", "PrimaryTag": "CC1", "Text": "FAMILY PASSES AWAY.             "}
+{"StartTime": "20110112071139.000", "EndTime": "20110112071140.000", "PrimaryTag": "CC1", "Text": "PAUL: A LITTLE DOG ALERTS       "}
+{"StartTime": "20110112071140.000", "EndTime": "20110112071142.000", "PrimaryTag": "CC1", "Text": "HER TO A BIG CRIME, A           "}
+{"StartTime": "20110112071142.000", "EndTime": "20110112071143.000", "PrimaryTag": "CC1", "Text": "HOMEOWNER SYSTEMS OUT OF THE    "}
+{"StartTime": "20110112071143.000", "EndTime": "20110112071144.000", "PrimaryTag": "CC1", "Text": "STORE INTO THE MIDDLE OF A      "}
+{"StartTime": "20110112071144.000", "EndTime": "20110112071146.000", "PrimaryTag": "CC1", "Text": "BURGLARY.                       "}
+{"StartTime": "20110112071146.000", "EndTime": "20110112071148.000", "PrimaryTag": "CC1", "Text": "PAT: AND SECRETARY OF STATE     "}
+{"StartTime": "20110112071148.000", "EndTime": "20110112071150.000", "PrimaryTag": "CC1", "Text": "CLINTON TAKES A TUMBLE.         "}
+{"StartTime": "20110112071150.000", "EndTime": "20110112071151.000", "PrimaryTag": "CC1", "Text": "SEE WHAT HAPPENED AT THE TOP    "}
+{"StartTime": "20110112071151.000", "EndTime": "20110112071153.000", "PrimaryTag": "CC1", "Text": "OF THE STAIRS AND HOW HE'S      "}
+{"StartTime": "20110112071153.000", "EndTime": "20110112071154.000", "PrimaryTag": "CC1", "Text": "DOING TONIGHT.                  "}
+{"StartTime": "20110112071154.000", "EndTime": "20110112071156.000", "PrimaryTag": "CC1", "Text": "PAUL: BUY A HAT, CHANGE A       "}
+{"StartTime": "20110112071156.000", "EndTime": "20110112071159.000", "PrimaryTag": "CC1", "Text": "LIFE, LOCAL COLLEGE BUDDIES     "}
+{"StartTime": "20110112071159.000", "EndTime": "20110112071201.000", "PrimaryTag": "CC1", "Text": "HELP THIRD WORLD WOMEN          "}
+{"StartTime": "20110112071201.000", "EndTime": "20110112071203.000", "PrimaryTag": "CC1", "Text": "CROCHET THEIR WAY TO A          "}
+{"StartTime": "20110112071203.000", "EndTime": "20110112071204.000", "PrimaryTag": "CC1", "Text": "BETTER LIFE.                    "}
+{"StartTime": "20110112071204.000", "EndTime": "20110112071205.000", "PrimaryTag": "CC1", "Text": "JACKIE: TONIGHT VERY CHILLY     "}
+{"StartTime": "20110112071205.000", "EndTime": "20110112071207.000", "PrimaryTag": "CC1", "Text": "AND WINDY BUT WE HAVE A BIG     "}
+{"StartTime": "20110112071207.000", "EndTime": "20110112071210.000", "PrimaryTag": "CC1", "Text": "WARMUP HEADING OUR WAY, 70s     "}
+{"StartTime": "20110112071210.000", "EndTime": "20110112071211.000", "PrimaryTag": "CC1", "Text": "AND 80s IN THE FORECAST.        "}
+{"StartTime": "20110112071211.000", "EndTime": "20110112071212.000", "PrimaryTag": "CC1", "Text": "DETAILS ON THAT COMING UP       "}
+{"StartTime": "20110112071212.000", "EndTime": "20110112071326.000", "PrimaryTag": "CC1", "Text": "NEXT.                           "}
+{"StartTime": "20110112071326.000", "EndTime": "20110112071406.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110112071326.000", "EndTime": "20110112071326.000", "PrimaryTag": "CC1", "Text": "                  FEE COURT     "}
+{"StartTime": "20110112071326.000", "EndTime": "20110112071327.000", "PrimaryTag": "CC1", "Text": "             IS NOW IN SESSION. "}
+{"StartTime": "20110112071327.000", "EndTime": "20110112071329.000", "PrimaryTag": "CC1", "Text": "               ? ?              "}
+{"StartTime": "20110112071329.000", "EndTime": "20110112071329.000", "PrimaryTag": "CC1", "Text": "THAT AIRLINE CHARGED ME         "}
+{"StartTime": "20110112071329.000", "EndTime": "20110112071332.000", "PrimaryTag": "CC1", "Text": "A 150-DOLLAR CHANGE FEE.        "}
+{"StartTime": "20110112071332.000", "EndTime": "20110112071332.000", "PrimaryTag": "CC1", "Text": " SOUTHWEST WOULD NEVER          "}
+{"StartTime": "20110112071332.000", "EndTime": "20110112071333.000", "PrimaryTag": "CC1", "Text": "       DO THAT.                 "}
+{"StartTime": "20110112071333.000", "EndTime": "20110112071333.000", "PrimaryTag": "CC1", "Text": "       YOUR HONOR, CHUMP CHANGE."}
+{"StartTime": "20110112071333.000", "EndTime": "20110112071336.000", "PrimaryTag": "CC1", "Text": "THAT IS NOT RIGHT.              "}
+{"StartTime": "20110112071336.000", "EndTime": "20110112071336.000", "PrimaryTag": "CC1", "Text": "I DON'T UNDERSTAND HOW          "}
+{"StartTime": "20110112071336.000", "EndTime": "20110112071336.000", "PrimaryTag": "CC1", "Text": "THREE CLICKS OF A MOUSE         "}
+{"StartTime": "20110112071336.000", "EndTime": "20110112071339.000", "PrimaryTag": "CC1", "Text": "CAN COST ME 150 DOLLARS.        "}
+{"StartTime": "20110112071339.000", "EndTime": "20110112071340.000", "PrimaryTag": "CC1", "Text": "              SIR.              "}
+{"StartTime": "20110112071340.000", "EndTime": "20110112071340.000", "PrimaryTag": "CC1", "Text": "               IT'S PERSONNEL   "}
+{"StartTime": "20110112071340.000", "EndTime": "20110112071341.000", "PrimaryTag": "CC1", "Text": "              ON THE TELEPHONE. "}
+{"StartTime": "20110112071341.000", "EndTime": "20110112071341.000", "PrimaryTag": "CC1", "Text": "         [ laughing ]           "}
+{"StartTime": "20110112071341.000", "EndTime": "20110112071343.000", "PrimaryTag": "CC1", "Text": "           IT'S COMPUTER TIME..."}
+{"StartTime": "20110112071343.000", "EndTime": "20110112071343.000", "PrimaryTag": "CC1", "Text": "  IT'S PERSONNEL ON THE, ON THE,"}
+{"StartTime": "20110112071343.000", "EndTime": "20110112071345.000", "PrimaryTag": "CC1", "Text": "                ON THE DESKS.   "}
+{"StartTime": "20110112071345.000", "EndTime": "20110112071345.000", "PrimaryTag": "CC1", "Text": "      WE CAN'T AFFORD TO DO THIS"}
+{"StartTime": "20110112071345.000", "EndTime": "20110112071347.000", "PrimaryTag": "CC1", "Text": "          FOR FREE, YOUR HONOR. "}
+{"StartTime": "20110112071347.000", "EndTime": "20110112071347.000", "PrimaryTag": "CC1", "Text": "   JURY?                        "}
+{"StartTime": "20110112071347.000", "EndTime": "20110112071347.000", "PrimaryTag": "CC1", "Text": "             GUILTY.            "}
+{"StartTime": "20110112071347.000", "EndTime": "20110112071350.000", "PrimaryTag": "CC1", "Text": "           [ cheering ]         "}
+{"StartTime": "20110112071350.000", "EndTime": "20110112071350.000", "PrimaryTag": "CC1", "Text": "        [ Male Announcer ]      "}
+{"StartTime": "20110112071350.000", "EndTime": "20110112071350.000", "PrimaryTag": "CC1", "Text": "      DON'T PAY A CHANGE FEE    "}
+{"StartTime": "20110112071350.000", "EndTime": "20110112071353.000", "PrimaryTag": "CC1", "Text": "   ON TOP OF A FARE DIFFERENCE. "}
+{"StartTime": "20110112071353.000", "EndTime": "20110112071353.000", "PrimaryTag": "CC1", "Text": " FLY SOUTHWEST, THE ONLY AIRLINE"}
+{"StartTime": "20110112071353.000", "EndTime": "20110112071406.000", "PrimaryTag": "CC1", "Text": "       WITH NO CHANGE FEES.     "}
+{"StartTime": "20110112071406.000", "EndTime": "20110112071408.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110112071406.000", "EndTime": "20110112071408.000", "PrimaryTag": "CC1", "Text": "PAUL: IMAGINE COMING OUT OF     "}
+{"StartTime": "20110112071408.000", "EndTime": "20110112071409.000", "PrimaryTag": "CC1", "Text": "A SHOWER FACE TO FACE WITH      "}
+{"StartTime": "20110112071409.000", "EndTime": "20110112071412.000", "PrimaryTag": "CC1", "Text": "AN INTRUDER IN YOUR HOME.       "}
+{"StartTime": "20110112071412.000", "EndTime": "20110112071413.000", "PrimaryTag": "CC1", "Text": "IT HAPPENED TO A GLENDORA       "}
+{"StartTime": "20110112071413.000", "EndTime": "20110112071416.000", "PrimaryTag": "CC1", "Text": "WOMAN WHO HELPEDR SAYS HER      "}
+{"StartTime": "20110112071416.000", "EndTime": "20110112071419.000", "PrimaryTag": "CC1", "Text": "DOG HELPED SAVE HER LIFE.       "}
+{"StartTime": "20110112071419.000", "EndTime": "20110112071420.000", "PrimaryTag": "CC1", "Text": "SHE SPOKE WITH SUZIE SUH        "}
+{"StartTime": "20110112071420.000", "EndTime": "20110112071422.000", "PrimaryTag": "CC1", "Text": "ABOUT HER TERRIFYING            "}
+{"StartTime": "20110112071422.000", "EndTime": "20110112071422.000", "PrimaryTag": "CC1", "Text": "EXPERIENCE.                     "}
+{"StartTime": "20110112071422.000", "EndTime": "20110112071424.000", "PrimaryTag": "CC1", "Text": ">> THE FIRST THING I THOUGHT    "}
+{"StartTime": "20110112071424.000", "EndTime": "20110112071425.000", "PrimaryTag": "CC1", "Text": "WAS HE COULD HURT ME.           "}
+{"StartTime": "20110112071425.000", "EndTime": "20110112071426.000", "PrimaryTag": "CC1", "Text": ">>Reporter: SHE WAS             "}
+{"StartTime": "20110112071426.000", "EndTime": "20110112071428.000", "PrimaryTag": "CC1", "Text": "TERRIFIED BEYOND WORDS BUT      "}
+{"StartTime": "20110112071428.000", "EndTime": "20110112071429.000", "PrimaryTag": "CC1", "Text": "THIS WOMAN IS BRAVE ENOUGH      "}
+{"StartTime": "20110112071429.000", "EndTime": "20110112071430.000", "PrimaryTag": "CC1", "Text": "TO BE THE FACE BEHIND THIS      "}
+{"StartTime": "20110112071430.000", "EndTime": "20110112071431.000", "PrimaryTag": "CC1", "Text": "MESSAGE.                        "}
+{"StartTime": "20110112071431.000", "EndTime": "20110112071433.000", "PrimaryTag": "CC1", "Text": "DON'T BE A VULNERABLE VICTIM    "}
+{"StartTime": "20110112071433.000", "EndTime": "20110112071435.000", "PrimaryTag": "CC1", "Text": "AND NEVER LEAVE THE DOOR OF     "}
+{"StartTime": "20110112071435.000", "EndTime": "20110112071437.000", "PrimaryTag": "CC1", "Text": "OPPORTUNITY UNLOCKED.           "}
+{"StartTime": "20110112071437.000", "EndTime": "20110112071439.000", "PrimaryTag": "CC1", "Text": ">> IT WOULD HAVE BEEN SO        "}
+{"StartTime": "20110112071439.000", "EndTime": "20110112071441.000", "PrimaryTag": "CC1", "Text": "EASY IF I JUST FLIPPED THE      "}
+{"StartTime": "20110112071441.000", "EndTime": "20110112071442.000", "PrimaryTag": "CC1", "Text": "LOCKUP.                         "}
+{"StartTime": "20110112071442.000", "EndTime": "20110112071443.000", "PrimaryTag": "CC1", "Text": ">>Reporter: FOR SAFETY          "}
+{"StartTime": "20110112071443.000", "EndTime": "20110112071444.000", "PrimaryTag": "CC1", "Text": "REASONS WE WILL CALL HER        "}
+{"StartTime": "20110112071444.000", "EndTime": "20110112071445.000", "PrimaryTag": "CC1", "Text": "JENNIFER.                       "}
+{"StartTime": "20110112071445.000", "EndTime": "20110112071448.000", "PrimaryTag": "CC1", "Text": "JENNIFER WAS SHOWERING WHEN     "}
+{"StartTime": "20110112071448.000", "EndTime": "20110112071450.000", "PrimaryTag": "CC1", "Text": "SHE HEARD HER DOG IN THE        "}
+{"StartTime": "20110112071450.000", "EndTime": "20110112071451.000", "PrimaryTag": "CC1", "Text": "JARRED BUT THE SOUND WAS        "}
+{"StartTime": "20110112071451.000", "EndTime": "20110112071453.000", "PrimaryTag": "CC1", "Text": "COME FROM THE INSIDE WHICH      "}
+{"StartTime": "20110112071453.000", "EndTime": "20110112071455.000", "PrimaryTag": "CC1", "Text": "MEANT SOMEONE OPENED THE        "}
+{"StartTime": "20110112071455.000", "EndTime": "20110112071456.000", "PrimaryTag": "CC1", "Text": "DOOR AND WAS INSIDE HER         "}
+{"StartTime": "20110112071456.000", "EndTime": "20110112071457.000", "PrimaryTag": "CC1", "Text": "HOUSE.                          "}
+{"StartTime": "20110112071457.000", "EndTime": "20110112071459.000", "PrimaryTag": "CC1", "Text": ">> THE PRINTER WAS ON THE       "}
+{"StartTime": "20110112071459.000", "EndTime": "20110112071500.000", "PrimaryTag": "CC1", "Text": "GROUND.                         "}
+{"StartTime": "20110112071500.000", "EndTime": "20110112071502.000", "PrimaryTag": "CC1", "Text": ">>Reporter: JENNIFER IN HER     "}
+{"StartTime": "20110112071502.000", "EndTime": "20110112071503.000", "PrimaryTag": "CC1", "Text": "TOWEL CAME FACE TO FACE WITH    "}
+{"StartTime": "20110112071503.000", "EndTime": "20110112071505.000", "PrimaryTag": "CC1", "Text": "AN INTRUDER.                    "}
+{"StartTime": "20110112071505.000", "EndTime": "20110112071506.000", "PrimaryTag": "CC1", "Text": ">> WHAT THE HELL ARE YOU        "}
+{"StartTime": "20110112071506.000", "EndTime": "20110112071508.000", "PrimaryTag": "CC1", "Text": "DOING IN MY HOUSE.              "}
+{"StartTime": "20110112071508.000", "EndTime": "20110112071509.000", "PrimaryTag": "CC1", "Text": ">>Reporter: THE BURGLAR         "}
+{"StartTime": "20110112071509.000", "EndTime": "20110112071510.000", "PrimaryTag": "CC1", "Text": "BOLTED.                         "}
+{"StartTime": "20110112071510.000", "EndTime": "20110112071512.000", "PrimaryTag": "CC1", "Text": "SO DID JENNIFER.                "}
+{"StartTime": "20110112071512.000", "EndTime": "20110112071514.000", "PrimaryTag": "CC1", "Text": ">> SOMEONE IS ON MY SIDE        "}
+{"StartTime": "20110112071514.000", "EndTime": "20110112071516.000", "PrimaryTag": "CC1", "Text": "THAT PUSHED HIM OUT.            "}
+{"StartTime": "20110112071516.000", "EndTime": "20110112071517.000", "PrimaryTag": "CC1", "Text": ">>Reporter: JENNIFER IS NOW     "}
+{"StartTime": "20110112071517.000", "EndTime": "20110112071519.000", "PrimaryTag": "CC1", "Text": "ADAMANT ABOUT SECURITY AND      "}
+{"StartTime": "20110112071519.000", "EndTime": "20110112071521.000", "PrimaryTag": "CC1", "Text": "SAYS A GUARD DOG ISN'T A BAD    "}
+{"StartTime": "20110112071521.000", "EndTime": "20110112071522.000", "PrimaryTag": "CC1", "Text": "IDEA EITHER.                    "}
+{"StartTime": "20110112071522.000", "EndTime": "20110112071524.000", "PrimaryTag": "CC1", "Text": ">> SHE'S MY LITTLE HERO.        "}
+{"StartTime": "20110112071524.000", "EndTime": "20110112071525.000", "PrimaryTag": "CC1", "Text": ">>Reporter: SHE HOPES           "}
+{"StartTime": "20110112071525.000", "EndTime": "20110112071527.000", "PrimaryTag": "CC1", "Text": "EVERYONE WILL LOCK DOWN THE     "}
+{"StartTime": "20110112071527.000", "EndTime": "20110112071528.000", "PrimaryTag": "CC1", "Text": "SAME HABIT.                     "}
+{"StartTime": "20110112071528.000", "EndTime": "20110112071529.000", "PrimaryTag": "CC1", "Text": ">> THINGS CAN BE REPLACED       "}
+{"StartTime": "20110112071529.000", "EndTime": "20110112071532.000", "PrimaryTag": "CC1", "Text": "AND PEOPLE CAN'T AND IF         "}
+{"StartTime": "20110112071532.000", "EndTime": "20110112071533.000", "PrimaryTag": "CC1", "Text": "THAT'S THE MESSAGE AS YOU       "}
+{"StartTime": "20110112071533.000", "EndTime": "20110112071535.000", "PrimaryTag": "CC1", "Text": "WALK IN AND LOCK THE DOOR       "}
+{"StartTime": "20110112071535.000", "EndTime": "20110112071537.000", "PrimaryTag": "CC1", "Text": "THEN YOU WALK IN AND LOCK       "}
+{"StartTime": "20110112071537.000", "EndTime": "20110112071538.000", "PrimaryTag": "CC1", "Text": "THAT DOOR.                      "}
+{"StartTime": "20110112071538.000", "EndTime": "20110112071539.000", "PrimaryTag": "CC1", "Text": ">>Reporter: FROM GLENDORA       "}
+{"StartTime": "20110112071539.000", "EndTime": "20110112071540.000", "PrimaryTag": "CC1", "Text": "SUZIE SUH \"CBS2 NEWS\".          "}
+{"StartTime": "20110112071540.000", "EndTime": "20110112071542.000", "PrimaryTag": "CC1", "Text": "PAT: A LAKE ELSINORE WOMAN      "}
+{"StartTime": "20110112071542.000", "EndTime": "20110112071544.000", "PrimaryTag": "CC1", "Text": "WHO VANISHED A WEEK AGO HAS     "}
+{"StartTime": "20110112071544.000", "EndTime": "20110112071545.000", "PrimaryTag": "CC1", "Text": "BEEN FOUND DEAD AND TONIGHT     "}
+{"StartTime": "20110112071545.000", "EndTime": "20110112071546.000", "PrimaryTag": "CC1", "Text": "HER EX-BOYFRIEND FRIEND IS      "}
+{"StartTime": "20110112071546.000", "EndTime": "20110112071548.000", "PrimaryTag": "CC1", "Text": "IN CUSTODY.                     "}
+{"StartTime": "20110112071548.000", "EndTime": "20110112071551.000", "PrimaryTag": "CC1", "Text": "TANYA PETROWAS LAST SEEN        "}
+{"StartTime": "20110112071551.000", "EndTime": "20110112071554.000", "PrimaryTag": "CC1", "Text": "WITH 40-YEAR-OLD RONALD         "}
+{"StartTime": "20110112071554.000", "EndTime": "20110112071554.000", "PrimaryTag": "CC1", "Text": "PAOLETTO.                       "}
+{"StartTime": "20110112071554.000", "EndTime": "20110112071558.000", "PrimaryTag": "CC1", "Text": "THE 33-YEAR-OLD'S BODY WAS      "}
+{"StartTime": "20110112071558.000", "EndTime": "20110112071559.000", "PrimaryTag": "CC1", "Text": "DISCOVERED INLANDERS.           "}
+{"StartTime": "20110112071559.000", "EndTime": "20110112071602.000", "PrimaryTag": "CC1", "Text": "FOR NOW HE'S JAILED FOR         "}
+{"StartTime": "20110112071602.000", "EndTime": "20110112071604.000", "PrimaryTag": "CC1", "Text": "FAILING TO REGISTER AS A        "}
+{"StartTime": "20110112071604.000", "EndTime": "20110112071605.000", "PrimaryTag": "CC1", "Text": "CONVICTED SEX OFFENDER.         "}
+{"StartTime": "20110112071605.000", "EndTime": "20110112071608.000", "PrimaryTag": "CC1", "Text": "PAUL: DAVID NELSON THE LAST     "}
+{"StartTime": "20110112071608.000", "EndTime": "20110112071612.000", "PrimaryTag": "CC1", "Text": "SURVIVING CAST MEMBERS OF       "}
+{"StartTime": "20110112071612.000", "EndTime": "20110112071615.000", "PrimaryTag": "CC1", "Text": "OZZIE AND HAIR YET HAS DIED.    "}
+{"StartTime": "20110112071615.000", "EndTime": "20110112071616.000", "PrimaryTag": "CC1", "Text": "HE STARTED ON THE SHOW THAT     "}
+{"StartTime": "20110112071616.000", "EndTime": "20110112071617.000", "PrimaryTag": "CC1", "Text": "BECAME AN AMERICAN              "}
+{"StartTime": "20110112071617.000", "EndTime": "20110112071620.000", "PrimaryTag": "CC1", "Text": "INSTITUTION IN THE 1950S AND    "}
+{"StartTime": "20110112071620.000", "EndTime": "20110112071621.000", "PrimaryTag": "CC1", "Text": "60s, HE EVENTUALLY DIRECTED     "}
+{"StartTime": "20110112071621.000", "EndTime": "20110112071624.000", "PrimaryTag": "CC1", "Text": "ABOUT A DOZEN EPISODES.         "}
+{"StartTime": "20110112071624.000", "EndTime": "20110112071625.000", "PrimaryTag": "CC1", "Text": "HE DIED AT HOME IN CENTURY      "}
+{"StartTime": "20110112071625.000", "EndTime": "20110112071625.000", "PrimaryTag": "CC1", "Text": "CITY.                           "}
+{"StartTime": "20110112071625.000", "EndTime": "20110112071627.000", "PrimaryTag": "CC1", "Text": "HE IS SURVIVED BY HIS WIFE      "}
+{"StartTime": "20110112071627.000", "EndTime": "20110112071629.000", "PrimaryTag": "CC1", "Text": "FIVE CHILDREN AND SEVEN         "}
+{"StartTime": "20110112071629.000", "EndTime": "20110112071630.000", "PrimaryTag": "CC1", "Text": "GRANDCHILDREN.                  "}
+{"StartTime": "20110112071630.000", "EndTime": "20110112071632.000", "PrimaryTag": "CC1", "Text": "DAVID NELSON WAS 74 YEARS       "}
+{"StartTime": "20110112071632.000", "EndTime": "20110112071632.000", "PrimaryTag": "CC1", "Text": "OLD.                            "}
+{"StartTime": "20110112071632.000", "EndTime": "20110112071634.000", "PrimaryTag": "CC1", "Text": "PAT: CHANGING LIVES ONE HAT     "}
+{"StartTime": "20110112071634.000", "EndTime": "20110112071635.000", "PrimaryTag": "CC1", "Text": "AT A TIME.                      "}
+{"StartTime": "20110112071635.000", "EndTime": "20110112071637.000", "PrimaryTag": "CC1", "Text": "AN ORANGE COUNTY COMPANY IS     "}
+{"StartTime": "20110112071637.000", "EndTime": "20110112071639.000", "PrimaryTag": "CC1", "Text": "GIVING IMPOVERISHED WOMEN ON    "}
+{"StartTime": "20110112071639.000", "EndTime": "20110112071641.000", "PrimaryTag": "CC1", "Text": "THE OTHER SIDE OF THE WORLD     "}
+{"StartTime": "20110112071641.000", "EndTime": "20110112071644.000", "PrimaryTag": "CC1", "Text": "A WAY TO IT IN THEMSELVES A     "}
+{"StartTime": "20110112071644.000", "EndTime": "20110112071645.000", "PrimaryTag": "CC1", "Text": "NEW LIFE.                       "}
+{"StartTime": "20110112071645.000", "EndTime": "20110112071647.000", "PrimaryTag": "CC1", "Text": "CHRISTINA MCLARTY INTRODUCES    "}
+{"StartTime": "20110112071647.000", "EndTime": "20110112071649.000", "PrimaryTag": "CC1", "Text": "US TO THE CROCHET KIDS.         "}
+{"StartTime": "20110112071649.000", "EndTime": "20110112071651.000", "PrimaryTag": "CC1", "Text": ">>Reporter: HE AND HIS          "}
+{"StartTime": "20110112071651.000", "EndTime": "20110112071653.000", "PrimaryTag": "CC1", "Text": "FRIENDS STARTED CROCHET IN      "}
+{"StartTime": "20110112071653.000", "EndTime": "20110112071653.000", "PrimaryTag": "CC1", "Text": "HIGH SCHOOL.                    "}
+{"StartTime": "20110112071653.000", "EndTime": "20110112071655.000", "PrimaryTag": "CC1", "Text": "IT WAS A FUN EASY WAY TO        "}
+{"StartTime": "20110112071655.000", "EndTime": "20110112071657.000", "PrimaryTag": "CC1", "Text": "MAKE MONEY SELLING HATS TO      "}
+{"StartTime": "20110112071657.000", "EndTime": "20110112071659.000", "PrimaryTag": "CC1", "Text": "HIS FAMILY AND FRIENDS          "}
+{"StartTime": "20110112071659.000", "EndTime": "20110112071700.000", "PrimaryTag": "CC1", "Text": "DURING THE SKI AND              "}
+{"StartTime": "20110112071700.000", "EndTime": "20110112071701.000", "PrimaryTag": "CC1", "Text": "SNOWBOARDING SEASON.            "}
+{"StartTime": "20110112071701.000", "EndTime": "20110112071702.000", "PrimaryTag": "CC1", "Text": ">> WE HAD CHANCES TO TRAVEL     "}
+{"StartTime": "20110112071702.000", "EndTime": "20110112071704.000", "PrimaryTag": "CC1", "Text": "ABROAD TO VOLUNTEER TO SEE      "}
+{"StartTime": "20110112071704.000", "EndTime": "20110112071705.000", "PrimaryTag": "CC1", "Text": "THE WAY THE MAJORITY OF THE     "}
+{"StartTime": "20110112071705.000", "EndTime": "20110112071708.000", "PrimaryTag": "CC1", "Text": "WORLD LIVES, WHICH IN MANY      "}
+{"StartTime": "20110112071708.000", "EndTime": "20110112071709.000", "PrimaryTag": "CC1", "Text": "CASES WAS IN POVERTY.           "}
+{"StartTime": "20110112071709.000", "EndTime": "20110112071711.000", "PrimaryTag": "CC1", "Text": ">>Reporter: HALFWAY THROUGH     "}
+{"StartTime": "20110112071711.000", "EndTime": "20110112071712.000", "PrimaryTag": "CC1", "Text": "COLLEGE CROW SAY KIDS WAS       "}
+{"StartTime": "20110112071712.000", "EndTime": "20110112071712.000", "PrimaryTag": "CC1", "Text": "BORN.                           "}
+{"StartTime": "20110112071712.000", "EndTime": "20110112071715.000", "PrimaryTag": "CC1", "Text": "THIS NONPROFIT BRAND OF         "}
+{"StartTime": "20110112071715.000", "EndTime": "20110112071717.000", "PrimaryTag": "CC1", "Text": "CLOTHING AIMS TO RISE ABOVE     "}
+{"StartTime": "20110112071717.000", "EndTime": "20110112071720.000", "PrimaryTag": "CC1", "Text": "POVERTY EMPOWERING THE WOMEN    "}
+{"StartTime": "20110112071720.000", "EndTime": "20110112071723.000", "PrimaryTag": "CC1", "Text": "OF NORTH UGANDA TO SUSTAIN      "}
+{"StartTime": "20110112071723.000", "EndTime": "20110112071725.000", "PrimaryTag": "CC1", "Text": "THEIR CRAFT ONE HOOK AT A       "}
+{"StartTime": "20110112071725.000", "EndTime": "20110112071726.000", "PrimaryTag": "CC1", "Text": "TIME TEACHING THESE WOMEN TO    "}
+{"StartTime": "20110112071726.000", "EndTime": "20110112071729.000", "PrimaryTag": "CC1", "Text": "CROCHET.                        "}
+{"StartTime": "20110112071729.000", "EndTime": "20110112071732.000", "PrimaryTag": "CC1", "Text": ">> SAY WHAT'S UP AMERICA.       "}
+{"StartTime": "20110112071732.000", "EndTime": "20110112071734.000", "PrimaryTag": "CC1", "Text": "THE HATS THEY MAKE ARE SOLD     "}
+{"StartTime": "20110112071734.000", "EndTime": "20110112071735.000", "PrimaryTag": "CC1", "Text": "IN THE UNITED STATES, WHERE     "}
+{"StartTime": "20110112071735.000", "EndTime": "20110112071739.000", "PrimaryTag": "CC1", "Text": "ALL THE FUNDS FROM THE SALES    "}
+{"StartTime": "20110112071739.000", "EndTime": "20110112071741.000", "PrimaryTag": "CC1", "Text": "ARE SENT BACK TO CREATE A       "}
+{"StartTime": "20110112071741.000", "EndTime": "20110112071742.000", "PrimaryTag": "CC1", "Text": "STAINABLE CYCLE OF              "}
+{"StartTime": "20110112071742.000", "EndTime": "20110112071744.000", "PrimaryTag": "CC1", "Text": "EMPLOYMENT AND EMPOWERMENT      "}
+{"StartTime": "20110112071744.000", "EndTime": "20110112071745.000", "PrimaryTag": "CC1", "Text": "FOR COMMUNITY THERE.            "}
+{"StartTime": "20110112071745.000", "EndTime": "20110112071747.000", "PrimaryTag": "CC1", "Text": ">>Reporter: EVERY HAT TELLS     "}
+{"StartTime": "20110112071747.000", "EndTime": "20110112071748.000", "PrimaryTag": "CC1", "Text": "A STORY THIS IS BEATRICE AND    "}
+{"StartTime": "20110112071748.000", "EndTime": "20110112071749.000", "PrimaryTag": "CC1", "Text": "SHE MADE THIS HAT.              "}
+{"StartTime": "20110112071749.000", "EndTime": "20110112071751.000", "PrimaryTag": "CC1", "Text": "OPPORTUNITY TO SEE SOMEBODY     "}
+{"StartTime": "20110112071751.000", "EndTime": "20110112071754.000", "PrimaryTag": "CC1", "Text": "LIKE BEATRICE WHO PRIOR TO      "}
+{"StartTime": "20110112071754.000", "EndTime": "20110112071758.000", "PrimaryTag": "CC1", "Text": "WORKING AT CROCHET KIDS WAS     "}
+{"StartTime": "20110112071758.000", "EndTime": "20110112071759.000", "PrimaryTag": "CC1", "Text": "SELLING MANGOS FOR MENIAL       "}
+{"StartTime": "20110112071759.000", "EndTime": "20110112071800.000", "PrimaryTag": "CC1", "Text": "WAGES.                          "}
+{"StartTime": "20110112071800.000", "EndTime": "20110112071802.000", "PrimaryTag": "CC1", "Text": "NOW SHE'S ABLE TO PROVIDE       "}
+{"StartTime": "20110112071802.000", "EndTime": "20110112071804.000", "PrimaryTag": "CC1", "Text": "SCHOOL FEES FOR HER CHILDREN,   "}
+{"StartTime": "20110112071804.000", "EndTime": "20110112071806.000", "PrimaryTag": "CC1", "Text": "FOOD ON THEIR TABLES AND        "}
+{"StartTime": "20110112071806.000", "EndTime": "20110112071807.000", "PrimaryTag": "CC1", "Text": "EVEN SAVE ENOUGH MONEY TO       "}
+{"StartTime": "20110112071807.000", "EndTime": "20110112071808.000", "PrimaryTag": "CC1", "Text": "START HER OWN BUSINESS.         "}
+{"StartTime": "20110112071808.000", "EndTime": "20110112071810.000", "PrimaryTag": "CC1", "Text": ">>Reporter: ALL HATS MADE BY    "}
+{"StartTime": "20110112071810.000", "EndTime": "20110112071811.000", "PrimaryTag": "CC1", "Text": "HAND THE PROFITS GOING RIGHT    "}
+{"StartTime": "20110112071811.000", "EndTime": "20110112071815.000", "PrimaryTag": "CC1", "Text": "BACK TO THE WOMEN.              "}
+{"StartTime": "20110112071815.000", "EndTime": "20110112071820.000", "PrimaryTag": "CC1", "Text": ">> SO BUY A HAT AND CHANGE A    "}
+{"StartTime": "20110112071820.000", "EndTime": "20110112071822.000", "PrimaryTag": "CC1", "Text": "LIFE.                           "}
+{"StartTime": "20110112071822.000", "EndTime": "20110112071824.000", "PrimaryTag": "CC1", "Text": "IN COSTA MESA, \"CBS2 NEWS\".     "}
+{"StartTime": "20110112071824.000", "EndTime": "20110112071826.000", "PrimaryTag": "CC1", "Text": "PAT: FOR MORE INFORMATION ON    "}
+{"StartTime": "20110112071826.000", "EndTime": "20110112071829.000", "PrimaryTag": "CC1", "Text": "CROCHET KIDS GO TO              "}
+{"StartTime": "20110112071829.000", "EndTime": "20110112071830.000", "PrimaryTag": "CC1", "Text": "WWW.CBSLA.COM AND CLICK ON      "}
+{"StartTime": "20110112071830.000", "EndTime": "20110112071833.000", "PrimaryTag": "CC1", "Text": "SEEN ON TV.                   "}
+{"StartTime": "20110112071833.000", "EndTime": "20110112071835.000", "PrimaryTag": "CC1", "Text": "PAUL: AMAZING HOW SMALL         "}
+{"StartTime": "20110112071835.000", "EndTime": "20110112071836.000", "PrimaryTag": "CC1", "Text": "ORIGINAL IDEAS CAN HAVE AN      "}
+{"StartTime": "20110112071836.000", "EndTime": "20110112071837.000", "PrimaryTag": "CC1", "Text": "IMPACT ON THINGS.               "}
+{"StartTime": "20110112071837.000", "EndTime": "20110112071839.000", "PrimaryTag": "CC1", "Text": "PAT: ANOTHER CONTINENT AWAY.    "}
+{"StartTime": "20110112071839.000", "EndTime": "20110112071840.000", "PrimaryTag": "CC1", "Text": "WHAT A WONDERFUL IDEA.          "}
+{"StartTime": "20110112071840.000", "EndTime": "20110112071841.000", "PrimaryTag": "CC1", "Text": "PAUL: AMAZING STUFF.            "}
+{"StartTime": "20110112071841.000", "EndTime": "20110112071843.000", "PrimaryTag": "CC1", "Text": "SPEAKING OF WONDERFUL.          "}
+{"StartTime": "20110112071843.000", "EndTime": "20110112071845.000", "PrimaryTag": "CC1", "Text": "PAT: HERE'S JACKIE WITH         "}
+{"StartTime": "20110112071845.000", "EndTime": "20110112071846.000", "PrimaryTag": "CC1", "Text": "WONDERFUL NEWS.                 "}
+{"StartTime": "20110112071846.000", "EndTime": "20110112071847.000", "PrimaryTag": "CC1", "Text": "JACKIE: YOU KNOW WHAT?          "}
+{"StartTime": "20110112071847.000", "EndTime": "20110112071849.000", "PrimaryTag": "CC1", "Text": "THEY'RE BUTTERING ME UP         "}
+{"StartTime": "20110112071849.000", "EndTime": "20110112071851.000", "PrimaryTag": "CC1", "Text": "BECAUSE I HAVE NICE WEATHER     "}
+{"StartTime": "20110112071851.000", "EndTime": "20110112071852.000", "PrimaryTag": "CC1", "Text": "TO TALK ABOUT.                  "}
+{"StartTime": "20110112071852.000", "EndTime": "20110112071854.000", "PrimaryTag": "CC1", "Text": "THAT'S RIGHT, 70s AND 80s IN    "}
+{"StartTime": "20110112071854.000", "EndTime": "20110112071856.000", "PrimaryTag": "CC1", "Text": "THE FORECAST SO KNOW WE HAD     "}
+{"StartTime": "20110112071856.000", "EndTime": "20110112071858.000", "PrimaryTag": "CC1", "Text": "ANOTHER COOL DAY TODAY, A       "}
+{"StartTime": "20110112071858.000", "EndTime": "20110112071859.000", "PrimaryTag": "CC1", "Text": "LITTLE DREARY OUT THERE WITH    "}
+{"StartTime": "20110112071859.000", "EndTime": "20110112071901.000", "PrimaryTag": "CC1", "Text": "THE CLOUDS AND EVEN SOME        "}
+{"StartTime": "20110112071901.000", "EndTime": "20110112071902.000", "PrimaryTag": "CC1", "Text": "LIGHT SHARES BUT THAT'S         "}
+{"StartTime": "20110112071902.000", "EndTime": "20110112071905.000", "PrimaryTag": "CC1", "Text": "ABOUT TO CHANGE WITH SOME       "}
+{"StartTime": "20110112071905.000", "EndTime": "20110112071905.000", "PrimaryTag": "CC1", "Text": "NICE WEATHER IN THE             "}
+{"StartTime": "20110112071905.000", "EndTime": "20110112071906.000", "PrimaryTag": "CC1", "Text": "FORECAST.                       "}
+{"StartTime": "20110112071906.000", "EndTime": "20110112071909.000", "PrimaryTag": "CC1", "Text": "LOOKING LIVE FROM MT. WILSON    "}
+{"StartTime": "20110112071909.000", "EndTime": "20110112071910.000", "PrimaryTag": "CC1", "Text": "WE ARE SEEING CLEARING          "}
+{"StartTime": "20110112071910.000", "EndTime": "20110112071912.000", "PrimaryTag": "CC1", "Text": "CONDITIONS SOME OF THAT         "}
+{"StartTime": "20110112071912.000", "EndTime": "20110112071914.000", "PrimaryTag": "CC1", "Text": "MOISTURE PUSHING YOU FURTHER    "}
+{"StartTime": "20110112071914.000", "EndTime": "20110112071916.000", "PrimaryTag": "CC1", "Text": "INLAND BUT MOST OF THE RAIN     "}
+{"StartTime": "20110112071916.000", "EndTime": "20110112071917.000", "PrimaryTag": "CC1", "Text": "EVAPORATING BEFORE HITTING      "}
+{"StartTime": "20110112071917.000", "EndTime": "20110112071918.000", "PrimaryTag": "CC1", "Text": "THE GROUND SO ISOLATED LIGHT    "}
+{"StartTime": "20110112071918.000", "EndTime": "20110112071919.000", "PrimaryTag": "CC1", "Text": "SPRINKLES OUT THERE.            "}
+{"StartTime": "20110112071919.000", "EndTime": "20110112071923.000", "PrimaryTag": "CC1", "Text": "TEMPERATURES TODAY.             "}
+{"StartTime": "20110112071923.000", "EndTime": "20110112071924.000", "PrimaryTag": "CC1", "Text": "SO AGAIN THOSE TEMPERATURES     "}
+{"StartTime": "20110112071924.000", "EndTime": "20110112071927.000", "PrimaryTag": "CC1", "Text": "ARE STILL RUNNING BELOW         "}
+{"StartTime": "20110112071927.000", "EndTime": "20110112071928.000", "PrimaryTag": "CC1", "Text": "AVERAGE, FELT COLDER OUT        "}
+{"StartTime": "20110112071928.000", "EndTime": "20110112071929.000", "PrimaryTag": "CC1", "Text": "THERE BECAUSE OF THOSE WINDS    "}
+{"StartTime": "20110112071929.000", "EndTime": "20110112071931.000", "PrimaryTag": "CC1", "Text": "BUT WE ARE CURRENTLY INTO       "}
+{"StartTime": "20110112071931.000", "EndTime": "20110112071933.000", "PrimaryTag": "CC1", "Text": "THE 40s AND 50s AND THOSE       "}
+{"StartTime": "20110112071933.000", "EndTime": "20110112071935.000", "PrimaryTag": "CC1", "Text": "WINDS IN L.A. AND VENTURA       "}
+{"StartTime": "20110112071935.000", "EndTime": "20110112071938.000", "PrimaryTag": "CC1", "Text": "COUNTIES ANYWHERE FROM 10-11    "}
+{"StartTime": "20110112071938.000", "EndTime": "20110112071939.000", "PrimaryTag": "CC1", "Text": "MILES AN HOUR.                  "}
+{"StartTime": "20110112071939.000", "EndTime": "20110112071941.000", "PrimaryTag": "CC1", "Text": "THEY'LL BE PICKING UP BY        "}
+{"StartTime": "20110112071941.000", "EndTime": "20110112071942.000", "PrimaryTag": "CC1", "Text": "TOMORROW AFTERNOON UP TO 15     "}
+{"StartTime": "20110112071942.000", "EndTime": "20110112071943.000", "PrimaryTag": "CC1", "Text": "MILES AN HOUR.                  "}
+{"StartTime": "20110112071943.000", "EndTime": "20110112071945.000", "PrimaryTag": "CC1", "Text": "LOOKING AT THE DOPPLER RADAR    "}
+{"StartTime": "20110112071945.000", "EndTime": "20110112071947.000", "PrimaryTag": "CC1", "Text": "NOW AGAIN MOST OF THAT          "}
+{"StartTime": "20110112071947.000", "EndTime": "20110112071948.000", "PrimaryTag": "CC1", "Text": "MOISTURE JUST IN THE UPPER      "}
+{"StartTime": "20110112071948.000", "EndTime": "20110112071949.000", "PrimaryTag": "CC1", "Text": "ATMOSPHERE SO WE ARE NOT        "}
+{"StartTime": "20110112071949.000", "EndTime": "20110112071950.000", "PrimaryTag": "CC1", "Text": "SEEING RAIN SO MUCH BUT IF      "}
+{"StartTime": "20110112071950.000", "EndTime": "20110112071952.000", "PrimaryTag": "CC1", "Text": "YOU TO SEE ANY IT WILL BE       "}
+{"StartTime": "20110112071952.000", "EndTime": "20110112071954.000", "PrimaryTag": "CC1", "Text": "VERY LIGHT JUST A SPRINKLE      "}
+{"StartTime": "20110112071954.000", "EndTime": "20110112071955.000", "PrimaryTag": "CC1", "Text": "HERE OR THERE BUT MOST OF       "}
+{"StartTime": "20110112071955.000", "EndTime": "20110112071957.000", "PrimaryTag": "CC1", "Text": "THAT MOISTURE IS PUSHING OFF    "}
+{"StartTime": "20110112071957.000", "EndTime": "20110112071958.000", "PrimaryTag": "CC1", "Text": "TO OUR NORTH AND EAST FROM      "}
+{"StartTime": "20110112071958.000", "EndTime": "20110112072001.000", "PrimaryTag": "CC1", "Text": "AN AREA OF LOW PRESSURE THAT    "}
+{"StartTime": "20110112072001.000", "EndTime": "20110112072002.000", "PrimaryTag": "CC1", "Text": "TRAILING COLD FRONT IS WHAT     "}
+{"StartTime": "20110112072002.000", "EndTime": "20110112072004.000", "PrimaryTag": "CC1", "Text": "IS MOVING THROUGH OUR AREA      "}
+{"StartTime": "20110112072004.000", "EndTime": "20110112072005.000", "PrimaryTag": "CC1", "Text": "AND THAT'S WHAT BROUGHT US      "}
+{"StartTime": "20110112072005.000", "EndTime": "20110112072006.000", "PrimaryTag": "CC1", "Text": "THE COLD WEATHER TODAY BUT      "}
+{"StartTime": "20110112072006.000", "EndTime": "20110112072007.000", "PrimaryTag": "CC1", "Text": "BEHIND THAT AREA OF LOW         "}
+{"StartTime": "20110112072007.000", "EndTime": "20110112072009.000", "PrimaryTag": "CC1", "Text": "PRESSURE AND COLD FRONT A       "}
+{"StartTime": "20110112072009.000", "EndTime": "20110112072011.000", "PrimaryTag": "CC1", "Text": "RIDGE OF HIGH PRESSURE WILL     "}
+{"StartTime": "20110112072011.000", "EndTime": "20110112072013.000", "PrimaryTag": "CC1", "Text": "START TO BUILD IN AND AS        "}
+{"StartTime": "20110112072013.000", "EndTime": "20110112072015.000", "PrimaryTag": "CC1", "Text": "THAT CONTINUES TO BUILD IN      "}
+{"StartTime": "20110112072015.000", "EndTime": "20110112072016.000", "PrimaryTag": "CC1", "Text": "OUR TEMPERATURES WILL START     "}
+{"StartTime": "20110112072016.000", "EndTime": "20110112072016.000", "PrimaryTag": "CC1", "Text": "TO WARM UP.                     "}
+{"StartTime": "20110112072016.000", "EndTime": "20110112072018.000", "PrimaryTag": "CC1", "Text": "WE WILL SHIFT TO MORE OF        "}
+{"StartTime": "20110112072018.000", "EndTime": "20110112072019.000", "PrimaryTag": "CC1", "Text": "THAT OFFSHORE FLOW WHICH        "}
+{"StartTime": "20110112072019.000", "EndTime": "20110112072020.000", "PrimaryTag": "CC1", "Text": "WILL KEEP US UNDER SUNNY        "}
+{"StartTime": "20110112072020.000", "EndTime": "20110112072022.000", "PrimaryTag": "CC1", "Text": "SKIES AND WITH THAT WARMER      "}
+{"StartTime": "20110112072022.000", "EndTime": "20110112072024.000", "PrimaryTag": "CC1", "Text": "TEMPERATURES AND AS I SAID      "}
+{"StartTime": "20110112072024.000", "EndTime": "20110112072024.000", "PrimaryTag": "CC1", "Text": "BEFORE TEMPERATURES WILL BE     "}
+{"StartTime": "20110112072024.000", "EndTime": "20110112072026.000", "PrimaryTag": "CC1", "Text": "INTO THE 70s, EVEN 80s IN       "}
+{"StartTime": "20110112072026.000", "EndTime": "20110112072028.000", "PrimaryTag": "CC1", "Text": "THE L.A. BASIN AS SOON AS       "}
+{"StartTime": "20110112072028.000", "EndTime": "20110112072029.000", "PrimaryTag": "CC1", "Text": "FRIDAY SO WHAT A DIFFERENCE     "}
+{"StartTime": "20110112072029.000", "EndTime": "20110112072031.000", "PrimaryTag": "CC1", "Text": "A FEW DAYS MAKE.                "}
+{"StartTime": "20110112072031.000", "EndTime": "20110112072032.000", "PrimaryTag": "CC1", "Text": "NOW TOMORROW MAYBE NOT SO       "}
+{"StartTime": "20110112072032.000", "EndTime": "20110112072035.000", "PrimaryTag": "CC1", "Text": "WARM, STILL A LITTLE MILD       "}
+{"StartTime": "20110112072035.000", "EndTime": "20110112072037.000", "PrimaryTag": "CC1", "Text": "UPPER 60s LOW 70s BUT UNDER     "}
+{"StartTime": "20110112072037.000", "EndTime": "20110112072039.000", "PrimaryTag": "CC1", "Text": "MOSTLY SUNNY SKIES THAT WILL    "}
+{"StartTime": "20110112072039.000", "EndTime": "20110112072041.000", "PrimaryTag": "CC1", "Text": "BE BREEZY FOR YOUR WEDNESDAY,   "}
+{"StartTime": "20110112072041.000", "EndTime": "20110112072042.000", "PrimaryTag": "CC1", "Text": "BUT BY THURSDAY, FRIDAY         "}
+{"StartTime": "20110112072042.000", "EndTime": "20110112072043.000", "PrimaryTag": "CC1", "Text": "THOSE TEMPERATURES REALLY       "}
+{"StartTime": "20110112072043.000", "EndTime": "20110112072044.000", "PrimaryTag": "CC1", "Text": "START TO WARM UP AND IT'S       "}
+{"StartTime": "20110112072044.000", "EndTime": "20110112072045.000", "PrimaryTag": "CC1", "Text": "GOING TO BE A BEAUTIFUL         "}
+{"StartTime": "20110112072045.000", "EndTime": "20110112072047.000", "PrimaryTag": "CC1", "Text": "WEEKEND 80s FROM THE L.A.       "}
+{"StartTime": "20110112072047.000", "EndTime": "20110112072048.000", "PrimaryTag": "CC1", "Text": "BASIN TO THOSE INLAND           "}
+{"StartTime": "20110112072048.000", "EndTime": "20110112072050.000", "PrimaryTag": "CC1", "Text": "VALLEYS AND WE ARE ALSO         "}
+{"StartTime": "20110112072050.000", "EndTime": "20110112072051.000", "PrimaryTag": "CC1", "Text": "LOOKING AT TEMPERATURES INTO    "}
+{"StartTime": "20110112072051.000", "EndTime": "20110112072054.000", "PrimaryTag": "CC1", "Text": "THE MID-70s ALONG THE COAST     "}
+{"StartTime": "20110112072054.000", "EndTime": "20110112072056.000", "PrimaryTag": "CC1", "Text": "SO EVEN SOME NICE BEACH         "}
+{"StartTime": "20110112072056.000", "EndTime": "20110112072056.000", "PrimaryTag": "CC1", "Text": "WEATHER OUT THERE.              "}
+{"StartTime": "20110112072056.000", "EndTime": "20110112072058.000", "PrimaryTag": "CC1", "Text": "PAUL: WE HAVEN'T SEEN THE       "}
+{"StartTime": "20110112072058.000", "EndTime": "20110112072059.000", "PrimaryTag": "CC1", "Text": "80s SINCE THE 80s.              "}
+{"StartTime": "20110112072059.000", "EndTime": "20110112072101.000", "PrimaryTag": "CC1", "Text": "PAT: WE HAVE HAD TO GO WITH     "}
+{"StartTime": "20110112072101.000", "EndTime": "20110112072103.000", "PrimaryTag": "CC1", "Text": "THE MAGNIFYING GLASS.           "}
+{"StartTime": "20110112072103.000", "EndTime": "20110112072105.000", "PrimaryTag": "CC1", "Text": "PAUL: DIALING FOR DOLLARS       "}
+{"StartTime": "20110112072105.000", "EndTime": "20110112072107.000", "PrimaryTag": "CC1", "Text": "WHY THE GOVERNOR IS CUTTING     "}
+{"StartTime": "20110112072107.000", "EndTime": "20110112072109.000", "PrimaryTag": "CC1", "Text": "OFF STATE SPONSORED CELL        "}
+{"StartTime": "20110112072109.000", "EndTime": "20110112072109.000", "PrimaryTag": "CC1", "Text": "PHONES.                         "}
+{"StartTime": "20110112072109.000", "EndTime": "20110112072111.000", "PrimaryTag": "CC1", "Text": "PAT: SHE MILD WAVED AND TOOK    "}
+{"StartTime": "20110112072111.000", "EndTime": "20110112072112.000", "PrimaryTag": "CC1", "Text": "A TUMBLE.                       "}
+{"StartTime": "20110112072112.000", "EndTime": "20110112072113.000", "PrimaryTag": "CC1", "Text": "HILLARY CLINTON'S HARD FALL     "}
+{"StartTime": "20110112072113.000", "EndTime": "20110112072123.000", "PrimaryTag": "CC1", "Text": "IS NEXT.                        "}
+{"StartTime": "20110112072123.000", "EndTime": "20110112072123.000", "PrimaryTag": "CC1", "Text": "             SIZZLER.           "}
+{"StartTime": "20110112072123.000", "EndTime": "20110112072401.000", "PrimaryTag": "CC1", "Text": "    THINKING FRESH. EVERYDAY.   "}
+{"StartTime": "20110112072401.000", "EndTime": "20110112072402.000", "PrimaryTag": "CC1", "Text": "PAT: GOVERNOR IS PULL THE       "}
+{"StartTime": "20110112072402.000", "EndTime": "20110112072405.000", "PrimaryTag": "CC1", "Text": "PLUG ON SOME 4,000 STATE        "}
+{"StartTime": "20110112072405.000", "EndTime": "20110112072406.000", "PrimaryTag": "CC1", "Text": "ISSUED CELL PHONES.             "}
+{"StartTime": "20110112072406.000", "EndTime": "20110112072408.000", "PrimaryTag": "CC1", "Text": "GOVERNOR BROWN SAID HE WAS      "}
+{"StartTime": "20110112072408.000", "EndTime": "20110112072409.000", "PrimaryTag": "CC1", "Text": "SHOBD TO LEARN THE STATE        "}
+{"StartTime": "20110112072409.000", "EndTime": "20110112072414.000", "PrimaryTag": "CC1", "Text": "PIBS UP THE TAB FOR NEARLY      "}
+{"StartTime": "20110112072414.000", "EndTime": "20110112072416.000", "PrimaryTag": "CC1", "Text": "HUNDRED,000 CELL PHONES.        "}
+{"StartTime": "20110112072416.000", "EndTime": "20110112072418.000", "PrimaryTag": "CC1", "Text": "BROWN ESTIMATES THE MOVE        "}
+{"StartTime": "20110112072418.000", "EndTime": "20110112072420.000", "PrimaryTag": "CC1", "Text": "WILL SAVE $20 MILLION.          "}
+{"StartTime": "20110112072420.000", "EndTime": "20110112072421.000", "PrimaryTag": "CC1", "Text": "MANY OF THE 14,000 STATE        "}
+{"StartTime": "20110112072421.000", "EndTime": "20110112072423.000", "PrimaryTag": "CC1", "Text": "OWNED CARS AND VANS MAY BE      "}
+{"StartTime": "20110112072423.000", "EndTime": "20110112072425.000", "PrimaryTag": "CC1", "Text": "THE NEXT TO GO.                 "}
+{"StartTime": "20110112072425.000", "EndTime": "20110112072426.000", "PrimaryTag": "CC1", "Text": "PAUL: SECRETARY OF STATE        "}
+{"StartTime": "20110112072426.000", "EndTime": "20110112072427.000", "PrimaryTag": "CC1", "Text": "HILLARY CLINTON TOOK A          "}
+{"StartTime": "20110112072427.000", "EndTime": "20110112072429.000", "PrimaryTag": "CC1", "Text": "TUMBLE TONIGHT WHILE            "}
+{"StartTime": "20110112072429.000", "EndTime": "20110112072432.000", "PrimaryTag": "CC1", "Text": "BOARDING HER YET IN -- JET      "}
+{"StartTime": "20110112072432.000", "EndTime": "20110112072434.000", "PrimaryTag": "CC1", "Text": "IN YEMEN.                       "}
+{"StartTime": "20110112072434.000", "EndTime": "20110112072436.000", "PrimaryTag": "CC1", "Text": "THE FLIGHT CREW IMMEDIATELY     "}
+{"StartTime": "20110112072436.000", "EndTime": "20110112072437.000", "PrimaryTag": "CC1", "Text": "HELPED HER TO HER FEET.         "}
+{"StartTime": "20110112072437.000", "EndTime": "20110112072439.000", "PrimaryTag": "CC1", "Text": "WE ARE TOLD SHE'S GOING TO      "}
+{"StartTime": "20110112072439.000", "EndTime": "20110112072440.000", "PrimaryTag": "CC1", "Text": "BE OKAY.                        "}
+{"StartTime": "20110112072440.000", "EndTime": "20110112072443.000", "PrimaryTag": "CC1", "Text": "SHE WAS IN YEMEN TO URGED       "}
+{"StartTime": "20110112072443.000", "EndTime": "20110112072446.000", "PrimaryTag": "CC1", "Text": "THE COUNTRY TO STEP UP          "}
+{"StartTime": "20110112072446.000", "EndTime": "20110112072447.000", "PrimaryTag": "CC1", "Text": "COUNTERTERRORISM EFFORTS        "}
+{"StartTime": "20110112072447.000", "EndTime": "20110112072448.000", "PrimaryTag": "CC1", "Text": "WITH THE UNITED STATES.         "}
+{"StartTime": "20110112072448.000", "EndTime": "20110112072450.000", "PrimaryTag": "CC1", "Text": "PAT: STILL TO COME MORE ON      "}
+{"StartTime": "20110112072450.000", "EndTime": "20110112072450.000", "PrimaryTag": "CC1", "Text": "OUR BREAKING NEWS.              "}
+{"StartTime": "20110112072450.000", "EndTime": "20110112072452.000", "PrimaryTag": "CC1", "Text": "PAUL: AN L.A. COUNTY            "}
+{"StartTime": "20110112072452.000", "EndTime": "20110112072453.000", "PrimaryTag": "CC1", "Text": "SHERIFF'S DEPUTY SHOT IN THE    "}
+{"StartTime": "20110112072453.000", "EndTime": "20110112072453.000", "PrimaryTag": "CC1", "Text": "FACE.                           "}
+{"StartTime": "20110112072453.000", "EndTime": "20110112072456.000", "PrimaryTag": "CC1", "Text": "WE WILL HAVE THE LATEST.        "}
+{"StartTime": "20110112072456.000", "EndTime": "20110112072457.000", "PrimaryTag": "CC1", "Text": ">> I'M JIM HILL.                "}
+{"StartTime": "20110112072457.000", "EndTime": "20110112072459.000", "PrimaryTag": "CC1", "Text": "COMING UP IN SPORTS THE         "}
+{"StartTime": "20110112072459.000", "EndTime": "20110112072500.000", "PrimaryTag": "CC1", "Text": "SKUNK RULE WAS IN EFFECT AS     "}
+{"StartTime": "20110112072500.000", "EndTime": "20110112072501.000", "PrimaryTag": "CC1", "Text": "THE LAKERS DID SOMETHING        "}
+{"StartTime": "20110112072501.000", "EndTime": "20110112072505.000", "PrimaryTag": "CC1", "Text": "AGAINST THE LOWLY CLEVELAND     "}
+{"StartTime": "20110112072505.000", "EndTime": "20110112072506.000", "PrimaryTag": "CC1", "Text": "CAVALIERS THEY HAVE NEVER       "}
+{"StartTime": "20110112072506.000", "EndTime": "20110112072507.000", "PrimaryTag": "CC1", "Text": "DONE.                           "}
+{"StartTime": "20110112072507.000", "EndTime": "20110112072507.000", "PrimaryTag": "CC1", "Text": "YOU'LL SEE IT NEXT IN           "}
+{"StartTime": "20110112072507.000", "EndTime": "20110112072759.000", "PrimaryTag": "CC1", "Text": "SPORTS.                         "}
+{"StartTime": "20110112072759.000", "EndTime": "20110112072801.000", "PrimaryTag": "CC1", "Text": ">> WE BEGIN SPORTS IN PRO       "}
+{"StartTime": "20110112072801.000", "EndTime": "20110112072802.000", "PrimaryTag": "CC1", "Text": "BASKETBALL.                     "}
+{"StartTime": "20110112072802.000", "EndTime": "20110112072804.000", "PrimaryTag": "CC1", "Text": "EARLIER TODAY MATT BARNES       "}
+{"StartTime": "20110112072804.000", "EndTime": "20110112072806.000", "PrimaryTag": "CC1", "Text": "UNDERWENT SURGERY TO REPAIR     "}
+{"StartTime": "20110112072806.000", "EndTime": "20110112072808.000", "PrimaryTag": "CC1", "Text": "TORN MENISCUS IN HIS RIGHT      "}
+{"StartTime": "20110112072808.000", "EndTime": "20110112072810.000", "PrimaryTag": "CC1", "Text": "KNEE AND IS EXPECTED TO BE      "}
+{"StartTime": "20110112072810.000", "EndTime": "20110112072811.000", "PrimaryTag": "CC1", "Text": "OUT EIGHT WEEKS BUT THE         "}
+{"StartTime": "20110112072811.000", "EndTime": "20110112072813.000", "PrimaryTag": "CC1", "Text": "LAKERS DIDN'T NEED BARNES       "}
+{"StartTime": "20110112072813.000", "EndTime": "20110112072814.000", "PrimaryTag": "CC1", "Text": "AGAINST THE CLEVELAND           "}
+{"StartTime": "20110112072814.000", "EndTime": "20110112072818.000", "PrimaryTag": "CC1", "Text": "CAVALIERS.                      "}
+{"StartTime": "20110112072818.000", "EndTime": "20110112072820.000", "PrimaryTag": "CC1", "Text": "FIRST QUARTER LAKERS UP 11      "}
+{"StartTime": "20110112072820.000", "EndTime": "20110112072821.000", "PrimaryTag": "CC1", "Text": "ANDREW BYNUM FINDS PAU GASOL    "}
+{"StartTime": "20110112072821.000", "EndTime": "20110112072824.000", "PrimaryTag": "CC1", "Text": "FOR THE DUNK LAKERS LEAD 15     "}
+{"StartTime": "20110112072824.000", "EndTime": "20110112072824.000", "PrimaryTag": "CC1", "Text": "POINTS.                         "}
+{"StartTime": "20110112072824.000", "EndTime": "20110112072827.000", "PrimaryTag": "CC1", "Text": "SECOND QUARTER KOBE DRIVES      "}
+{"StartTime": "20110112072827.000", "EndTime": "20110112072829.000", "PrimaryTag": "CC1", "Text": "DISHES TO GASOL FOR THE         "}
+{"StartTime": "20110112072829.000", "EndTime": "20110112072831.000", "PrimaryTag": "CC1", "Text": "BUCKET AND FOUL LAKERS LEAD     "}
+{"StartTime": "20110112072831.000", "EndTime": "20110112072831.000", "PrimaryTag": "CC1", "Text": "57-25.                          "}
+{"StartTime": "20110112072831.000", "EndTime": "20110112072833.000", "PrimaryTag": "CC1", "Text": "NOW IN THE THIRD QUARTER OF     "}
+{"StartTime": "20110112072833.000", "EndTime": "20110112072835.000", "PrimaryTag": "CC1", "Text": "OFF THE STEAL KOBE OFF THE      "}
+{"StartTime": "20110112072835.000", "EndTime": "20110112072837.000", "PrimaryTag": "CC1", "Text": "GLASS WITH ANDREW BYNUM,        "}
+{"StartTime": "20110112072837.000", "EndTime": "20110112072840.000", "PrimaryTag": "CC1", "Text": "LAKERS ARE CRUISING ALONG       "}
+{"StartTime": "20110112072840.000", "EndTime": "20110112072840.000", "PrimaryTag": "CC1", "Text": "61-25.                          "}
+{"StartTime": "20110112072840.000", "EndTime": "20110112072842.000", "PrimaryTag": "CC1", "Text": "STILL IN THE THIRD KOBE GOES    "}
+{"StartTime": "20110112072842.000", "EndTime": "20110112072843.000", "PrimaryTag": "CC1", "Text": "BEHIND HIS BACK TO LAMAR FOR    "}
+{"StartTime": "20110112072843.000", "EndTime": "20110112072845.000", "PrimaryTag": "CC1", "Text": "THE LAY-UP AND FOUL.            "}
+{"StartTime": "20110112072845.000", "EndTime": "20110112072846.000", "PrimaryTag": "CC1", "Text": "KOBE FINISHED WITH 13 POINTS    "}
+{"StartTime": "20110112072846.000", "EndTime": "20110112072848.000", "PrimaryTag": "CC1", "Text": "AND EIGHT ASSISTS.              "}
+{"StartTime": "20110112072848.000", "EndTime": "20110112072849.000", "PrimaryTag": "CC1", "Text": "TIME WINDING DOWN IN THE        "}
+{"StartTime": "20110112072849.000", "EndTime": "20110112072850.000", "PrimaryTag": "CC1", "Text": "THIRD LOOK AT SHANNON BROWN     "}
+{"StartTime": "20110112072850.000", "EndTime": "20110112072852.000", "PrimaryTag": "CC1", "Text": "FROM HALF COURT, NOTHING BUT    "}
+{"StartTime": "20110112072852.000", "EndTime": "20110112072854.000", "PrimaryTag": "CC1", "Text": "THE BOTTOM OF THE NET AS THE    "}
+{"StartTime": "20110112072854.000", "EndTime": "20110112072859.000", "PrimaryTag": "CC1", "Text": "BUZZER SOUNDS BEATING THE       "}
+{"StartTime": "20110112072859.000", "EndTime": "20110112072901.000", "PrimaryTag": "CC1", "Text": "CAVALIERS 112-57.               "}
+{"StartTime": "20110112072901.000", "EndTime": "20110112072904.000", "PrimaryTag": "CC1", "Text": "THE 55 POINTS IS THE THIRD      "}
+{"StartTime": "20110112072904.000", "EndTime": "20110112072907.000", "PrimaryTag": "CC1", "Text": "LARGEST MARGIN OF VICTORY IN    "}
+{"StartTime": "20110112072907.000", "EndTime": "20110112072917.000", "PrimaryTag": "CC1", "Text": "LAKERS FRANCHISE VICTORY.       "}
+{"StartTime": "20110112072917.000", "EndTime": "20110112072921.000", "PrimaryTag": "CC1", "Text": ">> WELL, IT I AM PRESENCE ME    "}
+{"StartTime": "20110112072921.000", "EndTime": "20110112072923.000", "PrimaryTag": "CC1", "Text": "THAT WE FOCUS ON OUR JOB FOR    "}
+{"StartTime": "20110112072923.000", "EndTime": "20110112072926.000", "PrimaryTag": "CC1", "Text": "48 MINUTES.                     "}
+{"StartTime": "20110112072926.000", "EndTime": "20110112072929.000", "PrimaryTag": "CC1", "Text": "YOU KIND OF GET LAX AND         "}
+{"StartTime": "20110112072929.000", "EndTime": "20110112072932.000", "PrimaryTag": "CC1", "Text": "DON'T EXECUTE DEFENSIVELY.      "}
+{"StartTime": "20110112072932.000", "EndTime": "20110112072933.000", "PrimaryTag": "CC1", "Text": ">> OBVIOUSLY THE CAVS ARE       "}
+{"StartTime": "20110112072933.000", "EndTime": "20110112072936.000", "PrimaryTag": "CC1", "Text": "PLAYING WITH A LOT OF THEIR     "}
+{"StartTime": "20110112072936.000", "EndTime": "20110112072939.000", "PrimaryTag": "CC1", "Text": "REGULARS OUT SO THEY'RE         "}
+{"StartTime": "20110112072939.000", "EndTime": "20110112072940.000", "PrimaryTag": "CC1", "Text": "HURTING A LITTLE BIT TONIGHT    "}
+{"StartTime": "20110112072940.000", "EndTime": "20110112072942.000", "PrimaryTag": "CC1", "Text": "BUT WE STAYED WITH IT AND       "}
+{"StartTime": "20110112072942.000", "EndTime": "20110112072944.000", "PrimaryTag": "CC1", "Text": "THEY TRIED TO PLAY AND GAVE     "}
+{"StartTime": "20110112072944.000", "EndTime": "20110112072945.000", "PrimaryTag": "CC1", "Text": "AND EFFORT AND WE WERE THERE    "}
+{"StartTime": "20110112072945.000", "EndTime": "20110112072946.000", "PrimaryTag": "CC1", "Text": "TO MEET IT.                     "}
+{"StartTime": "20110112072946.000", "EndTime": "20110112072948.000", "PrimaryTag": "CC1", "Text": ">> AND THE LAKERS HEAD UP       "}
+{"StartTime": "20110112072948.000", "EndTime": "20110112072950.000", "PrimaryTag": "CC1", "Text": "THE COAST AGAINST OAKLAND       "}
+{"StartTime": "20110112072950.000", "EndTime": "20110112072951.000", "PrimaryTag": "CC1", "Text": "TOMORROW.                       "}
+{"StartTime": "20110112072951.000", "EndTime": "20110112072953.000", "PrimaryTag": "CC1", "Text": "YOU CAN SEE THAT ON OUR         "}
+{"StartTime": "20110112072953.000", "EndTime": "20110112072954.000", "PrimaryTag": "CC1", "Text": "SISTER STATION KCAL9.           "}
+{"StartTime": "20110112072954.000", "EndTime": "20110112072956.000", "PrimaryTag": "CC1", "Text": "I DON'T THINK THEY'LL BEAT      "}
+{"StartTime": "20110112072956.000", "EndTime": "20110112072959.000", "PrimaryTag": "CC1", "Text": "THEM BY 63 BUT IT STARTS AT     "}
+{"StartTime": "20110112072959.000", "EndTime": "20110112073001.000", "PrimaryTag": "CC1", "Text": "6:00 WHEN JAMES WORTHY JOINS    "}
+{"StartTime": "20110112073001.000", "EndTime": "20110112073004.000", "PrimaryTag": "CC1", "Text": "ME FOR LTV.                     "}
+{"StartTime": "20110112073004.000", "EndTime": "20110112073006.000", "PrimaryTag": "CC1", "Text": "JUAN RIVERA IS HEADING TO       "}
+{"StartTime": "20110112073006.000", "EndTime": "20110112073008.000", "PrimaryTag": "CC1", "Text": "CAROLINA TO BE THE PANTHERS     "}
+{"StartTime": "20110112073008.000", "EndTime": "20110112073009.000", "PrimaryTag": "CC1", "Text": "NEW COACH.                      "}
+{"StartTime": "20110112073009.000", "EndTime": "20110112073010.000", "PrimaryTag": "CC1", "Text": "SUNDAY AFTERNOON THOUGH THE     "}
+{"StartTime": "20110112073010.000", "EndTime": "20110112073012.000", "PrimaryTag": "CC1", "Text": "PATRIOTS WILL WELCOME THE       "}
+{"StartTime": "20110112073012.000", "EndTime": "20110112073014.000", "PrimaryTag": "CC1", "Text": "JETS TO FOXBORO FOR             "}
+{"StartTime": "20110112073014.000", "EndTime": "20110112073015.000", "PrimaryTag": "CC1", "Text": "DIVISIONAL PLAYOFF SHOWDOWN.    "}
+{"StartTime": "20110112073015.000", "EndTime": "20110112073018.000", "PrimaryTag": "CC1", "Text": "JUST OVER A MONTH AGO NEW       "}
+{"StartTime": "20110112073018.000", "EndTime": "20110112073020.000", "PrimaryTag": "CC1", "Text": "ENGLAND CRUSHED REX RYAN'S      "}
+{"StartTime": "20110112073020.000", "EndTime": "20110112073023.000", "PrimaryTag": "CC1", "Text": "CREW BY 42 POINTS BUT           "}
+{"StartTime": "20110112073023.000", "EndTime": "20110112073025.000", "PrimaryTag": "CC1", "Text": "ACCORDING DION BRANCH THAT      "}
+{"StartTime": "20110112073025.000", "EndTime": "20110112073029.000", "PrimaryTag": "CC1", "Text": "DIDN'T KEEP BILL BELCHIC        "}
+{"StartTime": "20110112073029.000", "EndTime": "20110112073031.000", "PrimaryTag": "CC1", "Text": "FROM CRITICIZING THE TEAM.      "}
+{"StartTime": "20110112073031.000", "EndTime": "20110112073031.000", "PrimaryTag": "CC1", "Text": ">> THOSE ARE THE THINGS THAT    "}
+{"StartTime": "20110112073031.000", "EndTime": "20110112073037.000", "PrimaryTag": "CC1", "Text": "WE FOCUS ON MORE.               "}
+{"StartTime": "20110112073037.000", "EndTime": "20110112073043.000", "PrimaryTag": "CC1", "Text": "HE DRILLS US ON IT.             "}
+{"StartTime": "20110112073043.000", "EndTime": "20110112073044.000", "PrimaryTag": "CC1", "Text": ">> SATURDAY THE DIVISION        "}
+{"StartTime": "20110112073044.000", "EndTime": "20110112073045.000", "PrimaryTag": "CC1", "Text": "ROUND OF THE PLAYOFF KICKS      "}
+{"StartTime": "20110112073045.000", "EndTime": "20110112073047.000", "PrimaryTag": "CC1", "Text": "OFF RIGHT HERE ON CBS2 WITH     "}
+{"StartTime": "20110112073047.000", "EndTime": "20110112073051.000", "PrimaryTag": "CC1", "Text": "THE RAVENS AND THE PITS --      "}
+{"StartTime": "20110112073051.000", "EndTime": "20110112073053.000", "PrimaryTag": "CC1", "Text": "PITTSBURGH STEELER THEN         "}
+{"StartTime": "20110112073053.000", "EndTime": "20110112073054.000", "PrimaryTag": "CC1", "Text": "SUNDAY IT'S THE PATRIOTS AND    "}
+{"StartTime": "20110112073054.000", "EndTime": "20110112073054.000", "PrimaryTag": "CC1", "Text": "THE JETS.                       "}
+{"StartTime": "20110112073054.000", "EndTime": "20110112073055.000", "PrimaryTag": "CC1", "Text": "SPORTS CENTRAL WILL FOLLOW    "}
+{"StartTime": "20110112073055.000", "EndTime": "20110112073057.000", "PrimaryTag": "CC1", "Text": "WITH THE HIGHLIGHTS SCORES      "}
+{"StartTime": "20110112073057.000", "EndTime": "20110112073058.000", "PrimaryTag": "CC1", "Text": "AND REACTION ON CBS2.           "}
+{"StartTime": "20110112073058.000", "EndTime": "20110112073059.000", "PrimaryTag": "CC1", "Text": "A FEW LOCAL NAMES ARE           "}
+{"StartTime": "20110112073059.000", "EndTime": "20110112073103.000", "PrimaryTag": "CC1", "Text": "HEADING TO THE NASH HOCKEY      "}
+{"StartTime": "20110112073103.000", "EndTime": "20110112073105.000", "PrimaryTag": "CC1", "Text": "LEAGUE KOPITAR WILL JOIN A      "}
+{"StartTime": "20110112073105.000", "EndTime": "20110112073109.000", "PrimaryTag": "CC1", "Text": "COUPLE OF DUCKS.                "}
+{"StartTime": "20110112073109.000", "EndTime": "20110112073111.000", "PrimaryTag": "CC1", "Text": "ALL-STAR WEEKEND IS IN          "}
+{"StartTime": "20110112073111.000", "EndTime": "20110112073116.000", "PrimaryTag": "CC1", "Text": "RALEIGH, NORTH CAROLINA END     "}
+{"StartTime": "20110112073116.000", "EndTime": "20110112073117.000", "PrimaryTag": "CC1", "Text": "OF THE MONTH.                   "}
+{"StartTime": "20110112073117.000", "EndTime": "20110112073118.000", "PrimaryTag": "CC1", "Text": "PAUL: SHOT IN THE FACE          "}
+{"StartTime": "20110112073118.000", "EndTime": "20110112073119.000", "PrimaryTag": "CC1", "Text": "DURING HIS THIRD WEEK ON THE    "}
+{"StartTime": "20110112073119.000", "EndTime": "20110112073120.000", "PrimaryTag": "CC1", "Text": "JOB.                            "}
+{"StartTime": "20110112073120.000", "EndTime": "20110112073121.000", "PrimaryTag": "CC1", "Text": "PAT: UP NEXT THE VERY LATEST    "}
+{"StartTime": "20110112073121.000", "EndTime": "20110112073124.000", "PrimaryTag": "CC1", "Text": "ON THE SHOOTING OF THE L.A.     "}
+{"StartTime": "20110112073124.000", "EndTime": "20110112073125.000", "PrimaryTag": "CC1", "Text": "COUNTY SHERIFF'S DEPUTY IN      "}
+{"StartTime": "20110112073125.000", "EndTime": "20110112073125.000", "PrimaryTag": "CC1", "Text": "TRAINING.                       "}
+{"StartTime": "20110112073125.000", "EndTime": "20110112073127.000", "PrimaryTag": "CC1", "Text": "CBS2 NEWS AT 11:00 WILL BE    "}
+{"StartTime": "20110112073127.000", "EndTime": "20110112073156.000", "PrimaryTag": "CC1", "Text": "RIGHT BACK.                     "}
+{"StartTime": "20110112073156.000", "EndTime": "20110112073400.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110112073156.000", "EndTime": "20110112073156.000", "PrimaryTag": "CC1", "Text": "                  FEE COURT     "}
+{"StartTime": "20110112073156.000", "EndTime": "20110112073157.000", "PrimaryTag": "CC1", "Text": "             IS NOW IN SESSION. "}
+{"StartTime": "20110112073157.000", "EndTime": "20110112073159.000", "PrimaryTag": "CC1", "Text": "               ? ?              "}
+{"StartTime": "20110112073159.000", "EndTime": "20110112073159.000", "PrimaryTag": "CC1", "Text": "THAT AIRLINE CHARGED ME         "}
+{"StartTime": "20110112073159.000", "EndTime": "20110112073202.000", "PrimaryTag": "CC1", "Text": "A 150-DOLLAR CHANGE FEE.        "}
+{"StartTime": "20110112073202.000", "EndTime": "20110112073202.000", "PrimaryTag": "CC1", "Text": " SOUTHWEST WOULD NEVER          "}
+{"StartTime": "20110112073202.000", "EndTime": "20110112073203.000", "PrimaryTag": "CC1", "Text": "       DO THAT.                 "}
+{"StartTime": "20110112073203.000", "EndTime": "20110112073203.000", "PrimaryTag": "CC1", "Text": "       YOUR HONOR, CHUMP CHANGE."}
+{"StartTime": "20110112073203.000", "EndTime": "20110112073206.000", "PrimaryTag": "CC1", "Text": "THAT IS NOT RIGHT.              "}
+{"StartTime": "20110112073206.000", "EndTime": "20110112073206.000", "PrimaryTag": "CC1", "Text": "I DON'T UNDERSTAND HOW          "}
+{"StartTime": "20110112073206.000", "EndTime": "20110112073206.000", "PrimaryTag": "CC1", "Text": "THREE CLICKS OF A MOUSE         "}
+{"StartTime": "20110112073206.000", "EndTime": "20110112073209.000", "PrimaryTag": "CC1", "Text": "CAN COST ME 150 DOLLARS.        "}
+{"StartTime": "20110112073209.000", "EndTime": "20110112073210.000", "PrimaryTag": "CC1", "Text": "              SIR.              "}
+{"StartTime": "20110112073210.000", "EndTime": "20110112073210.000", "PrimaryTag": "CC1", "Text": "               IT'S PERSONNEL   "}
+{"StartTime": "20110112073210.000", "EndTime": "20110112073211.000", "PrimaryTag": "CC1", "Text": "              ON THE TELEPHONE. "}
+{"StartTime": "20110112073211.000", "EndTime": "20110112073211.000", "PrimaryTag": "CC1", "Text": "         [ laughing ]           "}
+{"StartTime": "20110112073211.000", "EndTime": "20110112073213.000", "PrimaryTag": "CC1", "Text": "           IT'S COMPUTER TIME..."}
+{"StartTime": "20110112073213.000", "EndTime": "20110112073213.000", "PrimaryTag": "CC1", "Text": "  IT'S PERSONNEL ON THE, ON THE,"}
+{"StartTime": "20110112073213.000", "EndTime": "20110112073215.000", "PrimaryTag": "CC1", "Text": "                ON THE DESKS.   "}
+{"StartTime": "20110112073215.000", "EndTime": "20110112073215.000", "PrimaryTag": "CC1", "Text": "      WE CAN'T AFFORD TO DO THIS"}
+{"StartTime": "20110112073215.000", "EndTime": "20110112073217.000", "PrimaryTag": "CC1", "Text": "          FOR FREE, YOUR HONOR. "}
+{"StartTime": "20110112073217.000", "EndTime": "20110112073217.000", "PrimaryTag": "CC1", "Text": "   JURY?                        "}
+{"StartTime": "20110112073217.000", "EndTime": "20110112073217.000", "PrimaryTag": "CC1", "Text": "             GUILTY.            "}
+{"StartTime": "20110112073217.000", "EndTime": "20110112073220.000", "PrimaryTag": "CC1", "Text": "           [ cheering ]         "}
+{"StartTime": "20110112073220.000", "EndTime": "20110112073220.000", "PrimaryTag": "CC1", "Text": "        [ Male Announcer ]      "}
+{"StartTime": "20110112073220.000", "EndTime": "20110112073220.000", "PrimaryTag": "CC1", "Text": "      DON'T PAY A CHANGE FEE    "}
+{"StartTime": "20110112073220.000", "EndTime": "20110112073223.000", "PrimaryTag": "CC1", "Text": "   ON TOP OF A FARE DIFFERENCE. "}
+{"StartTime": "20110112073223.000", "EndTime": "20110112073223.000", "PrimaryTag": "CC1", "Text": " FLY SOUTHWEST, THE ONLY AIRLINE"}
+{"StartTime": "20110112073223.000", "EndTime": "20110112073326.000", "PrimaryTag": "CC1", "Text": "       WITH NO CHANGE FEES.     "}
+{"StartTime": "20110112073326.000", "EndTime": "20110112073327.000", "PrimaryTag": "CC1", "Text": "                    MUD?        "}
+{"StartTime": "20110112073327.000", "EndTime": "20110112073329.000", "PrimaryTag": "CC1", "Text": "     YEAH, DIRT?                "}
+{"StartTime": "20110112073329.000", "EndTime": "20110112073329.000", "PrimaryTag": "CC1", "Text": "      DO YOU THINK THE TWO OF US"}
+{"StartTime": "20110112073329.000", "EndTime": "20110112073332.000", "PrimaryTag": "CC1", "Text": "        WILL EVER FIND THE ONE? "}
+{"StartTime": "20110112073332.000", "EndTime": "20110112073332.000", "PrimaryTag": "CC1", "Text": "WELL, WE'VE BEEN LEFT BEHIND    "}
+{"StartTime": "20110112073332.000", "EndTime": "20110112073335.000", "PrimaryTag": "CC1", "Text": "BY SO MANY MOPS AND BROOMS...   "}
+{"StartTime": "20110112073335.000", "EndTime": "20110112073336.000", "PrimaryTag": "CC1", "Text": "            AW, MAN!            "}
+{"StartTime": "20110112073336.000", "EndTime": "20110112073336.000", "PrimaryTag": "CC1", "Text": "...BUT WE HAVE GOT...           "}
+{"StartTime": "20110112073336.000", "EndTime": "20110112073339.000", "PrimaryTag": "CC1", "Text": "                         SEE YA!"}
+{"StartTime": "20110112073339.000", "EndTime": "20110112073340.000", "PrimaryTag": "CC1", "Text": "   ...EACH OTHER.               "}
+{"StartTime": "20110112073340.000", "EndTime": "20110112073341.000", "PrimaryTag": "CC1", "Text": "      ? WHAT ABOUT LOVE?! ?     "}
+{"StartTime": "20110112073341.000", "EndTime": "20110112073341.000", "PrimaryTag": "CC1", "Text": "        [ Male Announcer ]      "}
+{"StartTime": "20110112073341.000", "EndTime": "20110112073343.000", "PrimaryTag": "CC1", "Text": "      SWIFFER ATTRACTS DIRT.    "}
+{"StartTime": "20110112073343.000", "EndTime": "20110112073343.000", "PrimaryTag": "CC1", "Text": "    THE 2 IN 1 SWIFFER SWEEPER  "}
+{"StartTime": "20110112073343.000", "EndTime": "20110112073347.000", "PrimaryTag": "CC1", "Text": "  USES ELECTROSTATIC DRY CLOTHS "}
+{"StartTime": "20110112073347.000", "EndTime": "20110112073347.000", "PrimaryTag": "CC1", "Text": "    TO TRAP AND LOCK MORE DIRT  "}
+{"StartTime": "20110112073347.000", "EndTime": "20110112073348.000", "PrimaryTag": "CC1", "Text": "           THAN A BROOM         "}
+{"StartTime": "20110112073348.000", "EndTime": "20110112073348.000", "PrimaryTag": "CC1", "Text": "     AND USES DIRT DISSOLVING   "}
+{"StartTime": "20110112073348.000", "EndTime": "20110112073350.000", "PrimaryTag": "CC1", "Text": "            WET CLOTHS          "}
+{"StartTime": "20110112073350.000", "EndTime": "20110112073351.000", "PrimaryTag": "CC1", "Text": "   TO CLEAN BETTER THAN A MOP.  "}
+{"StartTime": "20110112073351.000", "EndTime": "20110112073353.000", "PrimaryTag": "CC1", "Text": " YOU'RE QUITE THE PICKUP ARTIST!"}
+{"StartTime": "20110112073353.000", "EndTime": "20110112073353.000", "PrimaryTag": "CC1", "Text": "        [ Male Announcer ]      "}
+{"StartTime": "20110112073353.000", "EndTime": "20110112073354.000", "PrimaryTag": "CC1", "Text": "      2 IN 1 SWIFFER SWEEPER    "}
+{"StartTime": "20110112073354.000", "EndTime": "20110112073354.000", "PrimaryTag": "CC1", "Text": "          GIVES CLEANING        "}
+{"StartTime": "20110112073354.000", "EndTime": "20110112073400.000", "PrimaryTag": "CC1", "Text": "       A WHOLE NEW MEANING.     "}
+{"StartTime": "20110112073400.000", "EndTime": "20110112073402.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110112073400.000", "EndTime": "20110112073402.000", "PrimaryTag": "CC1", "Text": "PAUL: UPDATING OUR BREAKING     "}
+{"StartTime": "20110112073402.000", "EndTime": "20110112073403.000", "PrimaryTag": "CC1", "Text": "NEWS AN L.A. COUNTY             "}
+{"StartTime": "20110112073403.000", "EndTime": "20110112073404.000", "PrimaryTag": "CC1", "Text": "SHERIFF'S DEPUTY WAS            "}
+{"StartTime": "20110112073404.000", "EndTime": "20110112073406.000", "PrimaryTag": "CC1", "Text": "CRITICALLY WOUNDED IN A         "}
+{"StartTime": "20110112073406.000", "EndTime": "20110112073407.000", "PrimaryTag": "CC1", "Text": "DEADLY SHOOTOUT AFTER           "}
+{"StartTime": "20110112073407.000", "EndTime": "20110112073408.000", "PrimaryTag": "CC1", "Text": "STOPPING A GANG MEMBER IN       "}
+{"StartTime": "20110112073408.000", "EndTime": "20110112073409.000", "PrimaryTag": "CC1", "Text": "CITY TERRACE.                   "}
+{"StartTime": "20110112073409.000", "EndTime": "20110112073411.000", "PrimaryTag": "CC1", "Text": "PAT: 27-YEAR-OLD DEPUTY         "}
+{"StartTime": "20110112073411.000", "EndTime": "20110112073412.000", "PrimaryTag": "CC1", "Text": "MOHAMMED AHMED ON PATROL FOR    "}
+{"StartTime": "20110112073412.000", "EndTime": "20110112073414.000", "PrimaryTag": "CC1", "Text": "JUST THREE WEEKS WAS SHOT IN    "}
+{"StartTime": "20110112073414.000", "EndTime": "20110112073416.000", "PrimaryTag": "CC1", "Text": "THE FACE BUT HE MAY LOSE AN     "}
+{"StartTime": "20110112073416.000", "EndTime": "20110112073416.000", "PrimaryTag": "CC1", "Text": "EYE.                            "}
+{"StartTime": "20110112073416.000", "EndTime": "20110112073418.000", "PrimaryTag": "CC1", "Text": "THE GANG MEMBER WAS SHOT        "}
+{"StartTime": "20110112073418.000", "EndTime": "20110112073419.000", "PrimaryTag": "CC1", "Text": "DEAD IN THE STRUGGLE THAT       "}
+{"StartTime": "20110112073419.000", "EndTime": "20110112073420.000", "PrimaryTag": "CC1", "Text": "FOLLOWED MANY WE WILL HAVE      "}
+{"StartTime": "20110112073420.000", "EndTime": "20110112073422.000", "PrimaryTag": "CC1", "Text": "THE LATEST ON THE DEPUTY        "}
+{"StartTime": "20110112073422.000", "EndTime": "20110112073422.000", "PrimaryTag": "CC1", "Text": "SHOOTING AND THE                "}
+{"StartTime": "20110112073422.000", "EndTime": "20110112073423.000", "PrimaryTag": "CC1", "Text": "INVESTIGATION ON \"CBS2 NEWS\"    "}
+{"StartTime": "20110112073423.000", "EndTime": "20110112073427.000", "PrimaryTag": "CC1", "Text": "IN THE MORNING FROM             "}
+{"StartTime": "20110112073427.000", "EndTime": "20110112073429.000", "PrimaryTag": "CC1", "Text": "4:30-7:00 A.M. AND OF COURSE    "}
+{"StartTime": "20110112073429.000", "EndTime": "20110112073431.000", "PrimaryTag": "CC1", "Text": "WE WILL HAVE MORE TOMORROW      "}
+{"StartTime": "20110112073431.000", "EndTime": "20110112073431.000", "PrimaryTag": "CC1", "Text": "LINE.                           "}
+{"StartTime": "20110112073431.000", "EndTime": "20110112073433.000", "PrimaryTag": "CC1", "Text": "PAUL: AND WE ARE ALWAYS         "}
+{"StartTime": "20110112073433.000", "EndTime": "20110112073437.000", "PrimaryTag": "CC1", "Text": "ONLINE ON WWW.CBSLA.COM.        "}
+{"StartTime": "20110112073437.000", "EndTime": "20110112073438.000", "PrimaryTag": "CC1", "Text": "THANKS FOR WATCHING \"CBS2       "}
+{"StartTime": "20110112073438.000", "EndTime": "20110112073438.000", "PrimaryTag": "CC1", "Text": "NEWS\".                          "}
+{"StartTime": "20110112073438.000", "EndTime": "20110112073439.000", "PrimaryTag": "CC1", "Text": "PAT: HAVE A GOOD NIGHT          "}
+{"StartTime": "20110112073439.000", "EndTime": "20110112073440.000", "PrimaryTag": "CC1", "Text": "EVERYONE.                       "}
+{"StartTime": "20110112073440.000", "EndTime": "20110112073441.000", "PrimaryTag": "CC1", "Text": "[THE CAPTIONING ON THIS         "}
+{"StartTime": "20110112073441.000", "EndTime": "20110112073441.000", "PrimaryTag": "CC1", "Text": "PROGRAM IS PROVIDED AS          "}
+{"StartTime": "20110112073441.000", "EndTime": "20110112073442.000", "PrimaryTag": "CC1", "Text": "AN INDEPENDENT SERVICE OF       "}
+{"StartTime": "20110112073442.000", "EndTime": "20110112073442.000", "PrimaryTag": "CC1", "Text": "MEDIA CAPTIONING SERVICES,      "}
+{"StartTime": "20110112073442.000", "EndTime": "20110112073443.000", "PrimaryTag": "CC1", "Text": "WHICH IS SOLELY RESPONSIBLE     "}
+{"StartTime": "20110112073443.000", "EndTime": "20110112073443.000", "PrimaryTag": "CC1", "Text": "FOR THE ACCURATE AND            "}
+{"StartTime": "20110112073443.000", "EndTime": "20110112073444.000", "PrimaryTag": "CC1", "Text": "COMPLETE TRANSCRIPTION          "}
+{"StartTime": "20110112073444.000", "EndTime": "20110112073445.000", "PrimaryTag": "CC1", "Text": "OF PROGRAM CONTENT.]            "}
+{"End": "20110112073445", "FileName": "2011-01-12_0700_US_KCBS_CBS_2_News_at_11PM"}

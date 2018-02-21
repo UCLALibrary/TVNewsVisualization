@@ -1,0 +1,998 @@
+{"Top": "20101216073501", "Filename": "2010-12-16_0735_US_KABC_Nightline"}
+{"Collection": "Communication Studies Archive, UCLA"}
+{"UID": "fdf8827e-08e6-11e0-915b-00e0815fe92e"}
+{"Duration": "0:30:55.01"}
+{"Video_Picture_Size": "640x480", "Original_Picture_Size": ""}
+{"Comment": ""}
+{"Language": "ENG"}
+{"Local_Broadcast_Time": "2010-12-15 23:35 America/Los_Angeles"}
+{"Annotation_Tag": "SEG_01", "Creation_Time": "2014-06-18 18:10:32", "Source_Program": "Commercial Detection", "Source_Person": "Weixin Li"}
+{"StartTime": "20101216073511.000", "EndTime": "20101216073536.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101216073511.000", "EndTime": "20101216073521.000", "PrimaryTag": "CCO", "Text": ">>> TONIGHT ON \"NIGHTLINE,\" "}
+{"StartTime": "20101216073521.000", "EndTime": "20101216073524.333", "PrimaryTag": "CCO", "Text": "SCHOOL BOARD SHOOTOUT."}
+{"StartTime": "20101216073524.333", "EndTime": "20101216073527.667", "PrimaryTag": "CCO", "Text": "NOW WE CAN TELL YOU THE INSIDE "}
+{"StartTime": "20101216073527.667", "EndTime": "20101216073531.000", "PrimaryTag": "CCO", "Text": "STORY OF THE GUNMAN, THE HEROINE"}
+{"StartTime": "20101216073531.000", "EndTime": "20101216073533.500", "PrimaryTag": "CCO", "Text": "AND THE HIGH STAKES, HIGH DRAMA "}
+{"StartTime": "20101216073533.500", "EndTime": "20101216073536.000", "PrimaryTag": "CCO", "Text": "STANDOFF ALL CAPTURED ON CAMERA."}
+{"StartTime": "20101216073536.000", "EndTime": "20101216073551.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101216073536.000", "EndTime": "20101216073538.500", "PrimaryTag": "CCO", "Text": ">>> PLUS, DIET ON ICE."}
+{"StartTime": "20101216073538.500", "EndTime": "20101216073541.000", "PrimaryTag": "CCO", "Text": "WITH FRIGID TEMPERATURES ACROSS "}
+{"StartTime": "20101216073541.000", "EndTime": "20101216073542.667", "PrimaryTag": "CCO", "Text": "THE NATION, IT MIGHT BE GOOD "}
+{"StartTime": "20101216073542.667", "EndTime": "20101216073544.333", "PrimaryTag": "CCO", "Text": "NEWS."}
+{"StartTime": "20101216073544.333", "EndTime": "20101216073546.000", "PrimaryTag": "CCO", "Text": "A WEIGHT LOSS FAD THAT SAYS "}
+{"StartTime": "20101216073546.000", "EndTime": "20101216073547.667", "PrimaryTag": "CCO", "Text": "GETTING FREEZING COLD IS A GOOD "}
+{"StartTime": "20101216073547.667", "EndTime": "20101216073549.333", "PrimaryTag": "CCO", "Text": "WAY TO SHED POUNDS."}
+{"StartTime": "20101216073549.333", "EndTime": "20101216073551.000", "PrimaryTag": "CCO", "Text": "BUT DOES IT REALLY WORK?"}
+{"StartTime": "20101216073551.000", "EndTime": "20101216074156.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101216073551.000", "EndTime": "20101216073553.000", "PrimaryTag": "CCO", "Text": ">>> AND, FUNNY GIRL."}
+{"StartTime": "20101216073553.000", "EndTime": "20101216073555.000", "PrimaryTag": "CCO", "Text": "THE LEGENDARY BARBRA STREISAND "}
+{"StartTime": "20101216073555.000", "EndTime": "20101216073557.000", "PrimaryTag": "CCO", "Text": "SITS DOWN WITH ABC'S ROBIN "}
+{"StartTime": "20101216073557.000", "EndTime": "20101216073559.000", "PrimaryTag": "CCO", "Text": "ROBERTS FOR TONIGHT'S "}
+{"StartTime": "20101216073559.000", "EndTime": "20101216073601.000", "PrimaryTag": "CCO", "Text": "NIGHTLINE INTERVIEW."}
+{"StartTime": "20101216073601.000", "EndTime": "20101216073603.000", "PrimaryTag": "CCO", "Text": ">> Announcer: FROM THE GLOBAL "}
+{"StartTime": "20101216073603.000", "EndTime": "20101216073605.000", "PrimaryTag": "CCO", "Text": "RESOURCES OF ABC NEWS, WITH "}
+{"StartTime": "20101216073605.000", "EndTime": "20101216073607.000", "PrimaryTag": "CCO", "Text": "TERRY MORAN, CYNTHIA McFADDEN "}
+{"StartTime": "20101216073607.000", "EndTime": "20101216073609.000", "PrimaryTag": "CCO", "Text": "AND BILL WEIR IN NEW YORK CITY, "}
+{"StartTime": "20101216073609.000", "EndTime": "20101216073611.000", "PrimaryTag": "CCO", "Text": "THIS IS \"NIGHTLINE,\" DECEMBER "}
+{"StartTime": "20101216073611.000", "EndTime": "20101216073613.000", "PrimaryTag": "CCO", "Text": "15th, 2010."}
+{"StartTime": "20101216073613.000", "EndTime": "20101216073615.000", "PrimaryTag": "CCO", "Text": ">> GOOD EVENING."}
+{"StartTime": "20101216073615.000", "EndTime": "20101216073617.000", "PrimaryTag": "CCO", "Text": "WE BEGIN TONIGHT WITH CRIME AND "}
+{"StartTime": "20101216073617.000", "EndTime": "20101216073619.000", "PrimaryTag": "CCO", "Text": "SPONTANEOUS HEROISM."}
+{"StartTime": "20101216073619.000", "EndTime": "20101216073621.000", "PrimaryTag": "CCO", "Text": "WHEN CLAY DUKE LEVELED HIS "}
+{"StartTime": "20101216073621.000", "EndTime": "20101216073623.500", "PrimaryTag": "CCO", "Text": "HANDGUN DIRECTLY AT THE PANAMA "}
+{"StartTime": "20101216073623.500", "EndTime": "20101216073626.000", "PrimaryTag": "CCO", "Text": "CITY, FLORIDA, SCHOOL BOARD "}
+{"StartTime": "20101216073626.000", "EndTime": "20101216073628.500", "PrimaryTag": "CCO", "Text": "YESTERDAY, HE ALLOWED GINGER "}
+{"StartTime": "20101216073628.500", "EndTime": "20101216073631.000", "PrimaryTag": "CCO", "Text": "LITTLETON TO LEAVE THE ROOM."}
+{"StartTime": "20101216073631.000", "EndTime": "20101216073632.429", "PrimaryTag": "CCO", "Text": "BUT SHE DECIDED TO COME BACK, "}
+{"StartTime": "20101216073632.429", "EndTime": "20101216073633.857", "PrimaryTag": "CCO", "Text": "CREEPING UP BEHIND THE ARMED MAN"}
+{"StartTime": "20101216073633.857", "EndTime": "20101216073635.286", "PrimaryTag": "CCO", "Text": "WITH HER PURSE HELD HIGH, POISED"}
+{"StartTime": "20101216073635.286", "EndTime": "20101216073636.714", "PrimaryTag": "CCO", "Text": "TO STRIKE."}
+{"StartTime": "20101216073636.714", "EndTime": "20101216073638.143", "PrimaryTag": "CCO", "Text": "WELL, TONIGHT, SHE TELLS US WHAT"}
+{"StartTime": "20101216073638.143", "EndTime": "20101216073639.571", "PrimaryTag": "CCO", "Text": "WAS GOING THROUGH HER HEAD."}
+{"StartTime": "20101216073639.571", "EndTime": "20101216073641.000", "PrimaryTag": "CCO", "Text": "HERE'S RYAN OWENS WITH OUR "}
+{"StartTime": "20101216073641.000", "EndTime": "20101216073642.429", "PrimaryTag": "CCO", "Text": "REPORT."}
+{"StartTime": "20101216073642.429", "EndTime": "20101216073643.857", "PrimaryTag": "CCO", "Text": ">> Reporter: THIS WAS SUPPOSED "}
+{"StartTime": "20101216073643.857", "EndTime": "20101216073645.286", "PrimaryTag": "CCO", "Text": "TO BE THE EXCITING PART OF THE "}
+{"StartTime": "20101216073645.286", "EndTime": "20101216073646.714", "PrimaryTag": "CCO", "Text": "SCHOOL BOARD MEETING."}
+{"StartTime": "20101216073646.714", "EndTime": "20101216073648.143", "PrimaryTag": "CCO", "Text": "AWARDS BEING HANDED OUT TO "}
+{"StartTime": "20101216073648.143", "EndTime": "20101216073649.571", "PrimaryTag": "CCO", "Text": "TALENTED STUDENTS."}
+{"StartTime": "20101216073649.571", "EndTime": "20101216073651.000", "PrimaryTag": "CCO", "Text": "THOSE KIDS LEFT THE MEETING AND "}
+{"StartTime": "20101216073651.000", "EndTime": "20101216073653.500", "PrimaryTag": "CCO", "Text": "NEXT ON THE AGENDA, UPDATING "}
+{"StartTime": "20101216073653.500", "EndTime": "20101216073656.000", "PrimaryTag": "CCO", "Text": "CLASSROOM TECHNOLOGY AND "}
+{"StartTime": "20101216073656.000", "EndTime": "20101216073658.500", "PrimaryTag": "CCO", "Text": "PREVENTING HEAD LICE."}
+{"StartTime": "20101216073658.500", "EndTime": "20101216073701.000", "PrimaryTag": "CCO", "Text": "THE MONOTONY OF THE MEETING WAS "}
+{"StartTime": "20101216073701.000", "EndTime": "20101216073703.000", "PrimaryTag": "CCO", "Text": "SHATTERED WHEN THIS MAN, "}
+{"StartTime": "20101216073703.000", "EndTime": "20101216073705.000", "PrimaryTag": "CCO", "Text": "56-YEAR-OLD CLAY DUKE, STEAD UP "}
+{"StartTime": "20101216073705.000", "EndTime": "20101216073707.000", "PrimaryTag": "CCO", "Text": "WITH A SIMPLE DECLARATION."}
+{"StartTime": "20101216073707.000", "EndTime": "20101216073709.000", "PrimaryTag": "CCO", "Text": ">> I HAVE A MOTION."}
+{"StartTime": "20101216073709.000", "EndTime": "20101216073711.000", "PrimaryTag": "CCO", "Text": ">> Reporter: WITH THAT, HE "}
+{"StartTime": "20101216073711.000", "EndTime": "20101216073713.500", "PrimaryTag": "CCO", "Text": "WALKED TO THE WALL AND SPRAY "}
+{"StartTime": "20101216073713.500", "EndTime": "20101216073716.000", "PrimaryTag": "CCO", "Text": "PAINTED A RED \"V.\""}
+{"StartTime": "20101216073716.000", "EndTime": "20101216073718.500", "PrimaryTag": "CCO", "Text": "THE SYMBOL FOR VEDVENDETTA."}
+{"StartTime": "20101216073718.500", "EndTime": "20101216073721.000", "PrimaryTag": "CCO", "Text": "HIS WIFE WAS FIRED FROM HER JOB "}
+{"StartTime": "20101216073721.000", "EndTime": "20101216073723.000", "PrimaryTag": "CCO", "Text": "AS A SPECIAL EDUCATION TEACHER."}
+{"StartTime": "20101216073723.000", "EndTime": "20101216073725.000", "PrimaryTag": "CCO", "Text": "AND POLICE BELIEVE THE EX-CON "}
+{"StartTime": "20101216073725.000", "EndTime": "20101216073727.000", "PrimaryTag": "CCO", "Text": "CAME TO THE SCHOOL BOARD TO GET "}
+{"StartTime": "20101216073727.000", "EndTime": "20101216073729.000", "PrimaryTag": "CCO", "Text": "REVENGE."}
+{"StartTime": "20101216073729.000", "EndTime": "20101216073731.000", "PrimaryTag": "CCO", "Text": ">> EVERYBODY IN THIS ROOM, "}
+{"StartTime": "20101216073731.000", "EndTime": "20101216073732.667", "PrimaryTag": "CCO", "Text": "EXCEPT THE [ BLEEP ] BEHIND THE "}
+{"StartTime": "20101216073732.667", "EndTime": "20101216073734.333", "PrimaryTag": "CCO", "Text": "COUNTER, HIT THE ROAD."}
+{"StartTime": "20101216073734.333", "EndTime": "20101216073736.000", "PrimaryTag": "CCO", "Text": ">> Reporter: MOST PEOPLE TOOK "}
+{"StartTime": "20101216073736.000", "EndTime": "20101216073737.667", "PrimaryTag": "CCO", "Text": "HIS ADVICE AND LEFT, INCLUDING "}
+{"StartTime": "20101216073737.667", "EndTime": "20101216073739.333", "PrimaryTag": "CCO", "Text": "THE BOARD'S ONLY FEMALE MEMBER, "}
+{"StartTime": "20101216073739.333", "EndTime": "20101216073741.000", "PrimaryTag": "CCO", "Text": "GINGER LITTLETON."}
+{"StartTime": "20101216073741.000", "EndTime": "20101216073742.667", "PrimaryTag": "CCO", "Text": "BUT SHE COULDN'T STAY GONE FOR "}
+{"StartTime": "20101216073742.667", "EndTime": "20101216073744.333", "PrimaryTag": "CCO", "Text": "LONG."}
+{"StartTime": "20101216073744.333", "EndTime": "20101216073746.000", "PrimaryTag": "CCO", "Text": ">> THEY WERE LINED UP, DUCKS IN "}
+{"StartTime": "20101216073746.000", "EndTime": "20101216073747.667", "PrimaryTag": "CCO", "Text": "A POND, FISH IN A BARREL, "}
+{"StartTime": "20101216073747.667", "EndTime": "20101216073749.333", "PrimaryTag": "CCO", "Text": "WHATEVER YOU WANT TO USE."}
+{"StartTime": "20101216073749.333", "EndTime": "20101216073751.000", "PrimaryTag": "CCO", "Text": "THEY WERE SITTING THERE, HE'S A "}
+{"StartTime": "20101216073751.000", "EndTime": "20101216073752.429", "PrimaryTag": "CCO", "Text": "TALL MAN, HE WAS STANDING THERE "}
+{"StartTime": "20101216073752.429", "EndTime": "20101216073753.857", "PrimaryTag": "CCO", "Text": "OVER THEM AND IT WAS A MATTER "}
+{"StartTime": "20101216073753.857", "EndTime": "20101216073755.286", "PrimaryTag": "CCO", "Text": "OF, YOU KNOW, ONE, TWO, THREE, "}
+{"StartTime": "20101216073755.286", "EndTime": "20101216073756.714", "PrimaryTag": "CCO", "Text": "FOUR, FIVE AND THEY WERE GONE."}
+{"StartTime": "20101216073756.714", "EndTime": "20101216073758.143", "PrimaryTag": "CCO", "Text": "I MEAN, IT WAS POINT BLANK."}
+{"StartTime": "20101216073758.143", "EndTime": "20101216073759.571", "PrimaryTag": "CCO", "Text": ">> Reporter: SO, GINGER SNUCK "}
+{"StartTime": "20101216073759.571", "EndTime": "20101216073801.000", "PrimaryTag": "CCO", "Text": "BACK INTO THE ROOM, AND THIS "}
+{"StartTime": "20101216073801.000", "EndTime": "20101216073804.333", "PrimaryTag": "CCO", "Text": "TIME, SHE, TOO, WAS ARMED."}
+{"StartTime": "20101216073804.333", "EndTime": "20101216073807.667", "PrimaryTag": "CCO", "Text": "WITH HER PURSE."}
+{"StartTime": "20101216073807.667", "EndTime": "20101216073811.000", "PrimaryTag": "CCO", "Text": "YOU'RE HOME FREE, YOU'RE SAFE."}
+{"StartTime": "20101216073811.000", "EndTime": "20101216073812.429", "PrimaryTag": "CCO", "Text": "WHY MAKE THE DECISION TO TURN "}
+{"StartTime": "20101216073812.429", "EndTime": "20101216073813.857", "PrimaryTag": "CCO", "Text": "BACK AROUND?"}
+{"StartTime": "20101216073813.857", "EndTime": "20101216073815.286", "PrimaryTag": "CCO", "Text": ">> ONCE I GO, THERE'S NOBODY IN "}
+{"StartTime": "20101216073815.286", "EndTime": "20101216073816.714", "PrimaryTag": "CCO", "Text": "THERE WATCHING THESE GUYS' "}
+{"StartTime": "20101216073816.714", "EndTime": "20101216073818.143", "PrimaryTag": "CCO", "Text": "BACKS."}
+{"StartTime": "20101216073818.143", "EndTime": "20101216073819.571", "PrimaryTag": "CCO", "Text": "THERE WAS NOBODY."}
+{"StartTime": "20101216073819.571", "EndTime": "20101216073821.000", "PrimaryTag": "CCO", "Text": "AND, SO I TURNED AROUND AT THAT "}
+{"StartTime": "20101216073821.000", "EndTime": "20101216073822.667", "PrimaryTag": "CCO", "Text": "POINT AND SAW THAT HE HAD COME "}
+{"StartTime": "20101216073822.667", "EndTime": "20101216073824.333", "PrimaryTag": "CCO", "Text": "UP ONTO THE AREA, AND HIS BACK "}
+{"StartTime": "20101216073824.333", "EndTime": "20101216073826.000", "PrimaryTag": "CCO", "Text": "WAS FACING ME."}
+{"StartTime": "20101216073826.000", "EndTime": "20101216073827.667", "PrimaryTag": "CCO", "Text": "AND I THOUGHT, THERE MIGHT BE "}
+{"StartTime": "20101216073827.667", "EndTime": "20101216073829.333", "PrimaryTag": "CCO", "Text": "SOMETHING I COULD DO TO BUY SOME"}
+{"StartTime": "20101216073829.333", "EndTime": "20101216073831.000", "PrimaryTag": "CCO", "Text": "TIME FOR OUR GUY TO GET THERE."}
+{"StartTime": "20101216073831.000", "EndTime": "20101216073833.000", "PrimaryTag": "CCO", "Text": ">> Reporter: SO, WHAT DID YOU "}
+{"StartTime": "20101216073833.000", "EndTime": "20101216073835.000", "PrimaryTag": "CCO", "Text": "DO?"}
+{"StartTime": "20101216073835.000", "EndTime": "20101216073837.000", "PrimaryTag": "CCO", "Text": ">> WELL, I TOOK MY HANDY DANDY "}
+{"StartTime": "20101216073837.000", "EndTime": "20101216073839.000", "PrimaryTag": "CCO", "Text": "PURSE, AND IT WAS RELATIVELY "}
+{"StartTime": "20101216073839.000", "EndTime": "20101216073841.000", "PrimaryTag": "CCO", "Text": "WELL-STOCKED, AND, SO, I WALKED "}
+{"StartTime": "20101216073841.000", "EndTime": "20101216073842.667", "PrimaryTag": "CCO", "Text": "UP BEHIND HIM AND IN MY BEST "}
+{"StartTime": "20101216073842.667", "EndTime": "20101216073844.333", "PrimaryTag": "CCO", "Text": "OLYMPIC-STYLE, WHACKED HIM ON "}
+{"StartTime": "20101216073844.333", "EndTime": "20101216073846.000", "PrimaryTag": "CCO", "Text": "THE HAND, TRIED TO GET HIM TO "}
+{"StartTime": "20101216073846.000", "EndTime": "20101216073847.667", "PrimaryTag": "CCO", "Text": "DROP THE GUN."}
+{"StartTime": "20101216073847.667", "EndTime": "20101216073849.333", "PrimaryTag": "CCO", "Text": ">> Reporter: IT DIDN'T WORK."}
+{"StartTime": "20101216073849.333", "EndTime": "20101216073851.000", "PrimaryTag": "CCO", "Text": "SO, AT THAT MOMENT, WERE YOU "}
+{"StartTime": "20101216073851.000", "EndTime": "20101216073852.429", "PrimaryTag": "CCO", "Text": "THINKING, BOY, THIS WAS A BAD "}
+{"StartTime": "20101216073852.429", "EndTime": "20101216073853.857", "PrimaryTag": "CCO", "Text": "DECISION."}
+{"StartTime": "20101216073853.857", "EndTime": "20101216073855.286", "PrimaryTag": "CCO", "Text": ">> I KNEW THAT MY PLAN A HAD "}
+{"StartTime": "20101216073855.286", "EndTime": "20101216073856.714", "PrimaryTag": "CCO", "Text": "FAIL AND I DIDN'T HAVE A PLAN B."}
+{"StartTime": "20101216073856.714", "EndTime": "20101216073858.143", "PrimaryTag": "CCO", "Text": ">> Reporter: DUKE LET HER LEAVE "}
+{"StartTime": "20101216073858.143", "EndTime": "20101216073859.571", "PrimaryTag": "CCO", "Text": "AGAIN AND TURNED HIS ATTENTION "}
+{"StartTime": "20101216073859.571", "EndTime": "20101216073901.000", "PrimaryTag": "CCO", "Text": "BACK TO THE MEN OF THE SCHOOL "}
+{"StartTime": "20101216073901.000", "EndTime": "20101216073902.667", "PrimaryTag": "CCO", "Text": "BOARD."}
+{"StartTime": "20101216073902.667", "EndTime": "20101216073904.333", "PrimaryTag": "CCO", "Text": "MAINLY, THE SUPERINTENDENT, BILL"}
+{"StartTime": "20101216073904.333", "EndTime": "20101216073906.000", "PrimaryTag": "CCO", "Text": "HUSFELT, WHO SOMEHOW HAD THE "}
+{"StartTime": "20101216073906.000", "EndTime": "20101216073907.667", "PrimaryTag": "CCO", "Text": "COMPOSURE TO REASON WITH THE "}
+{"StartTime": "20101216073907.667", "EndTime": "20101216073909.333", "PrimaryTag": "CCO", "Text": "GUNMAN."}
+{"StartTime": "20101216073909.333", "EndTime": "20101216073911.000", "PrimaryTag": "CCO", "Text": ">> I DON'T WANT ANYBODY TO -- "}
+{"StartTime": "20101216073911.000", "EndTime": "20101216073912.111", "PrimaryTag": "CCO", "Text": "LISTEN, JUST LISTEN TO ME FOR A "}
+{"StartTime": "20101216073912.111", "EndTime": "20101216073913.222", "PrimaryTag": "CCO", "Text": "MINUTE."}
+{"StartTime": "20101216073913.222", "EndTime": "20101216073914.333", "PrimaryTag": "CCO", "Text": "I DON'T WANT ANYBODY TO GET HURT"}
+{"StartTime": "20101216073914.333", "EndTime": "20101216073915.444", "PrimaryTag": "CCO", "Text": "AND I'VE GOT A FEELING THAT WHAT"}
+{"StartTime": "20101216073915.444", "EndTime": "20101216073916.556", "PrimaryTag": "CCO", "Text": "YOU WANT IS THE THE COPS TO COME"}
+{"StartTime": "20101216073916.556", "EndTime": "20101216073917.667", "PrimaryTag": "CCO", "Text": "IN AND KILL YOU BECAUSE YOU'RE "}
+{"StartTime": "20101216073917.667", "EndTime": "20101216073918.778", "PrimaryTag": "CCO", "Text": "MAD."}
+{"StartTime": "20101216073918.778", "EndTime": "20101216073919.889", "PrimaryTag": "CCO", "Text": "BECAUSE -- "}
+{"StartTime": "20101216073919.889", "EndTime": "20101216073921.000", "PrimaryTag": "CCO", "Text": ">> I'M GOING TO DIE TODAY."}
+{"StartTime": "20101216073921.000", "EndTime": "20101216073923.000", "PrimaryTag": "CCO", "Text": ">> BUT WHY?"}
+{"StartTime": "20101216073923.000", "EndTime": "20101216073925.000", "PrimaryTag": "CCO", "Text": "THIS IS -- THIS ISN'T WORTH IT."}
+{"StartTime": "20101216073925.000", "EndTime": "20101216073927.000", "PrimaryTag": "CCO", "Text": "THIS IS A PROBLEM."}
+{"StartTime": "20101216073927.000", "EndTime": "20101216073929.000", "PrimaryTag": "CCO", "Text": "PLEASE DON'T."}
+{"StartTime": "20101216073929.000", "EndTime": "20101216073931.000", "PrimaryTag": "CCO", "Text": "PLEASE DON'T, PLEASE."}
+{"StartTime": "20101216073931.000", "EndTime": "20101216073933.000", "PrimaryTag": "CCO", "Text": ">> Reporter: POLICE SAY DUKE "}
+{"StartTime": "20101216073933.000", "EndTime": "20101216073935.000", "PrimaryTag": "CCO", "Text": "FIRED AT LEAST 14 ROUNDS, AND "}
+{"StartTime": "20101216073935.000", "EndTime": "20101216073937.000", "PrimaryTag": "CCO", "Text": "EVERY SINGLE ONE OF THEM MISSED."}
+{"StartTime": "20101216073937.000", "EndTime": "20101216073939.000", "PrimaryTag": "CCO", "Text": "ONE BULLET HIT THE DESK RIGHT IN"}
+{"StartTime": "20101216073939.000", "EndTime": "20101216073941.000", "PrimaryTag": "CCO", "Text": "FRONT OF THE SUPER INTEN DANCE "}
+{"StartTime": "20101216073941.000", "EndTime": "20101216073943.500", "PrimaryTag": "CCO", "Text": "AND STUCK IN HIS NOTEBOOK."}
+{"StartTime": "20101216073943.500", "EndTime": "20101216073946.000", "PrimaryTag": "CCO", "Text": ">> I FOUND OUT TODAY THAT THE "}
+{"StartTime": "20101216073946.000", "EndTime": "20101216073948.500", "PrimaryTag": "CCO", "Text": "BULLET LODGED IN MY BOARD BOOK."}
+{"StartTime": "20101216073948.500", "EndTime": "20101216073951.000", "PrimaryTag": "CCO", "Text": "IT'S ABOUT THAT THICK."}
+{"StartTime": "20101216073951.000", "EndTime": "20101216073952.429", "PrimaryTag": "CCO", "Text": "AND GOOD LORD PUT IT THERE TO "}
+{"StartTime": "20101216073952.429", "EndTime": "20101216073953.857", "PrimaryTag": "CCO", "Text": "SAVE MY LIFE."}
+{"StartTime": "20101216073953.857", "EndTime": "20101216073955.286", "PrimaryTag": "CCO", "Text": ">> Reporter: ANN HUSFELT "}
+{"StartTime": "20101216073955.286", "EndTime": "20101216073956.714", "PrimaryTag": "CCO", "Text": "BELIEVES THE QUICK-THINKING OF "}
+{"StartTime": "20101216073956.714", "EndTime": "20101216073958.143", "PrimaryTag": "CCO", "Text": "SCHOOL SECURITY OFFICER MIKE "}
+{"StartTime": "20101216073958.143", "EndTime": "20101216073959.571", "PrimaryTag": "CCO", "Text": "J"}
+{"StartTime": "20101216073959.571", "EndTime": "20101216074001.000", "PrimaryTag": "CCO", "Text": "JONES."}
+{"StartTime": "20101216074001.000", "EndTime": "20101216074003.500", "PrimaryTag": "CCO", "Text": "HE FIRED ON THE SUSPECT, AT "}
+{"StartTime": "20101216074003.500", "EndTime": "20101216074006.000", "PrimaryTag": "CCO", "Text": "WHICH POINT, DUKE TURNED THE GUN"}
+{"StartTime": "20101216074006.000", "EndTime": "20101216074008.500", "PrimaryTag": "CCO", "Text": "ON HIMSELF."}
+{"StartTime": "20101216074008.500", "EndTime": "20101216074011.000", "PrimaryTag": "CCO", "Text": "THE ONE SHOT HE DIDN'T MISS."}
+{"StartTime": "20101216074011.000", "EndTime": "20101216074014.333", "PrimaryTag": "CCO", "Text": "ON DUKE'S BODY, OFFICERS FOUND "}
+{"StartTime": "20101216074014.333", "EndTime": "20101216074017.667", "PrimaryTag": "CCO", "Text": "EVIDENCE THE GUNMAN WAS HOPING "}
+{"StartTime": "20101216074017.667", "EndTime": "20101216074021.000", "PrimaryTag": "CCO", "Text": "TO DO FAR MORE DAMAGE. "}
+{"StartTime": "20101216074021.000", "EndTime": "20101216074022.667", "PrimaryTag": "CCO", "Text": ">> WHAT HE WAS CARRYING WAS  .9"}
+{"StartTime": "20101216074022.667", "EndTime": "20101216074024.333", "PrimaryTag": "CCO", "Text": "MILLIMETER, HIGH CAPACITY."}
+{"StartTime": "20101216074024.333", "EndTime": "20101216074026.000", "PrimaryTag": "CCO", "Text": "HE HAD AN EXTRA MAGAZINE FULLY "}
+{"StartTime": "20101216074026.000", "EndTime": "20101216074027.667", "PrimaryTag": "CCO", "Text": "LOADED IN THE BACK POCKET, AND "}
+{"StartTime": "20101216074027.667", "EndTime": "20101216074029.333", "PrimaryTag": "CCO", "Text": "HE HAD ANOTHER BOX OF AMMO, AND "}
+{"StartTime": "20101216074029.333", "EndTime": "20101216074031.000", "PrimaryTag": "CCO", "Text": "I BELIEVE THAT WAS FULL AND "}
+{"StartTime": "20101216074031.000", "EndTime": "20101216074032.667", "PrimaryTag": "CCO", "Text": "CONTAINED 50 ROUNDS."}
+{"StartTime": "20101216074032.667", "EndTime": "20101216074034.333", "PrimaryTag": "CCO", "Text": ">> Reporter: DUKE'S WIFE, WHOSE "}
+{"StartTime": "20101216074034.333", "EndTime": "20101216074036.000", "PrimaryTag": "CCO", "Text": "FIERILY ALLEGEDLY DROVE HER "}
+{"StartTime": "20101216074036.000", "EndTime": "20101216074037.667", "PrimaryTag": "CCO", "Text": "HUSBAND TO THE SHOOTING, "}
+{"StartTime": "20101216074037.667", "EndTime": "20101216074039.333", "PrimaryTag": "CCO", "Text": "DESCRIBED HIM AS A GENTLE GIANT."}
+{"StartTime": "20101216074039.333", "EndTime": "20101216074041.000", "PrimaryTag": "CCO", "Text": ">> WHAT HE DID WAS, YOU KNOW, "}
+{"StartTime": "20101216074041.000", "EndTime": "20101216074043.500", "PrimaryTag": "CCO", "Text": "WRONG IN THE EYES OF THE LAW AND"}
+{"StartTime": "20101216074043.500", "EndTime": "20101216074046.000", "PrimaryTag": "CCO", "Text": "SOCIETY, PROBABLY, BUT "}
+{"StartTime": "20101216074046.000", "EndTime": "20101216074048.500", "PrimaryTag": "CCO", "Text": "BASICALLY, HE LOVED ME, HE LOVED"}
+{"StartTime": "20101216074048.500", "EndTime": "20101216074051.000", "PrimaryTag": "CCO", "Text": "HIS FAMILY."}
+{"StartTime": "20101216074051.000", "EndTime": "20101216074053.000", "PrimaryTag": "CCO", "Text": "AND HE WAS JUST TRYING TO HAVE "}
+{"StartTime": "20101216074053.000", "EndTime": "20101216074055.000", "PrimaryTag": "CCO", "Text": "PEOPLE STOP, AS HE WOULD SAY, "}
+{"StartTime": "20101216074055.000", "EndTime": "20101216074057.000", "PrimaryTag": "CCO", "Text": "DUMP ON ME."}
+{"StartTime": "20101216074057.000", "EndTime": "20101216074059.000", "PrimaryTag": "CCO", "Text": ">> Reporter: BUT HER HUSBAND WAS"}
+{"StartTime": "20101216074059.000", "EndTime": "20101216074101.000", "PrimaryTag": "CCO", "Text": "IN TROUBLE WITH THE LAW LONG "}
+{"StartTime": "20101216074101.000", "EndTime": "20101216074102.667", "PrimaryTag": "CCO", "Text": "BEFORE SHE WAS EVER FIRED."}
+{"StartTime": "20101216074102.667", "EndTime": "20101216074104.333", "PrimaryTag": "CCO", "Text": "HE WAS RELEASED FROM PRISON IN "}
+{"StartTime": "20101216074104.333", "EndTime": "20101216074106.000", "PrimaryTag": "CCO", "Text": "2004 AFTER SERVING FOUR YEARS "}
+{"StartTime": "20101216074106.000", "EndTime": "20101216074107.667", "PrimaryTag": "CCO", "Text": "FOR AGGRAVATED STALKING AND "}
+{"StartTime": "20101216074107.667", "EndTime": "20101216074109.333", "PrimaryTag": "CCO", "Text": "SHOOTING."}
+{"StartTime": "20101216074109.333", "EndTime": "20101216074111.000", "PrimaryTag": "CCO", "Text": "POLICE SAY IT APPEARS HE WANTED "}
+{"StartTime": "20101216074111.000", "EndTime": "20101216074112.667", "PrimaryTag": "CCO", "Text": "HIS FINAL CRIME TO END IN A "}
+{"StartTime": "20101216074112.667", "EndTime": "20101216074114.333", "PrimaryTag": "CCO", "Text": "BLAZE OF GUN FIRE."}
+{"StartTime": "20101216074114.333", "EndTime": "20101216074116.000", "PrimaryTag": "CCO", "Text": "AT HIS HOME, OFFICERS FOUND A "}
+{"StartTime": "20101216074116.000", "EndTime": "20101216074117.667", "PrimaryTag": "CCO", "Text": "CALENDAR WITH YESTERDAY'S DATE "}
+{"StartTime": "20101216074117.667", "EndTime": "20101216074119.333", "PrimaryTag": "CCO", "Text": "CIRCLED."}
+{"StartTime": "20101216074119.333", "EndTime": "20101216074121.000", "PrimaryTag": "CCO", "Text": "BUT TONIGHT, CLAY DUKE IS THE "}
+{"StartTime": "20101216074121.000", "EndTime": "20101216074123.500", "PrimaryTag": "CCO", "Text": "ONLY ONE DEAD AND AT LEAST THREE"}
+{"StartTime": "20101216074123.500", "EndTime": "20101216074126.000", "PrimaryTag": "CCO", "Text": "PEOPLE HE ENCOUNTERED THAT DAY "}
+{"StartTime": "20101216074126.000", "EndTime": "20101216074128.500", "PrimaryTag": "CCO", "Text": "ARE BEING HAILED AS HEROES."}
+{"StartTime": "20101216074128.500", "EndTime": "20101216074131.000", "PrimaryTag": "CCO", "Text": "THE COP WHO FIRED AT HIM, THE "}
+{"StartTime": "20101216074131.000", "EndTime": "20101216074132.667", "PrimaryTag": "CCO", "Text": "SUPERINTENDENT WHO TRIED TO "}
+{"StartTime": "20101216074132.667", "EndTime": "20101216074134.333", "PrimaryTag": "CCO", "Text": "NEGOTIATE WITH HIM AND THE WOMAN"}
+{"StartTime": "20101216074134.333", "EndTime": "20101216074136.000", "PrimaryTag": "CCO", "Text": "WHO TOOK HIM ON WITH HER PURSE."}
+{"StartTime": "20101216074136.000", "EndTime": "20101216074137.667", "PrimaryTag": "CCO", "Text": "DO YOU WISH YOU HAD MORE STUFF "}
+{"StartTime": "20101216074137.667", "EndTime": "20101216074139.333", "PrimaryTag": "CCO", "Text": "IN THAT PURSE. "}
+{"StartTime": "20101216074139.333", "EndTime": "20101216074141.000", "PrimaryTag": "CCO", "Text": ">> Reporter: I DO."}
+{"StartTime": "20101216074141.000", "EndTime": "20101216074142.667", "PrimaryTag": "CCO", "Text": "I NEEDED TO HAVE EITHER A BETTER"}
+{"StartTime": "20101216074142.667", "EndTime": "20101216074144.333", "PrimaryTag": "CCO", "Text": "SWING OR A BRICK OR TWO."}
+{"StartTime": "20101216074144.333", "EndTime": "20101216074146.000", "PrimaryTag": "CCO", "Text": "AND I THINK I WAS A FEW BRICKS "}
+{"StartTime": "20101216074146.000", "EndTime": "20101216074147.667", "PrimaryTag": "CCO", "Text": "SHY OF A LOAD ON THAT ONE."}
+{"StartTime": "20101216074147.667", "EndTime": "20101216074149.333", "PrimaryTag": "CCO", "Text": ">> Reporter: I'M RYAN OWENS FOR "}
+{"StartTime": "20101216074149.333", "EndTime": "20101216074151.000", "PrimaryTag": "CCO", "Text": "NIGHTLINE IN PANAMA CITY, "}
+{"StartTime": "20101216074151.000", "EndTime": "20101216074152.667", "PrimaryTag": "CCO", "Text": "FLORIDA."}
+{"StartTime": "20101216074152.667", "EndTime": "20101216074154.333", "PrimaryTag": "CCO", "Text": ">> WHAT A WOMAN."}
+{"StartTime": "20101216074154.333", "EndTime": "20101216074156.000", "PrimaryTag": "CCO", "Text": "LITERALLY, COURAGE UNDER FIRE. "}
+{"StartTime": "20101216074156.000", "EndTime": "20101216075053.500", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101216074156.000", "EndTime": "20101216074157.667", "PrimaryTag": "CCO", "Text": ">>> WHEN WE COME BACK, A "}
+{"StartTime": "20101216074157.667", "EndTime": "20101216074159.333", "PrimaryTag": "CCO", "Text": "POTENTIALLY GREAT NEW WAY TO "}
+{"StartTime": "20101216074159.333", "EndTime": "20101216074201.000", "PrimaryTag": "CCO", "Text": "LOSE WEIGHT, IF YOU DON'T MIND "}
+{"StartTime": "20101216074201.000", "EndTime": "20101216074204.333", "PrimaryTag": "CCO", "Text": "ICE CUBES IN THE BATHTUB."}
+{"StartTime": "20101216074204.333", "EndTime": "20101216074531.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20101216074204.333", "EndTime": "20101216074207.667", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074207.667", "EndTime": "20101216074211.000", "PrimaryTag": "CCO", "Text": "        OOH, A BRAINTEASER."}
+{"StartTime": "20101216074211.000", "EndTime": "20101216074212.250", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074212.250", "EndTime": "20101216074213.500", "PrimaryTag": "CCO", "Text": "    HOW CAN EXPEDIA NOW SAVE"}
+{"StartTime": "20101216074213.500", "EndTime": "20101216074214.750", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074214.750", "EndTime": "20101216074216.000", "PrimaryTag": "CCO", "Text": "      ME EVEN MORE ON MY HOTEL?"}
+{"StartTime": "20101216074216.000", "EndTime": "20101216074217.250", "PrimaryTag": "CCO", "Text": "    WELL, HOTELS KNOW THEY CAN'T"}
+{"StartTime": "20101216074217.250", "EndTime": "20101216074218.500", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074218.500", "EndTime": "20101216074219.750", "PrimaryTag": "CCO", "Text": "      FILL EVERY ROOM EVERY DAY."}
+{"StartTime": "20101216074219.750", "EndTime": "20101216074221.000", "PrimaryTag": "CCO", "Text": "    LIKE THIS ONE. AND THIS ONE."}
+{"StartTime": "20101216074221.000", "EndTime": "20101216074221.909", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074221.909", "EndTime": "20101216074222.818", "PrimaryTag": "CCO", "Text": "          AND OOPS, MY BAD."}
+{"StartTime": "20101216074222.818", "EndTime": "20101216074223.727", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074223.727", "EndTime": "20101216074224.636", "PrimaryTag": "CCO", "Text": "      SO, THEY GIVE EXPEDIA"}
+{"StartTime": "20101216074224.636", "EndTime": "20101216074225.545", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074225.545", "EndTime": "20101216074226.455", "PrimaryTag": "CCO", "Text": "GINORMOUS DISCOUNTS WITH THESE:"}
+{"StartTime": "20101216074226.455", "EndTime": "20101216074227.364", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074227.364", "EndTime": "20101216074228.273", "PrimaryTag": "CCO", "Text": "          UNPUBLISHED RATES."}
+{"StartTime": "20101216074228.273", "EndTime": "20101216074229.182", "PrimaryTag": "CCO", "Text": "      WHICH MEANS I GET AN EVEN"}
+{"StartTime": "20101216074229.182", "EndTime": "20101216074230.091", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074230.091", "EndTime": "20101216074231.000", "PrimaryTag": "CCO", "Text": "  MORE ROCKIN' HOTEL, FOR LESS."}
+{"StartTime": "20101216074231.000", "EndTime": "20101216074231.909", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074231.909", "EndTime": "20101216074232.818", "PrimaryTag": "CCO", "Text": "        MY BRAIN DIDN'T"}
+{"StartTime": "20101216074232.818", "EndTime": "20101216074233.727", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074233.727", "EndTime": "20101216074234.636", "PrimaryTag": "CCO", "Text": "        EVEN BREAK A SWEAT."}
+{"StartTime": "20101216074234.636", "EndTime": "20101216074235.545", "PrimaryTag": "CCO", "Text": "WHERE YOU BOOK MATTERS. EXPEDIA."}
+{"StartTime": "20101216074235.545", "EndTime": "20101216074236.455", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074236.455", "EndTime": "20101216074237.364", "PrimaryTag": "CCO", "Text": "          [ Male Announcer ]"}
+{"StartTime": "20101216074237.364", "EndTime": "20101216074238.273", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074238.273", "EndTime": "20101216074239.182", "PrimaryTag": "CCO", "Text": "  LEARN ABOUT A FREE TRIAL OFFER"}
+{"StartTime": "20101216074239.182", "EndTime": "20101216074240.091", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074240.091", "EndTime": "20101216074241.000", "PrimaryTag": "CCO", "Text": "          FROM ABILIFY."}
+{"StartTime": "20101216074241.000", "EndTime": "20101216074241.667", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074241.667", "EndTime": "20101216074242.333", "PrimaryTag": "CCO", "Text": "          IF YOU'RE TAKING"}
+{"StartTime": "20101216074242.333", "EndTime": "20101216074243.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074243.000", "EndTime": "20101216074243.667", "PrimaryTag": "CCO", "Text": "          AN ANTIDEPRESSANT"}
+{"StartTime": "20101216074243.667", "EndTime": "20101216074244.333", "PrimaryTag": "CCO", "Text": "      AND STILL FEEL DEPRESSED,"}
+{"StartTime": "20101216074244.333", "EndTime": "20101216074245.000", "PrimaryTag": "CCO", "Text": "    ONE OPTION YOUR DOCTOR MAY"}
+{"StartTime": "20101216074245.000", "EndTime": "20101216074245.667", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074245.667", "EndTime": "20101216074246.333", "PrimaryTag": "CCO", "Text": "    CONSIDER IS ADDING ABILIFY."}
+{"StartTime": "20101216074246.333", "EndTime": "20101216074247.000", "PrimaryTag": "CCO", "Text": "      ABILIFY TREATS DEPRESSION"}
+{"StartTime": "20101216074247.000", "EndTime": "20101216074247.667", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074247.667", "EndTime": "20101216074248.333", "PrimaryTag": "CCO", "Text": "              IN ADULTS"}
+{"StartTime": "20101216074248.333", "EndTime": "20101216074249.000", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074249.000", "EndTime": "20101216074249.667", "PrimaryTag": "CCO", "Text": "              WHEN ADDED"}
+{"StartTime": "20101216074249.667", "EndTime": "20101216074250.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074250.333", "EndTime": "20101216074251.000", "PrimaryTag": "CCO", "Text": "      TO AN ANTIDEPRESSANT."}
+{"StartTime": "20101216074251.000", "EndTime": "20101216074251.714", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074251.714", "EndTime": "20101216074252.429", "PrimaryTag": "CCO", "Text": "            SOME PEOPLE"}
+{"StartTime": "20101216074252.429", "EndTime": "20101216074253.143", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074253.143", "EndTime": "20101216074253.857", "PrimaryTag": "CCO", "Text": "    HAD SYMPTOM IMPROVEMENT"}
+{"StartTime": "20101216074253.857", "EndTime": "20101216074254.571", "PrimaryTag": "CCO", "Text": "IN AS EARLY AS ONE TO TWO WEEKS"}
+{"StartTime": "20101216074254.571", "EndTime": "20101216074255.286", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074255.286", "EndTime": "20101216074256.000", "PrimaryTag": "CCO", "Text": "      AFTER ADDING ABILIFY."}
+{"StartTime": "20101216074256.000", "EndTime": "20101216074256.714", "PrimaryTag": "CCO", "Text": "            "}
+{"StartTime": "20101216074256.714", "EndTime": "20101216074257.429", "PrimaryTag": "CCO", "Text": "            NOW WITH"}
+{"StartTime": "20101216074257.429", "EndTime": "20101216074258.143", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074258.143", "EndTime": "20101216074258.857", "PrimaryTag": "CCO", "Text": "      THE ABILIFY (ME+) PROGRAM,"}
+{"StartTime": "20101216074258.857", "EndTime": "20101216074259.571", "PrimaryTag": "CCO", "Text": "YOUR FIRST TWO WEEKS OF ABILIFY"}
+{"StartTime": "20101216074259.571", "EndTime": "20101216074300.286", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074300.286", "EndTime": "20101216074301.000", "PrimaryTag": "CCO", "Text": "            CAN BE FREE."}
+{"StartTime": "20101216074301.000", "EndTime": "20101216074301.714", "PrimaryTag": "CCO", "Text": "    ABILIFY IS NOT FOR EVERYONE."}
+{"StartTime": "20101216074301.714", "EndTime": "20101216074302.429", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074302.429", "EndTime": "20101216074303.143", "PrimaryTag": "CCO", "Text": "        CALL YOUR DOCTOR"}
+{"StartTime": "20101216074303.143", "EndTime": "20101216074303.857", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074303.857", "EndTime": "20101216074304.571", "PrimaryTag": "CCO", "Text": "      IF YOUR DEPRESSION WORSENS"}
+{"StartTime": "20101216074304.571", "EndTime": "20101216074305.286", "PrimaryTag": "CCO", "Text": "    OR YOU HAVE UNUSUAL CHANGES"}
+{"StartTime": "20101216074305.286", "EndTime": "20101216074306.000", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074306.000", "EndTime": "20101216074306.714", "PrimaryTag": "CCO", "Text": "            IN BEHAVIOR,"}
+{"StartTime": "20101216074306.714", "EndTime": "20101216074307.429", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074307.429", "EndTime": "20101216074308.143", "PrimaryTag": "CCO", "Text": "    OR THOUGHTS OF SUICIDE."}
+{"StartTime": "20101216074308.143", "EndTime": "20101216074308.857", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074308.857", "EndTime": "20101216074309.571", "PrimaryTag": "CCO", "Text": "        ANTIDEPRESSANTS"}
+{"StartTime": "20101216074309.571", "EndTime": "20101216074310.286", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074310.286", "EndTime": "20101216074311.000", "PrimaryTag": "CCO", "Text": "          CAN INCREASE THESE"}
+{"StartTime": "20101216074311.000", "EndTime": "20101216074311.625", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074311.625", "EndTime": "20101216074312.250", "PrimaryTag": "CCO", "Text": "          IN CHILDREN, TEENS"}
+{"StartTime": "20101216074312.250", "EndTime": "20101216074312.875", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074312.875", "EndTime": "20101216074313.500", "PrimaryTag": "CCO", "Text": "          AND YOUNG ADULTS."}
+{"StartTime": "20101216074313.500", "EndTime": "20101216074314.125", "PrimaryTag": "CCO", "Text": "      ELDERLY DEMENTIA PATIENTS"}
+{"StartTime": "20101216074314.125", "EndTime": "20101216074314.750", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074314.750", "EndTime": "20101216074315.375", "PrimaryTag": "CCO", "Text": "          TAKING ABILIFY"}
+{"StartTime": "20101216074315.375", "EndTime": "20101216074316.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074316.000", "EndTime": "20101216074316.625", "PrimaryTag": "CCO", "Text": "      HAVE AN INCREASED RISK"}
+{"StartTime": "20101216074316.625", "EndTime": "20101216074317.250", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074317.250", "EndTime": "20101216074317.875", "PrimaryTag": "CCO", "Text": "        OF DEATH OR STROKE."}
+{"StartTime": "20101216074317.875", "EndTime": "20101216074318.500", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074318.500", "EndTime": "20101216074319.125", "PrimaryTag": "CCO", "Text": "        CALL YOUR DOCTOR"}
+{"StartTime": "20101216074319.125", "EndTime": "20101216074319.750", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074319.750", "EndTime": "20101216074320.375", "PrimaryTag": "CCO", "Text": "    IF YOU HAVE HIGH FEVER,"}
+{"StartTime": "20101216074320.375", "EndTime": "20101216074321.000", "PrimaryTag": "CCO", "Text": "    STIFF MUSCLES AND CONFUSION"}
+{"StartTime": "20101216074321.000", "EndTime": "20101216074321.526", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074321.526", "EndTime": "20101216074322.053", "PrimaryTag": "CCO", "Text": "      TO ADDRESS A POSSIBLE"}
+{"StartTime": "20101216074322.053", "EndTime": "20101216074322.579", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074322.579", "EndTime": "20101216074323.105", "PrimaryTag": "CCO", "Text": "    LIFE-THREATENING CONDITION."}
+{"StartTime": "20101216074323.105", "EndTime": "20101216074323.632", "PrimaryTag": "CCO", "Text": "  OR IF YOU HAVE UNCONTROLLABLE"}
+{"StartTime": "20101216074323.632", "EndTime": "20101216074324.158", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074324.158", "EndTime": "20101216074324.684", "PrimaryTag": "CCO", "Text": "          MUSCLE MOVEMENTS,"}
+{"StartTime": "20101216074324.684", "EndTime": "20101216074325.211", "PrimaryTag": "CCO", "Text": "            "}
+{"StartTime": "20101216074325.211", "EndTime": "20101216074325.737", "PrimaryTag": "CCO", "Text": "            AS THESE"}
+{"StartTime": "20101216074325.737", "EndTime": "20101216074326.263", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074326.263", "EndTime": "20101216074326.789", "PrimaryTag": "CCO", "Text": "    COULD BECOME PERMANENT."}
+{"StartTime": "20101216074326.789", "EndTime": "20101216074327.316", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074327.316", "EndTime": "20101216074327.842", "PrimaryTag": "CCO", "Text": "          HIGH BLOOD SUGAR"}
+{"StartTime": "20101216074327.842", "EndTime": "20101216074328.368", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074328.368", "EndTime": "20101216074328.895", "PrimaryTag": "CCO", "Text": "          HAS BEEN REPORTED"}
+{"StartTime": "20101216074328.895", "EndTime": "20101216074329.421", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074329.421", "EndTime": "20101216074329.947", "PrimaryTag": "CCO", "Text": "            WITH ABILIFY"}
+{"StartTime": "20101216074329.947", "EndTime": "20101216074330.474", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074330.474", "EndTime": "20101216074331.000", "PrimaryTag": "CCO", "Text": "      AND MEDICINES LIKE IT."}
+{"StartTime": "20101216074331.000", "EndTime": "20101216074331.769", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074331.769", "EndTime": "20101216074332.538", "PrimaryTag": "CCO", "Text": "          IN SOME CASES,"}
+{"StartTime": "20101216074332.538", "EndTime": "20101216074333.308", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074333.308", "EndTime": "20101216074334.077", "PrimaryTag": "CCO", "Text": "    EXTREME HIGH BLOOD SUGAR"}
+{"StartTime": "20101216074334.077", "EndTime": "20101216074334.846", "PrimaryTag": "CCO", "Text": "      CAN LEAD TO COMA OR DEATH."}
+{"StartTime": "20101216074334.846", "EndTime": "20101216074335.615", "PrimaryTag": "CCO", "Text": "  OTHER RISKS INCLUDE DECREASES"}
+{"StartTime": "20101216074335.615", "EndTime": "20101216074336.385", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074336.385", "EndTime": "20101216074337.154", "PrimaryTag": "CCO", "Text": "      IN WHITE BLOOD CELLS,"}
+{"StartTime": "20101216074337.154", "EndTime": "20101216074337.923", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074337.923", "EndTime": "20101216074338.692", "PrimaryTag": "CCO", "Text": "      WHICH CAN BE SERIOUS,"}
+{"StartTime": "20101216074338.692", "EndTime": "20101216074339.462", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074339.462", "EndTime": "20101216074340.231", "PrimaryTag": "CCO", "Text": "    DIZZINESS UPON STANDING,"}
+{"StartTime": "20101216074340.231", "EndTime": "20101216074341.000", "PrimaryTag": "CCO", "Text": "  SEIZURES, TROUBLE SWALLOWING,"}
+{"StartTime": "20101216074341.000", "EndTime": "20101216074341.556", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074341.556", "EndTime": "20101216074342.111", "PrimaryTag": "CCO", "Text": "      AND IMPAIRED JUDGMENT"}
+{"StartTime": "20101216074342.111", "EndTime": "20101216074342.667", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074342.667", "EndTime": "20101216074343.222", "PrimaryTag": "CCO", "Text": "        OR MOTOR SKILLS."}
+{"StartTime": "20101216074343.222", "EndTime": "20101216074343.778", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074343.778", "EndTime": "20101216074344.333", "PrimaryTag": "CCO", "Text": "          ADDING ABILIFY"}
+{"StartTime": "20101216074344.333", "EndTime": "20101216074344.889", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216074344.889", "EndTime": "20101216074345.444", "PrimaryTag": "CCO", "Text": "    HAS MADE A DIFFERENCE FOR ME."}
+{"StartTime": "20101216074345.444", "EndTime": "20101216074346.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074346.000", "EndTime": "20101216074346.556", "PrimaryTag": "CCO", "Text": "          [ Male Announcer ]"}
+{"StartTime": "20101216074346.556", "EndTime": "20101216074347.111", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074347.111", "EndTime": "20101216074347.667", "PrimaryTag": "CCO", "Text": "      VISIT ABILIFYOFFER.COM"}
+{"StartTime": "20101216074347.667", "EndTime": "20101216074348.222", "PrimaryTag": "CCO", "Text": "      FOR YOUR FREE TRIAL OFFER."}
+{"StartTime": "20101216074348.222", "EndTime": "20101216074348.778", "PrimaryTag": "CCO", "Text": "            "}
+{"StartTime": "20101216074348.778", "EndTime": "20101216074349.333", "PrimaryTag": "CCO", "Text": "            AND ASK YOUR DOCTOR"}
+{"StartTime": "20101216074349.333", "EndTime": "20101216074349.889", "PrimaryTag": "CCO", "Text": "      ABOUT THE RISKS AND BENEFITS"}
+{"StartTime": "20101216074349.889", "EndTime": "20101216074350.444", "PrimaryTag": "CCO", "Text": "            "}
+{"StartTime": "20101216074350.444", "EndTime": "20101216074401.000", "PrimaryTag": "CCO", "Text": "            OF ADDING ABILIFY."}
+{"StartTime": "20101216074401.000", "EndTime": "20101216074406.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074406.000", "EndTime": "20101216074411.000", "PrimaryTag": "CCO", "Text": "    IF YOU LIVE FOR PERFORMANCE,"}
+{"StartTime": "20101216074411.000", "EndTime": "20101216074412.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074412.000", "EndTime": "20101216074413.000", "PrimaryTag": "CCO", "Text": "    UPGRADE TO CASTROL EDGE"}
+{"StartTime": "20101216074413.000", "EndTime": "20101216074414.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074414.000", "EndTime": "20101216074415.000", "PrimaryTag": "CCO", "Text": "    ADVANCED SYNTHETIC OIL."}
+{"StartTime": "20101216074415.000", "EndTime": "20101216074416.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074416.000", "EndTime": "20101216074417.000", "PrimaryTag": "CCO", "Text": "    WITH EIGHT TIMES BETTER WEAR"}
+{"StartTime": "20101216074417.000", "EndTime": "20101216074418.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074418.000", "EndTime": "20101216074419.000", "PrimaryTag": "CCO", "Text": "    PROTECTION THAN MOBIL 1."}
+{"StartTime": "20101216074419.000", "EndTime": "20101216074420.000", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216074420.000", "EndTime": "20101216074421.000", "PrimaryTag": "CCO", "Text": "        CASTROL EDGE."}
+{"StartTime": "20101216074421.000", "EndTime": "20101216074423.500", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074423.500", "EndTime": "20101216074426.000", "PrimaryTag": "CCO", "Text": "    IT'S MORE THAN JUST OIL."}
+{"StartTime": "20101216074426.000", "EndTime": "20101216074428.500", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216074428.500", "EndTime": "20101216074531.000", "PrimaryTag": "CCO", "Text": "     IT'S LIQUID ENGINEERING."}
+{"StartTime": "20101216074531.000", "EndTime": "20101216074536.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20101216074531.000", "EndTime": "20101216074536.000", "PrimaryTag": "CCO", "Text": "MtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtM>>> WELL, EVERYONE KNOWS THAT TO"}
+{"StartTime": "20101216074536.000", "EndTime": "20101216074541.000", "PrimaryTag": "CCO", "Text": "LOSE WEIGHT, IT HELPS TO SWEAT, "}
+{"StartTime": "20101216074541.000", "EndTime": "20101216074543.000", "PrimaryTag": "CCO", "Text": "WHETHEROVER THE TREADMILL OR ON "}
+{"StartTime": "20101216074543.000", "EndTime": "20101216074545.000", "PrimaryTag": "CCO", "Text": "THE YOGA MAT."}
+{"StartTime": "20101216074545.000", "EndTime": "20101216074547.000", "PrimaryTag": "CCO", "Text": "EXCEPT NOW, SOME FITNESS BUFFS "}
+{"StartTime": "20101216074547.000", "EndTime": "20101216074549.000", "PrimaryTag": "CCO", "Text": "ARE SAYING THE EXACT OPPOSITE, "}
+{"StartTime": "20101216074549.000", "EndTime": "20101216074551.000", "PrimaryTag": "CCO", "Text": "CLAIMING THE BODY BURNS EVEN "}
+{"StartTime": "20101216074551.000", "EndTime": "20101216074552.429", "PrimaryTag": "CCO", "Text": "MORE CALORIES WHEN IT'S EXPOSED "}
+{"StartTime": "20101216074552.429", "EndTime": "20101216074553.857", "PrimaryTag": "CCO", "Text": "TO EXTREME COLD."}
+{"StartTime": "20101216074553.857", "EndTime": "20101216074555.286", "PrimaryTag": "CCO", "Text": "BUT IS SHIVERING TO STAY WORM "}
+{"StartTime": "20101216074555.286", "EndTime": "20101216074556.714", "PrimaryTag": "CCO", "Text": "REALLY A GOOD WAY TO LOSE "}
+{"StartTime": "20101216074556.714", "EndTime": "20101216074558.143", "PrimaryTag": "CCO", "Text": "WEIGHT?"}
+{"StartTime": "20101216074558.143", "EndTime": "20101216074559.571", "PrimaryTag": "CCO", "Text": "HERE'S ANDREA CANNING WITH OUR "}
+{"StartTime": "20101216074559.571", "EndTime": "20101216074601.000", "PrimaryTag": "CCO", "Text": "REPORT."}
+{"StartTime": "20101216074601.000", "EndTime": "20101216074602.429", "PrimaryTag": "CCO", "Text": ">> Reporter: THREE TIMES A WEEK,"}
+{"StartTime": "20101216074602.429", "EndTime": "20101216074603.857", "PrimaryTag": "CCO", "Text": "TIM FERRISS FILLS HIS BATH WITH "}
+{"StartTime": "20101216074603.857", "EndTime": "20101216074605.286", "PrimaryTag": "CCO", "Text": "ICE AND CLIMBS IN."}
+{"StartTime": "20101216074605.286", "EndTime": "20101216074606.714", "PrimaryTag": "CCO", "Text": ">> I LIKE IT SHORT AND SWEET "}
+{"StartTime": "20101216074606.714", "EndTime": "20101216074608.143", "PrimaryTag": "CCO", "Text": "LIKE A BAND AID."}
+{"StartTime": "20101216074608.143", "EndTime": "20101216074609.571", "PrimaryTag": "CCO", "Text": ">> Reporter: HE SAYS THE EXTREME"}
+{"StartTime": "20101216074609.571", "EndTime": "20101216074611.000", "PrimaryTag": "CCO", "Text": "COLD KEEPS HIS BODY SUPER HUMAN "}
+{"StartTime": "20101216074611.000", "EndTime": "20101216074613.500", "PrimaryTag": "CCO", "Text": "AND SUPER THIN."}
+{"StartTime": "20101216074613.500", "EndTime": "20101216074616.000", "PrimaryTag": "CCO", "Text": ">> I'LL START WITH WATER UP TO "}
+{"StartTime": "20101216074616.000", "EndTime": "20101216074618.500", "PrimaryTag": "CCO", "Text": "MY MID ABDOMEN FOR THE FIRST TEN"}
+{"StartTime": "20101216074618.500", "EndTime": "20101216074621.000", "PrimaryTag": "CCO", "Text": "MINUTES AND THE LAST FOUR TO "}
+{"StartTime": "20101216074621.000", "EndTime": "20101216074622.250", "PrimaryTag": "CCO", "Text": "FIVE MINUTES I'D LAY BACK, "}
+{"StartTime": "20101216074622.250", "EndTime": "20101216074623.500", "PrimaryTag": "CCO", "Text": "KEEPING MY HEAD AND HANDS OUT OF"}
+{"StartTime": "20101216074623.500", "EndTime": "20101216074624.750", "PrimaryTag": "CCO", "Text": "THE WATER."}
+{"StartTime": "20101216074624.750", "EndTime": "20101216074626.000", "PrimaryTag": "CCO", "Text": ">> Reporter: CALL IT THE THERMAL"}
+{"StartTime": "20101216074626.000", "EndTime": "20101216074627.250", "PrimaryTag": "CCO", "Text": "DIET."}
+{"StartTime": "20101216074627.250", "EndTime": "20101216074628.500", "PrimaryTag": "CCO", "Text": "FERRISS, THE AUTHOR OF \"THE "}
+{"StartTime": "20101216074628.500", "EndTime": "20101216074629.750", "PrimaryTag": "CCO", "Text": "FOUR-HOUR BODY\" SWEARS BY IT TO "}
+{"StartTime": "20101216074629.750", "EndTime": "20101216074631.000", "PrimaryTag": "CCO", "Text": "KEEP OFF UNWANTED FAT."}
+{"StartTime": "20101216074631.000", "EndTime": "20101216074633.000", "PrimaryTag": "CCO", "Text": ">> BRING A BOOK WITH YOU, GET "}
+{"StartTime": "20101216074633.000", "EndTime": "20101216074635.000", "PrimaryTag": "CCO", "Text": "SOME READING DONE."}
+{"StartTime": "20101216074635.000", "EndTime": "20101216074637.000", "PrimaryTag": "CCO", "Text": ">> Reporter: SO, HOW CAN US LOSE"}
+{"StartTime": "20101216074637.000", "EndTime": "20101216074639.000", "PrimaryTag": "CCO", "Text": "WEIGHT JUST BY BEING COLD?"}
+{"StartTime": "20101216074639.000", "EndTime": "20101216074641.000", "PrimaryTag": "CCO", "Text": ">> THE BODY WANTS TO MAINTAIN A "}
+{"StartTime": "20101216074641.000", "EndTime": "20101216074642.667", "PrimaryTag": "CCO", "Text": "BALANCE, A HOMEOSTASIS."}
+{"StartTime": "20101216074642.667", "EndTime": "20101216074644.333", "PrimaryTag": "CCO", "Text": "SO, 98.6 DEGREES."}
+{"StartTime": "20101216074644.333", "EndTime": "20101216074646.000", "PrimaryTag": "CCO", "Text": "IF YOU MAKE IT COLD, IT WILL DO "}
+{"StartTime": "20101216074646.000", "EndTime": "20101216074647.667", "PrimaryTag": "CCO", "Text": "EVERYTHING IT CAN TO GET BACK TO"}
+{"StartTime": "20101216074647.667", "EndTime": "20101216074649.333", "PrimaryTag": "CCO", "Text": "98.6."}
+{"StartTime": "20101216074649.333", "EndTime": "20101216074651.000", "PrimaryTag": "CCO", "Text": "IT HAS TO BURN CALORIES TO DO "}
+{"StartTime": "20101216074651.000", "EndTime": "20101216074652.667", "PrimaryTag": "CCO", "Text": "THAT."}
+{"StartTime": "20101216074652.667", "EndTime": "20101216074654.333", "PrimaryTag": "CCO", "Text": ">> Reporter: WHAT IS GOING ON AT"}
+{"StartTime": "20101216074654.333", "EndTime": "20101216074656.000", "PrimaryTag": "CCO", "Text": "YOUR BODY?"}
+{"StartTime": "20101216074656.000", "EndTime": "20101216074657.667", "PrimaryTag": "CCO", "Text": ">> THERE'S ACTUALLY A TYPE OF "}
+{"StartTime": "20101216074657.667", "EndTime": "20101216074659.333", "PrimaryTag": "CCO", "Text": "FAT CALLED BROWN ADIPOSE ISSUE."}
+{"StartTime": "20101216074659.333", "EndTime": "20101216074701.000", "PrimaryTag": "CCO", "Text": "B.A.T."}
+{"StartTime": "20101216074701.000", "EndTime": "20101216074703.500", "PrimaryTag": "CCO", "Text": "YOU BURN FAT TISSUE."}
+{"StartTime": "20101216074703.500", "EndTime": "20101216074706.000", "PrimaryTag": "CCO", "Text": ">> Reporter: FERRISS IS NOT "}
+{"StartTime": "20101216074706.000", "EndTime": "20101216074708.500", "PrimaryTag": "CCO", "Text": "ALONE."}
+{"StartTime": "20101216074708.500", "EndTime": "20101216074711.000", "PrimaryTag": "CCO", "Text": "A FRIEND INTRODUCED HIM TO RAY "}
+{"StartTime": "20101216074711.000", "EndTime": "20101216074712.250", "PrimaryTag": "CCO", "Text": "CRONISE, WHO SAYS IT CHANGED HIS"}
+{"StartTime": "20101216074712.250", "EndTime": "20101216074713.500", "PrimaryTag": "CCO", "Text": "LIFE, TOO."}
+{"StartTime": "20101216074713.500", "EndTime": "20101216074714.750", "PrimaryTag": "CCO", "Text": ">> WE CAN USE THE THERMAL "}
+{"StartTime": "20101216074714.750", "EndTime": "20101216074716.000", "PrimaryTag": "CCO", "Text": "ENVIRONMENT TO SUPER CHARGE OUR "}
+{"StartTime": "20101216074716.000", "EndTime": "20101216074717.250", "PrimaryTag": "CCO", "Text": "WEIGHT LOSS."}
+{"StartTime": "20101216074717.250", "EndTime": "20101216074718.500", "PrimaryTag": "CCO", "Text": ">> Reporter: STRUGGLING WITH HIS"}
+{"StartTime": "20101216074718.500", "EndTime": "20101216074719.750", "PrimaryTag": "CCO", "Text": "WEIGHT, RAY TOOK A SCIENTIFIC "}
+{"StartTime": "20101216074719.750", "EndTime": "20101216074721.000", "PrimaryTag": "CCO", "Text": "APPROACH."}
+{"StartTime": "20101216074721.000", "EndTime": "20101216074723.000", "PrimaryTag": "CCO", "Text": ">> WHEN I REALIZED THAT RUNNING "}
+{"StartTime": "20101216074723.000", "EndTime": "20101216074725.000", "PrimaryTag": "CCO", "Text": "A MARATHON ONLY BURNED 2,600 "}
+{"StartTime": "20101216074725.000", "EndTime": "20101216074727.000", "PrimaryTag": "CCO", "Text": "CALORIES, I WAS PRETTY "}
+{"StartTime": "20101216074727.000", "EndTime": "20101216074729.000", "PrimaryTag": "CCO", "Text": "DISENCHANTED AT THAT POINT."}
+{"StartTime": "20101216074729.000", "EndTime": "20101216074731.000", "PrimaryTag": "CCO", "Text": ">> Reporter: UNTIL HE HEARD "}
+{"StartTime": "20101216074731.000", "EndTime": "20101216074732.667", "PrimaryTag": "CCO", "Text": "SOMETHING THAT SOUNDED "}
+{"StartTime": "20101216074732.667", "EndTime": "20101216074734.333", "PrimaryTag": "CCO", "Text": "IMPOSSIBLE."}
+{"StartTime": "20101216074734.333", "EndTime": "20101216074736.000", "PrimaryTag": "CCO", "Text": "OLYMPIC SWIMMER MICHAEL PHELPS' "}
+{"StartTime": "20101216074736.000", "EndTime": "20101216074737.667", "PrimaryTag": "CCO", "Text": "DIET OF 12,000 CALL REAP AS DAY,"}
+{"StartTime": "20101216074737.667", "EndTime": "20101216074739.333", "PrimaryTag": "CCO", "Text": "THE SAME AMOUNT RAY CONSUMED IN "}
+{"StartTime": "20101216074739.333", "EndTime": "20101216074741.000", "PrimaryTag": "CCO", "Text": "A WHOLE WEEK."}
+{"StartTime": "20101216074741.000", "EndTime": "20101216074742.667", "PrimaryTag": "CCO", "Text": ">> IF MOST PEOPLE HEAR THAT "}
+{"StartTime": "20101216074742.667", "EndTime": "20101216074744.333", "PrimaryTag": "CCO", "Text": "MICHAEL EATS THAT MUCH FOOD, "}
+{"StartTime": "20101216074744.333", "EndTime": "20101216074746.000", "PrimaryTag": "CCO", "Text": "THEY THINK HE'S AN OLYMPIC "}
+{"StartTime": "20101216074746.000", "EndTime": "20101216074747.667", "PrimaryTag": "CCO", "Text": "ATHLETE, OF COURSE HE EATS THAT "}
+{"StartTime": "20101216074747.667", "EndTime": "20101216074749.333", "PrimaryTag": "CCO", "Text": "MUCH FOOD."}
+{"StartTime": "20101216074749.333", "EndTime": "20101216074751.000", "PrimaryTag": "CCO", "Text": "BUT IT'S WAY OUT OF PROPORTION."}
+{"StartTime": "20101216074751.000", "EndTime": "20101216074752.667", "PrimaryTag": "CCO", "Text": "THEN, IT OCCURRED TO ME, MICHAEL"}
+{"StartTime": "20101216074752.667", "EndTime": "20101216074754.333", "PrimaryTag": "CCO", "Text": "SPENDS MOST OF THE TIME IN THE "}
+{"StartTime": "20101216074754.333", "EndTime": "20101216074756.000", "PrimaryTag": "CCO", "Text": "WATER, AND WATER IS 24 TIMES "}
+{"StartTime": "20101216074756.000", "EndTime": "20101216074757.667", "PrimaryTag": "CCO", "Text": "MORE THERMALLY CONDUCTIVE THAN "}
+{"StartTime": "20101216074757.667", "EndTime": "20101216074759.333", "PrimaryTag": "CCO", "Text": "AIR."}
+{"StartTime": "20101216074759.333", "EndTime": "20101216074801.000", "PrimaryTag": "CCO", "Text": "WHAT THAT MEANS IS WATER IS "}
+{"StartTime": "20101216074801.000", "EndTime": "20101216074802.429", "PrimaryTag": "CCO", "Text": "SUCKING THAT ENERGY AND HEAT OUT"}
+{"StartTime": "20101216074802.429", "EndTime": "20101216074803.857", "PrimaryTag": "CCO", "Text": "OF HIS BODY."}
+{"StartTime": "20101216074803.857", "EndTime": "20101216074805.286", "PrimaryTag": "CCO", "Text": "HIS BODY WAS BURNING EXCESS "}
+{"StartTime": "20101216074805.286", "EndTime": "20101216074806.714", "PrimaryTag": "CCO", "Text": "CALORIES JUST TO MAINTAIN HIS "}
+{"StartTime": "20101216074806.714", "EndTime": "20101216074808.143", "PrimaryTag": "CCO", "Text": "BODY TEMPERATURE."}
+{"StartTime": "20101216074808.143", "EndTime": "20101216074809.571", "PrimaryTag": "CCO", "Text": ">> Reporter: HE DUG DEEPER AND "}
+{"StartTime": "20101216074809.571", "EndTime": "20101216074811.000", "PrimaryTag": "CCO", "Text": "FOUND THAT FOR YEARS, NASA HAS "}
+{"StartTime": "20101216074811.000", "EndTime": "20101216074813.000", "PrimaryTag": "CCO", "Text": "BEEN INVESTIGATING THE EFFECTS "}
+{"StartTime": "20101216074813.000", "EndTime": "20101216074815.000", "PrimaryTag": "CCO", "Text": "OF TEMPERATURE ON ASTRONAUTS."}
+{"StartTime": "20101216074815.000", "EndTime": "20101216074817.000", "PrimaryTag": "CCO", "Text": ">> Reporter: WHEN WE WERE "}
+{"StartTime": "20101216074817.000", "EndTime": "20101216074819.000", "PrimaryTag": "CCO", "Text": "LOOKING AT PILOTS THAT WERE IN "}
+{"StartTime": "20101216074819.000", "EndTime": "20101216074821.000", "PrimaryTag": "CCO", "Text": "HIGH ALTITUDE AIR CRAFT AND "}
+{"StartTime": "20101216074821.000", "EndTime": "20101216074822.667", "PrimaryTag": "CCO", "Text": "EXPOSED TO MORE THERMAL "}
+{"StartTime": "20101216074822.667", "EndTime": "20101216074824.333", "PrimaryTag": "CCO", "Text": "ENVIRONMENTS, AS MILD AS 60 "}
+{"StartTime": "20101216074824.333", "EndTime": "20101216074826.000", "PrimaryTag": "CCO", "Text": "DEGREES, SOME OF THESE PEOPLE "}
+{"StartTime": "20101216074826.000", "EndTime": "20101216074827.667", "PrimaryTag": "CCO", "Text": "SAW METABOLISM RATES BOOST BY AS"}
+{"StartTime": "20101216074827.667", "EndTime": "20101216074829.333", "PrimaryTag": "CCO", "Text": "MUCH AS 20%."}
+{"StartTime": "20101216074829.333", "EndTime": "20101216074831.000", "PrimaryTag": "CCO", "Text": ">> Reporter: SO, RAY ADDED SPACE"}
+{"StartTime": "20101216074831.000", "EndTime": "20101216074833.500", "PrimaryTag": "CCO", "Text": "SCIENCE, SWIMMING IN COOL WATER "}
+{"StartTime": "20101216074833.500", "EndTime": "20101216074836.000", "PrimaryTag": "CCO", "Text": "AND TAKING SHIVER WALKS TO HIS "}
+{"StartTime": "20101216074836.000", "EndTime": "20101216074838.500", "PrimaryTag": "CCO", "Text": "DIET AND EXERCISE ROUTINE AND HE"}
+{"StartTime": "20101216074838.500", "EndTime": "20101216074841.000", "PrimaryTag": "CCO", "Text": "TRIPLED HIS RATE OF WEIGHT LOSS."}
+{"StartTime": "20101216074841.000", "EndTime": "20101216074843.000", "PrimaryTag": "CCO", "Text": "GOING FROM THIS, TO THIS, LOSING"}
+{"StartTime": "20101216074843.000", "EndTime": "20101216074845.000", "PrimaryTag": "CCO", "Text": "30 POUNDS IN JUST SIX WEEKS."}
+{"StartTime": "20101216074845.000", "EndTime": "20101216074847.000", "PrimaryTag": "CCO", "Text": ">> I SPENT THE BIGGEST PART OF "}
+{"StartTime": "20101216074847.000", "EndTime": "20101216074849.000", "PrimaryTag": "CCO", "Text": "MY CAREER TRYING TO BECOME "}
+{"StartTime": "20101216074849.000", "EndTime": "20101216074851.000", "PrimaryTag": "CCO", "Text": "WEIGHTLESS AND IT TURNS OUT THAT"}
+{"StartTime": "20101216074851.000", "EndTime": "20101216074852.667", "PrimaryTag": "CCO", "Text": "ONE OF THE BIGGEST THINGS THAT I"}
+{"StartTime": "20101216074852.667", "EndTime": "20101216074854.333", "PrimaryTag": "CCO", "Text": "THINK I CAN HELP OUT IS HELPING "}
+{"StartTime": "20101216074854.333", "EndTime": "20101216074856.000", "PrimaryTag": "CCO", "Text": "PEOPLE WITH WEIGHT LOS."}
+{"StartTime": "20101216074856.000", "EndTime": "20101216074857.667", "PrimaryTag": "CCO", "Text": ">> Reporter: BUT CAN IT REALLY "}
+{"StartTime": "20101216074857.667", "EndTime": "20101216074859.333", "PrimaryTag": "CCO", "Text": "WORK?"}
+{"StartTime": "20101216074859.333", "EndTime": "20101216074901.000", "PrimaryTag": "CCO", "Text": "WE SPOKE WITH DOCTORS WHO SAY "}
+{"StartTime": "20101216074901.000", "EndTime": "20101216074902.667", "PrimaryTag": "CCO", "Text": "THE PHYSICS MIGHT BE RIGHT, DIET"}
+{"StartTime": "20101216074902.667", "EndTime": "20101216074904.333", "PrimaryTag": "CCO", "Text": "AND EXERCISE ARE A LOT LESS MESS"}
+{"StartTime": "20101216074904.333", "EndTime": "20101216074906.000", "PrimaryTag": "CCO", "Text": "RABBLE AND EVERYONE AGREED THAT "}
+{"StartTime": "20101216074906.000", "EndTime": "20101216074907.667", "PrimaryTag": "CCO", "Text": "PEOPLE WITH HEALTH PROBLEMS "}
+{"StartTime": "20101216074907.667", "EndTime": "20101216074909.333", "PrimaryTag": "CCO", "Text": "SHOULD AVOID SHOCKING THE BODY "}
+{"StartTime": "20101216074909.333", "EndTime": "20101216074911.000", "PrimaryTag": "CCO", "Text": "LIKE THIS."}
+{"StartTime": "20101216074911.000", "EndTime": "20101216074912.667", "PrimaryTag": "CCO", "Text": "WHY HAVEN'T WE HEARD ABOUT THIS "}
+{"StartTime": "20101216074912.667", "EndTime": "20101216074914.333", "PrimaryTag": "CCO", "Text": "METHOD BEFORE?"}
+{"StartTime": "20101216074914.333", "EndTime": "20101216074916.000", "PrimaryTag": "CCO", "Text": "THIS SEEMS LIKE A MAGIC CURE."}
+{"StartTime": "20101216074916.000", "EndTime": "20101216074917.667", "PrimaryTag": "CCO", "Text": ">> QUITE HONESTLY, IT'S BECAUSE "}
+{"StartTime": "20101216074917.667", "EndTime": "20101216074919.333", "PrimaryTag": "CCO", "Text": "MOST NUTRITIONISTS AND MOST "}
+{"StartTime": "20101216074919.333", "EndTime": "20101216074921.000", "PrimaryTag": "CCO", "Text": "TRAINERS GET CALORIES IN "}
+{"StartTime": "20101216074921.000", "EndTime": "20101216074923.000", "PrimaryTag": "CCO", "Text": "CALORIES OUT WRONG."}
+{"StartTime": "20101216074923.000", "EndTime": "20101216074925.000", "PrimaryTag": "CCO", "Text": "THEY DON'T UNDERSTAND IT."}
+{"StartTime": "20101216074925.000", "EndTime": "20101216074927.000", "PrimaryTag": "CCO", "Text": ">> Reporter: CAN YOU JUST GO "}
+{"StartTime": "20101216074927.000", "EndTime": "20101216074929.000", "PrimaryTag": "CCO", "Text": "STAND IN THE COLD AND GET SLIM, "}
+{"StartTime": "20101216074929.000", "EndTime": "20101216074931.000", "PrimaryTag": "CCO", "Text": "OR IS IT A QUICK FIX OR DO YOU "}
+{"StartTime": "20101216074931.000", "EndTime": "20101216074932.667", "PrimaryTag": "CCO", "Text": "STILL NEED TO EXERCISE?"}
+{"StartTime": "20101216074932.667", "EndTime": "20101216074934.333", "PrimaryTag": "CCO", "Text": ">> YOU WANT TO MAKE THE OTHER "}
+{"StartTime": "20101216074934.333", "EndTime": "20101216074936.000", "PrimaryTag": "CCO", "Text": "LIFE STYLE CHANGES, BUT THE COLD"}
+{"StartTime": "20101216074936.000", "EndTime": "20101216074937.667", "PrimaryTag": "CCO", "Text": "CAN REALLY MULTIPLY THE AFFECTS."}
+{"StartTime": "20101216074937.667", "EndTime": "20101216074939.333", "PrimaryTag": "CCO", "Text": ">> Reporter: IF YOU'RE WONDERING"}
+{"StartTime": "20101216074939.333", "EndTime": "20101216074941.000", "PrimaryTag": "CCO", "Text": "HOW PEOPLE IN COLD CLIMATES "}
+{"StartTime": "20101216074941.000", "EndTime": "20101216074942.429", "PrimaryTag": "CCO", "Text": "COULD BE HEAVY, HE HAS AN ANSWER"}
+{"StartTime": "20101216074942.429", "EndTime": "20101216074943.857", "PrimaryTag": "CCO", "Text": "FOR THAT, TOO."}
+{"StartTime": "20101216074943.857", "EndTime": "20101216074945.286", "PrimaryTag": "CCO", "Text": ">> THEY KEEP THEMSELVES WARM."}
+{"StartTime": "20101216074945.286", "EndTime": "20101216074946.714", "PrimaryTag": "CCO", "Text": "SO, MOST PEOPLE, IF THEY LIVE IN"}
+{"StartTime": "20101216074946.714", "EndTime": "20101216074948.143", "PrimaryTag": "CCO", "Text": "A COLD CLIMATE, DON'T GO OUT OF "}
+{"StartTime": "20101216074948.143", "EndTime": "20101216074949.571", "PrimaryTag": "CCO", "Text": "THEIR WAY TO EXPOSE THEMSELVES "}
+{"StartTime": "20101216074949.571", "EndTime": "20101216074951.000", "PrimaryTag": "CCO", "Text": "TO THE COLD."}
+{"StartTime": "20101216074951.000", "EndTime": "20101216074952.250", "PrimaryTag": "CCO", "Text": ">> Reporter: I WANT TO TAKE THE "}
+{"StartTime": "20101216074952.250", "EndTime": "20101216074953.500", "PrimaryTag": "CCO", "Text": "WALK."}
+{"StartTime": "20101216074953.500", "EndTime": "20101216074954.750", "PrimaryTag": "CCO", "Text": ">> I'M READY."}
+{"StartTime": "20101216074954.750", "EndTime": "20101216074956.000", "PrimaryTag": "CCO", "Text": ">> Reporter: I REALLY DON'T, "}
+{"StartTime": "20101216074956.000", "EndTime": "20101216074957.250", "PrimaryTag": "CCO", "Text": "BUT -- I WOULD LIKE TO TRY IT."}
+{"StartTime": "20101216074957.250", "EndTime": "20101216074958.500", "PrimaryTag": "CCO", "Text": "OH, THAT'S COLD."}
+{"StartTime": "20101216074958.500", "EndTime": "20101216074959.750", "PrimaryTag": "CCO", "Text": ">> VERY, VERY BRISK."}
+{"StartTime": "20101216074959.750", "EndTime": "20101216075001.000", "PrimaryTag": "CCO", "Text": ">> Reporter: FERRISS CAUTIONS TO"}
+{"StartTime": "20101216075001.000", "EndTime": "20101216075003.000", "PrimaryTag": "CCO", "Text": "BEGIN WITH SHORT WALKS AND "}
+{"StartTime": "20101216075003.000", "EndTime": "20101216075005.000", "PrimaryTag": "CCO", "Text": "ALWAYS KEEP A COAT NEARBY."}
+{"StartTime": "20101216075005.000", "EndTime": "20101216075007.000", "PrimaryTag": "CCO", "Text": "WE'RE BELOW FREEZING NOW AND WE "}
+{"StartTime": "20101216075007.000", "EndTime": "20101216075009.000", "PrimaryTag": "CCO", "Text": "CAN CERTAINLY FEEL IT."}
+{"StartTime": "20101216075009.000", "EndTime": "20101216075011.000", "PrimaryTag": "CCO", "Text": "WHAT DOES THAT MEAN FOR US?"}
+{"StartTime": "20101216075011.000", "EndTime": "20101216075012.429", "PrimaryTag": "CCO", "Text": "HOW MANY EXTRA CALORIES ARE WE "}
+{"StartTime": "20101216075012.429", "EndTime": "20101216075013.857", "PrimaryTag": "CCO", "Text": "BURNING BECAUSE OF THE COLD?"}
+{"StartTime": "20101216075013.857", "EndTime": "20101216075015.286", "PrimaryTag": "CCO", "Text": ">> WE ARE BURNING AT LEAST 50% "}
+{"StartTime": "20101216075015.286", "EndTime": "20101216075016.714", "PrimaryTag": "CCO", "Text": "MORE."}
+{"StartTime": "20101216075016.714", "EndTime": "20101216075018.143", "PrimaryTag": "CCO", "Text": ">> Reporter: BUT EVEN ADVOCATES "}
+{"StartTime": "20101216075018.143", "EndTime": "20101216075019.571", "PrimaryTag": "CCO", "Text": "ADMIT ICE BATHS AND SHIVER WALKS"}
+{"StartTime": "20101216075019.571", "EndTime": "20101216075021.000", "PrimaryTag": "CCO", "Text": "AREN'T FOR EVERYONE."}
+{"StartTime": "20101216075021.000", "EndTime": "20101216075022.667", "PrimaryTag": "CCO", "Text": ">> YOU'RE ALL GOING TO GET SICK!"}
+{"StartTime": "20101216075022.667", "EndTime": "20101216075024.333", "PrimaryTag": "CCO", "Text": ">> Reporter: SUGGESTING INSTEAD "}
+{"StartTime": "20101216075024.333", "EndTime": "20101216075026.000", "PrimaryTag": "CCO", "Text": "THAT YOU START OFF WITH SMALL "}
+{"StartTime": "20101216075026.000", "EndTime": "20101216075027.667", "PrimaryTag": "CCO", "Text": "CHANGES."}
+{"StartTime": "20101216075027.667", "EndTime": "20101216075029.333", "PrimaryTag": "CCO", "Text": ">> LEAVING THE SWEATER AT HOME."}
+{"StartTime": "20101216075029.333", "EndTime": "20101216075031.000", "PrimaryTag": "CCO", "Text": "OR PUTTING THE THERMOSTAT DOWN A"}
+{"StartTime": "20101216075031.000", "EndTime": "20101216075032.667", "PrimaryTag": "CCO", "Text": "FEW DEGREES."}
+{"StartTime": "20101216075032.667", "EndTime": "20101216075034.333", "PrimaryTag": "CCO", "Text": "ALL OF THOSE LITTLE CHANGES ADD "}
+{"StartTime": "20101216075034.333", "EndTime": "20101216075036.000", "PrimaryTag": "CCO", "Text": "UP TO ENORMOUS BOOSTS IN YOUR "}
+{"StartTime": "20101216075036.000", "EndTime": "20101216075037.667", "PrimaryTag": "CCO", "Text": "WEIGHT LOSS OVER TIME."}
+{"StartTime": "20101216075037.667", "EndTime": "20101216075039.333", "PrimaryTag": "CCO", "Text": ">> Reporter: ALL OPTIONS A LOT "}
+{"StartTime": "20101216075039.333", "EndTime": "20101216075041.000", "PrimaryTag": "CCO", "Text": "LESS PAINFUL THAN THIS."}
+{"StartTime": "20101216075041.000", "EndTime": "20101216075042.667", "PrimaryTag": "CCO", "Text": ">> MY TOES ARE TURNING RED."}
+{"StartTime": "20101216075042.667", "EndTime": "20101216075044.333", "PrimaryTag": "CCO", "Text": "I THINK I'M GETTING FROSTBITE."}
+{"StartTime": "20101216075044.333", "EndTime": "20101216075046.000", "PrimaryTag": "CCO", "Text": "FOR \"NIGHTLINE,\" I'M ANDREA "}
+{"StartTime": "20101216075046.000", "EndTime": "20101216075047.667", "PrimaryTag": "CCO", "Text": "CANNING IN NEW YORK."}
+{"StartTime": "20101216075047.667", "EndTime": "20101216075049.333", "PrimaryTag": "CCO", "Text": ">> AHH, THE WEATHER IN MOST OF "}
+{"StartTime": "20101216075049.333", "EndTime": "20101216075051.000", "PrimaryTag": "CCO", "Text": "THE COUNTRY CERTAINLY HAS BEEN "}
+{"StartTime": "20101216075051.000", "EndTime": "20101216075053.500", "PrimaryTag": "CCO", "Text": "COOPERATING THIS WEEK. "}
+{"StartTime": "20101216075053.500", "EndTime": "20101216080551.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101216075053.500", "EndTime": "20101216075056.000", "PrimaryTag": "CCO", "Text": ">>> WHEN WE COME BACK, A RARE "}
+{"StartTime": "20101216075056.000", "EndTime": "20101216075058.500", "PrimaryTag": "CCO", "Text": "INTERVIEW WITH BARBRA STREISAND,"}
+{"StartTime": "20101216075058.500", "EndTime": "20101216075131.000", "PrimaryTag": "CCO", "Text": "AS SHE OPENS UP IN HER BELOVED "}
+{"StartTime": "20101216075131.000", "EndTime": "20101216075131.833", "PrimaryTag": "CCO", "Text": "MALIBU HOME."}
+{"StartTime": "20101216075131.833", "EndTime": "20101216075441.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20101216075131.833", "EndTime": "20101216075132.667", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075132.667", "EndTime": "20101216075133.500", "PrimaryTag": "CCO", "Text": "    I CAN'T BELIEVE I USED TO"}
+{"StartTime": "20101216075133.500", "EndTime": "20101216075134.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075134.333", "EndTime": "20101216075135.167", "PrimaryTag": "CCO", "Text": "    SWING OVER THOSE ROCKS..."}
+{"StartTime": "20101216075135.167", "EndTime": "20101216075136.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075136.000", "EndTime": "20101216075136.833", "PrimaryTag": "CCO", "Text": "      TOOK SOME FOOLISH RISKS"}
+{"StartTime": "20101216075136.833", "EndTime": "20101216075137.667", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075137.667", "EndTime": "20101216075138.500", "PrimaryTag": "CCO", "Text": "          AS A TEENAGER."}
+{"StartTime": "20101216075138.500", "EndTime": "20101216075139.333", "PrimaryTag": "CCO", "Text": "BUT I WAS STILL TAKING A FOOLISH"}
+{"StartTime": "20101216075139.333", "EndTime": "20101216075140.167", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075140.167", "EndTime": "20101216075141.000", "PrimaryTag": "CCO", "Text": "    RISK WITH MY CHOLESTEROL."}
+{"StartTime": "20101216075141.000", "EndTime": "20101216075141.714", "PrimaryTag": "CCO", "Text": "    ANYONE WITH HIGH CHOLESTEROL"}
+{"StartTime": "20101216075141.714", "EndTime": "20101216075142.429", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075142.429", "EndTime": "20101216075143.143", "PrimaryTag": "CCO", "Text": "    MAY BE AT INCREASED RISK"}
+{"StartTime": "20101216075143.143", "EndTime": "20101216075143.857", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075143.857", "EndTime": "20101216075144.571", "PrimaryTag": "CCO", "Text": "        OF HEART ATTACK."}
+{"StartTime": "20101216075144.571", "EndTime": "20101216075145.286", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075145.286", "EndTime": "20101216075146.000", "PrimaryTag": "CCO", "Text": "        DIET AND EXERCISE"}
+{"StartTime": "20101216075146.000", "EndTime": "20101216075146.714", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075146.714", "EndTime": "20101216075147.429", "PrimaryTag": "CCO", "Text": "      WEREN'T ENOUGH FOR ME."}
+{"StartTime": "20101216075147.429", "EndTime": "20101216075148.143", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075148.143", "EndTime": "20101216075148.857", "PrimaryTag": "CCO", "Text": "    I STOPPED KIDDING MYSELF."}
+{"StartTime": "20101216075148.857", "EndTime": "20101216075149.571", "PrimaryTag": "CCO", "Text": "      I'VE BEEN EATING HEALTHIER,"}
+{"StartTime": "20101216075149.571", "EndTime": "20101216075150.286", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075150.286", "EndTime": "20101216075151.000", "PrimaryTag": "CCO", "Text": "          EXERCISING MORE..."}
+{"StartTime": "20101216075151.000", "EndTime": "20101216075151.714", "PrimaryTag": "CCO", "Text": "AND NOW I'M ALSO TAKING LIPITOR."}
+{"StartTime": "20101216075151.714", "EndTime": "20101216075152.429", "PrimaryTag": "CCO", "Text": "  IF YOU'VE BEEN KIDDING YOURSELF"}
+{"StartTime": "20101216075152.429", "EndTime": "20101216075153.143", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216075153.143", "EndTime": "20101216075153.857", "PrimaryTag": "CCO", "Text": "  ABOUT HIGH CHOLESTEROL...STOP."}
+{"StartTime": "20101216075153.857", "EndTime": "20101216075154.571", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075154.571", "EndTime": "20101216075155.286", "PrimaryTag": "CCO", "Text": "        ALONG WITH DIET,"}
+{"StartTime": "20101216075155.286", "EndTime": "20101216075156.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075156.000", "EndTime": "20101216075156.714", "PrimaryTag": "CCO", "Text": "      LIPITOR HAS BEEN SHOWN"}
+{"StartTime": "20101216075156.714", "EndTime": "20101216075157.429", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075157.429", "EndTime": "20101216075158.143", "PrimaryTag": "CCO", "Text": "    TO LOWER BAD CHOLESTEROL"}
+{"StartTime": "20101216075158.143", "EndTime": "20101216075158.857", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075158.857", "EndTime": "20101216075159.571", "PrimaryTag": "CCO", "Text": "              39% TO 60%."}
+{"StartTime": "20101216075159.571", "EndTime": "20101216075200.286", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075200.286", "EndTime": "20101216075201.000", "PrimaryTag": "CCO", "Text": "      LIPITOR IS FDA APPROVED"}
+{"StartTime": "20101216075201.000", "EndTime": "20101216075201.400", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075201.400", "EndTime": "20101216075201.800", "PrimaryTag": "CCO", "Text": "          TO REDUCE THE RISK"}
+{"StartTime": "20101216075201.800", "EndTime": "20101216075202.200", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216075202.200", "EndTime": "20101216075202.600", "PrimaryTag": "CCO", "Text": "      OF HEART ATTACK AND STROKE"}
+{"StartTime": "20101216075202.600", "EndTime": "20101216075203.000", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075203.000", "EndTime": "20101216075203.400", "PrimaryTag": "CCO", "Text": "              IN PATIENTS"}
+{"StartTime": "20101216075203.400", "EndTime": "20101216075203.800", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075203.800", "EndTime": "20101216075204.200", "PrimaryTag": "CCO", "Text": "      WHO HAVE HEART DISEASE"}
+{"StartTime": "20101216075204.200", "EndTime": "20101216075204.600", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075204.600", "EndTime": "20101216075205.000", "PrimaryTag": "CCO", "Text": "          OR RISK FACTORS"}
+{"StartTime": "20101216075205.000", "EndTime": "20101216075205.400", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075205.400", "EndTime": "20101216075205.800", "PrimaryTag": "CCO", "Text": "          FOR HEART DISEASE."}
+{"StartTime": "20101216075205.800", "EndTime": "20101216075206.200", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075206.200", "EndTime": "20101216075206.600", "PrimaryTag": "CCO", "Text": "        [ Female Announcer ]"}
+{"StartTime": "20101216075206.600", "EndTime": "20101216075207.000", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216075207.000", "EndTime": "20101216075207.400", "PrimaryTag": "CCO", "Text": "    LIPITOR IS NOT FOR EVERYONE,"}
+{"StartTime": "20101216075207.400", "EndTime": "20101216075207.800", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075207.800", "EndTime": "20101216075208.200", "PrimaryTag": "CCO", "Text": "        INCLUDING PEOPLE"}
+{"StartTime": "20101216075208.200", "EndTime": "20101216075208.600", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075208.600", "EndTime": "20101216075209.000", "PrimaryTag": "CCO", "Text": "        WITH LIVER PROBLEMS"}
+{"StartTime": "20101216075209.000", "EndTime": "20101216075209.400", "PrimaryTag": "CCO", "Text": "      AND WOMEN WHO ARE NURSING,"}
+{"StartTime": "20101216075209.400", "EndTime": "20101216075209.800", "PrimaryTag": "CCO", "Text": "            "}
+{"StartTime": "20101216075209.800", "EndTime": "20101216075210.200", "PrimaryTag": "CCO", "Text": "            PREGNANT"}
+{"StartTime": "20101216075210.200", "EndTime": "20101216075210.600", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075210.600", "EndTime": "20101216075211.000", "PrimaryTag": "CCO", "Text": "    OR MAY BECOME PREGNANT."}
+{"StartTime": "20101216075211.000", "EndTime": "20101216075211.667", "PrimaryTag": "CCO", "Text": "    YOU NEED SIMPLE BLOOD TESTS"}
+{"StartTime": "20101216075211.667", "EndTime": "20101216075212.333", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216075212.333", "EndTime": "20101216075213.000", "PrimaryTag": "CCO", "Text": "    TO CHECK FOR LIVER PROBLEMS."}
+{"StartTime": "20101216075213.000", "EndTime": "20101216075213.667", "PrimaryTag": "CCO", "Text": "    TELL YOUR DOCTOR IF YOU ARE"}
+{"StartTime": "20101216075213.667", "EndTime": "20101216075214.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075214.333", "EndTime": "20101216075215.000", "PrimaryTag": "CCO", "Text": "    TAKING OTHER MEDICATIONS"}
+{"StartTime": "20101216075215.000", "EndTime": "20101216075215.667", "PrimaryTag": "CCO", "Text": "  OR IF YOU HAVE ANY MUSCLE PAIN"}
+{"StartTime": "20101216075215.667", "EndTime": "20101216075216.333", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216075216.333", "EndTime": "20101216075217.000", "PrimaryTag": "CCO", "Text": "            OR WEAKNESS."}
+{"StartTime": "20101216075217.000", "EndTime": "20101216075217.667", "PrimaryTag": "CCO", "Text": "    THIS MAY BE A SIGN OF A RARE"}
+{"StartTime": "20101216075217.667", "EndTime": "20101216075218.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075218.333", "EndTime": "20101216075219.000", "PrimaryTag": "CCO", "Text": "    BUT SERIOUS SIDE EFFECT."}
+{"StartTime": "20101216075219.000", "EndTime": "20101216075219.667", "PrimaryTag": "CCO", "Text": "  LET'S GO, BOY, GO!"}
+{"StartTime": "20101216075219.667", "EndTime": "20101216075220.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075220.333", "EndTime": "20101216075221.000", "PrimaryTag": "CCO", "Text": "      WHOO-WHEE!"}
+{"StartTime": "20101216075221.000", "EndTime": "20101216075222.000", "PrimaryTag": "CCO", "Text": "    IF YOU HAVE HIGH CHOLESTEROL,"}
+{"StartTime": "20101216075222.000", "EndTime": "20101216075223.000", "PrimaryTag": "CCO", "Text": "    YOU MAY BE AT INCREASED RISK"}
+{"StartTime": "20101216075223.000", "EndTime": "20101216075224.000", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216075224.000", "EndTime": "20101216075225.000", "PrimaryTag": "CCO", "Text": "    OF HEART ATTACK AND STROKE."}
+{"StartTime": "20101216075225.000", "EndTime": "20101216075226.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075226.000", "EndTime": "20101216075227.000", "PrimaryTag": "CCO", "Text": "          DON'T KID YOURSELF."}
+{"StartTime": "20101216075227.000", "EndTime": "20101216075228.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216075228.000", "EndTime": "20101216075229.000", "PrimaryTag": "CCO", "Text": "    TALK TO YOUR DOCTOR ABOUT"}
+{"StartTime": "20101216075229.000", "EndTime": "20101216075230.000", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216075230.000", "EndTime": "20101216075441.000", "PrimaryTag": "CCO", "Text": "    YOUR RISK AND ABOUT LIPITOR."}
+{"StartTime": "20101216075441.000", "EndTime": "20101216075451.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20101216075441.000", "EndTime": "20101216075451.000", "PrimaryTag": "CCO", "Text": ".UY"}
+{"StartTime": "20101216075451.000", "EndTime": "20101216075456.000", "PrimaryTag": "CCO", "Text": "MtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtMtM>> Announcer: \"NIGHTLINE\" "}
+{"StartTime": "20101216075456.000", "EndTime": "20101216075501.000", "PrimaryTag": "CCO", "Text": "CONTINUES FROM NEW YORK CITY "}
+{"StartTime": "20101216075501.000", "EndTime": "20101216075504.333", "PrimaryTag": "CCO", "Text": "WITH SIT CYNTHIA McFADDEN."}
+{"StartTime": "20101216075504.333", "EndTime": "20101216075507.667", "PrimaryTag": "CCO", "Text": ">> EMMY, OSCAR, TONY."}
+{"StartTime": "20101216075507.667", "EndTime": "20101216075511.000", "PrimaryTag": "CCO", "Text": "SHE'S ONE OF ONLY 12 TO HAVE "}
+{"StartTime": "20101216075511.000", "EndTime": "20101216075512.667", "PrimaryTag": "CCO", "Text": "TAKEN HOME THEM ALL."}
+{"StartTime": "20101216075512.667", "EndTime": "20101216075514.333", "PrimaryTag": "CCO", "Text": "AND THAT'S NOT TO MENTION HER "}
+{"StartTime": "20101216075514.333", "EndTime": "20101216075516.000", "PrimaryTag": "CCO", "Text": "ROLE AS FIT M DIRECTOR."}
+{"StartTime": "20101216075516.000", "EndTime": "20101216075517.667", "PrimaryTag": "CCO", "Text": "BARBRA STREISAND IS ONE OF THE "}
+{"StartTime": "20101216075517.667", "EndTime": "20101216075519.333", "PrimaryTag": "CCO", "Text": "MOST EXTRAORDINARY PERFORMERS OF"}
+{"StartTime": "20101216075519.333", "EndTime": "20101216075521.000", "PrimaryTag": "CCO", "Text": "ALL TIME."}
+{"StartTime": "20101216075521.000", "EndTime": "20101216075522.429", "PrimaryTag": "CCO", "Text": "AND NOW TO HER LIST OF CREDITS, "}
+{"StartTime": "20101216075522.429", "EndTime": "20101216075523.857", "PrimaryTag": "CCO", "Text": "SHE ADDS AUTHOR."}
+{"StartTime": "20101216075523.857", "EndTime": "20101216075525.286", "PrimaryTag": "CCO", "Text": "TONIGHT, SHE SITS DOWN WITH "}
+{"StartTime": "20101216075525.286", "EndTime": "20101216075526.714", "PrimaryTag": "CCO", "Text": "ROBIN ROBERTS FOR THE "}
+{"StartTime": "20101216075526.714", "EndTime": "20101216075528.143", "PrimaryTag": "CCO", "Text": "NIGHTLINE INTERVIEW."}
+{"StartTime": "20101216075528.143", "EndTime": "20101216075529.571", "PrimaryTag": "CCO", "Text": ">> THIS IS ROBIN, SAMMY."}
+{"StartTime": "20101216075529.571", "EndTime": "20101216075531.000", "PrimaryTag": "CCO", "Text": ">> Reporter: WALKING AROUND HER "}
+{"StartTime": "20101216075531.000", "EndTime": "20101216075533.000", "PrimaryTag": "CCO", "Text": "PLACE IN MALIBU WITH HER DOG, "}
+{"StartTime": "20101216075533.000", "EndTime": "20101216075535.000", "PrimaryTag": "CCO", "Text": "SAMMY, IT HITS ME."}
+{"StartTime": "20101216075535.000", "EndTime": "20101216075537.000", "PrimaryTag": "CCO", "Text": "I'M WALKING AROUND WITH BARBRA "}
+{"StartTime": "20101216075537.000", "EndTime": "20101216075539.000", "PrimaryTag": "CCO", "Text": "STREISAND."}
+{"StartTime": "20101216075539.000", "EndTime": "20101216075541.000", "PrimaryTag": "CCO", "Text": "AND I HAVE TO CONFESS, I'M "}
+{"StartTime": "20101216075541.000", "EndTime": "20101216075543.500", "PrimaryTag": "CCO", "Text": "GETTING A LITTLE VERKLEMPT."}
+{"StartTime": "20101216075543.500", "EndTime": "20101216075546.000", "PrimaryTag": "CCO", "Text": " PEOPLE "}
+{"StartTime": "20101216075546.000", "EndTime": "20101216075548.500", "PrimaryTag": "CCO", "Text": ">> Reporter: YOU KNOW, BARBRA "}
+{"StartTime": "20101216075548.500", "EndTime": "20101216075551.000", "PrimaryTag": "CCO", "Text": "STREISAND."}
+{"StartTime": "20101216075551.000", "EndTime": "20101216075552.250", "PrimaryTag": "CCO", "Text": " THEY'RE THE LUCKIEST PEOPLE IN"}
+{"StartTime": "20101216075552.250", "EndTime": "20101216075553.500", "PrimaryTag": "CCO", "Text": "THE WORLD "}
+{"StartTime": "20101216075553.500", "EndTime": "20101216075554.750", "PrimaryTag": "CCO", "Text": ">> Reporter: THE WOMAN BEHIND "}
+{"StartTime": "20101216075554.750", "EndTime": "20101216075556.000", "PrimaryTag": "CCO", "Text": "THE VOICE."}
+{"StartTime": "20101216075556.000", "EndTime": "20101216075557.250", "PrimaryTag": "CCO", "Text": "AND THE MUSIC."}
+{"StartTime": "20101216075557.250", "EndTime": "20101216075558.500", "PrimaryTag": "CCO", "Text": "DECADES OF IT."}
+{"StartTime": "20101216075558.500", "EndTime": "20101216075559.750", "PrimaryTag": "CCO", "Text": "AND SO MUCH MORE."}
+{"StartTime": "20101216075559.750", "EndTime": "20101216075601.000", "PrimaryTag": "CCO", "Text": ">> HELLO, GORGEOUS."}
+{"StartTime": "20101216075601.000", "EndTime": "20101216075602.667", "PrimaryTag": "CCO", "Text": ">> Reporter: IN \"FUNNY GIRL\" SHE"}
+{"StartTime": "20101216075602.667", "EndTime": "20101216075604.333", "PrimaryTag": "CCO", "Text": "REDEFINED BEAUTY."}
+{"StartTime": "20101216075604.333", "EndTime": "20101216075606.000", "PrimaryTag": "CCO", "Text": "A GIRL WITH SKINNY LEGS AND THAT"}
+{"StartTime": "20101216075606.000", "EndTime": "20101216075607.667", "PrimaryTag": "CCO", "Text": "BUMP ON HER NOSE."}
+{"StartTime": "20101216075607.667", "EndTime": "20101216075609.333", "PrimaryTag": "CCO", "Text": ">> BE HAPPY TO WAIT WHILE YOU "}
+{"StartTime": "20101216075609.333", "EndTime": "20101216075611.000", "PrimaryTag": "CCO", "Text": "CHANGE."}
+{"StartTime": "20101216075611.000", "EndTime": "20101216075613.500", "PrimaryTag": "CCO", "Text": ">> DON'T HAVE TO CHANGE TOO "}
+{"StartTime": "20101216075613.500", "EndTime": "20101216075616.000", "PrimaryTag": "CCO", "Text": "MUCH."}
+{"StartTime": "20101216075616.000", "EndTime": "20101216075618.500", "PrimaryTag": "CCO", "Text": ">> Reporter: THE STAR FROM "}
+{"StartTime": "20101216075618.500", "EndTime": "20101216075621.000", "PrimaryTag": "CCO", "Text": "BROOKLYN PLAYED OPPOSITE SOME OF"}
+{"StartTime": "20101216075621.000", "EndTime": "20101216075622.667", "PrimaryTag": "CCO", "Text": "THE SEXIEST LEADING MEN OF HER "}
+{"StartTime": "20101216075622.667", "EndTime": "20101216075624.333", "PrimaryTag": "CCO", "Text": "TIME."}
+{"StartTime": "20101216075624.333", "EndTime": "20101216075626.000", "PrimaryTag": "CCO", "Text": "CHRIS CHRISTOPHERSON IN \"A STAR "}
+{"StartTime": "20101216075626.000", "EndTime": "20101216075627.667", "PrimaryTag": "CCO", "Text": "IS BORN.\""}
+{"StartTime": "20101216075627.667", "EndTime": "20101216075629.333", "PrimaryTag": "CCO", "Text": "ROBERT REDFORD IN \"THE WAY WE "}
+{"StartTime": "20101216075629.333", "EndTime": "20101216075631.000", "PrimaryTag": "CCO", "Text": "WERE.\""}
+{"StartTime": "20101216075631.000", "EndTime": "20101216075632.429", "PrimaryTag": "CCO", "Text": " MEMORIES "}
+{"StartTime": "20101216075632.429", "EndTime": "20101216075633.857", "PrimaryTag": "CCO", "Text": ">> Reporter: WHAT JUMPED OFF THE"}
+{"StartTime": "20101216075633.857", "EndTime": "20101216075635.286", "PrimaryTag": "CCO", "Text": "SCREEN WAS THAT MAGIC ALL "}
+{"StartTime": "20101216075635.286", "EndTime": "20101216075636.714", "PrimaryTag": "CCO", "Text": "COMBINATION OF AWKWARD AND "}
+{"StartTime": "20101216075636.714", "EndTime": "20101216075638.143", "PrimaryTag": "CCO", "Text": "ELEGANT."}
+{"StartTime": "20101216075638.143", "EndTime": "20101216075639.571", "PrimaryTag": "CCO", "Text": "AND HER AUTHENTICITY."}
+{"StartTime": "20101216075639.571", "EndTime": "20101216075641.000", "PrimaryTag": "CCO", "Text": "SHE'S LIKE THAT, TOO, IN REAL "}
+{"StartTime": "20101216075641.000", "EndTime": "20101216075642.111", "PrimaryTag": "CCO", "Text": "LIFE."}
+{"StartTime": "20101216075642.111", "EndTime": "20101216075643.222", "PrimaryTag": "CCO", "Text": "I TELL YOU, I'VE INTERVIEWED A "}
+{"StartTime": "20101216075643.222", "EndTime": "20101216075644.333", "PrimaryTag": "CCO", "Text": "LOT OF PEOPLE."}
+{"StartTime": "20101216075644.333", "EndTime": "20101216075645.444", "PrimaryTag": "CCO", "Text": "I CAN'T REMEMBER THE LAST TIME "}
+{"StartTime": "20101216075645.444", "EndTime": "20101216075646.556", "PrimaryTag": "CCO", "Text": "FAMILY, FRIENDS, COLLEAGUES "}
+{"StartTime": "20101216075646.556", "EndTime": "20101216075647.667", "PrimaryTag": "CCO", "Text": "WERE -- WHOA!"}
+{"StartTime": "20101216075647.667", "EndTime": "20101216075648.778", "PrimaryTag": "CCO", "Text": "THAT I WAS GOING -- "}
+{"StartTime": "20101216075648.778", "EndTime": "20101216075649.889", "PrimaryTag": "CCO", "Text": ">> REALLY?"}
+{"StartTime": "20101216075649.889", "EndTime": "20101216075651.000", "PrimaryTag": "CCO", "Text": ">> Reporter: YOU HAVE THIS "}
+{"StartTime": "20101216075651.000", "EndTime": "20101216075652.667", "PrimaryTag": "CCO", "Text": "IMPACT."}
+{"StartTime": "20101216075652.667", "EndTime": "20101216075654.333", "PrimaryTag": "CCO", "Text": ">> WHY?"}
+{"StartTime": "20101216075654.333", "EndTime": "20101216075656.000", "PrimaryTag": "CCO", "Text": ">> Reporter: MAYBE IT'S THE SPAN"}
+{"StartTime": "20101216075656.000", "EndTime": "20101216075657.667", "PrimaryTag": "CCO", "Text": "OF HER CAREER."}
+{"StartTime": "20101216075657.667", "EndTime": "20101216075659.333", "PrimaryTag": "CCO", "Text": "SHE'S HAD NINE NUMBER ONE ALBUMS"}
+{"StartTime": "20101216075659.333", "EndTime": "20101216075701.000", "PrimaryTag": "CCO", "Text": "OVER THE COURSE OF 46 YEARS."}
+{"StartTime": "20101216075701.000", "EndTime": "20101216075702.667", "PrimaryTag": "CCO", "Text": "THE LATEST, LAST YEAR'S \"LOVE IS"}
+{"StartTime": "20101216075702.667", "EndTime": "20101216075704.333", "PrimaryTag": "CCO", "Text": "THE ANSWER.\""}
+{"StartTime": "20101216075704.333", "EndTime": "20101216075706.000", "PrimaryTag": "CCO", "Text": "AND SHE'S HAD AN INFLUENCE IN "}
+{"StartTime": "20101216075706.000", "EndTime": "20101216075707.667", "PrimaryTag": "CCO", "Text": "POP CULTURE."}
+{"StartTime": "20101216075707.667", "EndTime": "20101216075709.333", "PrimaryTag": "CCO", "Text": "TAKE THIS SONG FROM \"GLEE.\""}
+{"StartTime": "20101216075709.333", "EndTime": "20101216075711.000", "PrimaryTag": "CCO", "Text": " NOBODY "}
+{"StartTime": "20101216075711.000", "EndTime": "20101216075714.333", "PrimaryTag": "CCO", "Text": ">> Reporter: A TRIBUTE TO HER "}
+{"StartTime": "20101216075714.333", "EndTime": "20101216075717.667", "PrimaryTag": "CCO", "Text": "SHOW-STOPPING NUMBER FROM \"FUNNY"}
+{"StartTime": "20101216075717.667", "EndTime": "20101216075721.000", "PrimaryTag": "CCO", "Text": "GIRL.\""}
+{"StartTime": "20101216075721.000", "EndTime": "20101216075724.333", "PrimaryTag": "CCO", "Text": "STREISAND'S LATEST FILM, \"LITTLE"}
+{"StartTime": "20101216075724.333", "EndTime": "20101216075727.667", "PrimaryTag": "CCO", "Text": "FOCKERS,\" -- "}
+{"StartTime": "20101216075727.667", "EndTime": "20101216075731.000", "PrimaryTag": "CCO", "Text": ">> THAT IS YOUR OWN PERSONAL "}
+{"StartTime": "20101216075731.000", "EndTime": "20101216075732.250", "PrimaryTag": "CCO", "Text": "YARMULKE."}
+{"StartTime": "20101216075732.250", "EndTime": "20101216075733.500", "PrimaryTag": "CCO", "Text": ">> Reporter: HERS IS A "}
+{"StartTime": "20101216075733.500", "EndTime": "20101216075734.750", "PrimaryTag": "CCO", "Text": "SUPPORTING ROLE."}
+{"StartTime": "20101216075734.750", "EndTime": "20101216075736.000", "PrimaryTag": "CCO", "Text": "YOUR HUSBAND HAS SAID, YOU'VE "}
+{"StartTime": "20101216075736.000", "EndTime": "20101216075737.250", "PrimaryTag": "CCO", "Text": "GOT ONE BIG MOVIE AT LEAST LEFT "}
+{"StartTime": "20101216075737.250", "EndTime": "20101216075738.500", "PrimaryTag": "CCO", "Text": "IN YOU."}
+{"StartTime": "20101216075738.500", "EndTime": "20101216075739.750", "PrimaryTag": "CCO", "Text": ">> MY HUSBAND SAID THAT?"}
+{"StartTime": "20101216075739.750", "EndTime": "20101216075741.000", "PrimaryTag": "CCO", "Text": "ONLY ONE?"}
+{"StartTime": "20101216075741.000", "EndTime": "20101216075742.429", "PrimaryTag": "CCO", "Text": ">> Reporter: I SAID AT LEAST."}
+{"StartTime": "20101216075742.429", "EndTime": "20101216075743.857", "PrimaryTag": "CCO", "Text": ">> OH, I SEE."}
+{"StartTime": "20101216075743.857", "EndTime": "20101216075745.286", "PrimaryTag": "CCO", "Text": ">> Reporter: AT LEAST."}
+{"StartTime": "20101216075745.286", "EndTime": "20101216075746.714", "PrimaryTag": "CCO", "Text": ">> I'D LIKE TO DIRECT AGAIN."}
+{"StartTime": "20101216075746.714", "EndTime": "20101216075748.143", "PrimaryTag": "CCO", "Text": "AFTER DOING THIS MOVIE, IT'S "}
+{"StartTime": "20101216075748.143", "EndTime": "20101216075749.571", "PrimaryTag": "CCO", "Text": "EASIER THAN BUILDING A HOUSE."}
+{"StartTime": "20101216075749.571", "EndTime": "20101216075751.000", "PrimaryTag": "CCO", "Text": ">> Reporter: AHH, THE HOUSE."}
+{"StartTime": "20101216075751.000", "EndTime": "20101216075752.667", "PrimaryTag": "CCO", "Text": "HER LATEST PROJECT, AND HER "}
+{"StartTime": "20101216075752.667", "EndTime": "20101216075754.333", "PrimaryTag": "CCO", "Text": "PASSION RIGHT NOW."}
+{"StartTime": "20101216075754.333", "EndTime": "20101216075756.000", "PrimaryTag": "CCO", "Text": "SHE CONFESSES THAT SHE POURED "}
+{"StartTime": "20101216075756.000", "EndTime": "20101216075757.667", "PrimaryTag": "CCO", "Text": "OVER EVERY NAIL, EVERY BEAM, "}
+{"StartTime": "20101216075757.667", "EndTime": "20101216075759.333", "PrimaryTag": "CCO", "Text": "EVERY DETAIL THAT WENT INTO HER "}
+{"StartTime": "20101216075759.333", "EndTime": "20101216075801.000", "PrimaryTag": "CCO", "Text": "HOME."}
+{"StartTime": "20101216075801.000", "EndTime": "20101216075803.000", "PrimaryTag": "CCO", "Text": ">> AND YOU'LL SEE MY BEAUTIFUL "}
+{"StartTime": "20101216075803.000", "EndTime": "20101216075805.000", "PrimaryTag": "CCO", "Text": "BLACK AND WHITE FISH THAT MATCH "}
+{"StartTime": "20101216075805.000", "EndTime": "20101216075807.000", "PrimaryTag": "CCO", "Text": "THE TRIM OF THE HOUSE, THE "}
+{"StartTime": "20101216075807.000", "EndTime": "20101216075809.000", "PrimaryTag": "CCO", "Text": "SHUTTERS AND THE MOLDINGS."}
+{"StartTime": "20101216075809.000", "EndTime": "20101216075811.000", "PrimaryTag": "CCO", "Text": ">> Reporter: SOME PEOPLE WOULD "}
+{"StartTime": "20101216075811.000", "EndTime": "20101216075812.667", "PrimaryTag": "CCO", "Text": "SAY, JUST A LITTLE OBSESSIVE, "}
+{"StartTime": "20101216075812.667", "EndTime": "20101216075814.333", "PrimaryTag": "CCO", "Text": "JUST -- "}
+{"StartTime": "20101216075814.333", "EndTime": "20101216075816.000", "PrimaryTag": "CCO", "Text": ">> YEAH, WELL -- A MOVIE THAT I "}
+{"StartTime": "20101216075816.000", "EndTime": "20101216075817.667", "PrimaryTag": "CCO", "Text": "WAS GOING TO DO FELL THROUGH, SO"}
+{"StartTime": "20101216075817.667", "EndTime": "20101216075819.333", "PrimaryTag": "CCO", "Text": "I HAD THE NEED FOR CREATIVE "}
+{"StartTime": "20101216075819.333", "EndTime": "20101216075821.000", "PrimaryTag": "CCO", "Text": "EXPRESSION."}
+{"StartTime": "20101216075821.000", "EndTime": "20101216075822.667", "PrimaryTag": "CCO", "Text": "I LIKE TO BE OBSESSED."}
+{"StartTime": "20101216075822.667", "EndTime": "20101216075824.333", "PrimaryTag": "CCO", "Text": "I LIKE TO HAVE IT FILL MY "}
+{"StartTime": "20101216075824.333", "EndTime": "20101216075826.000", "PrimaryTag": "CCO", "Text": "THOUGHTS."}
+{"StartTime": "20101216075826.000", "EndTime": "20101216075827.667", "PrimaryTag": "CCO", "Text": ">> Reporter: STREISAND'S "}
+{"StartTime": "20101216075827.667", "EndTime": "20101216075829.333", "PrimaryTag": "CCO", "Text": "STRENGTH AND HER FAMOUS "}
+{"StartTime": "20101216075829.333", "EndTime": "20101216075831.000", "PrimaryTag": "CCO", "Text": "ATTENTION TO DETAIL HAVE FUELED "}
+{"StartTime": "20101216075831.000", "EndTime": "20101216075832.667", "PrimaryTag": "CCO", "Text": "HER REPUTATION FOR BEING A DIVA."}
+{"StartTime": "20101216075832.667", "EndTime": "20101216075834.333", "PrimaryTag": "CCO", "Text": "IT'S AN IMAGE SHE REJECTS."}
+{"StartTime": "20101216075834.333", "EndTime": "20101216075836.000", "PrimaryTag": "CCO", "Text": ">> THESE CRAZY STORIES PEOPLE "}
+{"StartTime": "20101216075836.000", "EndTime": "20101216075837.667", "PrimaryTag": "CCO", "Text": "MAKE UP."}
+{"StartTime": "20101216075837.667", "EndTime": "20101216075839.333", "PrimaryTag": "CCO", "Text": "I GUESS IF YOU DON'T GIVE "}
+{"StartTime": "20101216075839.333", "EndTime": "20101216075841.000", "PrimaryTag": "CCO", "Text": "INTERVIEWS MUCH, AND THEY WANT "}
+{"StartTime": "20101216075841.000", "EndTime": "20101216075843.000", "PrimaryTag": "CCO", "Text": "TO WRITE ABOUT YOU, THEY MAKE IT"}
+{"StartTime": "20101216075843.000", "EndTime": "20101216075845.000", "PrimaryTag": "CCO", "Text": "UP."}
+{"StartTime": "20101216075845.000", "EndTime": "20101216075847.000", "PrimaryTag": "CCO", "Text": ">> Reporter: CAN YOU REMEMBER A "}
+{"StartTime": "20101216075847.000", "EndTime": "20101216075849.000", "PrimaryTag": "CCO", "Text": "STORY THAT YOU PICKED UP AND YOU"}
+{"StartTime": "20101216075849.000", "EndTime": "20101216075851.000", "PrimaryTag": "CCO", "Text": "WERE LIKE, OH, GIVE ME A BREAK."}
+{"StartTime": "20101216075851.000", "EndTime": "20101216075853.000", "PrimaryTag": "CCO", "Text": "THERE'S -- THAT IS SO NOT TRUE."}
+{"StartTime": "20101216075853.000", "EndTime": "20101216075855.000", "PrimaryTag": "CCO", "Text": "NOT EVEN -- "}
+{"StartTime": "20101216075855.000", "EndTime": "20101216075857.000", "PrimaryTag": "CCO", "Text": ">> WHEN I WAS DOING MADISON "}
+{"StartTime": "20101216075857.000", "EndTime": "20101216075859.000", "PrimaryTag": "CCO", "Text": "SQUARE GARDEN, THE PERSON WHO "}
+{"StartTime": "20101216075859.000", "EndTime": "20101216075901.000", "PrimaryTag": "CCO", "Text": "PUTS FLOWERS ON THE SET AND IN "}
+{"StartTime": "20101216075901.000", "EndTime": "20101216075903.000", "PrimaryTag": "CCO", "Text": "MY DRESSING ROOM, I GUESS, PUT "}
+{"StartTime": "20101216075903.000", "EndTime": "20101216075905.000", "PrimaryTag": "CCO", "Text": "SOME FLOWERS IN THE TOILET."}
+{"StartTime": "20101216075905.000", "EndTime": "20101216075907.000", "PrimaryTag": "CCO", "Text": "NOW, THIS IS NOT MY IDEA."}
+{"StartTime": "20101216075907.000", "EndTime": "20101216075909.000", "PrimaryTag": "CCO", "Text": "I WAS LIKE, WHOA, THAT IS GOING "}
+{"StartTime": "20101216075909.000", "EndTime": "20101216075911.000", "PrimaryTag": "CCO", "Text": "A LITTLE TOO FAR."}
+{"StartTime": "20101216075911.000", "EndTime": "20101216075912.667", "PrimaryTag": "CCO", "Text": "ALL OF A SUDDEN THE STORY IS "}
+{"StartTime": "20101216075912.667", "EndTime": "20101216075914.333", "PrimaryTag": "CCO", "Text": "THAT I INSIST ON THESE PETALS."}
+{"StartTime": "20101216075914.333", "EndTime": "20101216075916.000", "PrimaryTag": "CCO", "Text": "I WAS LIKE, WHAT ARE YOU TALKING"}
+{"StartTime": "20101216075916.000", "EndTime": "20101216075917.667", "PrimaryTag": "CCO", "Text": "ABOUT?"}
+{"StartTime": "20101216075917.667", "EndTime": "20101216075919.333", "PrimaryTag": "CCO", "Text": ">> Reporter: SHE POINTS OUT THAT"}
+{"StartTime": "20101216075919.333", "EndTime": "20101216075921.000", "PrimaryTag": "CCO", "Text": "MEN, WITH HER EXACTING "}
+{"StartTime": "20101216075921.000", "EndTime": "20101216075923.000", "PrimaryTag": "CCO", "Text": "STANDARDS, ARE CALLED "}
+{"StartTime": "20101216075923.000", "EndTime": "20101216075925.000", "PrimaryTag": "CCO", "Text": "COMMANDING, RATHER THAN "}
+{"StartTime": "20101216075925.000", "EndTime": "20101216075927.000", "PrimaryTag": "CCO", "Text": "DEMANDING."}
+{"StartTime": "20101216075927.000", "EndTime": "20101216075929.000", "PrimaryTag": "CCO", "Text": "SHE PREFERS PASSIONATE."}
+{"StartTime": "20101216075929.000", "EndTime": "20101216075931.000", "PrimaryTag": "CCO", "Text": "AND SHE'S NOW WRITTEN A BOOK, A "}
+{"StartTime": "20101216075931.000", "EndTime": "20101216075933.500", "PrimaryTag": "CCO", "Text": "BEST SELLER ALREADY, CALLED \"MY "}
+{"StartTime": "20101216075933.500", "EndTime": "20101216075936.000", "PrimaryTag": "CCO", "Text": "PASSION FOR DESIG\" AND HER "}
+{"StartTime": "20101216075936.000", "EndTime": "20101216075938.500", "PrimaryTag": "CCO", "Text": "HOME, AND PUT ASIDE PART OF THE "}
+{"StartTime": "20101216075938.500", "EndTime": "20101216075941.000", "PrimaryTag": "CCO", "Text": "PROCEEDS FOR WOMEN'S HEART "}
+{"StartTime": "20101216075941.000", "EndTime": "20101216075942.250", "PrimaryTag": "CCO", "Text": "DISEASE."}
+{"StartTime": "20101216075942.250", "EndTime": "20101216075943.500", "PrimaryTag": "CCO", "Text": ">> Reporter: THE PROCEEDS GOING "}
+{"StartTime": "20101216075943.500", "EndTime": "20101216075944.750", "PrimaryTag": "CCO", "Text": "TO SOMETHING THAT'S VERY DEAR TO"}
+{"StartTime": "20101216075944.750", "EndTime": "20101216075946.000", "PrimaryTag": "CCO", "Text": "YOU, THAT YOU'VE WORKED ON."}
+{"StartTime": "20101216075946.000", "EndTime": "20101216075947.250", "PrimaryTag": "CCO", "Text": "I'M A CANCER SURVIVOR, THOUGH "}
+{"StartTime": "20101216075947.250", "EndTime": "20101216075948.500", "PrimaryTag": "CCO", "Text": "PEOPLE DON'T REALIZE, HEART "}
+{"StartTime": "20101216075948.500", "EndTime": "20101216075949.750", "PrimaryTag": "CCO", "Text": "DISEASE, YOU COMBINE ALL THE "}
+{"StartTime": "20101216075949.750", "EndTime": "20101216075951.000", "PrimaryTag": "CCO", "Text": "CANCERS -- "}
+{"StartTime": "20101216075951.000", "EndTime": "20101216075953.500", "PrimaryTag": "CCO", "Text": ">> CAN YOU IMAGINE THAT?"}
+{"StartTime": "20101216075953.500", "EndTime": "20101216075956.000", "PrimaryTag": "CCO", "Text": "THAT'S WHAT GOT ME SO CRAZY."}
+{"StartTime": "20101216075956.000", "EndTime": "20101216075958.500", "PrimaryTag": "CCO", "Text": "I WAS SO SHOCKED BY THAT FACT "}
+{"StartTime": "20101216075958.500", "EndTime": "20101216080001.000", "PrimaryTag": "CCO", "Text": "THAT HEART DISEASE IN WOMEN "}
+{"StartTime": "20101216080001.000", "EndTime": "20101216080003.000", "PrimaryTag": "CCO", "Text": "KILLS MORE WOMEN THAN ALL "}
+{"StartTime": "20101216080003.000", "EndTime": "20101216080005.000", "PrimaryTag": "CCO", "Text": "CANCERS COMBINED."}
+{"StartTime": "20101216080005.000", "EndTime": "20101216080007.000", "PrimaryTag": "CCO", "Text": "YOU KNOW, AT FIRST, I THOUGHT, "}
+{"StartTime": "20101216080007.000", "EndTime": "20101216080009.000", "PrimaryTag": "CCO", "Text": "WAS IT JUST BREAST CANCER?"}
+{"StartTime": "20101216080009.000", "EndTime": "20101216080011.000", "PrimaryTag": "CCO", "Text": "FOR EVERYONE PERSON THAT DIES OF"}
+{"StartTime": "20101216080011.000", "EndTime": "20101216080013.000", "PrimaryTag": "CCO", "Text": "BREAST CANCER, TEN DIE OF HEART "}
+{"StartTime": "20101216080013.000", "EndTime": "20101216080015.000", "PrimaryTag": "CCO", "Text": "DISEASE."}
+{"StartTime": "20101216080015.000", "EndTime": "20101216080017.000", "PrimaryTag": "CCO", "Text": "AND I COULDN'T BELIEVE IT."}
+{"StartTime": "20101216080017.000", "EndTime": "20101216080019.000", "PrimaryTag": "CCO", "Text": "AND, ACTUALLY, I WAS TOLD ABOUT "}
+{"StartTime": "20101216080019.000", "EndTime": "20101216080021.000", "PrimaryTag": "CCO", "Text": "A THING CALLED THE YENTL "}
+{"StartTime": "20101216080021.000", "EndTime": "20101216080022.667", "PrimaryTag": "CCO", "Text": "SYNDROME."}
+{"StartTime": "20101216080022.667", "EndTime": "20101216080024.333", "PrimaryTag": "CCO", "Text": "IF A WOMAN DIFFERENT PRESENT "}
+{"StartTime": "20101216080024.333", "EndTime": "20101216080026.000", "PrimaryTag": "CCO", "Text": "HERSELF AS A MAN, SHE WOULDN'T "}
+{"StartTime": "20101216080026.000", "EndTime": "20101216080027.667", "PrimaryTag": "CCO", "Text": "BE TREATED RIGHT, YOU KNOW, FOR "}
+{"StartTime": "20101216080027.667", "EndTime": "20101216080029.333", "PrimaryTag": "CCO", "Text": "HER SYMPTOMS."}
+{"StartTime": "20101216080029.333", "EndTime": "20101216080031.000", "PrimaryTag": "CCO", "Text": "BUT DO YOU KNOW THAT MORE WOMEN "}
+{"StartTime": "20101216080031.000", "EndTime": "20101216080032.429", "PrimaryTag": "CCO", "Text": "DIE OF HEART DISEASE THAN MEN "}
+{"StartTime": "20101216080032.429", "EndTime": "20101216080033.857", "PrimaryTag": "CCO", "Text": "NOW?"}
+{"StartTime": "20101216080033.857", "EndTime": "20101216080035.286", "PrimaryTag": "CCO", "Text": ">> Reporter: YENTL, OF COURSE, "}
+{"StartTime": "20101216080035.286", "EndTime": "20101216080036.714", "PrimaryTag": "CCO", "Text": "WAS ANOTHER OF HER SIGNATURE "}
+{"StartTime": "20101216080036.714", "EndTime": "20101216080038.143", "PrimaryTag": "CCO", "Text": "ROLES, AND IN SO MANY WAYS, IT "}
+{"StartTime": "20101216080038.143", "EndTime": "20101216080039.571", "PrimaryTag": "CCO", "Text": "IS THE ROLE THAT BEST SUMS HER "}
+{"StartTime": "20101216080039.571", "EndTime": "20101216080041.000", "PrimaryTag": "CCO", "Text": "UP."}
+{"StartTime": "20101216080041.000", "EndTime": "20101216080042.667", "PrimaryTag": "CCO", "Text": " TRY TO UNDERSTAND ME "}
+{"StartTime": "20101216080042.667", "EndTime": "20101216080044.333", "PrimaryTag": "CCO", "Text": ">> Reporter: IT IS THE STORY OF "}
+{"StartTime": "20101216080044.333", "EndTime": "20101216080046.000", "PrimaryTag": "CCO", "Text": "A GIRL WHO CUT OFF HER HAIR SO "}
+{"StartTime": "20101216080046.000", "EndTime": "20101216080047.667", "PrimaryTag": "CCO", "Text": "SHE COULD MAKE HER WAY IN THE "}
+{"StartTime": "20101216080047.667", "EndTime": "20101216080049.333", "PrimaryTag": "CCO", "Text": "WORLD AS A MAN."}
+{"StartTime": "20101216080049.333", "EndTime": "20101216080051.000", "PrimaryTag": "CCO", "Text": "STREISAND SPENT FIVE YEARS "}
+{"StartTime": "20101216080051.000", "EndTime": "20101216080052.429", "PrimaryTag": "CCO", "Text": "TRYING TO GET THE PICTURE MADE, "}
+{"StartTime": "20101216080052.429", "EndTime": "20101216080053.857", "PrimaryTag": "CCO", "Text": "AND ULTIMATELY WROTE, PRODUCED, "}
+{"StartTime": "20101216080053.857", "EndTime": "20101216080055.286", "PrimaryTag": "CCO", "Text": "STARRED IN AND DIRECTED THE "}
+{"StartTime": "20101216080055.286", "EndTime": "20101216080056.714", "PrimaryTag": "CCO", "Text": "FILM, THE FIRST WOMAN TO PLAY "}
+{"StartTime": "20101216080056.714", "EndTime": "20101216080058.143", "PrimaryTag": "CCO", "Text": "ALL THOSE PARTS IN THE SAME "}
+{"StartTime": "20101216080058.143", "EndTime": "20101216080059.571", "PrimaryTag": "CCO", "Text": "FILM."}
+{"StartTime": "20101216080059.571", "EndTime": "20101216080101.000", "PrimaryTag": "CCO", "Text": "SO, YOU SEE YOURSELF DIRECTING "}
+{"StartTime": "20101216080101.000", "EndTime": "20101216080103.500", "PrimaryTag": "CCO", "Text": "BEFORE STARRING IN A MAJOR "}
+{"StartTime": "20101216080103.500", "EndTime": "20101216080106.000", "PrimaryTag": "CCO", "Text": "PRODUCTION AGAIN?"}
+{"StartTime": "20101216080106.000", "EndTime": "20101216080108.500", "PrimaryTag": "CCO", "Text": ">> WELL, IT WOULD BE NICER."}
+{"StartTime": "20101216080108.500", "EndTime": "20101216080111.000", "PrimaryTag": "CCO", "Text": "YOU DON'T HAVE TO, YOU KNOW, GET"}
+{"StartTime": "20101216080111.000", "EndTime": "20101216080112.429", "PrimaryTag": "CCO", "Text": "UP AND DO YOUR HAIR, YOU DON'T "}
+{"StartTime": "20101216080112.429", "EndTime": "20101216080113.857", "PrimaryTag": "CCO", "Text": "HAVE TO LEARN LINES, YOU DON'T "}
+{"StartTime": "20101216080113.857", "EndTime": "20101216080115.286", "PrimaryTag": "CCO", "Text": "HAVE TO HAVE COSTUME FITTINGS, "}
+{"StartTime": "20101216080115.286", "EndTime": "20101216080116.714", "PrimaryTag": "CCO", "Text": "MAKEUP AND ALL THAT STUFF."}
+{"StartTime": "20101216080116.714", "EndTime": "20101216080118.143", "PrimaryTag": "CCO", "Text": "I DON'T REALLY LIKE THAT PART OF"}
+{"StartTime": "20101216080118.143", "EndTime": "20101216080119.571", "PrimaryTag": "CCO", "Text": "IT."}
+{"StartTime": "20101216080119.571", "EndTime": "20101216080121.000", "PrimaryTag": "CCO", "Text": ">> Reporter: IF YOU HAD TO "}
+{"StartTime": "20101216080121.000", "EndTime": "20101216080123.000", "PrimaryTag": "CCO", "Text": "CHOOSE, IF SOMEONE SAID, YOU CAN"}
+{"StartTime": "20101216080123.000", "EndTime": "20101216080125.000", "PrimaryTag": "CCO", "Text": "SING, ACT, DIRECT OR DESIGN -- "}
+{"StartTime": "20101216080125.000", "EndTime": "20101216080127.000", "PrimaryTag": "CCO", "Text": ">> PROBABLY SAID DIRECT."}
+{"StartTime": "20101216080127.000", "EndTime": "20101216080129.000", "PrimaryTag": "CCO", "Text": "BECAUSE IT'S THE WHOLE."}
+{"StartTime": "20101216080129.000", "EndTime": "20101216080131.000", "PrimaryTag": "CCO", "Text": "I KNEW IT WOULD BE KIND OF "}
+{"StartTime": "20101216080131.000", "EndTime": "20101216080133.000", "PrimaryTag": "CCO", "Text": "DANGEROUS TO TRY TO DIRECT A "}
+{"StartTime": "20101216080133.000", "EndTime": "20101216080135.000", "PrimaryTag": "CCO", "Text": "MOVIE AND -- IT WAS SCARY."}
+{"StartTime": "20101216080135.000", "EndTime": "20101216080137.000", "PrimaryTag": "CCO", "Text": "TO GO INTO, YOU KNOW, A MAN'S "}
+{"StartTime": "20101216080137.000", "EndTime": "20101216080139.000", "PrimaryTag": "CCO", "Text": "WORLD AND KNOW I'M GOING TO BE "}
+{"StartTime": "20101216080139.000", "EndTime": "20101216080141.000", "PrimaryTag": "CCO", "Text": "CRITICIZED, IN A SENSE."}
+{"StartTime": "20101216080141.000", "EndTime": "20101216080142.667", "PrimaryTag": "CCO", "Text": "BUT THAT'S -- THAT'S WHAT "}
+{"StartTime": "20101216080142.667", "EndTime": "20101216080144.333", "PrimaryTag": "CCO", "Text": "INTERESTS ME."}
+{"StartTime": "20101216080144.333", "EndTime": "20101216080146.000", "PrimaryTag": "CCO", "Text": "I LIKE THE CHALLENGE OF, HOW DO "}
+{"StartTime": "20101216080146.000", "EndTime": "20101216080147.667", "PrimaryTag": "CCO", "Text": "YOU TELL A STORY?"}
+{"StartTime": "20101216080147.667", "EndTime": "20101216080149.333", "PrimaryTag": "CCO", "Text": "HOW DO YOU GET THE BEST OUT OF "}
+{"StartTime": "20101216080149.333", "EndTime": "20101216080151.000", "PrimaryTag": "CCO", "Text": "ACTORS' PERFORMANCES?"}
+{"StartTime": "20101216080151.000", "EndTime": "20101216080153.000", "PrimaryTag": "CCO", "Text": "AND YOU CAN BE IN THE MOLT."}
+{"StartTime": "20101216080153.000", "EndTime": "20101216080155.000", "PrimaryTag": "CCO", "Text": "YOU CAN TURN THE CAMERA AND SAY,"}
+{"StartTime": "20101216080155.000", "EndTime": "20101216080157.000", "PrimaryTag": "CCO", "Text": "OH, MY GOD, A BEE JUST FLEW IN "}
+{"StartTime": "20101216080157.000", "EndTime": "20101216080159.000", "PrimaryTag": "CCO", "Text": "AND, YOU KNOW, PUT THAT CLOSEUP "}
+{"StartTime": "20101216080159.000", "EndTime": "20101216080201.000", "PrimaryTag": "CCO", "Text": "ON THAT BEE AND LET'S WATCH HIM "}
+{"StartTime": "20101216080201.000", "EndTime": "20101216080202.429", "PrimaryTag": "CCO", "Text": "JUST SIP FROM THE NECTAR OF THAT"}
+{"StartTime": "20101216080202.429", "EndTime": "20101216080203.857", "PrimaryTag": "CCO", "Text": "FLOWER."}
+{"StartTime": "20101216080203.857", "EndTime": "20101216080205.286", "PrimaryTag": "CCO", "Text": "YOU KNOW, IT'S JUST SO ALIVE."}
+{"StartTime": "20101216080205.286", "EndTime": "20101216080206.714", "PrimaryTag": "CCO", "Text": ">> Reporter: AND SO IS BARBRA "}
+{"StartTime": "20101216080206.714", "EndTime": "20101216080208.143", "PrimaryTag": "CCO", "Text": "STREISAND."}
+{"StartTime": "20101216080208.143", "EndTime": "20101216080209.571", "PrimaryTag": "CCO", "Text": ">> AREN'T THEY BEAUTIFUL?"}
+{"StartTime": "20101216080209.571", "EndTime": "20101216080211.000", "PrimaryTag": "CCO", "Text": ">> Reporter: GORGEOUS."}
+{"StartTime": "20101216080211.000", "EndTime": "20101216080212.667", "PrimaryTag": "CCO", "Text": "FOR \"NIGHTLINE,\" I'M ROBIN "}
+{"StartTime": "20101216080212.667", "EndTime": "20101216080214.333", "PrimaryTag": "CCO", "Text": "ROBERTS IN MALIBU."}
+{"StartTime": "20101216080214.333", "EndTime": "20101216080216.000", "PrimaryTag": "CCO", "Text": ">> THE ONE AND ONLY."}
+{"StartTime": "20101216080216.000", "EndTime": "20101216080217.667", "PrimaryTag": "CCO", "Text": "WE'LL BE RIGHT BACK, BUT FIRST, "}
+{"StartTime": "20101216080217.667", "EndTime": "20101216080219.333", "PrimaryTag": "CCO", "Text": "HERE'S JIMMY KIMMEL WITH WHAT'S "}
+{"StartTime": "20101216080219.333", "EndTime": "20101216080221.000", "PrimaryTag": "CCO", "Text": "COMING UP NEXT."}
+{"StartTime": "20101216080221.000", "EndTime": "20101216080222.667", "PrimaryTag": "CCO", "Text": "JIMMY?"}
+{"StartTime": "20101216080222.667", "EndTime": "20101216080224.333", "PrimaryTag": "CCO", "Text": ">> Jimmy: TONIGHT, MARK "}
+{"StartTime": "20101216080224.333", "EndTime": "20101216080226.000", "PrimaryTag": "CCO", "Text": "WAHLBERG, BEAU GARRETT, MUSIC "}
+{"StartTime": "20101216080226.000", "EndTime": "20101216080227.667", "PrimaryTag": "CCO", "Text": "FROM THE TEMPER TRAP AND FROSTY "}
+{"StartTime": "20101216080227.667", "EndTime": "20101216080229.333", "PrimaryTag": "CCO", "Text": "THE SNOWMAN MEETS MAURY THE "}
+{"StartTime": "20101216080229.333", "EndTime": "20101216080301.000", "PrimaryTag": "CCO", "Text": "POVICH."}
+{"StartTime": "20101216080301.000", "EndTime": "20101216080301.667", "PrimaryTag": "CCO", "Text": "JIMMY KIMMEL LIVE IS NEXT."}
+{"StartTime": "20101216080301.667", "EndTime": "20101216080551.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20101216080301.667", "EndTime": "20101216080302.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080302.333", "EndTime": "20101216080303.000", "PrimaryTag": "CCO", "Text": "        [ Female Announcer ]"}
+{"StartTime": "20101216080303.000", "EndTime": "20101216080303.667", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216080303.667", "EndTime": "20101216080304.333", "PrimaryTag": "CCO", "Text": "  GIVE YOURSELF THE GIFT OF TIME"}
+{"StartTime": "20101216080304.333", "EndTime": "20101216080305.000", "PrimaryTag": "CCO", "Text": "    WITH THE KFC Festive Feast."}
+{"StartTime": "20101216080305.000", "EndTime": "20101216080305.667", "PrimaryTag": "CCO", "Text": "  TWELVE PIECES OF THE COLONEL'S"}
+{"StartTime": "20101216080305.667", "EndTime": "20101216080306.333", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216080306.333", "EndTime": "20101216080307.000", "PrimaryTag": "CCO", "Text": "            HAND BREADED"}
+{"StartTime": "20101216080307.000", "EndTime": "20101216080307.667", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080307.667", "EndTime": "20101216080308.333", "PrimaryTag": "CCO", "Text": "    Original Recipe Chicken."}
+{"StartTime": "20101216080308.333", "EndTime": "20101216080309.000", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216080309.000", "EndTime": "20101216080309.667", "PrimaryTag": "CCO", "Text": "        WITH THREE SIDES"}
+{"StartTime": "20101216080309.667", "EndTime": "20101216080310.333", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216080310.333", "EndTime": "20101216080311.000", "PrimaryTag": "CCO", "Text": "        AND SIX BISCUITS"}
+{"StartTime": "20101216080311.000", "EndTime": "20101216080313.500", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216080313.500", "EndTime": "20101216080316.000", "PrimaryTag": "CCO", "Text": "        FOR ONLY $19.99."}
+{"StartTime": "20101216080316.000", "EndTime": "20101216080318.500", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080318.500", "EndTime": "20101216080431.000", "PrimaryTag": "CCO", "Text": "    HAVE A SO GOOD HOLIDAY."}
+{"StartTime": "20101216080431.000", "EndTime": "20101216080432.429", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080432.429", "EndTime": "20101216080433.857", "PrimaryTag": "CCO", "Text": "        THIS HOLIDAY SEASON,"}
+{"StartTime": "20101216080433.857", "EndTime": "20101216080435.286", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080435.286", "EndTime": "20101216080436.714", "PrimaryTag": "CCO", "Text": "    CHEVY'S GIVING YOU MORE."}
+{"StartTime": "20101216080436.714", "EndTime": "20101216080438.143", "PrimaryTag": "CCO", "Text": "      LIKE A 100,000 MILE/5-YEAR"}
+{"StartTime": "20101216080438.143", "EndTime": "20101216080439.571", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216080439.571", "EndTime": "20101216080441.000", "PrimaryTag": "CCO", "Text": "         POWERTRAIN WARRANTY.   "}
+{"StartTime": "20101216080441.000", "EndTime": "20101216080442.111", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080442.111", "EndTime": "20101216080443.222", "PrimaryTag": "CCO", "Text": "        THAT'S 40,000 MILES"}
+{"StartTime": "20101216080443.222", "EndTime": "20101216080444.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080444.333", "EndTime": "20101216080445.444", "PrimaryTag": "CCO", "Text": "          MORE THAN FORD.  "}
+{"StartTime": "20101216080445.444", "EndTime": "20101216080446.556", "PrimaryTag": "CCO", "Text": "     AND NOW WE'RE GIVING YOU  "}
+{"StartTime": "20101216080446.556", "EndTime": "20101216080447.667", "PrimaryTag": "CCO", "Text": ""}
+{"StartTime": "20101216080447.667", "EndTime": "20101216080448.778", "PrimaryTag": "CCO", "Text": "    OUR BEST OFFER OF THE YEAR."}
+{"StartTime": "20101216080448.778", "EndTime": "20101216080449.889", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080449.889", "EndTime": "20101216080451.000", "PrimaryTag": "CCO", "Text": "        0% APR FINANCING..."}
+{"StartTime": "20101216080451.000", "EndTime": "20101216080451.556", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080451.556", "EndTime": "20101216080452.111", "PrimaryTag": "CCO", "Text": "            PLUS $1,500     "}
+{"StartTime": "20101216080452.111", "EndTime": "20101216080452.667", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080452.667", "EndTime": "20101216080453.222", "PrimaryTag": "CCO", "Text": "        HOLIDAY ALLOWANCE..."}
+{"StartTime": "20101216080453.222", "EndTime": "20101216080453.778", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080453.778", "EndTime": "20101216080454.333", "PrimaryTag": "CCO", "Text": "         PLUS NO MONTHLY    "}
+{"StartTime": "20101216080454.333", "EndTime": "20101216080454.889", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080454.889", "EndTime": "20101216080455.444", "PrimaryTag": "CCO", "Text": "      PAYMENTS UNTIL SPRING."}
+{"StartTime": "20101216080455.444", "EndTime": "20101216080456.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080456.000", "EndTime": "20101216080456.556", "PrimaryTag": "CCO", "Text": "      ON MOST CHEVY MODELS."}
+{"StartTime": "20101216080456.556", "EndTime": "20101216080457.111", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080457.111", "EndTime": "20101216080457.667", "PrimaryTag": "CCO", "Text": "            BUT HURRY,     "}
+{"StartTime": "20101216080457.667", "EndTime": "20101216080458.222", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080458.222", "EndTime": "20101216080458.778", "PrimaryTag": "CCO", "Text": "        BECAUSE YOUR CHANCE"}
+{"StartTime": "20101216080458.778", "EndTime": "20101216080459.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080459.333", "EndTime": "20101216080459.889", "PrimaryTag": "CCO", "Text": "          TO GET OUR BEST  "}
+{"StartTime": "20101216080459.889", "EndTime": "20101216080500.444", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080500.444", "EndTime": "20101216080501.000", "PrimaryTag": "CCO", "Text": "        OFFER OF THE SEASON"}
+{"StartTime": "20101216080501.000", "EndTime": "20101216080502.667", "PrimaryTag": "CCO", "Text": "        "}
+{"StartTime": "20101216080502.667", "EndTime": "20101216080504.333", "PrimaryTag": "CCO", "Text": "              ENDS SOON."}
+{"StartTime": "20101216080504.333", "EndTime": "20101216080506.000", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080506.000", "EndTime": "20101216080507.667", "PrimaryTag": "CCO", "Text": "           SEE YOUR LOCAL  "}
+{"StartTime": "20101216080507.667", "EndTime": "20101216080509.333", "PrimaryTag": "CCO", "Text": "    "}
+{"StartTime": "20101216080509.333", "EndTime": "20101216080551.000", "PrimaryTag": "CCO", "Text": "          CHEVY DEALER NOW."}
+{"StartTime": "20101216080551.000", "EndTime": "20101216080556.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20101216080551.000", "EndTime": "20101216080556.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101216080551.000", "EndTime": "20101216080553.500", "PrimaryTag": "CCO", "Text": ">>> TIME NOW FOR TONIGHT'S "}
+{"StartTime": "20101216080553.500", "EndTime": "20101216080556.000", "PrimaryTag": "CCO", "Text": "CLOSING ARGUEth."}
+{"StartTime": "20101216080556.000", "EndTime": "20101216080558.500", "PrimaryTag": "CCO", "Text": "DESPITE SUSTAINED CRITICISM FOR "}
+{"StartTime": "20101216080558.500", "EndTime": "20101216080556.000", "PrimaryTag": "CCO", "Text": "REPUBLICANS AT THE OBAMA "}
+{"End": "20101216080556", "FileName": "2010-12-16_0735_US_KABC_Nightline"}

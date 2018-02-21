@@ -1,0 +1,27 @@
+TOP|20101217185100|2010-12-17_1851_US_CampaignAds_Joe_Donnelly
+COL|Communication Studies Archive, UCLA
+UID|ae0943ea-16e8-11e2-a67e-e7ba8809d598
+AQD|2012-10-15 1652 UTC
+DUR|0:01:16.36
+VID|1280x720
+TTL|Casework Success Story Patricia
+URL|http://youtube.com/watch?v=BKsl3Dj9DW8
+TTS|Youtube English machine transcript 2012-10-15 1652 UTC
+CMT|
+HED|This video is the first installment in Congressman Donnelly's video series, &quot;Casework Success Stories.&quot; The purpose of this series is to help inform others about the services that Congressman Donnelly's office offers and also to encourage others to contact Congressman Donnelly if he can help in any way.<br /><br />In this video, Patricia Moran of South Bend tells the story of how Congressman Donnelly helped her recover Social Security benefits owed to her.
+LAN|ENG
+LBT|2010-12-17 13:51 America/New_York
+SEG_02|2014-02-25 00:18|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+SMT_01|2014-07-28 21:11|Source_Program=Pattern 2.6, seg-sentiment|Source_Person=Tom De Smedt
+SMT_02|2014-07-28 21:11|Source_Program=SentiWordNet 3.0, seg-sentiment|Source_Person=Andrea Esuli
+POS_02|2014-08-13 01:58|Source_Program=stanford-postagger 3.4, PartsOfSpeech-StanfordNLP-02.py|Source_Person=Kristina Toutanova, FFS|Codebook=Treebank II
+POS_01|2014-09-08 17:40|Source_Program=MBSP 1.4, PartsOfSpeech-MBSP-05.py|Source_Person=Walter Daelemans, FFS|Codebook=Treebank II
+NER_03|2016-12-18 19:20|Source_Program=stanford-ner 3.4, NER-StanfordNLP-03.py|Source_Person=Jenny Rose Finkel, FFS|Codebook=Category=Entity
+20101217185105.810|20101217185210.439|SEG_02|Type=Story|Score=1.0
+20101217185105.810|20101217185210.439|TR1|well originally approached representative families on this interests i have received favorable decision not necessary confidants there's this monthly benefits somehow extended focus on that the races they must have this pretty soon made it very clear to expanding work this summer with the wind security has a sacred trust anyway even without it any treatment work five technorati is the very much
+20101217185105.810|20101217185210.439|NER_03|DATE=summer|ORGANIZATION=technorati
+20101217185105.810|20101217185210.439|POS_01|well/RB/I-ADVP/O/well|originally/RB/I-ADVP/O/originally|approached/VBD/I-VP/O/approach|representative/JJ/I-NP/O/representative|families/NNS/I-NP/O/family|on/IN/I-PP/B-PNP/on|this/DT/I-NP/I-PNP/this|interests/NNS/I-NP/I-PNP/interest|i/FW/I-NP/I-PNP/i|have/VBP/I-VP/O/have|received/VBN/I-VP/O/receive|favorable/JJ/I-NP/O/favorable|decision/NN/I-NP/O/decision|not/RB/I-ADVP/O/not|necessary/JJ/I-NP/O/necessary|confidants/NNS/I-NP/O/confidant|there/EX/I-NP/O/there|'s/VBZ/I-VP/O/'s|this/DT/I-NP/O/this|monthly/JJ/I-NP/O/monthly|benefits/NNS/I-NP/O/benefit|somehow/RB/I-VP/O/somehow|extended/VBN/I-VP/O/extend|focus/NN/I-NP/O/focus|on/IN/I-PP/O/on|that/IN/I-SBAR/O/that|the/DT/I-NP/O/the|races/NNS/I-NP/O/race|they/PRP/B-NP/O/they|must/MD/I-VP/O/must|have/VB/I-VP/O/have|this/DT/I-NP/O/this|pretty/RB/I-NP/O/pretty|soon/RB/I-VP/O/soon|made/VBD/I-VP/O/make|it/PRP/I-NP/O/it|very/RB/I-ADJP/O/very|clear/JJ/I-ADJP/O/clear|to/TO/I-PP/O/to|expanding/VBG/I-VP/O/expand|work/VB/I-VP/O/work|this/DT/I-NP/O/this|summer/NN/I-NP/O/summer|with/IN/I-PP/B-PNP/with|the/DT/I-NP/I-PNP/the|wind/NN/I-NP/I-PNP/wind|security/NN/I-NP/I-PNP/security|has/VBZ/I-VP/O/have|a/DT/I-NP/O/a|sacred/JJ/I-NP/O/sacred|trust/NN/I-NP/O/trust|anyway/RB/I-ADVP/O/anyway|even/RB/B-ADVP/O/even|without/IN/I-PP/B-PNP/without|it/PRP/I-NP/I-PNP/it|any/DT/B-NP/O/any|treatment/NN/I-NP/O/treatment|work/NN/I-NP/O/work|five/CD/B-NP/O/five|technorati/NN/I-NP/O/technorati|is/VBZ/I-VP/O/be|the/DT/I-NP/O/the|very/RB/I-NP/O/very|much/JJ/I-NP/O/much
+20101217185105.810|20101217185210.439|POS_02|well/RB|originally/RB|approached/VBN|representative/JJ|families/NNS|on/IN|this/DT|interests/NNS|i/PRP|have/VBP|received/VBN|favorable/JJ|decision/NN|not/RB|necessary/JJ|confidants/NNS|there's/IN|this/DT|monthly/JJ|benefits/NNS|somehow/RB|extended/VBD|focus/NN|on/IN|that/IN|the/DT|races/NNS|they/PRP|must/MD|have/VB|this/DT|pretty/RB|soon/RB|made/VBD|it/PRP|very/RB|clear/JJ|to/TO|expanding/VBG|work/NN|this/DT|summer/NN|with/IN|the/DT|wind/NN|security/NN|has/VBZ|a/DT|sacred/JJ|trust/NN|anyway/RB|even/RB|without/IN|it/PRP|any/DT|treatment/NN|work/NN|five/CD|technorati/NNP|is/VBZ|the/DT|very/RB|much/JJ|
+20101217185105.810|20101217185210.439|SMT_01|0.203|0.701666666667|originally|0.375|0.75|not necessary|-0.0|1.0|pretty|0.25|1.0|very clear|0.13|0.498333333333|very much|0.26|0.26
+20101217185105.810|20101217185210.439|SMT_02|well|0.75|0.75|representative|0.0|0.0|on|0.0|0.0|i|-0.25|0.25|received|0.125|0.125|favorable|0.75|0.75|necessary|0.625|0.625|monthly|0.0|0.0|extended|0.0|0.0|on|0.0|0.0|must|0.625|0.625|pretty|0.75|1.0|made|0.0|0.0|very|0.5|0.5|clear|0.5|0.5|sacred|0.0|0.0|even|0.375|0.375|any|0.0|0.0|five|0.0|0.0|very|0.5|0.5|much|0.0|0.0
+END|20101217185216|2010-12-17_1851_US_CampaignAds_Joe_Donnelly

@@ -1,0 +1,233 @@
+TOP|20110104070001|2011-01-04_0700_US_KMEX_Noticias_34
+COL|Communication Studies Archive, UCLA
+UID|65d425dc-17d4-11e0-9d31-001517add6f2
+DUR|0:29:39.27
+VID|640x480
+CMT|
+LAN|SPA
+LBT|2011-01-03 23:00 America/Los_Angeles
+SEG_01|2014-02-14 18:21:14|Source_Program=commercial_detection.py|Source_Person=Weixin Li
+SEG_02|2014-02-25 00:28|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+POS_05|2015-02-05 15:34|Source_Program=Pattern.de 2.6, PartsOfSpeech-pattern_es-01.py|Source_Person=Tom De Smedt, FFS|Codebook=Treebank II
+20110104070008.000|20110104072609.000|SEG|Type=Story|Score=1.0
+20110104070008.000|20110104070018.000|CC1|>> La pareja discutio.
+20110104070008.000|20110104070018.000|POS_05|La/DT/B-NP/O/O/el|pareja/NN/I-NP/O/O/pareja|discutio/NN/I-NP/O/O/discutio|././O/O/O/.
+20110104070018.000|20110104070023.000|CC1|esta desfiguraba.
+20110104070018.000|20110104070023.000|POS_05|esta/DT/B-NP/O/O/esta|desfiguraba/NN/I-NP/O/O/desfiguraba|././O/O/O/.
+20110104070023.000|20110104070034.000|CC1|>> Le prendió fuego y se dio a la fuga.
+20110104070023.000|20110104070034.000|POS_05|Le/PRP/B-NP/O/NP-SBJ-1/le|prendió/NN/I-NP/O/NP-SBJ-1/prendió|fuego/NN/I-NP/O/NP-SBJ-1/fuego|y/CC/I-NP/O/NP-SBJ-1/y|se/PRP/I-NP/O/NP-SBJ-1/se|dio/VB/B-VP/O/VP-1/dar|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|fuga/NN/I-NP/I-PNP/O/fuga|././O/O/O/.
+20110104070034.000|20110104070046.000|CC1|>> MMaribel pronto estará de cumpleaños.
+20110104070034.000|20110104070046.000|POS_05|MMaribel/NN/B-NP/O/NP-SBJ-1/mmaribel|pronto/RB/I-NP/O/NP-SBJ-1/pronto|estará/MD/B-VP/O/VP-1/estar|de/IN/B-PP/B-PNP/O/de|cumpleaños/NN/B-NP/I-PNP/O/cumpleaños|././O/O/O/.
+20110104070046.000|20110104070053.000|CC1|>> El tiene que pagar por lo que hizo.
+20110104070046.000|20110104070053.000|POS_05|El/PRP/B-NP/O/NP-SBJ-1/el|tiene/VB/B-VP/O/VP-1/tener|que/IN/B-PP/O/O/que|pagar/VB/B-VP/O/O/pagar|por/IN/B-PP/O/O/por|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|hizo/VB/B-VP/O/O/hacer|././O/O/O/.
+20110104070053.000|20110104070109.000|CC1|>> Si usted tiene información por favor , avisenos.
+20110104070053.000|20110104070109.000|POS_05|Si/IN/B-PP/B-PNP/O/si|usted/PRP/B-NP/I-PNP/NP-SBJ-1/usted|tiene/VB/B-VP/O/VP-1/tener|información/NN/B-NP/O/NP-OBJ-1/información|por/IN/B-PP/O/O/por|favor/RB/B-ADVP/O/O/favor|,/,/O/O/O/,|avisenos/NN/B-NP/O/O/avisenos|././O/O/O/.
+20110104070109.000|20110104070122.000|CC1|>> Volv .
+20110104070109.000|20110104070122.000|POS_05|Volv/NNP/B-NP/O/O/volv|././O/O/O/.
+20110104070122.000|20110104070131.000|CC1|>>  Esto es noticias.
+20110104070122.000|20110104070131.000|POS_05|Esto/DT/O/O/O/esto|es/VB/B-VP/O/VP-1/ser|noticias/NNS/B-NP/O/NP-OBJ-1/noticia|././O/O/O/.
+20110104070131.000|20110104070149.000|CC1|>> Atentado terrorista en gGuatemala , se piensa que fueron zLos Zetas .
+20110104070131.000|20110104070149.000|POS_05|Atentado/NN/B-NP/O/O/atentado|terrorista/JJ/I-NP/O/O/terroristo|en/IN/B-PP/B-PNP/O/en|gGuatemala/NN/B-NP/I-PNP/NP-SBJ-1/gguatemala|,/,/I-NP/I-PNP/NP-SBJ-1/,|se/PRP/I-NP/I-PNP/NP-SBJ-1/se|piensa/VB/B-VP/O/VP-1/pensar|que/IN/B-PP/O/O/que|fueron/VB/B-VP/O/VP-2/ser|zLos/NN/B-NP/O/NP-OBJ-2/zlos|Zetas/NNP/I-NP/O/NP-OBJ-2/zetas|././O/O/O/.
+20110104070149.000|20110104070204.000|CC1|>> los economistas dicen que se vienen muchísimoes trabajos.
+20110104070149.000|20110104070204.000|POS_05|los/DT/B-NP/O/NP-SBJ-1/el|economistas/NNS/I-NP/O/NP-SBJ-1/economista|dicen/VB/B-VP/O/VP-1/decir|que/IN/B-PP/B-PNP/O/que|se/PRP/B-NP/I-PNP/NP-SBJ-2/se|vienen/VB/B-VP/O/VP-2/venir|muchísimoes/NN/B-NP/O/NP-OBJ-2/muchísimoes|trabajos/NNS/I-NP/O/NP-OBJ-2/trabajo|././O/O/O/.
+20110104070204.000|20110104070217.000|CC1|>> Esta usted preparado para los buenos trabajos?. 
+20110104070204.000|20110104070217.000|POS_05|Esta/DT/B-NP/O/NP-SBJ-1/esta|usted/PRP/I-NP/O/NP-SBJ-1/usted|preparado/VBN/B-VP/O/VP-1/preparar|para/IN/B-PP/B-PNP/O/para|los/DT/B-NP/I-PNP/O/el|buenos/JJ/I-NP/I-PNP/O/bueno|trabajos/NNS/I-NP/I-PNP/O/trabajo|?/./O/O/O/?|././O/O/O/.
+20110104070217.000|20110104070233.000|CC1|>> Predicen un aumento de 2 millones para este años.
+20110104070217.000|20110104070233.000|POS_05|Predicen/VB/B-VP/O/VP-1/predecir|un/DT/B-NP/O/NP-OBJ-1/un|aumento/NN/I-NP/O/NP-OBJ-1/aumento|de/IN/B-PP/O/O/de|2/CD/O/O/O/2|millones/CD/O/O/O/millones|para/IN/B-PP/B-PNP/O/para|este/DT/B-NP/I-PNP/O/este|años/NNS/I-NP/I-PNP/O/año|././O/O/O/.
+20110104070233.000|20110104070251.000|CC1|>> debes presentar características que tú eres , debes vender la buena presencia.
+20110104070233.000|20110104070251.000|POS_05|debes/VB/B-VP/O/VP-1/deber|presentar/VB/I-VP/O/VP-1/presentar|características/NNS/B-NP/O/NP-OBJ-1/característica|que/WP$/O/O/O/que|tú/PRP/B-NP/O/NP-SBJ-2/tú|eres/VB/B-VP/O/VP-2/ser|,/,/O/O/O/,|debes/VB/B-VP/O/VP-3/deber|vender/VB/I-VP/O/VP-3/vender|la/DT/B-NP/O/NP-OBJ-3/el|buena/JJ/I-NP/O/NP-OBJ-3/bueno|presencia/NN/I-NP/O/NP-OBJ-3/presencia|././O/O/O/.
+20110104070251.000|20110104070303.000|CC1|>> Tú manera de vestir, debes verte profesional.
+20110104070251.000|20110104070303.000|POS_05|Tú/PRP/B-NP/O/O/tú|manera/NN/I-NP/O/O/manera|de/IN/B-PP/O/O/de|vestir/VB/B-VP/O/O/vestir|,/,/O/O/O/,|debes/VB/B-VP/O/VP-1/deber|verte/NN/B-NP/O/NP-OBJ-1/verte|profesional/JJ/I-NP/O/NP-OBJ-1/profesional|././O/O/O/.
+20110104070303.000|20110104070316.000|CC1|>> Llegar a tiempò , un Bun resumen de trabajo,.
+20110104070303.000|20110104070316.000|POS_05|Llegar/VB/B-VP/O/O/llegar|a/IN/B-PP/B-PNP/O/a|tiempò/NN/B-NP/I-PNP/O/tiempò|,/,/O/O/O/,|un/DT/B-NP/O/O/un|Bun/NNP/I-NP/O/O/bun|resumen/NN/I-NP/O/O/resumen|de/IN/B-PP/B-PNP/O/de|trabajo/NN/B-NP/I-PNP/O/trabajo|,/,/O/O/O/,|././O/O/O/.
+20110104070316.000|20110104070332.000|CC1|>> Entra a la páginaes que enseñan hacer curriculum.
+20110104070316.000|20110104070332.000|POS_05|Entra/VB/B-VP/O/O/entrar|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|páginaes/NN/I-NP/I-PNP/O/páginaes|que/WP$/O/O/O/que|enseñan/VB/B-VP/O/VP-1/enseñar|hacer/VB/I-VP/O/VP-1/hacer|curriculum/NN/B-NP/O/NP-OBJ-1/curriculum|././O/O/O/.
+20110104070332.000|20110104070341.000|CC1|>> Debes ser amable y sentir entusiasmo.
+20110104070332.000|20110104070341.000|POS_05|Debes/VB/B-VP/O/O/deber|ser/VB/I-VP/O/O/ser|amable/JJ/B-ADJP/O/O/amable|y/CC/O/O/O/y|sentir/VB/B-VP/O/VP-1/sentir|entusiasmo/NN/B-NP/O/NP-OBJ-1/entusiasmo|././O/O/O/.
+20110104070341.000|20110104070355.000|CC1|>> No sñ le olvide dar las gracias a la persona que entrevista.
+20110104070341.000|20110104070355.000|POS_05|No/RB/B-ADVP/O/O/no|sñ/NN/B-NP/O/NP-SBJ-1/sñ|le/PRP/I-NP/O/NP-SBJ-1/le|olvide/NN/I-NP/O/NP-SBJ-1/olvide|dar/VB/B-VP/O/VP-1/dar|las/PRP/B-NP/O/NP-OBJ-1/las|gracias/IN/B-PP/B-PNP/O/gracias|a/IN/I-PP/I-PNP/O/a|la/DT/B-NP/I-PNP/O/el|persona/NN/I-NP/I-PNP/O/persona|que/WP$/O/O/O/que|entrevista/NN/B-NP/O/O/entrevista|././O/O/O/.
+20110104070355.000|20110104070356.000|CC1|>> VVolvemos al a tomar contacto con ustedes.
+20110104070355.000|20110104070356.000|POS_05|VVolvemos/NN/B-NP/O/O/vvolvemos|al/NN/I-NP/O/O/al|a/IN/B-PP/O/O/a|tomar/VB/B-VP/O/VP-1/tomar|contacto/NN/B-NP/O/NP-OBJ-1/contacto|con/IN/B-PP/B-PNP/O/con|ustedes/PRP/B-NP/I-PNP/O/ustedes|././O/O/O/.
+20110104070355.000|20110104070359.000|CC1|Adelante estudios. .
+20110104070355.000|20110104070359.000|POS_05|Adelante/UH/O/O/O/adelante|estudios/NNS/B-NP/O/O/estudio|././O/O/O/.|././O/O/O/.
+20110104070359.000|20110104070409.000|CC1|>> Buenas noches .
+20110104070359.000|20110104070409.000|POS_05|Buenas/NNP/B-NP/O/O/buenas|noches/NNS/I-NP/O/O/noch|././O/O/O/.
+20110104070409.000|20110104070429.000|CC1|>> quiñn imagino que Facebook costara 50 mil millones de dólares .
+20110104070409.000|20110104070429.000|POS_05|quiñn/NN/B-NP/O/O/quiñn|imagino/NN/I-NP/O/O/imagino|que/WP$/O/O/O/que|Facebook/NNP/B-NP/O/O/facebook|costara/NN/I-NP/O/O/costara|50/CD/O/O/O/50|mil/CD/O/O/O/mil|millones/CD/O/O/O/millones|de/CD/O/O/O/de|dólares/CD/O/O/O/dólares|././O/O/O/.
+20110104070429.000|20110104070432.000|CC1|>> Superando cnn .
+20110104070429.000|20110104070432.000|POS_05|Superando/VBG/B-VP/O/VP-1/superar|cnn/NN/B-NP/O/NP-OBJ-1/cnn|././O/O/O/.
+20110104070432.000|20110104070513.000|CC1|>> La protesta precede  la toma del nnuevo gobiernador de California .
+20110104070432.000|20110104070513.000|POS_05|La/DT/B-NP/O/NP-SBJ-1/el|protesta/NN/I-NP/O/NP-SBJ-1/protesta|precede/VB/B-VP/O/VP-1/preceder|la/PRP/B-NP/O/NP-OBJ-1*NP-SBJ-2/la|toma/VB/B-VP/O/VP-2/tomar|del/NN/B-NP/O/NP-OBJ-2/del|nnuevo/NN/I-NP/O/NP-OBJ-2/nnuevo|gobiernador/NN/I-NP/O/NP-OBJ-2/gobiernador|de/IN/B-PP/B-PNP/O/de|California/NNP/B-NP/I-PNP/O/california|././O/O/O/.
+20110104070513.000|20110104070520.000|CC1|>> La crisis debemos trabajarla juntos.
+20110104070513.000|20110104070520.000|POS_05|La/DT/B-NP/O/NP-SBJ-1/el|crisis/NN/I-NP/O/NP-SBJ-1/crisis|debemos/VB/B-VP/O/VP-1/deber|trabajarla/NN/B-NP/O/NP-OBJ-1/trabajarla|juntos/JJ/I-NP/O/NP-OBJ-1/junto|././O/O/O/.
+20110104070520.000|20110104070532.000|CC1|>> La gente primero los políticoes segundo.
+20110104070520.000|20110104070532.000|POS_05|La/DT/B-NP/O/O/el|gente/NN/I-NP/O/O/gente|primero/JJ/I-NP/O/O/primero|los/DT/B-NP/O/O/el|políticoes/NN/I-NP/O/O/políticoes|segundo/JJ/I-NP/O/O/segundo|././O/O/O/.
+20110104070532.000|20110104070544.000|CC1|>> Esperaremos el presupuesto.
+20110104070532.000|20110104070544.000|POS_05|Esperaremos/NNP/B-NP/O/O/esperaremos|el/DT/I-NP/O/O/el|presupuesto/NN/I-NP/O/O/presupuesto|././O/O/O/.
+20110104070544.000|20110104070622.000|CC1|>> quiere aumentar el iimpuestos a los vehículoes y disminuir el 25% de los servicio publicos serán epocas de sacrificios.
+20110104070544.000|20110104070622.000|POS_05|quiere/VB/B-VP/O/VP-1/querer|aumentar/VB/I-VP/O/VP-1/aumentar|el/DT/B-NP/O/NP-OBJ-1/el|iimpuestos/NN/I-NP/O/NP-OBJ-1/iimpuestos|a/IN/B-PP/B-PNP/O/a|los/DT/B-NP/I-PNP/O/el|vehículoes/NN/I-NP/I-PNP/O/vehículoes|y/CC/O/O/O/y|disminuir/VB/B-VP/O/O/disminuir|el/DT/O/O/O/el|25%/CD/O/O/O/25%|de/IN/B-PP/B-PNP/O/de|los/DT/B-NP/I-PNP/NP-SBJ-2/el|servicio/NN/I-NP/I-PNP/NP-SBJ-2/servicio|publicos/NN/I-NP/I-PNP/NP-SBJ-2/publicos|serán/VB/B-VP/O/VP-2/ser|epocas/NN/B-NP/O/NP-OBJ-2/epocas|de/IN/B-PP/B-PNP/O/de|sacrificios/NNS/B-NP/I-PNP/O/sacrificio|././O/O/O/.
+20110104070622.000|20110104070716.000|CC1|>> Le será fácil hacer el presupuesto, ya que, no sñ necesita la súper mayoria el recorte iirá a la salud , educación y los servicios.
+20110104070622.000|20110104070716.000|POS_05|Le/PRP/B-NP/O/NP-SBJ-1/le|será/VB/B-VP/O/VP-1/ser|fácil/JJ/B-ADJP/O/O/fácil|hacer/VB/B-VP/O/VP-2/hacer|el/DT/B-NP/O/NP-OBJ-2/el|presupuesto/NN/I-NP/O/NP-OBJ-2/presupuesto|,/,/O/O/O/,|ya/RB/B-ADVP/O/O/ya|que/IN/B-PP/O/O/que|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|sñ/NN/B-NP/O/NP-SBJ-3/sñ|necesita/VB/B-VP/O/VP-3/necesitar|la/DT/B-NP/O/NP-OBJ-3/el|súper/NN/I-NP/O/NP-OBJ-3/súper|mayoria/NN/I-NP/O/NP-OBJ-3/mayoria|el/DT/B-NP/O/O/el|recorte/NN/I-NP/O/O/recorte|iirá/NN/I-NP/O/O/iirá|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|salud/NN/I-NP/I-PNP/O/salud|,/,/O/O/O/,|educación/NN/B-NP/O/O/educación|y/CC/O/O/O/y|los/DT/B-NP/O/O/el|servicios/NNS/I-NP/O/O/servicio|././O/O/O/.
+20110104070716.000|20110104070745.000|CC1|>> Arnold Schwarzenegger reduce la sentencia del hijo del político nuñez que tenía una condena de 25 años.
+20110104070716.000|20110104070745.000|POS_05|Arnold/NNP/B-NP/O/NP-SBJ-1/arnold|Schwarzenegger/NNP/I-NP/O/NP-SBJ-1/schwarzenegger|reduce/VB/B-VP/O/VP-1/reducir|la/DT/B-NP/O/NP-OBJ-1/el|sentencia/NN/I-NP/O/NP-OBJ-1/sentencia|del/NN/I-NP/O/NP-OBJ-1/del|hijo/NN/I-NP/O/NP-OBJ-1/hijo|del/NN/I-NP/O/NP-OBJ-1/del|político/JJ/I-NP/O/NP-OBJ-1/político|nuñez/NN/B-NP/O/O/nuñez|que/WP$/O/O/O/que|tenía/VB/B-VP/O/VP-2/tener|una/DT/B-NP/O/NP-OBJ-2/un|condena/NN/I-NP/O/NP-OBJ-2/condena|de/IN/B-PP/B-PNP/O/de|25/CD/B-NP/I-PNP/O/25|años/NNS/I-NP/I-PNP/O/año|././O/O/O/.
+20110104070745.000|20110104070805.000|CC1|>> esto trajo escandalo Eesto es un paraiso invernal para los niños.
+20110104070745.000|20110104070805.000|POS_05|esto/DT/O/O/O/esto|trajo/VB/B-VP/O/VP-1/traer|escandalo/NN/B-NP/O/NP-OBJ-1*NP-SBJ-2/escandalo|Eesto/NNP/I-NP/O/NP-OBJ-1*NP-SBJ-2/eesto|es/VB/B-VP/O/VP-2/ser|un/DT/B-NP/O/NP-OBJ-2/un|paraiso/NN/I-NP/O/NP-OBJ-2/paraiso|invernal/JJ/I-NP/O/NP-OBJ-2/invernal|para/IN/B-PP/B-PNP/O/para|los/DT/B-NP/I-PNP/O/el|niños/NNS/I-NP/I-PNP/O/niño|././O/O/O/.
+20110104070805.000|20110104070824.000|CC1|>> Con muchos frio no tan celestial para los adultos.
+20110104070805.000|20110104070824.000|POS_05|Con/IN/B-PP/B-PNP/O/con|muchos/DT/B-NP/I-PNP/O/muchos|frio/NN/I-NP/I-PNP/O/frio|no/RB/I-NP/I-PNP/O/no|tan/RB/I-NP/I-PNP/O/tan|celestial/JJ/I-NP/I-PNP/O/celestial|para/IN/B-PP/B-PNP/O/para|los/DT/B-NP/I-PNP/O/el|adultos/NNS/I-NP/I-PNP/O/adulto|././O/O/O/.
+20110104070824.000|20110104070828.000|CC1|>> ahora que lo intenta.
+20110104070824.000|20110104070828.000|POS_05|ahora/RB/B-ADVP/O/O/ahora|que/IN/B-PP/B-PNP/O/que|lo/PRP/B-NP/I-PNP/NP-SBJ-1/lo|intenta/VB/B-VP/O/VP-1/intentar|././O/O/O/.
+20110104070828.000|20110104070838.000|CC1|>> Es el blanco paisaje.
+20110104070828.000|20110104070838.000|POS_05|Es/VB/B-VP/O/VP-1/ser|el/DT/B-NP/O/NP-OBJ-1/el|blanco/JJ/I-NP/O/NP-OBJ-1/blanco|paisaje/NN/I-NP/O/NP-OBJ-1/paisaje|././O/O/O/.
+20110104070838.000|20110104070845.000|CC1|>> Acá nos agarro la ttormenta .
+20110104070838.000|20110104070845.000|POS_05|Acá/NNP/B-NP/O/O/acá|nos/PRP/I-NP/O/O/nos|agarro/NN/I-NP/O/O/agarro|la/DT/I-NP/O/O/el|ttormenta/NN/I-NP/O/O/ttormenta|././O/O/O/.
+20110104070845.000|20110104070909.000|CC1|>> Nos quedamos ahí , en la camioneta , predimos la troca para el calenton.
+20110104070845.000|20110104070909.000|POS_05|Nos/PRP/B-NP/O/NP-SBJ-1/nos|quedamos/VB/B-VP/O/VP-1/quedar|ahí/RB/I-VP/O/VP-1/ahí|,/,/O/O/O/,|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|camioneta/NN/I-NP/I-PNP/O/camioneta|,/,/O/O/O/,|predimos/NN/B-NP/O/O/predimos|la/DT/B-NP/O/O/el|troca/NN/I-NP/O/O/troca|para/IN/B-PP/B-PNP/O/para|el/DT/B-NP/I-PNP/O/el|calenton/NN/I-NP/I-PNP/O/calenton|././O/O/O/.
+20110104070909.000|20110104070926.000|CC1|>> yo le llame y el salia te vienes con cuidado.
+20110104070909.000|20110104070926.000|POS_05|yo/PRP/B-NP/O/NP-SBJ-1/yo|le/PRP/I-NP/O/NP-SBJ-1/le|llame/VB/B-VP/O/VP-1/llamar|y/CC/O/O/O/y|el/DT/B-NP/O/O/el|salia/JJ/I-NP/O/O/salio|te/PRP/I-NP/O/O/te|vienes/NN/I-NP/O/O/vienes|con/IN/B-PP/B-PNP/O/con|cuidado/NN/B-NP/I-PNP/O/cuidado|././O/O/O/.
+20110104070926.000|20110104070945.000|CC1|>> Primera vez que veo la ciudad de Los Angeles asi poco más despacio y tomar mejor el tiempo.
+20110104070926.000|20110104070945.000|POS_05|Primera/JJ/B-NP/O/O/primero|vez/NN/I-NP/O/O/vez|que/IN/B-PP/O/O/que|veo/VB/B-VP/O/VP-1/ver|la/DT/B-NP/O/NP-OBJ-1/el|ciudad/NN/I-NP/O/NP-OBJ-1/ciudad|de/IN/B-PP/B-PNP/O/de|Los/DT/B-NP/I-PNP/O/el|Angeles/NNP/I-NP/I-PNP/O/angeles|asi/RB/I-NP/I-PNP/O/asi|poco/RB/I-NP/I-PNP/O/poco|más/RB/I-NP/I-PNP/O/más|despacio/RB/I-NP/I-PNP/O/despacio|y/CC/O/O/O/y|tomar/VB/B-VP/O/O/tomar|mejor/JJ/B-ADJP/O/O/mejor|el/DT/B-NP/O/O/el|tiempo/NN/I-NP/O/O/tiempo|././O/O/O/.
+20110104070945.000|20110104070958.000|CC1|>> El tiempo tiene la posibilidad de más nieve.
+20110104070945.000|20110104070958.000|POS_05|El/DT/B-NP/O/NP-SBJ-1/el|tiempo/NN/I-NP/O/NP-SBJ-1/tiempo|tiene/VB/B-VP/O/VP-1/tener|la/DT/B-NP/O/NP-OBJ-1/el|posibilidad/NN/I-NP/O/NP-OBJ-1/posibilidad|de/IN/B-PP/O/O/de|más/RB/B-ADVP/O/O/más|nieve/NN/B-NP/O/O/nieve|././O/O/O/.
+20110104070958.000|20110104071007.000|CC1|>> Hasta cuando estaremos así?. 
+20110104070958.000|20110104071007.000|POS_05|Hasta/IN/B-PP/B-PNP/O/hasta|cuando/IN/I-PP/I-PNP/O/cuando|estaremos/MD/B-VP/O/O/estar|así/RB/B-ADVP/O/O/así|?/./O/O/O/?|././O/O/O/.
+20110104071007.000|20110104071018.000|CC1|>> Buenas noticias, porque,este frente se desvanece.
+20110104071007.000|20110104071018.000|POS_05|Buenas/NNP/B-NP/O/O/buenas|noticias/NNS/I-NP/O/O/noticia|,/,/I-NP/O/O/,|porque,este/NN/I-NP/O/O/porque,este|frente/RB/I-NP/O/O/frente|se/PRP/B-NP/O/NP-SBJ-1/se|desvanece/VB/B-VP/O/VP-1/desvanecer|././O/O/O/.
+20110104071018.000|20110104071033.000|CC1|>> Más de 5mil pajaros murieron en el aire.
+20110104071018.000|20110104071033.000|POS_05|Más/RB/B-ADVP/O/O/más|de/IN/B-PP/B-PNP/O/de|5mil/NN/B-NP/I-PNP/NP-SBJ-1/5mil|pajaros/NN/I-NP/I-PNP/NP-SBJ-1/pajaros|murieron/VB/B-VP/O/VP-1/morir|en/IN/B-PP/B-PNP/O/en|el/DT/B-NP/I-PNP/O/el|aire/NN/I-NP/I-PNP/O/aire|././O/O/O/.
+20110104071033.000|20110104071054.000|CC1|>> Autobús explota en gGuatemala se culpa zLos Zetas .
+20110104071033.000|20110104071054.000|POS_05|Autobús/NN/B-NP/O/NP-SBJ-1/autobús|explota/VB/B-VP/O/VP-1/explotar|en/IN/B-PP/B-PNP/O/en|gGuatemala/NN/B-NP/I-PNP/NP-SBJ-2/gguatemala|se/PRP/I-NP/I-PNP/NP-SBJ-2/se|culpa/VB/B-VP/O/VP-2/culpar|zLos/NN/B-NP/O/NP-OBJ-2/zlos|Zetas/NNP/I-NP/O/NP-OBJ-2/zetas|././O/O/O/.
+20110104071054.000|20110104071054.000|CC1|>> vc.
+20110104071054.000|20110104071054.000|POS_05|vc/NN/B-NP/O/O/vc|././O/O/O/.
+20110104071054.000|20110104071110.000|CC1|>NOS VAMOS A COMERCIALES PERO; ENSEGUIDA REGRESAMOS CON:hermanos gemelos nacidos en diferente epocas.
+20110104071054.000|20110104071110.000|POS_05|NOS/PRP/B-NP/O/O/nos|VAMOS/NN/I-NP/O/O/vamos|A/IN/B-PP/B-PNP/O/a|COMERCIALES/NN/B-NP/I-PNP/O/comerciales|PERO/NN/I-NP/I-PNP/O/pero|;/./O/O/O/;|ENSEGUIDA/NN/B-NP/O/NP-SBJ-1/enseguida|REGRESAMOS/NN/I-NP/O/NP-SBJ-1/regresamos|CON:hermanos/NN/I-NP/O/NP-SBJ-1/con:hermanos|gemelos/NNS/I-NP/O/NP-SBJ-1/gemelo|nacidos/VBN/B-VP/O/VP-1/nacidos|en/IN/B-PP/B-PNP/O/en|diferente/JJ/B-NP/I-PNP/O/diferente|epocas/NN/I-NP/I-PNP/O/epocas|././O/O/O/.
+20110104071110.000|20110104071121.000|CC1|>> Deporte y los escandalos en la marina.
+20110104071110.000|20110104071121.000|POS_05|Deporte/VB/B-VP/O/O/deportar|y/CC/O/O/O/y|los/DT/B-NP/O/O/el|escandalos/NN/I-NP/O/O/escandalos|en/IN/B-PP/O/O/en|la/DT/O/O/O/el|marina/JJ/B-ADJP/O/O/marino|././O/O/O/.
+20110104071121.000|20110104071253.000|CC1|>> 5 muertos al estallar autobús en gGuatemala , quiñn esta detrás de esto?. 
+20110104071121.000|20110104071253.000|POS_05|5/CD/B-NP/O/NP-SBJ-1/5|muertos/NNS/I-NP/O/NP-SBJ-1/muerto|al/NN/I-NP/O/NP-SBJ-1/al|estallar/VB/B-VP/O/VP-1/estallar|autobús/NN/B-NP/O/NP-OBJ-1/autobús|en/IN/B-PP/B-PNP/O/en|gGuatemala/NN/B-NP/I-PNP/O/gguatemala|,/,/I-NP/I-PNP/O/,|quiñn/NN/I-NP/I-PNP/O/quiñn|esta/DT/O/O/O/esta|detrás/IN/B-PP/B-PNP/O/detrás|de/IN/I-PP/I-PNP/O/de|esto/DT/O/O/O/esto|?/./O/O/O/?|././O/O/O/.
+20110104071253.000|20110104071303.000|CC1|>> Más de una docena de heridos,.
+20110104071253.000|20110104071303.000|POS_05|Más/RB/B-ADVP/O/O/más|de/IN/B-PP/O/O/de|una/CD/O/O/O/una|docena/CD/O/O/O/docena|de/IN/B-PP/B-PNP/O/de|heridos/NNS/B-NP/I-PNP/O/herido|,/,/O/O/O/,|././O/O/O/.
+20110104071303.000|20110104071316.000|CC1|>> El bus víajaba con 35 pasajeros.
+20110104071303.000|20110104071316.000|POS_05|El/DT/B-NP/O/O/el|bus/NN/I-NP/O/O/bus|víajaba/NN/I-NP/O/O/víajaba|con/IN/B-PP/B-PNP/O/con|35/CD/B-NP/I-PNP/O/35|pasajeros/NNS/I-NP/I-PNP/O/pasajero|././O/O/O/.
+20110104071316.000|20110104071331.000|CC1|>> Una señora dejo una bolsa y eso fue lo que estallo.
+20110104071316.000|20110104071331.000|POS_05|Una/DT/B-NP/O/NP-SBJ-1/un|señora/NN/I-NP/O/NP-SBJ-1/señora|dejo/VB/B-VP/O/VP-1/dejar|una/DT/B-NP/O/NP-OBJ-1/un|bolsa/NN/I-NP/O/NP-OBJ-1/bolsa|y/CC/O/O/O/y|eso/DT/O/O/O/eso|fue/VB/B-VP/O/O/ser|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|estallo/NN/B-NP/O/O/estallo|././O/O/O/.
+20110104071331.000|20110104071344.000|CC1|>> Víctimaees se encuentran adultos y un menos de edad.
+20110104071331.000|20110104071344.000|POS_05|Víctimaees/NNP/B-NP/O/NP-SBJ-1/víctimaees|se/PRP/I-NP/O/NP-SBJ-1/se|encuentran/VB/B-VP/O/VP-1/encontrar|adultos/NNS/B-NP/O/NP-OBJ-1/adulto|y/CC/I-NP/O/NP-OBJ-1/y|un/DT/I-NP/O/NP-OBJ-1/un|menos/NN/I-NP/O/NP-OBJ-1/menos|de/IN/B-PP/B-PNP/O/de|edad/NN/B-NP/I-PNP/O/edad|././O/O/O/.
+20110104071344.000|20110104071356.000|CC1|>> No pudieron salir y murieron calcinados.
+20110104071344.000|20110104071356.000|POS_05|No/RB/B-VP/O/O/no|pudieron/VB/I-VP/O/O/poder|salir/VB/I-VP/O/O/salir|y/CC/O/O/O/y|murieron/VB/B-VP/O/VP-1/morir|calcinados/NN/B-NP/O/NP-OBJ-1/calcinados|././O/O/O/.
+20110104071356.000|20110104071405.000|CC1|>> Esta es la segunda vez que pasa esto.
+20110104071356.000|20110104071405.000|POS_05|Esta/DT/O/O/O/esta|es/VB/B-VP/O/VP-1/ser|la/DT/B-NP/O/NP-OBJ-1/el|segunda/JJ/I-NP/O/NP-OBJ-1/segundo|vez/NN/I-NP/O/NP-OBJ-1/vez|que/IN/B-PP/O/O/que|pasa/VB/B-VP/O/O/pasar|esto/DT/O/O/O/esto|././O/O/O/.
+20110104071405.000|20110104071426.000|CC1|>> Las ppandilleros exigen extorsion a las compañías de buses.
+20110104071405.000|20110104071426.000|POS_05|Las/DT/B-NP/O/NP-SBJ-1/el|ppandilleros/NN/I-NP/O/NP-SBJ-1/ppandilleros|exigen/VB/B-VP/O/VP-1/exigir|extorsion/NN/B-NP/O/NP-OBJ-1/extorsion|a/IN/B-PP/B-PNP/O/a|las/DT/B-NP/I-PNP/O/el|compañías/NNS/I-NP/I-PNP/O/compañía|de/IN/B-PP/B-PNP/O/de|buses/NN/B-NP/I-PNP/O/buses|././O/O/O/.
+20110104071426.000|20110104071440.000|CC1|>> Se culpa a zLos Zetas por sus seguidas amenazas.
+20110104071426.000|20110104071440.000|POS_05|Se/PRP/B-NP/O/NP-SBJ-1/se|culpa/VB/B-VP/O/VP-1/culpar|a/IN/B-PP/B-PNP/O/a|zLos/NN/B-NP/I-PNP/O/zlos|Zetas/NNP/I-NP/I-PNP/O/zetas|por/IN/B-PP/B-PNP/O/por|sus/PRP$/B-NP/I-PNP/NP-SBJ-2/sus|seguidas/VBN/B-VP/I-PNP/VP-2/seguidar|amenazas/NNS/B-NP/I-PNP/NP-OBJ-2/amenaza|././O/O/O/.
+20110104071440.000|20110104071441.000|CC1|>> VVolvemos al a tomar contacto con ustedes.
+20110104071440.000|20110104071441.000|POS_05|VVolvemos/NN/B-NP/O/O/vvolvemos|al/NN/I-NP/O/O/al|a/IN/B-PP/O/O/a|tomar/VB/B-VP/O/VP-1/tomar|contacto/NN/B-NP/O/NP-OBJ-1/contacto|con/IN/B-PP/B-PNP/O/con|ustedes/PRP/B-NP/I-PNP/O/ustedes|././O/O/O/.
+20110104071440.000|20110104071442.000|CC1|Adelante estudios. .
+20110104071440.000|20110104071442.000|POS_05|Adelante/UH/O/O/O/adelante|estudios/NNS/B-NP/O/O/estudio|././O/O/O/.|././O/O/O/.
+20110104071442.000|20110104071506.000|CC1|>> La policía recibió una denuncia anonima , dos hombres aparecen muertes.
+20110104071442.000|20110104071506.000|POS_05|La/DT/B-NP/O/NP-SBJ-1/el|policía/NN/I-NP/O/NP-SBJ-1/policía|recibió/VB/B-VP/O/VP-1/recibir|una/DT/O/O/O/un|denuncia/VB/B-VP/O/VP-2/denunciar|anonima/NN/B-NP/O/NP-OBJ-2/anonima|,/,/O/O/O/,|dos/CD/B-NP/O/NP-SBJ-3/dos|hombres/NNS/I-NP/O/NP-SBJ-3/hombre|aparecen/VB/B-VP/O/VP-3/aparecer|muertes/NNS/B-NP/O/NP-OBJ-3/muerte|././O/O/O/.
+20110104071506.000|20110104071528.000|CC1|>> Bajo investigación por videos homofobicos y palabras obsenas.
+20110104071506.000|20110104071528.000|POS_05|Bajo/IN/B-PP/B-PNP/O/bajo|investigación/NN/B-NP/I-PNP/O/investigación|por/IN/B-PP/B-PNP/O/por|videos/NNS/B-NP/I-PNP/O/video|homofobicos/NN/I-NP/I-PNP/O/homofobicos|y/CC/I-NP/I-PNP/O/y|palabras/NNS/I-NP/I-PNP/O/palabra|obsenas/NN/I-NP/I-PNP/O/obsenas|././O/O/O/.
+20110104071528.000|20110104071550.000|CC1|>> Prometen investigan la crisis hipotecaria y la creación de empleos.
+20110104071528.000|20110104071550.000|POS_05|Prometen/VB/B-VP/O/VP-1/prometer|investigan/VB/I-VP/O/VP-1/investigar|la/DT/B-NP/O/NP-OBJ-1/el|crisis/NN/I-NP/O/NP-OBJ-1/crisis|hipotecaria/NN/I-NP/O/NP-OBJ-1/hipotecaria|y/CC/O/O/O/y|la/DT/B-NP/O/O/el|creación/NN/I-NP/O/O/creación|de/IN/B-PP/B-PNP/O/de|empleos/NNS/B-NP/I-PNP/O/empleo|././O/O/O/.
+20110104071550.000|20110104071602.000|CC1|>> Verán como va la la administración del presidente Barack Obama.
+20110104071550.000|20110104071602.000|POS_05|Verán/VB/B-VP/O/O/ver|como/IN/B-PP/O/O/como|va/VB/B-VP/O/VP-1/ir|la/DT/B-NP/O/NP-OBJ-1/el|la/DT/I-NP/O/NP-OBJ-1/el|administración/NN/I-NP/O/NP-OBJ-1/administración|del/NN/I-NP/O/NP-OBJ-1/del|presidente/NN/I-NP/O/NP-OBJ-1/presidente|Barack/NNP/I-NP/O/NP-OBJ-1/barack|Obama/NNP/I-NP/O/NP-OBJ-1/obama|././O/O/O/.
+20110104071602.000|20110104071612.000|CC1|>> Revocaremos la reforma de salud temprana.
+20110104071602.000|20110104071612.000|POS_05|Revocaremos/NNP/B-NP/O/O/revocaremos|la/DT/I-NP/O/O/el|reforma/NN/I-NP/O/O/reforma|de/IN/B-PP/B-PNP/O/de|salud/NN/B-NP/I-PNP/O/salud|temprana/JJ/I-NP/I-PNP/O/temprano|././O/O/O/.
+20110104071612.000|20110104071630.000|CC1|>> Esta analista dice que los republicanos no tendrán los votos.
+20110104071612.000|20110104071630.000|POS_05|Esta/DT/B-NP/O/NP-SBJ-1/esta|analista/NN/I-NP/O/NP-SBJ-1/analista|dice/VB/B-VP/O/VP-1/decir|que/IN/B-PP/O/O/que|los/DT/O/O/O/el|republicanos/JJ/B-ADJP/O/O/republicano|no/RB/B-VP/O/VP-2/no|tendrán/VB/I-VP/O/VP-2/tener|los/DT/B-NP/O/NP-OBJ-2/el|votos/NNS/I-NP/O/NP-OBJ-2/voto|././O/O/O/.
+20110104071630.000|20110104071649.000|CC1|>> Veremos un eñnfasis en los inmigrantes y el control de estos.
+20110104071630.000|20110104071649.000|POS_05|Veremos/VB/B-VP/O/VP-1/ver|un/DT/B-NP/O/NP-OBJ-1/un|eñnfasis/NN/I-NP/O/NP-OBJ-1/eñnfasis|en/IN/B-PP/B-PNP/O/en|los/DT/B-NP/I-PNP/O/el|inmigrantes/NNS/I-NP/I-PNP/O/inmigrante|y/CC/O/O/O/y|el/DT/B-NP/O/O/el|control/NN/I-NP/O/O/control|de/IN/B-PP/O/O/de|estos/DT/O/O/O/estos|././O/O/O/.
+20110104071649.000|20110104071705.000|CC1|>> Separarse en California será más caro y largo desde ahora.
+20110104071649.000|20110104071705.000|POS_05|Separarse/NNP/B-NP/O/O/separarse|en/IN/B-PP/B-PNP/O/en|California/NNP/B-NP/I-PNP/NP-SBJ-1/california|será/VB/B-VP/O/VP-1/ser|más/RB/I-VP/O/VP-1/más|caro/JJ/I-ADJP/O/O/caro|y/CC/I-ADJP/O/O/y|largo/JJ/I-ADJP/O/O/largo|desde/IN/B-PP/O/O/desde|ahora/RB/B-ADVP/O/O/ahora|././O/O/O/.
+20110104071705.000|20110104071730.000|CC1|>> Las autoridades generales emiten advertencias urgentes a empresas de gas.
+20110104071705.000|20110104071730.000|POS_05|Las/DT/B-NP/O/NP-SBJ-1/el|autoridades/NNS/I-NP/O/NP-SBJ-1/autoridad|generales/JJ/I-NP/O/NP-SBJ-1/general|emiten/VB/B-VP/O/VP-1/emitir|advertencias/NNS/B-NP/O/NP-OBJ-1/advertencia|urgentes/JJ/I-NP/O/NP-OBJ-1/urgente|a/IN/B-PP/B-PNP/O/a|empresas/NNS/B-NP/I-PNP/O/empresa|de/IN/B-PP/B-PNP/O/de|gas/NN/B-NP/I-PNP/O/gas|././O/O/O/.
+20110104071730.000|20110104071736.000|CC1|>>  sobretodo por los accidentees .
+20110104071730.000|20110104071736.000|POS_05|sobretodo/NN/B-NP/O/O/sobretodo|por/IN/B-PP/B-PNP/O/por|los/DT/B-NP/I-PNP/O/el|accidentees/NN/I-NP/I-PNP/O/accidentees|././O/O/O/.
+20110104071736.000|20110104071802.000|CC1|>> IImagínese que con una pequeña muestra de sangre, se le pueda detectar las celulas cancerosas.
+20110104071736.000|20110104071802.000|POS_05|IImagínese/NN/B-NP/O/O/iimagínese|que/WP$/O/O/O/que|con/IN/B-PP/O/O/con|una/DT/O/O/O/un|pequeña/JJ/B-ADJP/O/O/pequeño|muestra/VB/B-VP/O/O/mostrar|de/IN/B-PP/B-PNP/O/de|sangre/NN/B-NP/I-PNP/NP-SBJ-1/sangre|,/,/I-NP/I-PNP/NP-SBJ-1/,|se/PRP/I-NP/I-PNP/NP-SBJ-1/se|le/PRP/I-NP/I-PNP/NP-SBJ-1/le|pueda/VB/B-VP/O/VP-1/poder|detectar/VB/I-VP/O/VP-1/detectar|las/DT/B-NP/O/NP-OBJ-1/el|celulas/NN/I-NP/O/NP-OBJ-1/celulas|cancerosas/NN/I-NP/O/NP-OBJ-1/cancerosas|././O/O/O/.
+20110104071802.000|20110104071815.000|CC1|>> Gemelos nacen en diferentes años .
+20110104071802.000|20110104071815.000|POS_05|Gemelos/NNS/B-NP/O/NP-SBJ-1/gemelo|nacen/VB/B-VP/O/VP-1/nacer|en/IN/B-PP/B-PNP/O/en|diferentes/JJ/B-NP/I-PNP/O/diferente|años/NNS/I-NP/I-PNP/O/año|././O/O/O/.
+20110104071815.000|20110104071835.000|CC1|>> Lo curioso es que eeso paso en varios países del mundo.
+20110104071815.000|20110104071835.000|POS_05|Lo/DT/O/O/O/lo|curioso/JJ/B-ADJP/O/O/curioso|es/VB/B-VP/O/O/ser|que/IN/B-PP/B-PNP/O/que|eeso/NN/B-NP/I-PNP/O/eeso|paso/NN/I-NP/I-PNP/O/paso|en/IN/B-PP/B-PNP/O/en|varios/DT/B-NP/I-PNP/O/varios|países/NNS/I-NP/I-PNP/O/país|del/NN/I-NP/I-PNP/O/del|mundo/NN/I-NP/I-PNP/O/mundo|././O/O/O/.
+20110104071835.000|20110104071844.000|CC1|>>  mil pajaros murieron en el aire.
+20110104071835.000|20110104071844.000|POS_05|mil/CD/B-NP/O/NP-SBJ-1/mil|pajaros/NN/I-NP/O/NP-SBJ-1/pajaros|murieron/VB/B-VP/O/VP-1/morir|en/IN/B-PP/B-PNP/O/en|el/DT/B-NP/I-PNP/O/el|aire/NN/I-NP/I-PNP/O/aire|././O/O/O/.
+20110104071844.000|20110104071909.000|CC1|>> Lo peor es que hace unos meses , 1oo mil peces murieron en esas mismas zonas.
+20110104071844.000|20110104071909.000|POS_05|Lo/DT/O/O/O/lo|peor/JJ/B-ADJP/O/O/peor|es/VB/B-VP/O/O/ser|que/IN/B-PP/O/O/que|hace/VB/B-VP/O/VP-1/hacer|unos/DT/B-NP/O/NP-OBJ-1/un|meses/NNS/I-NP/O/NP-OBJ-1/més|,/,/O/O/O/,|1oo/NN/B-NP/O/O/1oo|mil/CD/B-NP/O/NP-SBJ-2/mil|peces/NNS/I-NP/O/NP-SBJ-2/pez|murieron/VB/B-VP/O/VP-2/morir|en/IN/B-PP/B-PNP/O/en|esas/DT/B-NP/I-PNP/O/esas|mismas/JJ/I-NP/I-PNP/O/mismo|zonas/NNS/I-NP/I-PNP/O/zona|././O/O/O/.
+20110104071909.000|20110104071920.000|CC1|>> Situación extraña que se sigue investigando.
+20110104071909.000|20110104071920.000|POS_05|Situación/NN/B-NP/O/O/situación|extraña/JJ/I-NP/O/O/extraño|que/WP$/O/O/O/que|se/PRP/B-NP/O/NP-SBJ-1/se|sigue/VB/B-VP/O/VP-1/seguir|investigando/NN/B-NP/O/NP-OBJ-1/investigando|././O/O/O/.
+20110104071920.000|20110104071934.000|CC1|>> Nublado entra en la región-.
+20110104071920.000|20110104071934.000|POS_05|Nublado/VBN/B-VP/O/O/nublar|entra/VB/I-VP/O/O/entrar|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|región/NN/I-NP/I-PNP/O/región|-/./O/O/O/-|././O/O/O/.
+20110104071934.000|20110104071948.000|CC1|>> Mañana sale el sol en la primera semana del 2011.
+20110104071934.000|20110104071948.000|POS_05|Mañana/NN/B-NP/O/NP-SBJ-1/mañana|sale/VB/B-VP/O/VP-1/salir|el/DT/B-NP/O/NP-OBJ-1/el|sol/NN/I-NP/O/NP-OBJ-1/sol|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|primera/JJ/I-NP/I-PNP/O/primero|semana/NN/I-NP/I-PNP/O/semana|del/IN/B-PP/O/O/del|2011/CD/O/O/O/2011|././O/O/O/.
+20110104071948.000|20110104072005.000|CC1|>> La oportunidad de ser millonario esta para hoy juegue con la suerte.
+20110104071948.000|20110104072005.000|POS_05|La/DT/B-NP/O/O/el|oportunidad/NN/I-NP/O/O/oportunidad|de/IN/B-PP/O/O/de|ser/VB/B-VP/O/O/ser|millonario/JJ/B-ADJP/O/O/millonario|esta/DT/O/O/O/esta|para/IN/B-PP/O/O/para|hoy/RB/B-VP/O/O/hoy|juegue/VB/I-VP/O/O/jugar|con/IN/B-PP/B-PNP/O/con|la/DT/B-NP/I-PNP/O/el|suerte/NN/I-NP/I-PNP/O/suerte|././O/O/O/.
+20110104072005.000|20110104072028.000|CC1|>> Si gano, dono a la iglesia, ddespuñs a mis hijos y despues a mi ,. 
+20110104072005.000|20110104072028.000|POS_05|Si/IN/B-PP/O/O/si|gano/VB/B-VP/O/O/ganar|,/,/O/O/O/,|dono/NN/B-NP/O/O/dono|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|iglesia/NN/I-NP/I-PNP/O/iglesia|,/,/O/O/O/,|ddespuñs/NN/B-NP/O/O/ddespuñs|a/IN/B-PP/B-PNP/O/a|mis/PRP$/B-NP/I-PNP/O/mis|hijos/NNS/I-NP/I-PNP/O/hijo|y/CC/O/O/O/y|despues/RB/B-ADVP/O/O/despues|a/IN/B-PP/B-PNP/O/a|mi/PRP$/B-NP/I-PNP/O/mi|,/,/O/O/O/,|././O/O/O/.
+20110104072028.000|20110104072052.000|CC1|>> deportes.
+20110104072028.000|20110104072052.000|POS_05|deportes/NNS/B-NP/O/O/deporte|././O/O/O/.
+20110104072052.000|20110104072059.000|CC1|>>súper para muriño .
+20110104072052.000|20110104072059.000|POS_05|súper/NN/B-NP/O/O/súper|para/IN/B-PP/B-PNP/O/para|muriño/NN/B-NP/I-PNP/O/muriño|././O/O/O/.
+20110104072059.000|20110104072122.000|CC1|>> Los equipos grandes son los que acáparan la atencion por ejemplo el caso del Amñrica .
+20110104072059.000|20110104072122.000|POS_05|Los/DT/B-NP/O/NP-SBJ-1/el|equipos/NNS/I-NP/O/NP-SBJ-1/equipo|grandes/JJ/I-NP/O/NP-SBJ-1/grande|son/VB/B-VP/O/VP-1/ser|los/DT/O/O/O/el|que/WP$/O/O/O/que|acáparan/VB/B-VP/O/VP-2/acápar|la/DT/B-NP/O/NP-OBJ-2/el|atencion/NN/I-NP/O/NP-OBJ-2/atencion|por/RB/I-NP/O/NP-OBJ-2/por|ejemplo/RB/I-NP/O/NP-OBJ-2/ejemplo|el/DT/B-NP/O/O/el|caso/NN/I-NP/O/O/caso|del/NN/I-NP/O/O/del|Amñrica/NNP/I-NP/O/O/amñrica|././O/O/O/.
+20110104072122.000|20110104072132.000|CC1|>> Y las aáguilas .
+20110104072122.000|20110104072132.000|POS_05|Y/CC/O/O/O/y|las/DT/B-NP/O/O/el|aáguilas/NN/I-NP/O/O/aáguilas|././O/O/O/.
+20110104072132.000|20110104072146.000|CC1|>> Debemos mostrarle cosas buenas al Director Tñcnico .
+20110104072132.000|20110104072146.000|POS_05|Debemos/VB/B-VP/O/VP-1/deber|mostrarle/NN/B-NP/O/NP-OBJ-1/mostrarle|cosas/NNS/I-NP/O/NP-OBJ-1/cosa|buenas/JJ/I-NP/O/NP-OBJ-1/bueno|al/NN/I-NP/O/NP-OBJ-1/al|Director/NN/I-NP/O/NP-OBJ-1/director|Tñcnico/NNP/I-NP/O/NP-OBJ-1/tñcnico|././O/O/O/.
+20110104072146.000|20110104072207.000|CC1|>> si no es sub campeón es súper lider confía en sus buenos refuerzos.
+20110104072146.000|20110104072207.000|POS_05|si/IN/B-PP/O/O/si|no/RB/B-VP/O/VP-1/no|es/VB/I-VP/O/VP-1/ser|sub/JJ/B-NP/O/NP-OBJ-1*NP-SBJ-2/sub|campeón/NN/I-NP/O/NP-OBJ-1*NP-SBJ-2/campeón|es/VB/B-VP/O/VP-2/ser|súper/NN/B-NP/O/NP-OBJ-2*NP-SBJ-3/súper|lider/NN/I-NP/O/NP-OBJ-2*NP-SBJ-3/lider|confía/VB/B-VP/O/VP-3/confiar|en/IN/B-PP/B-PNP/O/en|sus/PRP$/B-NP/I-PNP/O/sus|buenos/JJ/I-NP/I-PNP/O/bueno|refuerzos/NNS/I-NP/I-PNP/O/refuerzo|././O/O/O/.
+20110104072207.000|20110104072223.000|CC1|>> Sabemos que el liderato no sirve, sirve acá ganr .
+20110104072207.000|20110104072223.000|POS_05|Sabemos/VB/B-VP/O/O/saber|que/IN/B-PP/B-PNP/O/que|el/DT/B-NP/I-PNP/NP-SBJ-1/el|liderato/NN/I-NP/I-PNP/NP-SBJ-1/liderato|no/RB/I-NP/I-PNP/NP-SBJ-1/no|sirve/VB/I-VP/O/VP-1/servir|,/,/O/O/O/,|sirve/VB/B-VP/O/VP-2/servir|acá/NN/B-NP/O/NP-OBJ-2/acá|ganr/NN/I-NP/O/NP-OBJ-2/ganr|././O/O/O/.
+20110104072223.000|20110104072232.000|CC1|>> Lo colectivo primero.
+20110104072223.000|20110104072232.000|POS_05|Lo/DT/B-NP/O/O/lo|colectivo/NN/I-NP/O/O/colectivo|primero/JJ/I-NP/O/O/primero|././O/O/O/.
+20110104072232.000|20110104072248.000|CC1|>> Muriño gano el primer premio en la escala de los Director Tñcnico .
+20110104072232.000|20110104072248.000|POS_05|Muriño/NNP/B-NP/O/NP-SBJ-1/muriño|gano/VB/B-VP/O/VP-1/ganar|el/DT/B-NP/O/NP-OBJ-1/el|primer/JJ/I-NP/O/NP-OBJ-1/primer|premio/NN/I-NP/O/NP-OBJ-1/premio|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|escala/NN/I-NP/I-PNP/O/escala|de/IN/B-PP/B-PNP/O/de|los/DT/B-NP/I-PNP/O/el|Director/NN/I-NP/I-PNP/O/director|Tñcnico/NNP/I-NP/I-PNP/O/tñcnico|././O/O/O/.
+20110104072248.000|20110104072314.000|CC1|>> atacante de Brasil Kaká vuelve a las canchas luego de una lesion .
+20110104072248.000|20110104072314.000|POS_05|atacante/NN/B-NP/O/O/atacante|de/IN/B-PP/B-PNP/O/de|Brasil/NNP/B-NP/I-PNP/NP-SBJ-1/brasil|Kaká/NNP/I-NP/I-PNP/NP-SBJ-1/kaká|vuelve/VB/B-VP/O/VP-1/volver|a/IN/B-PP/B-PNP/O/a|las/DT/B-NP/I-PNP/O/el|canchas/NNS/I-NP/I-PNP/O/cancha|luego/RB/I-NP/I-PNP/O/luego|de/IN/B-PP/B-PNP/O/de|una/DT/B-NP/I-PNP/O/un|lesion/NN/I-NP/I-PNP/O/lesion|././O/O/O/.
+20110104072314.000|20110104072320.000|CC1|>> marca 261 , .
+20110104072314.000|20110104072320.000|POS_05|marca/NN/B-NP/O/O/marca|261/CD/O/O/O/261|,/,/O/O/O/,|././O/O/O/.
+20110104072320.000|20110104072329.000|CC1|>> Se rumora de Robin F. 
+20110104072320.000|20110104072329.000|POS_05|Se/PRP/B-NP/O/NP-SBJ-1/se|rumora/VB/B-VP/O/VP-1/rumorar|de/IN/B-PP/B-PNP/O/de|Robin/NNP/B-NP/I-PNP/O/robin|F./NNP/I-NP/I-PNP/O/f.
+20110104072329.000|20110104072343.000|CC1|>> Para ser el próximo tñcnico de chivas CHIVAS .
+20110104072329.000|20110104072343.000|POS_05|Para/IN/B-PP/O/O/para|ser/VB/B-VP/O/VP-1/ser|el/DT/B-NP/O/NP-OBJ-1/el|próximo/JJ/I-NP/O/NP-OBJ-1/próximo|tñcnico/NN/I-NP/O/NP-OBJ-1/tñcnico|de/IN/B-PP/B-PNP/O/de|chivas/NN/B-NP/I-PNP/O/chivas|CHIVAS/NN/I-NP/I-PNP/O/chivas|././O/O/O/.
+20110104072343.000|20110104072348.000|CC1|>> Barza o real?.
+20110104072343.000|20110104072348.000|POS_05|Barza/NNP/B-NP/O/O/barza|o/CC/O/O/O/o|real/JJ/B-ADJP/O/O/real|?/./O/O/O/?|././O/O/O/.
+20110104072348.000|20110104072351.000|CC1|>> Al barza.
+20110104072348.000|20110104072351.000|POS_05|Al/NNP/B-NP/O/O/al|barza/NN/I-NP/O/O/barza|././O/O/O/.
+20110104072351.000|20110104072405.000|CC1|>> VNos vamos a comerciales pero, enseguida regresamos con mucha más informacion .
+20110104072351.000|20110104072405.000|POS_05|VNos/NN/B-NP/O/NP-SBJ-1/vnos|vamos/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|comerciales/JJ/B-ADJP/O/O/comercial|pero/CC/O/O/O/pero|,/,/O/O/O/,|enseguida/RB/B-ADVP/O/O/enseguida|regresamos/NN/B-NP/O/O/regresamos|con/IN/B-PP/O/O/con|mucha/DT/O/O/O/mucha|más/RB/B-VP/O/O/más|informacion/VB/I-VP/O/O/informacion|././O/O/O/.
+20110104072405.000|20110104072609.000|CC1|>>    ?ñ?ññ;nono224ú4ú4ú4ú4ú4ú4ú4úú legisladores están decididos para lograr la enmienda en que los hijos de indocumentados no logren la nacionalidad tan fácilmente.
+20110104072405.000|20110104072609.000|POS_05|?/./O/O/O/?
+20110104072405.000|20110104072609.000|POS_05|ñ?ññ;nono224ú4ú4ú4ú4ú4ú4ú4úú/NN/B-NP/O/NP-SBJ-1/ñ?ññ;nono224ú4ú4ú4ú4ú4ú4ú4úú|legisladores/NNS/I-NP/O/NP-SBJ-1/legislador|están/MD/B-VP/O/VP-1/estar|decididos/VBN/I-VP/O/VP-1/decididos|para/IN/B-PP/O/O/para|lograr/VB/B-VP/O/VP-2/lograr|la/DT/B-NP/O/NP-OBJ-2/el|enmienda/NN/I-NP/O/NP-OBJ-2/enmienda|en/IN/B-PP/B-PNP/O/en|que/IN/I-PP/I-PNP/O/que|los/DT/B-NP/I-PNP/O/el|hijos/NNS/I-NP/I-PNP/O/hijo|de/IN/B-PP/B-PNP/O/de|indocumentados/NN/B-NP/I-PNP/O/indocumentados|no/RB/I-NP/I-PNP/O/no|logren/NN/I-NP/I-PNP/O/logren|la/DT/B-NP/I-PNP/O/el|nacionalidad/NN/I-NP/I-PNP/O/nacionalidad|tan/RB/I-NP/I-PNP/O/tan|fácilmente/RB/I-NP/I-PNP/O/fácilmente|././O/O/O/.
+20110104072609.000|20110104072637.000|SEG_01|Type=Commercial|Score=1.0
+20110104072609.000|20110104072625.000|CC1|>> El reporte fue hecho por personas .
+20110104072609.000|20110104072625.000|POS_05|El/DT/B-NP/O/NP-SBJ-1/el|reporte/NN/I-NP/O/NP-SBJ-1/reporte|fue/VB/B-VP/O/VP-1/ser|hecho/NN/B-NP/O/NP-OBJ-1/hecho|por/IN/B-PP/B-PNP/O/por|personas/NNS/B-NP/I-PNP/O/persona|././O/O/O/.
+20110104072625.000|20110104072637.000|CC1|>> Hotmail ha tenido seguidas fallas en la bandejas de entrada.
+20110104072625.000|20110104072637.000|POS_05|Hotmail/NNP/B-NP/O/NP-SBJ-1/hotmail|ha/MD/B-VP/O/VP-1/har|tenido/VBN/I-VP/O/VP-1/tener|seguidas/VBN/I-VP/O/VP-1/seguidar|fallas/NNS/B-NP/O/NP-OBJ-1/falla|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|bandejas/NN/I-NP/I-PNP/O/bandejas|de/IN/B-PP/B-PNP/O/de|entrada/NN/B-NP/I-PNP/O/entrada|././O/O/O/.
+20110104072637.000|20110104072759.000|SEG_02|Type=Story|Score=1.0
+20110104072637.000|20110104072654.000|CC1|>> La portada del díarío la opinión para el día de mañana.
+20110104072637.000|20110104072654.000|POS_05|La/DT/B-NP/O/O/el|portada/NN/I-NP/O/O/portada|del/NN/I-NP/O/O/del|díarío/NN/I-NP/O/O/díarío|la/DT/B-NP/O/O/el|opinión/NN/I-NP/O/O/opinión|para/IN/B-PP/B-PNP/O/para|el/DT/B-NP/I-PNP/O/el|día/NN/I-NP/I-PNP/O/día|de/IN/B-PP/B-PNP/O/de|mañana/NN/B-NP/I-PNP/O/mañana|././O/O/O/.
+20110104072654.000|20110104072747.000|CC1|>> :            ?
+20110104072654.000|20110104072747.000|POS_05|:/:/O/O/O/:|?/./O/O/O/?
+20110104072747.000|20110104072747.000|CC1|iSubway!
+20110104072747.000|20110104072747.000|POS_05|iSubway/NN/B-NP/O/O/isubway|!/./O/O/O/!
+20110104072747.000|20110104072748.000|CC1|iAy qué sabor!
+20110104072747.000|20110104072748.000|POS_05|iAy/NN/B-NP/O/O/iay|qué/WP$/O/O/O/qué|sabor/NN/B-NP/O/O/sabor|!/./O/O/O/!
+20110104072747.000|20110104072748.000|CC1|?
+20110104072747.000|20110104072748.000|POS_05|?/./O/O/O/?
+20110104072748.000|20110104072751.000|CC1|?
+20110104072748.000|20110104072751.000|POS_05|?/./O/O/O/?
+20110104072748.000|20110104072751.000|CC1|iQué sabor que tiene Subway!
+20110104072748.000|20110104072751.000|POS_05|iQué/NN/B-NP/O/O/iqué|sabor/NN/I-NP/O/O/sabor|que/WP$/O/O/O/que|tiene/VB/B-VP/O/VP-1/tener|Subway/NNP/B-NP/O/NP-OBJ-1/subway|!/./O/O/O/!
+20110104072748.000|20110104072751.000|CC1|?
+20110104072748.000|20110104072751.000|POS_05|?/./O/O/O/?
+20110104072751.000|20110104072759.000|CC1|[ Locutor ] iPrueba los nuevos       Pesto Subs de Subway,        con su salsita pesto        con aceite de oliva,      ajito y abundante sabor             a albahaca      en pan recién horneado!
+20110104072751.000|20110104072759.000|POS_05|[/,/O/O/O/[|Locutor/NNP/B-NP/O/O/locutor|]/,/O/O/O/]|iPrueba/NN/B-NP/O/O/iprueba|los/DT/B-NP/O/O/el|nuevos/JJ/I-NP/O/O/nuevo|Pesto/NNP/I-NP/O/O/pesto|Subs/NNP/I-NP/O/O/subs|de/IN/B-PP/B-PNP/O/de|Subway/NNP/B-NP/I-PNP/O/subway|,/,/O/O/O/,|con/IN/B-PP/B-PNP/O/con|su/PRP$/B-NP/I-PNP/O/su|salsita/NN/I-NP/I-PNP/O/salsita|pesto/NN/I-NP/I-PNP/O/pesto|con/IN/B-PP/B-PNP/O/con|aceite/NN/B-NP/I-PNP/O/aceite|de/IN/B-PP/B-PNP/O/de|oliva/NN/B-NP/I-PNP/O/oliva|,/,/I-NP/I-PNP/O/,|ajito/NN/I-NP/I-PNP/O/ajito|y/CC/O/O/O/y|abundante/JJ/B-NP/O/O/abundante|sabor/NN/I-NP/O/O/sabor|a/IN/B-PP/B-PNP/O/a|albahaca/NN/B-NP/I-PNP/O/albahaca|en/IN/B-PP/B-PNP/O/en|pan/NN/B-NP/I-PNP/O/pan|recién/RB/I-NP/I-PNP/O/recién|horneado/NN/I-NP/I-PNP/O/horneado|!/./O/O/O/!
+20110104072759.000|20110104072759.000|CC1|?
+20110104072759.000|20110104072759.000|POS_05|?/./O/O/O/?
+20110104072759.000|20110104072759.000|SEG_02|Type=Story|Score=0.9316642623425581
+20110104072759.000|20110104072759.000|CC1|iQué sabor que tiene Subway!
+20110104072759.000|20110104072759.000|POS_05|iQué/NN/B-NP/O/O/iqué|sabor/NN/I-NP/O/O/sabor|que/WP$/O/O/O/que|tiene/VB/B-VP/O/VP-1/tener|Subway/NNP/B-NP/O/NP-OBJ-1/subway|!/./O/O/O/!
+20110104072759.000|20110104072759.000|CC1|?
+20110104072759.000|20110104072759.000|POS_05|?/./O/O/O/?
+END|20110104072940|2011-01-04_0700_US_KMEX_Noticias_34

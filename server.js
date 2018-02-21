@@ -1,6 +1,7 @@
 const fs = require( 'fs' );
 const path = require( 'path' );
-const TokensExtractor = require( './TokensExtractor' );
+const TokenExtractor = require( './TokenExtractor' );
+const LocationExtractor = require( './LocationExtractor' );
 const express = require( 'express' );
 const app = express();
 
@@ -21,39 +22,41 @@ const getFileNames = ( root, ext, recursive ) => {
 	return result;
 }
 
-let jsonFiles = getFileNames( './data/2011-01-01/', '.json' );
-let transcripts = jsonFiles;
-// [
-// 	'./data/2011-01-01/2011-01-01_0000_US_CNN_CNN_Tonight.json'
-// ]
+// Token
+let jsonFiles = getFileNames( './data/2011', '.json' );
+let tokenExtractor = new TokenExtractor();
+tokenExtractor.extractMultiple( jsonFiles, true, true );
+let briefTokenList = tokenExtractor.exportBrief();
+// console.log( briefTokenList );
 
-let tokensExtractor = new TokensExtractor();
-tokensExtractor.extractMultiple( transcripts, 20, true, true );
-let briefTokenList = tokensExtractor.exportBrief();
-console.log( briefTokenList );
+// Location
+let segFiles = getFileNames( './data/', '.seg' );
+let locationExtractor = new LocationExtractor();
+locationExtractor.extractMultiple( segFiles, true, true );
+
 
 app.set( "port", process.env.PORT || 3001 );
 
 // Express only serves static assets in production
 if ( process.env.NODE_ENV === "production" ) {
-	app.use( express.static("client/build" ));
+	app.use( express.static( "client/build" ));
 }
 
-app.get( "/api/searchbar", ( req, res ) => {
+app.get( "/api/tokenlist", ( req, res ) => {
+	res.json( briefTokenList );
+});
+
+app.get( "/api/location", ( req, res ) => {
 	const param = req.query.q;
 
 	if ( !param ) {
 		res.json({
-			error: "Missing required parameter `q`"
+			error: "Missing required parameer `q`"
 		});
-		return;
-	} else if ( param !== "tokens" ) {
-		res.json({
-			error: "Unknown query"
-		});
+	} else {
+		let UIDList = tokenExtractor.tokenList.getUIDsByTokens( JSON.parse( param ).tokens );
+		res.json( locationExtractor.locationList.getLocationsByUIDs( UIDList ) );
 	}
-
-	res.json( briefTokenList );
 });
 
 app.listen( app.get( "port" ), () => {

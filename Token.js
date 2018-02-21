@@ -4,30 +4,29 @@ class Token {
      * Token: {
      *      ' CONTENT ': "white house", // in lowercase
      *      variant1: {
-     *          doc1UID: # of mentions
-     *          doc2UID: # of mentions
+     *          doc1UID: # of mentions,
+     *          doc2UID: # of mentions,
      *          ' SCORE ': 123
      *      },
      *      variant2: {
-     *          doc3UID: # of mentions
-     *          doc4UID: # of mentions
+     *          doc3UID: # of mentions,
+     *          doc4UID: # of mentions,
      *          ' SCORE ': 123
      *      },
      *      ...
      *      variant50: {
-     *          doc99UID: # of mentions
-     *          doc100UID: # of mentions
+     *          doc99UID: # of mentions,
+     *          doc100UID: # of mentions,
      *          ' SCORE ': 123
      *      },
      *      ' UNKNOWN ': {  // transcripts whose text is all uppercase
-     *          doc101UID: # of mentions
-     *          doc102UID: # of mentions
+     *          doc101UID: # of mentions,
+     *          doc102UID: # of mentions,
      *          ' SCORE ': 123
      *      },
      *      ' SCORE ': 123
      * }
      */
-
     constructor( content ) {
         this[' CONTENT '] = content;
         this[' UNKNOWN '] = {};

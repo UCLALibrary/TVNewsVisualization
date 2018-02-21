@@ -1,0 +1,27 @@
+TOP|20110107195200|2011-01-07_1952_US_CampaignAds_Service_Employees_International_Union
+COL|Communication Studies Archive, UCLA
+UID|aa7276f6-0d07-11e2-922e-5725293ff1eb
+AQD|2012-10-03 0308 UTC
+DUR|0:01:26.00
+VID|480x270
+TTL|Massachusetts Local 509 Welcomes Sullivan & Associates Employees
+URL|http://youtube.com/watch?v=pD90BV_fgXY
+TTS|Youtube English machine transcript 2012-10-03 0309 UTC
+CMT|
+HED|Our warm welcome to the more than 500 workers at Sullivan &amp; Associates, who won the largest human service worker vote in their state to join our union, Massachussetts Local 509! Sullivan &amp; Associates operates numerous residential homes for people with disabilities in the Springfield area.
+LAN|ENG
+LBT|2011-01-07 14:52 America/New_York
+SEG_02|2014-02-25 00:30|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+SMT_01|2014-07-28 02:44|Source_Program=Pattern 2.6, seg-sentiment|Source_Person=Tom De Smedt
+SMT_02|2014-07-28 02:44|Source_Program=SentiWordNet 3.0, seg-sentiment|Source_Person=Andrea Esuli
+POS_01|2014-08-10 02:45|Source_Program=MBSP 1.4, PartsOfSpeech-MBSP-05.py|Source_Person=Walter Daelemans, FFS|Codebook=Treebank II
+POS_02|2014-08-12 14:59|Source_Program=stanford-postagger 3.4, PartsOfSpeech-StanfordNLP-02.py|Source_Person=Kristina Toutanova, FFS|Codebook=Treebank II
+NER_03|2016-12-18 22:18|Source_Program=stanford-ner 3.4, NER-StanfordNLP-03.py|Source_Person=Jenny Rose Finkel, FFS|Codebook=Category=Entity
+20110107195220.449|20110107195313.090|SEG_02|Type=Story|Score=1.0
+20110107195220.449|20110107195313.090|TR1|partnership where here now differences when you are it's almost there now will continue with respected now that we have a blessed is the list incumbent sometimes fire this safety different pieces of the other it was seated applied for now we are still struggling family's house entitlements might stay here as standards
+20110107195220.449|20110107195313.090|NER_03|ORGANIZATION=house
+20110107195220.449|20110107195313.090|POS_02|partnership/NN|where/WRB|here/RB|now/RB|differences/NNS|when/WRB|you/PRP|are/VBP|it's/NNS|almost/RB|there/RB|now/RB|will/MD|continue/VB|with/IN|respected/VBN|now/RB|that/IN|we/PRP|have/VBP|a/DT|blessed/VBN|is/VBZ|the/DT|list/NN|incumbent/JJ|sometimes/RB|fire/NN|this/DT|safety/NN|different/JJ|pieces/NNS|of/IN|the/DT|other/JJ|it/PRP|was/VBD|seated/VBN|applied/VBN|for/IN|now/RB|we/PRP|are/VBP|still/RB|struggling/VBG|family's/NNP|house/NNP|entitlements/NNS|might/MD|stay/VB|here/RB|as/IN|standards/NNS|
+20110107195220.449|20110107195313.090|POS_01|partnership/NN/I-NP/O/partnership|where/WRB/I-ADVP/O/where|here/RB/I-ADVP/O/here|now/RB/I-ADVP/O/now|differences/VBZ/I-VP/O/differences|when/WRB/I-ADVP/O/when|you/PRP/I-NP/O/you|are/VBP/I-VP/O/be|it/PRP/I-NP/O/it|'s/VBZ/I-VP/O/'s|almost/RB/I-ADJP/O/almost|there/RB/I-ADVP/O/there|now/RB/I-ADVP/O/now|will/MD/I-VP/O/will|continue/VB/I-VP/O/continue|with/IN/I-PP/B-PNP/with|respected/JJ/I-NP/I-PNP/respected|now/RB/I-ADVP/O/now|that/IN/I-SBAR/O/that|we/PRP/I-NP/O/we|have/VBP/I-VP/O/have|a/DT/I-NP/O/a|blessed/VBN/I-NP/O/bless|is/VBZ/I-VP/O/be|the/DT/I-NP/O/the|list/NN/I-NP/O/list|incumbent/JJ/I-NP/O/incumbent|sometimes/RB/I-ADVP/O/sometimes|fire/NN/I-NP/O/fire|this/DT/B-NP/O/this|safety/NN/I-NP/O/safety|different/JJ/I-NP/O/different|pieces/NNS/I-NP/O/piece|of/IN/I-PP/B-PNP/of|the/DT/I-NP/I-PNP/the|other/JJ/I-NP/I-PNP/other|it/PRP/B-NP/O/it|was/VBD/I-VP/O/be|seated/VBN/I-VP/O/seat|applied/VBN/I-VP/O/apply|for/IN/I-PP/B-PNP/for|now/RB/I-NP/I-PNP/now|we/PRP/I-NP/I-PNP/we|are/VBP/I-VP/O/be|still/RB/I-VP/O/still|struggling/VBG/I-VP/O/struggle|family/NN/I-NP/O/family|'s/POS/B-NP/O/'s|house/NN/I-NP/O/house|entitlements/NNS/I-NP/O/entitlement|might/MD/I-VP/O/may|stay/VB/I-VP/O/stay|here/RB/I-ADVP/O/here|as/IN/I-SBAR/O/as|standards/NNS/I-NP/O/standard
+20110107195220.449|20110107195313.090|SMT_01|-0.0625|0.4875|different|0.0|0.6|other|-0.125|0.375
+20110107195220.449|20110107195313.090|SMT_02|here|0.0|0.0|respected|0.875|0.875|blessed|0.875|0.875|incumbent|0.0|0.0|different|0.625|0.625|other|-0.625|0.625|seated|0.0|0.0|applied|0.0|0.0|still|-0.625|0.625|struggling|-0.25|0.25|here|0.0|0.0
+END|20110107195326|2011-01-07_1952_US_CampaignAds_Service_Employees_International_Union

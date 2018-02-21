@@ -1,0 +1,592 @@
+{"Top": "20110107073001", "Filename": "2011-01-07_0730_US_KMEX_Noticiero_Univision_Ultima_Hora"}
+{"Collection": "Communication Studies Archive, UCLA"}
+{"UID": "190d1256-1a34-11e0-9ffd-001517add6f2"}
+{"Duration": "0:29:44.41"}
+{"Video_Picture_Size": "640x480", "Original_Picture_Size": ""}
+{"Comment": ""}
+{"Language": "SPA"}
+{"Local_Broadcast_Time": "2011-01-06 23:30 America/Los_Angeles"}
+{"Annotation_Tag": "SEG_01", "Creation_Time": "2014-02-14 18:21:34", "Source_Program": "commercial_detection.py", "Source_Person": "Weixin Li"}
+{"StartTime": "20110107073036.000", "EndTime": "20110107075945.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110107073036.000", "EndTime": "20110107073042.000", "PrimaryTag": "CC1", "Text": ">> A SUS HIJOS NACIDOS ACA.     "}
+{"StartTime": "20110107073042.000", "EndTime": "20110107073045.000", "PrimaryTag": "CC1", "Text": "TRAGEDIA EN LA FRONTERA UN      "}
+{"StartTime": "20110107073045.000", "EndTime": "20110107073046.000", "PrimaryTag": "CC1", "Text": "ADOLESCENTE MEXICANO MUERE      "}
+{"StartTime": "20110107073046.000", "EndTime": "20110107073047.000", "PrimaryTag": "CC1", "Text": "PRESUNTAMENTE, A MANOS DE UN    "}
+{"StartTime": "20110107073047.000", "EndTime": "20110107073047.000", "PrimaryTag": "CC1", "Text": "AGENTE DE LA PATRULLA           "}
+{"StartTime": "20110107073047.000", "EndTime": "20110107073048.000", "PrimaryTag": "CC1", "Text": "FRONTERIZA CUANDO INTENTABA     "}
+{"StartTime": "20110107073048.000", "EndTime": "20110107073049.000", "PrimaryTag": "CC1", "Text": "CRUZAR HACIA TERRITORIO         "}
+{"StartTime": "20110107073049.000", "EndTime": "20110107073052.000", "PrimaryTag": "CC1", "Text": "ESTADOUNIDEN.                   "}
+{"StartTime": "20110107073052.000", "EndTime": "20110107073054.000", "PrimaryTag": "CC1", "Text": "MOTÍN EN PUERTO RICO, UNA       "}
+{"StartTime": "20110107073054.000", "EndTime": "20110107073056.000", "PrimaryTag": "CC1", "Text": "CELEBRACIÓN POR EL DÍA DE REYES "}
+{"StartTime": "20110107073056.000", "EndTime": "20110107073101.000", "PrimaryTag": "CC1", "Text": "TERMINA EN CAOS.                "}
+{"StartTime": "20110107073101.000", "EndTime": "20110107073102.000", "PrimaryTag": "CC1", "Text": "AUMENTAN LAS HIPÓTESIS SOBRE    "}
+{"StartTime": "20110107073102.000", "EndTime": "20110107073103.000", "PrimaryTag": "CC1", "Text": "LAS POSIBLES CAUSAS DE MUERTE   "}
+{"StartTime": "20110107073103.000", "EndTime": "20110107073103.000", "PrimaryTag": "CC1", "Text": "MASIVA                          "}
+{"StartTime": "20110107073103.000", "EndTime": "20110107073105.000", "PrimaryTag": "CC1", "Text": " DE PÁJAROS Y PECES EN          "}
+{"StartTime": "20110107073105.000", "EndTime": "20110107073108.000", "PrimaryTag": "CC1", "Text": "DIFERENTES PARTES DEL MUNDO.    "}
+{"StartTime": "20110107073108.000", "EndTime": "20110107073109.000", "PrimaryTag": "CC1", "Text": "MILES DE PERSONAS A PESAR DEL   "}
+{"StartTime": "20110107073109.000", "EndTime": "20110107073113.000", "PrimaryTag": "CC1", "Text": "FRÍO, ABARROTARON LAS CALLES DE "}
+{"StartTime": "20110107073113.000", "EndTime": "20110107073114.000", "PrimaryTag": "CC1", "Text": "CHICAGO PARA DISFRUTAR DEL      "}
+{"StartTime": "20110107073114.000", "EndTime": "20110107073115.000", "PrimaryTag": "CC1", "Text": "TRADICIONAL DESFILE DEL DÍA DE  "}
+{"StartTime": "20110107073115.000", "EndTime": "20110107073122.000", "PrimaryTag": "CC1", "Text": "REYES.                          "}
+{"StartTime": "20110107073122.000", "EndTime": "20110107073124.000", "PrimaryTag": "CC1", "Text": ">> MUY BUENAS NOCHES            "}
+{"StartTime": "20110107073124.000", "EndTime": "20110107073125.000", "PrimaryTag": "CC1", "Text": "BIENVENIDOS.  NO POR OBRA DEL   "}
+{"StartTime": "20110107073125.000", "EndTime": "20110107073126.000", "PrimaryTag": "CC1", "Text": "TERRORISMO INTERNACIONAL O EL   "}
+{"StartTime": "20110107073126.000", "EndTime": "20110107073129.000", "PrimaryTag": "CC1", "Text": "EXTREMISMO PERO SÍ POR PARTE DE "}
+{"StartTime": "20110107073129.000", "EndTime": "20110107073131.000", "PrimaryTag": "CC1", "Text": "UN HOMBRE MUY DISGUSTADO POR    "}
+{"StartTime": "20110107073131.000", "EndTime": "20110107073139.000", "PrimaryTag": "CC1", "Text": "LAS ESTRUCTURAS DEL ESTADO DE   "}
+{"StartTime": "20110107073139.000", "EndTime": "20110107073141.000", "PrimaryTag": "CC1", "Text": "MARYLAND.                       "}
+{"StartTime": "20110107073141.000", "EndTime": "20110107073143.000", "PrimaryTag": "CC1", "Text": "SOFÍA HA RECOPILADO ESTA NOCHE  "}
+{"StartTime": "20110107073143.000", "EndTime": "20110107073148.000", "PrimaryTag": "CC1", "Text": "LOS SUCESOS.                    "}
+{"StartTime": "20110107073148.000", "EndTime": "20110107073150.000", "PrimaryTag": "CC1", "Text": ">> LO QUE PARECÍA SER PAQUETES  "}
+{"StartTime": "20110107073150.000", "EndTime": "20110107073151.000", "PrimaryTag": "CC1", "Text": "DE CELULARES ESTALLARON  EN LAS "}
+{"StartTime": "20110107073151.000", "EndTime": "20110107073153.000", "PrimaryTag": "CC1", "Text": "MANOS DE LOS EMPLEADOS DE       "}
+{"StartTime": "20110107073153.000", "EndTime": "20110107073158.000", "PrimaryTag": "CC1", "Text": "CORREO Y SE PRODUJERON CHISPAS, "}
+{"StartTime": "20110107073158.000", "EndTime": "20110107073159.000", "PrimaryTag": "CC1", "Text": "LUEGO HUMO INMEDIATAMENTE       "}
+{"StartTime": "20110107073159.000", "EndTime": "20110107073200.000", "PrimaryTag": "CC1", "Text": "DESPUÉS SE SINTIÓ UN INTENSO    "}
+{"StartTime": "20110107073200.000", "EndTime": "20110107073211.000", "PrimaryTag": "CC1", "Text": "OLOR A SULFURO.                 "}
+{"StartTime": "20110107073211.000", "EndTime": "20110107073212.000", "PrimaryTag": "CC1", "Text": ">> UNIDADES ANTITERRORISTAS Y   "}
+{"StartTime": "20110107073212.000", "EndTime": "20110107073213.000", "PrimaryTag": "CC1", "Text": "EXPERTOS EN BOMBAS FUERON       "}
+{"StartTime": "20110107073213.000", "EndTime": "20110107073216.000", "PrimaryTag": "CC1", "Text": "DESPLEGADOS A DOS EDIFICIOS     "}
+{"StartTime": "20110107073216.000", "EndTime": "20110107073216.000", "PrimaryTag": "CC1", "Text": "GUBERNAMENTALES  PASADO EL      "}
+{"StartTime": "20110107073216.000", "EndTime": "20110107073218.000", "PrimaryTag": "CC1", "Text": "MEDIODÍA. ESTO LUEGO DE QUE     "}
+{"StartTime": "20110107073218.000", "EndTime": "20110107073220.000", "PrimaryTag": "CC1", "Text": "PAQUETES ENVIADOS A ESTAS       "}
+{"StartTime": "20110107073220.000", "EndTime": "20110107073221.000", "PrimaryTag": "CC1", "Text": "INSTALACIONES DETONARON EN EL   "}
+{"StartTime": "20110107073221.000", "EndTime": "20110107073226.000", "PrimaryTag": "CC1", "Text": "CUARTO DE CORREO CAUSANDO CAOS  "}
+{"StartTime": "20110107073226.000", "EndTime": "20110107073227.000", "PrimaryTag": "CC1", "Text": "Y RÁPIDA MOVILIZACIÓN DE LAS    "}
+{"StartTime": "20110107073227.000", "EndTime": "20110107073227.000", "PrimaryTag": "CC1", "Text": "AUTORIDADES QUE INMEDIATAMENTE  "}
+{"StartTime": "20110107073227.000", "EndTime": "20110107073232.000", "PrimaryTag": "CC1", "Text": "ACORDONARON EL ÁREA Y           "}
+{"StartTime": "20110107073232.000", "EndTime": "20110107073233.000", "PrimaryTag": "CC1", "Text": "DESALOJARON A TODO EL PERSONAL  "}
+{"StartTime": "20110107073233.000", "EndTime": "20110107073234.000", "PrimaryTag": "CC1", "Text": "EN ESTAS IMÁGENES SE OBSERVA EL "}
+{"StartTime": "20110107073234.000", "EndTime": "20110107073236.000", "PrimaryTag": "CC1", "Text": "MOMENTO EN QUE EL PERSONAL      "}
+{"StartTime": "20110107073236.000", "EndTime": "20110107073236.000", "PrimaryTag": "CC1", "Text": "ESPECIALIZADO RETIRA  DOS       "}
+{"StartTime": "20110107073236.000", "EndTime": "20110107073237.000", "PrimaryTag": "CC1", "Text": "BOLSAS PARA ANALIZAR SU         "}
+{"StartTime": "20110107073237.000", "EndTime": "20110107073240.000", "PrimaryTag": "CC1", "Text": "CONTENIDO, VENTAS QUE LAS       "}
+{"StartTime": "20110107073240.000", "EndTime": "20110107073240.000", "PrimaryTag": "CC1", "Text": "AUTORIDADES DEL ESTADO          "}
+{"StartTime": "20110107073240.000", "EndTime": "20110107073241.000", "PrimaryTag": "CC1", "Text": "REALIZARON UNA CONFERENCIA DE   "}
+{"StartTime": "20110107073241.000", "EndTime": "20110107073246.000", "PrimaryTag": "CC1", "Text": "PRENSA EN LA QUE SE DIERON A    "}
+{"StartTime": "20110107073246.000", "EndTime": "20110107073258.000", "PrimaryTag": "CC1", "Text": "CONOCER DETALLES DEL INCIDENTE. "}
+{"StartTime": "20110107073258.000", "EndTime": "20110107073259.000", "PrimaryTag": "CC1", "Text": "LAS AUTORIDADES MOSTRARON       "}
+{"StartTime": "20110107073259.000", "EndTime": "20110107073302.000", "PrimaryTag": "CC1", "Text": "FOTOGRAFÍAS DE LOS PAQUETES Y   "}
+{"StartTime": "20110107073302.000", "EndTime": "20110107073303.000", "PrimaryTag": "CC1", "Text": "PRELIMINARMENTE SE DIJO QUE FUE "}
+{"StartTime": "20110107073303.000", "EndTime": "20110107073306.000", "PrimaryTag": "CC1", "Text": "ENVIADO POR CORREO UNO DE ELLOS "}
+{"StartTime": "20110107073306.000", "EndTime": "20110107073307.000", "PrimaryTag": "CC1", "Text": "ESTABA ENVIADO AL GOBERNADOR    "}
+{"StartTime": "20110107073307.000", "EndTime": "20110107073309.000", "PrimaryTag": "CC1", "Text": "DEL ESTADO.                     "}
+{"StartTime": "20110107073309.000", "EndTime": "20110107073311.000", "PrimaryTag": "CC1", "Text": "EL PRIMER ESTALLIDO SE PRODUJO  "}
+{"StartTime": "20110107073311.000", "EndTime": "20110107073313.000", "PrimaryTag": "CC1", "Text": "ALREDEDOR DE LAS 1230, Y EL     "}
+{"StartTime": "20110107073313.000", "EndTime": "20110107073315.000", "PrimaryTag": "CC1", "Text": "OTRO UNOS 15 MINUTOS DESPUÉS    "}
+{"StartTime": "20110107073315.000", "EndTime": "20110107073317.000", "PrimaryTag": "CC1", "Text": "HORAS DEL ESTE, PROVOCANDO      "}
+{"StartTime": "20110107073317.000", "EndTime": "20110107073318.000", "PrimaryTag": "CC1", "Text": "HERIDAS EN LAS MANOS DE LOS     "}
+{"StartTime": "20110107073318.000", "EndTime": "20110107073319.000", "PrimaryTag": "CC1", "Text": "EMPLEADOS QUE ABRIERON EL       "}
+{"StartTime": "20110107073319.000", "EndTime": "20110107073322.000", "PrimaryTag": "CC1", "Text": "PAQUETE.                        "}
+{"StartTime": "20110107073322.000", "EndTime": "20110107073322.000", "PrimaryTag": "CC1", "Text": "ESTAMOS ANALIZANDO LA EVIDENCIA "}
+{"StartTime": "20110107073322.000", "EndTime": "20110107073324.000", "PrimaryTag": "CC1", "Text": "Y VAMOS A TRABAJAR  CON TODOS   "}
+{"StartTime": "20110107073324.000", "EndTime": "20110107073326.000", "PrimaryTag": "CC1", "Text": "NUESTROS RECURSOS PARA SABER DE "}
+{"StartTime": "20110107073326.000", "EndTime": "20110107073329.000", "PrimaryTag": "CC1", "Text": "DÓNDE PROVIENEN Y QUIÉN ESTÁ    "}
+{"StartTime": "20110107073329.000", "EndTime": "20110107073329.000", "PrimaryTag": "CC1", "Text": "DETRÁS DEL ENVÍO DE LOS         "}
+{"StartTime": "20110107073329.000", "EndTime": "20110107073333.000", "PrimaryTag": "CC1", "Text": "ARTEFACTOS EXPLOSIVOS.          "}
+{"StartTime": "20110107073333.000", "EndTime": "20110107073334.000", "PrimaryTag": "CC1", "Text": "ESTE INCIDENTE PROVOCÓ QUE EN   "}
+{"StartTime": "20110107073334.000", "EndTime": "20110107073337.000", "PrimaryTag": "CC1", "Text": "OTRAS CIUDADES LAS AUTORIDADES  "}
+{"StartTime": "20110107073337.000", "EndTime": "20110107073339.000", "PrimaryTag": "CC1", "Text": "REVISARÁN PAQUETES SOSPECHOSOS  "}
+{"StartTime": "20110107073339.000", "EndTime": "20110107073341.000", "PrimaryTag": "CC1", "Text": "QUE TAMBIÉN FUERON DETECTADOS,  "}
+{"StartTime": "20110107073341.000", "EndTime": "20110107073343.000", "PrimaryTag": "CC1", "Text": "UNO EN BALTIMORE  Y OTRO EN UN  "}
+{"StartTime": "20110107073343.000", "EndTime": "20110107073348.000", "PrimaryTag": "CC1", "Text": "EDIFICIO DE GOBIERNO.           "}
+{"StartTime": "20110107073348.000", "EndTime": "20110107073349.000", "PrimaryTag": "CC1", "Text": "SE CERRÓ LA PARTE DE LA         "}
+{"StartTime": "20110107073349.000", "EndTime": "20110107073349.000", "PrimaryTag": "CC1", "Text": "TERMINAL DEL AEROPUERTO DE      "}
+{"StartTime": "20110107073349.000", "EndTime": "20110107073352.000", "PrimaryTag": "CC1", "Text": "SHINGTON.                       "}
+{"StartTime": "20110107073352.000", "EndTime": "20110107073354.000", "PrimaryTag": "CC1", "Text": "LUEGO DE SER ANALIZADO POR      "}
+{"StartTime": "20110107073354.000", "EndTime": "20110107073356.000", "PrimaryTag": "CC1", "Text": "EXPERTOS ANTIBOMBAS  SE         "}
+{"StartTime": "20110107073356.000", "EndTime": "20110107073357.000", "PrimaryTag": "CC1", "Text": "DETERMINÓ QUE TAMBIÉN ERAN      "}
+{"StartTime": "20110107073357.000", "EndTime": "20110107073359.000", "PrimaryTag": "CC1", "Text": "PAQUETES INOFENSIVOS.           "}
+{"StartTime": "20110107073359.000", "EndTime": "20110107073402.000", "PrimaryTag": "CC1", "Text": "UN 800 EMPLEADOS REGRESARON A   "}
+{"StartTime": "20110107073402.000", "EndTime": "20110107073405.000", "PrimaryTag": "CC1", "Text": "SUS FUNCIONES,  META QUE EN EL  "}
+{"StartTime": "20110107073405.000", "EndTime": "20110107073406.000", "PrimaryTag": "CC1", "Text": "AEROPUERTO INTERNACIONAL ESTÁ   "}
+{"StartTime": "20110107073406.000", "EndTime": "20110107073407.000", "PrimaryTag": "CC1", "Text": "EN VIRGINIA OPERANDO DE MANERA  "}
+{"StartTime": "20110107073407.000", "EndTime": "20110107073411.000", "PrimaryTag": "CC1", "Text": "NORMAL.                         "}
+{"StartTime": "20110107073411.000", "EndTime": "20110107073411.000", "PrimaryTag": "CC1", "Text": "SE ESTÁ ANALIZANDO EVIDENCIA Y  "}
+{"StartTime": "20110107073411.000", "EndTime": "20110107073412.000", "PrimaryTag": "CC1", "Text": "HASTA EL MOMENTO NO PODIDO      "}
+{"StartTime": "20110107073412.000", "EndTime": "20110107073413.000", "PrimaryTag": "CC1", "Text": "DETERMINAR SI ESTOS PAQUETES    "}
+{"StartTime": "20110107073413.000", "EndTime": "20110107073417.000", "PrimaryTag": "CC1", "Text": "ESTÁN RELACIONADOS.             "}
+{"StartTime": "20110107073417.000", "EndTime": "20110107073417.000", "PrimaryTag": "CC1", "Text": "LO SEA INFORMADO QUE            "}
+{"StartTime": "20110107073417.000", "EndTime": "20110107073418.000", "PrimaryTag": "CC1", "Text": "ENCONTRARON UNA NOTA EN LA QUE  "}
+{"StartTime": "20110107073418.000", "EndTime": "20110107073420.000", "PrimaryTag": "CC1", "Text": "EL REMITENTE DICE SER MOLESTO   "}
+{"StartTime": "20110107073420.000", "EndTime": "20110107073426.000", "PrimaryTag": "CC1", "Text": "CON EL GOBIERNO?                "}
+{"StartTime": "20110107073426.000", "EndTime": "20110107073427.000", "PrimaryTag": "CC1", "Text": ">> UN MENOR DE EDAD DE ORIGEN   "}
+{"StartTime": "20110107073427.000", "EndTime": "20110107073428.000", "PrimaryTag": "CC1", "Text": "MEXICANO MURIÓ A MANOS DE UN    "}
+{"StartTime": "20110107073428.000", "EndTime": "20110107073430.000", "PrimaryTag": "CC1", "Text": "AGENTE DE MIGRACIÓN LA FRONTERA "}
+{"StartTime": "20110107073430.000", "EndTime": "20110107073433.000", "PrimaryTag": "CC1", "Text": "LO QUEOTIVÓ UNA INVESTIGACIÓN.  "}
+{"StartTime": "20110107073433.000", "EndTime": "20110107073437.000", "PrimaryTag": "CC1", "Text": "CARLA GÓMEZ FUE A RECOGER       "}
+{"StartTime": "20110107073437.000", "EndTime": "20110107073440.000", "PrimaryTag": "CC1", "Text": "ALGUNAS DE LAS VERSIONES.       "}
+{"StartTime": "20110107073440.000", "EndTime": "20110107073445.000", "PrimaryTag": "CC1", "Text": ">> FRENTE AL CERCO FRONTERIZO   "}
+{"StartTime": "20110107073445.000", "EndTime": "20110107073447.000", "PrimaryTag": "CC1", "Text": "DONDE MURIÓ FRANCÉS TORRES, SU  "}
+{"StartTime": "20110107073447.000", "EndTime": "20110107073450.000", "PrimaryTag": "CC1", "Text": "AMIGO NOS CUENTA LOS DETALLES.  "}
+{"StartTime": "20110107073450.000", "EndTime": "20110107073452.000", "PrimaryTag": "CC1", "Text": ">> COMO CON PISTOLA CHICA. Y    "}
+{"StartTime": "20110107073452.000", "EndTime": "20110107073453.000", "PrimaryTag": "CC1", "Text": "UNO CON PISTOLA GRANDE QUE TRAE "}
+{"StartTime": "20110107073453.000", "EndTime": "20110107073459.000", "PrimaryTag": "CC1", "Text": "MIRA PERO NO ME FIJÉ, TODOS     "}
+{"StartTime": "20110107073459.000", "EndTime": "20110107073501.000", "PrimaryTag": "CC1", "Text": "TIRARON, CUANDO ME VOLTEE       "}
+{"StartTime": "20110107073501.000", "EndTime": "20110107073503.000", "PrimaryTag": "CC1", "Text": "TIRARON EL BALAZO Y A LO MEJOR  "}
+{"StartTime": "20110107073503.000", "EndTime": "20110107073507.000", "PrimaryTag": "CC1", "Text": "ME TIRARON PARA ASUSTARME.      "}
+{"StartTime": "20110107073507.000", "EndTime": "20110107073508.000", "PrimaryTag": "CC1", "Text": ">> JOSÉ PREFIERE CUBRIRSE EL    "}
+{"StartTime": "20110107073508.000", "EndTime": "20110107073510.000", "PrimaryTag": "CC1", "Text": "ROSTRO PARA NO ENCONTRAR NINGÚN "}
+{"StartTime": "20110107073510.000", "EndTime": "20110107073512.000", "PrimaryTag": "CC1", "Text": "TIPO DE REPRESALIAS, YA QUE ÉL  "}
+{"StartTime": "20110107073512.000", "EndTime": "20110107073513.000", "PrimaryTag": "CC1", "Text": "Y SU AMIGO HABÍA CRUZADO EL     "}
+{"StartTime": "20110107073513.000", "EndTime": "20110107073514.000", "PrimaryTag": "CC1", "Text": "CERCO PARA IR A UNA FIESTA CON  "}
+{"StartTime": "20110107073514.000", "EndTime": "20110107073519.000", "PrimaryTag": "CC1", "Text": "AMIGAS. DE REGRESO SE TOPARON   "}
+{"StartTime": "20110107073519.000", "EndTime": "20110107073520.000", "PrimaryTag": "CC1", "Text": "CON LOS AGENTES DE LA PATRULLA  "}
+{"StartTime": "20110107073520.000", "EndTime": "20110107073524.000", "PrimaryTag": "CC1", "Text": "FRONTERIZA SU AMIGO PASAR AL    "}
+{"StartTime": "20110107073524.000", "EndTime": "20110107073526.000", "PrimaryTag": "CC1", "Text": "LADO DE MÉXICO METAS SE MIRABA  "}
+{"StartTime": "20110107073526.000", "EndTime": "20110107073529.000", "PrimaryTag": "CC1", "Text": "DESDE  EL LADO ESTADOUNIDENSE.  "}
+{"StartTime": "20110107073529.000", "EndTime": "20110107073530.000", "PrimaryTag": "CC1", "Text": "CUENTA QUE SE OYÓ EL BALAZO Y   "}
+{"StartTime": "20110107073530.000", "EndTime": "20110107073534.000", "PrimaryTag": "CC1", "Text": "ESCUCHÓ A SU A SU AMIGO DECIR \" "}
+{"StartTime": "20110107073534.000", "EndTime": "20110107073538.000", "PrimaryTag": "CC1", "Text": "PEGARON\" Y LO VIO CAER AL SUELO."}
+{"StartTime": "20110107073538.000", "EndTime": "20110107073541.000", "PrimaryTag": "CC1", "Text": "SE VINO CORRIENDO DESDE AÁ Y    "}
+{"StartTime": "20110107073541.000", "EndTime": "20110107073545.000", "PrimaryTag": "CC1", "Text": "ME AGARRÓ,  Y CUANDO DIJELO     "}
+{"StartTime": "20110107073545.000", "EndTime": "20110107073552.000", "PrimaryTag": "CC1", "Text": "MATARON LO MATARON ME SOLTÓ     "}
+{"StartTime": "20110107073552.000", "EndTime": "20110107073553.000", "PrimaryTag": "CC1", "Text": ">> SU COMPAÑERO QUE ESTABA CON  "}
+{"StartTime": "20110107073553.000", "EndTime": "20110107073554.000", "PrimaryTag": "CC1", "Text": "ÉL AL MOMENTO DEL TIROTEO       "}
+{"StartTime": "20110107073554.000", "EndTime": "20110107073555.000", "PrimaryTag": "CC1", "Text": "ASEGURA QUE ESTABA PARADO DE    "}
+{"StartTime": "20110107073555.000", "EndTime": "20110107073555.000", "PrimaryTag": "CC1", "Text": "ESTE LADO.                      "}
+{"StartTime": "20110107073555.000", "EndTime": "20110107073556.000", "PrimaryTag": "CC1", "Text": ">> EL ESTABA AQUÍ PARADO,       "}
+{"StartTime": "20110107073556.000", "EndTime": "20110107073558.000", "PrimaryTag": "CC1", "Text": "EN ESTA ÁREA DE AQUÍ.           "}
+{"StartTime": "20110107073558.000", "EndTime": "20110107073601.000", "PrimaryTag": "CC1", "Text": "Y CUANDO TIRARON EL BALAZO YO   "}
+{"StartTime": "20110107073601.000", "EndTime": "20110107073605.000", "PrimaryTag": "CC1", "Text": "ESTABA DEL LADO AMERICANO.      "}
+{"StartTime": "20110107073605.000", "EndTime": "20110107073606.000", "PrimaryTag": "CC1", "Text": ">> JOSÉ LE DIO ESTAS MISMAS     "}
+{"StartTime": "20110107073606.000", "EndTime": "20110107073608.000", "PrimaryTag": "CC1", "Text": "DECLARACIONES A AUTORIDADES Y   "}
+{"StartTime": "20110107073608.000", "EndTime": "20110107073609.000", "PrimaryTag": "CC1", "Text": "ESPERA QUE SE PUEDA ACLARAR QUE "}
+{"StartTime": "20110107073609.000", "EndTime": "20110107073612.000", "PrimaryTag": "CC1", "Text": "NO TENÍA INTENCIÓN CRIMINAL AL  "}
+{"StartTime": "20110107073612.000", "EndTime": "20110107073613.000", "PrimaryTag": "CC1", "Text": "CRUZAR ESTE CERCO.              "}
+{"StartTime": "20110107073613.000", "EndTime": "20110107073615.000", "PrimaryTag": "CC1", "Text": ">>  ÍBAMOS A LA ESCUELA JUNTOS  "}
+{"StartTime": "20110107073615.000", "EndTime": "20110107073621.000", "PrimaryTag": "CC1", "Text": "Y ERA COMO MI HERMANO, ERA BIEN "}
+{"StartTime": "20110107073621.000", "EndTime": "20110107073625.000", "PrimaryTag": "CC1", "Text": "NOBLE, NO ERA MARIGUANOS NI     "}
+{"StartTime": "20110107073625.000", "EndTime": "20110107073627.000", "PrimaryTag": "CC1", "Text": "MALANDRIN.                      "}
+{"StartTime": "20110107073627.000", "EndTime": "20110107073630.000", "PrimaryTag": "CC1", "Text": ">> LAS AUTORIDADES FEDERALES    "}
+{"StartTime": "20110107073630.000", "EndTime": "20110107073631.000", "PrimaryTag": "CC1", "Text": "ESTÁN LLEVANDO  A CABO SU       "}
+{"StartTime": "20110107073631.000", "EndTime": "20110107073634.000", "PrimaryTag": "CC1", "Text": "PROPIA INVESTIGACIÓN. EL FBI    "}
+{"StartTime": "20110107073634.000", "EndTime": "20110107073635.000", "PrimaryTag": "CC1", "Text": "ESTÁ A CARGO DEL CASO DEL OTRO  "}
+{"StartTime": "20110107073635.000", "EndTime": "20110107073643.000", "PrimaryTag": "CC1", "Text": "LADO DE LA FRONTERA.            "}
+{"StartTime": "20110107073643.000", "EndTime": "20110107073644.000", "PrimaryTag": "CC1", "Text": ">> POR OTRA PARTE LAS           "}
+{"StartTime": "20110107073644.000", "EndTime": "20110107073645.000", "PrimaryTag": "CC1", "Text": "AUTORIDADES DE EL CONDADO DE    "}
+{"StartTime": "20110107073645.000", "EndTime": "20110107073645.000", "PrimaryTag": "CC1", "Text": "LOS ANGELES ESTÁN SOLICITANDO   "}
+{"StartTime": "20110107073645.000", "EndTime": "20110107073648.000", "PrimaryTag": "CC1", "Text": "LA AYUDA DE LA POBLACIÓN PARED  "}
+{"StartTime": "20110107073648.000", "EndTime": "20110107073651.000", "PrimaryTag": "CC1", "Text": "EDIFICARÁ VARIOS HOMBRES QUE    "}
+{"StartTime": "20110107073651.000", "EndTime": "20110107073654.000", "PrimaryTag": "CC1", "Text": "QUEDARON CAPTADOS EN VÍDEO      "}
+{"StartTime": "20110107073654.000", "EndTime": "20110107073654.000", "PrimaryTag": "CC1", "Text": "ABUSANDO DE MUJERES Y           "}
+{"StartTime": "20110107073654.000", "EndTime": "20110107073657.000", "PrimaryTag": "CC1", "Text": "CAPACITADAS.                    "}
+{"StartTime": "20110107073657.000", "EndTime": "20110107073659.000", "PrimaryTag": "CC1", "Text": "LUIS ZARAGOZA NOS PREPARÓ EL    "}
+{"StartTime": "20110107073659.000", "EndTime": "20110107073705.000", "PrimaryTag": "CC1", "Text": "SIGUIENTE INFORME.              "}
+{"StartTime": "20110107073705.000", "EndTime": "20110107073706.000", "PrimaryTag": "CC1", "Text": ">> ESO ES VERDADERAMENTE        "}
+{"StartTime": "20110107073706.000", "EndTime": "20110107073709.000", "PrimaryTag": "CC1", "Text": "INDIGNANTE PORQUE SUPUESTAMENTE "}
+{"StartTime": "20110107073709.000", "EndTime": "20110107073711.000", "PrimaryTag": "CC1", "Text": "DEBERÍAMOS DEFENDER A QUIENES   "}
+{"StartTime": "20110107073711.000", "EndTime": "20110107073713.000", "PrimaryTag": "CC1", "Text": "NO PUEDEN DEFENDERSE, Y ESTAS   "}
+{"StartTime": "20110107073713.000", "EndTime": "20110107073714.000", "PrimaryTag": "CC1", "Text": "PERSONAS SON TOTALMENTE         "}
+{"StartTime": "20110107073714.000", "EndTime": "20110107073715.000", "PrimaryTag": "CC1", "Text": "INDEFENSAS.                     "}
+{"StartTime": "20110107073715.000", "EndTime": "20110107073718.000", "PrimaryTag": "CC1", "Text": "ASÍ SE REFIRIÓ EL DETECTIVE     "}
+{"StartTime": "20110107073718.000", "EndTime": "20110107073720.000", "PrimaryTag": "CC1", "Text": "ANDERSON DE LOS ANGELES DESPUÉS "}
+{"StartTime": "20110107073720.000", "EndTime": "20110107073721.000", "PrimaryTag": "CC1", "Text": "DE REVISAR LAS PERTURBADORAS    "}
+{"StartTime": "20110107073721.000", "EndTime": "20110107073723.000", "PrimaryTag": "CC1", "Text": "IMÁGENES QUE LE HICIERA LLEGAR  "}
+{"StartTime": "20110107073723.000", "EndTime": "20110107073724.000", "PrimaryTag": "CC1", "Text": "DE MANERA ANÓNIMA A ESA         "}
+{"StartTime": "20110107073724.000", "EndTime": "20110107073726.000", "PrimaryTag": "CC1", "Text": "DEPENDENCIA.                    "}
+{"StartTime": "20110107073726.000", "EndTime": "20110107073728.000", "PrimaryTag": "CC1", "Text": ">>  LA PERSONA QUE ENTREGÓ EL   "}
+{"StartTime": "20110107073728.000", "EndTime": "20110107073731.000", "PrimaryTag": "CC1", "Text": "LOS VIDEOS, QUE NOS AYUDE, ÉL   "}
+{"StartTime": "20110107073731.000", "EndTime": "20110107073733.000", "PrimaryTag": "CC1", "Text": "NO ESTÁ EN PROBLEMAS, QUE TRATE "}
+{"StartTime": "20110107073733.000", "EndTime": "20110107073735.000", "PrimaryTag": "CC1", "Text": "DE AYUDARNOS A IDENTIFICAR A    "}
+{"StartTime": "20110107073735.000", "EndTime": "20110107073745.000", "PrimaryTag": "CC1", "Text": "LAS VÍCTIMAS, Y LOS SOSPECHOSOS."}
+{"StartTime": "20110107073745.000", "EndTime": "20110107073745.000", "PrimaryTag": "CC1", "Text": ">> POR EL CONTENIDO DE LOS      "}
+{"StartTime": "20110107073745.000", "EndTime": "20110107073749.000", "PrimaryTag": "CC1", "Text": "VIDEOS LAS AUTORIDADES NO       "}
+{"StartTime": "20110107073749.000", "EndTime": "20110107073751.000", "PrimaryTag": "CC1", "Text": "DIERON A CONOCER LAS IMÁGENES   "}
+{"StartTime": "20110107073751.000", "EndTime": "20110107073751.000", "PrimaryTag": "CC1", "Text": "PERO SE APRECIA COMO VARIOS     "}
+{"StartTime": "20110107073751.000", "EndTime": "20110107073752.000", "PrimaryTag": "CC1", "Text": "INDIVIDUOS ABUSARON SEXUALMENTE "}
+{"StartTime": "20110107073752.000", "EndTime": "20110107073753.000", "PrimaryTag": "CC1", "Text": "DE PERSONAS Y CAPACITADAS.      "}
+{"StartTime": "20110107073753.000", "EndTime": "20110107073754.000", "PrimaryTag": "CC1", "Text": ">> ENTRÓ POR ESTA PUERTA EN UNA "}
+{"StartTime": "20110107073754.000", "EndTime": "20110107073756.000", "PrimaryTag": "CC1", "Text": "SILLA DE RUEDAS, ESTÁ DESNUDO   "}
+{"StartTime": "20110107073756.000", "EndTime": "20110107073800.000", "PrimaryTag": "CC1", "Text": "LO ÚNICO QUE TIENE PUESTO SON   "}
+{"StartTime": "20110107073800.000", "EndTime": "20110107073802.000", "PrimaryTag": "CC1", "Text": "UNOS PAMPERS, SE LOS QUITA SE   "}
+{"StartTime": "20110107073802.000", "EndTime": "20110107073804.000", "PrimaryTag": "CC1", "Text": "SUBE A LA CAMA, VIOLA A LA      "}
+{"StartTime": "20110107073804.000", "EndTime": "20110107073807.000", "PrimaryTag": "CC1", "Text": "VÍCTIMA, DESPUÉS DE VIOLAR A LA "}
+{"StartTime": "20110107073807.000", "EndTime": "20110107073808.000", "PrimaryTag": "CC1", "Text": "VÍCTIMA, EL MISMO SÓLO SE SUBE  "}
+{"StartTime": "20110107073808.000", "EndTime": "20110107073810.000", "PrimaryTag": "CC1", "Text": "A LA SILLA DE RUEDAS  Y SALE    "}
+{"StartTime": "20110107073810.000", "EndTime": "20110107073816.000", "PrimaryTag": "CC1", "Text": "DEL LUGAR.                      "}
+{"StartTime": "20110107073816.000", "EndTime": "20110107073816.000", "PrimaryTag": "CC1", "Text": ">> EL LUGAR DONDE SE COMETIERON "}
+{"StartTime": "20110107073816.000", "EndTime": "20110107073817.000", "PrimaryTag": "CC1", "Text": "LOS HECHOS NO HA SIDO           "}
+{"StartTime": "20110107073817.000", "EndTime": "20110107073818.000", "PrimaryTag": "CC1", "Text": "RECONOCIDO AÚN POR LOS          "}
+{"StartTime": "20110107073818.000", "EndTime": "20110107073820.000", "PrimaryTag": "CC1", "Text": "DETECTIVES, PERO SE CREE QUE    "}
+{"StartTime": "20110107073820.000", "EndTime": "20110107073821.000", "PrimaryTag": "CC1", "Text": "PUDO POR SUCEDIDO EN DIFERENTES "}
+{"StartTime": "20110107073821.000", "EndTime": "20110107073822.000", "PrimaryTag": "CC1", "Text": "CASAS DE CUIDADO PARA ESTAS     "}
+{"StartTime": "20110107073822.000", "EndTime": "20110107073822.000", "PrimaryTag": "CC1", "Text": "PERSONAS.                       "}
+{"StartTime": "20110107073822.000", "EndTime": "20110107073824.000", "PrimaryTag": "CC1", "Text": ">> POSIBLEMENTE EN LUGAR DE     "}
+{"StartTime": "20110107073824.000", "EndTime": "20110107073825.000", "PrimaryTag": "CC1", "Text": "HOSPITAL, LUGAR DE CUIDADO DE   "}
+{"StartTime": "20110107073825.000", "EndTime": "20110107073829.000", "PrimaryTag": "CC1", "Text": "PERSONAS INCAPACITADAS.         "}
+{"StartTime": "20110107073829.000", "EndTime": "20110107073830.000", "PrimaryTag": "CC1", "Text": ">> POR EL MOMENTO ESTOS SON LOS "}
+{"StartTime": "20110107073830.000", "EndTime": "20110107073831.000", "PrimaryTag": "CC1", "Text": "ROSTROS DE CUATRO DE LOS        "}
+{"StartTime": "20110107073831.000", "EndTime": "20110107073833.000", "PrimaryTag": "CC1", "Text": "SOSPECHOSOS, DOS DE ELLOS       "}
+{"StartTime": "20110107073833.000", "EndTime": "20110107073834.000", "PrimaryTag": "CC1", "Text": "PUDIERON HABER SIDO EMPLEADOS   "}
+{"StartTime": "20110107073834.000", "EndTime": "20110107073836.000", "PrimaryTag": "CC1", "Text": "DEL LUGAR DONDE SE CUIDABA  A   "}
+{"StartTime": "20110107073836.000", "EndTime": "20110107073840.000", "PrimaryTag": "CC1", "Text": "PERSONAS DE CAPACITADAS.        "}
+{"StartTime": "20110107073840.000", "EndTime": "20110107073841.000", "PrimaryTag": "CC1", "Text": "SE CREE QUE PUDO VENCIDO UN     "}
+{"StartTime": "20110107073841.000", "EndTime": "20110107073843.000", "PrimaryTag": "CC1", "Text": "PACIENTE O,  UN AMIGO DE LOS    "}
+{"StartTime": "20110107073843.000", "EndTime": "20110107073846.000", "PrimaryTag": "CC1", "Text": "SOSPECHOSOS.                    "}
+{"StartTime": "20110107073846.000", "EndTime": "20110107073847.000", "PrimaryTag": "CC1", "Text": ">> QUEREMOS QUE EL PÚBLICO NOS  "}
+{"StartTime": "20110107073847.000", "EndTime": "20110107073847.000", "PrimaryTag": "CC1", "Text": "AYUDE CON LAS IMÁGENES QUE      "}
+{"StartTime": "20110107073847.000", "EndTime": "20110107073852.000", "PrimaryTag": "CC1", "Text": "TENEMOS.                        "}
+{"StartTime": "20110107073852.000", "EndTime": "20110107073853.000", "PrimaryTag": "CC1", "Text": ">> FUERON ENTREGADAS EN MARZO   "}
+{"StartTime": "20110107073853.000", "EndTime": "20110107073853.000", "PrimaryTag": "CC1", "Text": "PASADO PERO DEBIDO A LA         "}
+{"StartTime": "20110107073853.000", "EndTime": "20110107073854.000", "PrimaryTag": "CC1", "Text": "CANTIDAD Y CALIDAD TAN POBRE DE "}
+{"StartTime": "20110107073854.000", "EndTime": "20110107073856.000", "PrimaryTag": "CC1", "Text": "LA GRABACIÓN FUE HASTA HOY QUE  "}
+{"StartTime": "20110107073856.000", "EndTime": "20110107073857.000", "PrimaryTag": "CC1", "Text": "EL DEPARTAMENTO DIO A CONOCER   "}
+{"StartTime": "20110107073857.000", "EndTime": "20110107073902.000", "PrimaryTag": "CC1", "Text": "ESTE INCIDENTE.                 "}
+{"StartTime": "20110107073902.000", "EndTime": "20110107073906.000", "PrimaryTag": "CC1", "Text": ">> VAMOS A IR A PUERTO RICO.    "}
+{"StartTime": "20110107073906.000", "EndTime": "20110107073907.000", "PrimaryTag": "CC1", "Text": "UNA CELEBRACIÓN CON MOTIVO DE   "}
+{"StartTime": "20110107073907.000", "EndTime": "20110107073910.000", "PrimaryTag": "CC1", "Text": "LA FIESTA DE LOS REYES MAGOS    "}
+{"StartTime": "20110107073910.000", "EndTime": "20110107073911.000", "PrimaryTag": "CC1", "Text": "TERMINÓ CONVERTIDA EN CAOS      "}
+{"StartTime": "20110107073911.000", "EndTime": "20110107073914.000", "PrimaryTag": "CC1", "Text": "ESCAPAR.                        "}
+{"StartTime": "20110107073914.000", "EndTime": "20110107073921.000", "PrimaryTag": "CC1", "Text": "HUBO GRITOS, DESMOS Y MÁS.      "}
+{"StartTime": "20110107073921.000", "EndTime": "20110107073924.000", "PrimaryTag": "CC1", "Text": ">> EN UN MOTÍN TERMINÓ LA       "}
+{"StartTime": "20110107073924.000", "EndTime": "20110107073927.000", "PrimaryTag": "CC1", "Text": "TRADICIONAL ENTREGA DE REGALOS. "}
+{"StartTime": "20110107073927.000", "EndTime": "20110107073927.000", "PrimaryTag": "CC1", "Text": "OBSERVE DETENIDAMENTE LAS       "}
+{"StartTime": "20110107073927.000", "EndTime": "20110107073928.000", "PrimaryTag": "CC1", "Text": "IMPACTANTES Y DESGARRADORAS     "}
+{"StartTime": "20110107073928.000", "EndTime": "20110107073929.000", "PrimaryTag": "CC1", "Text": "IMÁGENES QUE CAPTAMOS EN        "}
+{"StartTime": "20110107073929.000", "EndTime": "20110107073939.000", "PrimaryTag": "CC1", "Text": "EXCLUSIVA.                      "}
+{"StartTime": "20110107073939.000", "EndTime": "20110107073941.000", "PrimaryTag": "CC1", "Text": "OBSERVÉ CÓMO ESTA NIÑA DE POCOS "}
+{"StartTime": "20110107073941.000", "EndTime": "20110107073944.000", "PrimaryTag": "CC1", "Text": "DÍAS DE NACIDA, LA PASARON POR  "}
+{"StartTime": "20110107073944.000", "EndTime": "20110107073945.000", "PrimaryTag": "CC1", "Text": "EL AIRE DE BRAZO EN BRAZO PARA  "}
+{"StartTime": "20110107073945.000", "EndTime": "20110107073948.000", "PrimaryTag": "CC1", "Text": "PONERLA A SALVO DEL CAOS TERRENO"}
+{"StartTime": "20110107073948.000", "EndTime": "20110107073948.000", "PrimaryTag": "CC1", "Text": " MIENTRAS MILES INTENTABAN      "}
+{"StartTime": "20110107073948.000", "EndTime": "20110107073952.000", "PrimaryTag": "CC1", "Text": "ENTRAR PARA OBTENER SUS         "}
+{"StartTime": "20110107073952.000", "EndTime": "20110107073956.000", "PrimaryTag": "CC1", "Text": "REGALOS.  TODOS QUEDARON        "}
+{"StartTime": "20110107073956.000", "EndTime": "20110107073957.000", "PrimaryTag": "CC1", "Text": "ATRAPADOS EN EL SEGUNDO PISO    "}
+{"StartTime": "20110107073957.000", "EndTime": "20110107073958.000", "PrimaryTag": "CC1", "Text": "DEL COLISEO CUANDO LA POLICÍA   "}
+{"StartTime": "20110107073958.000", "EndTime": "20110107073958.000", "PrimaryTag": "CC1", "Text": "TUVO QUE CERRAR LOS PORTONES    "}
+{"StartTime": "20110107073958.000", "EndTime": "20110107073959.000", "PrimaryTag": "CC1", "Text": "PARA ASUMIR EL CONTROL DE LA    "}
+{"StartTime": "20110107073959.000", "EndTime": "20110107074000.000", "PrimaryTag": "CC1", "Text": "ACTIVIDAD QUE ERA ORGANIZADA    "}
+{"StartTime": "20110107074000.000", "EndTime": "20110107074002.000", "PrimaryTag": "CC1", "Text": "POR FORTALEZA Y EL DEPARTAMENTO "}
+{"StartTime": "20110107074002.000", "EndTime": "20110107074004.000", "PrimaryTag": "CC1", "Text": "DE LA FAMILIA. HABÍA NIÑOS      "}
+{"StartTime": "20110107074004.000", "EndTime": "20110107074004.000", "PrimaryTag": "CC1", "Text": "DESCONSOLADOS Y ATORMENTADOS    "}
+{"StartTime": "20110107074004.000", "EndTime": "20110107074006.000", "PrimaryTag": "CC1", "Text": "QUE CORRÍAN DESPAVORIDOS PORQUE "}
+{"StartTime": "20110107074006.000", "EndTime": "20110107074008.000", "PrimaryTag": "CC1", "Text": "SE PERDIERON EN MEDIO DE LOS    "}
+{"StartTime": "20110107074008.000", "EndTime": "20110107074010.000", "PrimaryTag": "CC1", "Text": "EMPUJONES, COMO LE PASÓ ESTA    "}
+{"StartTime": "20110107074010.000", "EndTime": "20110107074012.000", "PrimaryTag": "CC1", "Text": "JOVEN MADRE QUE BUSCABA A SU    "}
+{"StartTime": "20110107074012.000", "EndTime": "20110107074017.000", "PrimaryTag": "CC1", "Text": "RETOÑO DE SIETE AÑOS.           "}
+{"StartTime": "20110107074017.000", "EndTime": "20110107074017.000", "PrimaryTag": "CC1", "Text": "ALGUNOS LEVANTARON A SUS HIJOS  "}
+{"StartTime": "20110107074017.000", "EndTime": "20110107074018.000", "PrimaryTag": "CC1", "Text": "Y HASTA LE QUITARON LA ROPA     "}
+{"StartTime": "20110107074018.000", "EndTime": "20110107074020.000", "PrimaryTag": "CC1", "Text": "PARA EVITAR QUE SE ASFIXIARAN.  "}
+{"StartTime": "20110107074020.000", "EndTime": "20110107074021.000", "PrimaryTag": "CC1", "Text": "OTROS SE FUERON INDIGNADOS Y    "}
+{"StartTime": "20110107074021.000", "EndTime": "20110107074023.000", "PrimaryTag": "CC1", "Text": "SIN REGALOS.                    "}
+{"StartTime": "20110107074023.000", "EndTime": "20110107074024.000", "PrimaryTag": "CC1", "Text": ">> NO QUEREMOS QUE VENGAN A     "}
+{"StartTime": "20110107074024.000", "EndTime": "20110107074025.000", "PrimaryTag": "CC1", "Text": "TRATARLOS COMO ANIMALES, ESTO   "}
+{"StartTime": "20110107074025.000", "EndTime": "20110107074026.000", "PrimaryTag": "CC1", "Text": "ES INHUMANO.                    "}
+{"StartTime": "20110107074026.000", "EndTime": "20110107074029.000", "PrimaryTag": "CC1", "Text": ">> NO TENÍA DINERO              "}
+{"StartTime": "20110107074029.000", "EndTime": "20110107074031.000", "PrimaryTag": "CC1", "Text": "A MI ESPOSO LE QUITARON EL      "}
+{"StartTime": "20110107074031.000", "EndTime": "20110107074037.000", "PrimaryTag": "CC1", "Text": "DESEMPLEO.                      "}
+{"StartTime": "20110107074037.000", "EndTime": "20110107074040.000", "PrimaryTag": "CC1", "Text": ">> ESTAMOS AQUÍ DESDE TEMPRANO. "}
+{"StartTime": "20110107074040.000", "EndTime": "20110107074045.000", "PrimaryTag": "CC1", "Text": ">> VOLUNTARIOS Y POLICÍAS QUE   "}
+{"StartTime": "20110107074045.000", "EndTime": "20110107074045.000", "PrimaryTag": "CC1", "Text": "DECLINARON IDENTIFICARSE        "}
+{"StartTime": "20110107074045.000", "EndTime": "20110107074048.000", "PrimaryTag": "CC1", "Text": "RECONOCER AUNQUE ESTE AÑO HA    "}
+{"StartTime": "20110107074048.000", "EndTime": "20110107074048.000", "PrimaryTag": "CC1", "Text": "SIDO EL PEOR ORGANIZADO, PORQUE "}
+{"StartTime": "20110107074048.000", "EndTime": "20110107074051.000", "PrimaryTag": "CC1", "Text": "SÓLO HABÍA UNA ESTACIÓN PARA EL "}
+{"StartTime": "20110107074051.000", "EndTime": "20110107074055.000", "PrimaryTag": "CC1", "Text": "PÚBLICO Y  OTRO PARA LOS        "}
+{"StartTime": "20110107074055.000", "EndTime": "20110107074059.000", "PrimaryTag": "CC1", "Text": "IMPEDIDOS. HUBO NIÑOS CON       "}
+{"StartTime": "20110107074059.000", "EndTime": "20110107074100.000", "PrimaryTag": "CC1", "Text": "BAJONES DE AZÚCAR Y OTROS QUE   "}
+{"StartTime": "20110107074100.000", "EndTime": "20110107074101.000", "PrimaryTag": "CC1", "Text": "FUERON SOMETIDOS POR SUS PADRES "}
+{"StartTime": "20110107074101.000", "EndTime": "20110107074101.000", "PrimaryTag": "CC1", "Text": "A LARGAS HORAS DE ESPERAS,      "}
+{"StartTime": "20110107074101.000", "EndTime": "20110107074109.000", "PrimaryTag": "CC1", "Text": "PORQUE HASTA TRASNOCHARON PARA  "}
+{"StartTime": "20110107074109.000", "EndTime": "20110107074112.000", "PrimaryTag": "CC1", "Text": "HACER LAS FILAS.                "}
+{"StartTime": "20110107074112.000", "EndTime": "20110107074113.000", "PrimaryTag": "CC1", "Text": ">> ME PARECE QUE HA SIDO MUY    "}
+{"StartTime": "20110107074113.000", "EndTime": "20110107074115.000", "PrimaryTag": "CC1", "Text": "ACERTADO TENER UN LUGAR DONDE   "}
+{"StartTime": "20110107074115.000", "EndTime": "20110107074115.000", "PrimaryTag": "CC1", "Text": "TODA LA FAMILIA PUEDA VENIR A   "}
+{"StartTime": "20110107074115.000", "EndTime": "20110107074117.000", "PrimaryTag": "CC1", "Text": "DISFRUTAR.                      "}
+{"StartTime": "20110107074117.000", "EndTime": "20110107074120.000", "PrimaryTag": "CC1", "Text": ">> COMO TODA ACTIVIDAD TIENE    "}
+{"StartTime": "20110107074120.000", "EndTime": "20110107074124.000", "PrimaryTag": "CC1", "Text": "DOS CARAS,UNOS SALIERON MUY     "}
+{"StartTime": "20110107074124.000", "EndTime": "20110107074125.000", "PrimaryTag": "CC1", "Text": "CONTENTOS PORQUE POR PRIMERA    "}
+{"StartTime": "20110107074125.000", "EndTime": "20110107074127.000", "PrimaryTag": "CC1", "Text": "VEZ EL GOBIERNO TENÍA 2000      "}
+{"StartTime": "20110107074127.000", "EndTime": "20110107074128.000", "PrimaryTag": "CC1", "Text": "COMPUTADORAS PORTÁTILES PARA    "}
+{"StartTime": "20110107074128.000", "EndTime": "20110107074131.000", "PrimaryTag": "CC1", "Text": "OBSEQUIAR, SE ENTREGARON UNAS   "}
+{"StartTime": "20110107074131.000", "EndTime": "20110107074132.000", "PrimaryTag": "CC1", "Text": "1300 Y LOS AFORTUNADOS FUERON   "}
+{"StartTime": "20110107074132.000", "EndTime": "20110107074133.000", "PrimaryTag": "CC1", "Text": "AQUELLOS QUE SE TRASNOCHARON    "}
+{"StartTime": "20110107074133.000", "EndTime": "20110107074139.000", "PrimaryTag": "CC1", "Text": "DESDE LAS OCHO DE NOCHE DE AYER."}
+{"StartTime": "20110107074139.000", "EndTime": "20110107074140.000", "PrimaryTag": "CC1", "Text": ">> CUANDO REGRESEMOS VERBOS     "}
+{"StartTime": "20110107074140.000", "EndTime": "20110107074141.000", "PrimaryTag": "CC1", "Text": "PORQUE HOY FUE UN DÍA DE MUCHA  "}
+{"StartTime": "20110107074141.000", "EndTime": "20110107074142.000", "PrimaryTag": "CC1", "Text": "LECTURA                         "}
+{"StartTime": "20110107074142.000", "EndTime": "20110107074148.000", "PrimaryTag": "CC1", "Text": "EN LA CÁMARA DE REPRESENTANTES. "}
+{"StartTime": "20110107074148.000", "EndTime": "20110107074148.000", "PrimaryTag": "CC1", "Text": "ATAQUE TERRORISTA SORPRENDE     "}
+{"StartTime": "20110107074148.000", "EndTime": "20110107074149.000", "PrimaryTag": "CC1", "Text": "DURANTE LOS PRIMEROS DÍAS DEL   "}
+{"StartTime": "20110107074149.000", "EndTime": "20110107074150.000", "PrimaryTag": "CC1", "Text": "AÑO LOS HABITANTES DE UNA       "}
+{"StartTime": "20110107074150.000", "EndTime": "20110107074153.000", "PrimaryTag": "CC1", "Text": "CIUDAD COLOMBIANA.              "}
+{"StartTime": "20110107074153.000", "EndTime": "20110107074154.000", "PrimaryTag": "CC1", "Text": "CONOZCA DETALLES DE UN          "}
+{"StartTime": "20110107074154.000", "EndTime": "20110107074432.000", "PrimaryTag": "CC1", "Text": "ACCIDENTE AÉREO QUE DEJÓ        "}
+{"StartTime": "20110107074432.000", "EndTime": "20110107074435.000", "PrimaryTag": "CC1", "Text": ">> EL NUEVO PRESIDENTE DEL      "}
+{"StartTime": "20110107074435.000", "EndTime": "20110107074436.000", "PrimaryTag": "CC1", "Text": "SUBCOMITÉ DE LA CÁMARA          "}
+{"StartTime": "20110107074436.000", "EndTime": "20110107074437.000", "PrimaryTag": "CC1", "Text": "PROMETIÓ UNA CRUZADA ANTI       "}
+{"StartTime": "20110107074437.000", "EndTime": "20110107074438.000", "PrimaryTag": "CC1", "Text": "INMIGRANTES,                    "}
+{"StartTime": "20110107074438.000", "EndTime": "20110107074443.000", "PrimaryTag": "CC1", "Text": "JUNTO CON EL EL TAMBIÉN         "}
+{"StartTime": "20110107074443.000", "EndTime": "20110107074446.000", "PrimaryTag": "CC1", "Text": "REPUBLICANO LAMAR SMITH TIENE   "}
+{"StartTime": "20110107074446.000", "EndTime": "20110107074447.000", "PrimaryTag": "CC1", "Text": "BUSCADO LA DEPORTACIÓN DE       "}
+{"StartTime": "20110107074447.000", "EndTime": "20110107074452.000", "PrimaryTag": "CC1", "Text": "INDOCUMENTADOS.                 "}
+{"StartTime": "20110107074452.000", "EndTime": "20110107074453.000", "PrimaryTag": "CC1", "Text": "ESO,  REQUERIRÍA DE UNA REFORMA "}
+{"StartTime": "20110107074453.000", "EndTime": "20110107074456.000", "PrimaryTag": "CC1", "Text": "CONSTITUCIONAL.                 "}
+{"StartTime": "20110107074456.000", "EndTime": "20110107074457.000", "PrimaryTag": "CC1", "Text": "AUTORIDADES MEXICANAS           "}
+{"StartTime": "20110107074457.000", "EndTime": "20110107074500.000", "PrimaryTag": "CC1", "Text": "ARRESTARON EN TIJUANA A JESÚS   "}
+{"StartTime": "20110107074500.000", "EndTime": "20110107074501.000", "PrimaryTag": "CC1", "Text": "ISRAEL CRUZ LÓPEZ CONOCIDO COMO "}
+{"StartTime": "20110107074501.000", "EndTime": "20110107074504.000", "PrimaryTag": "CC1", "Text": "EL TOMATE, Y SEÑALADO COMO UNO  "}
+{"StartTime": "20110107074504.000", "EndTime": "20110107074506.000", "PrimaryTag": "CC1", "Text": "DE LOS LÍDERES DEL CARTEL O DE  "}
+{"StartTime": "20110107074506.000", "EndTime": "20110107074511.000", "PrimaryTag": "CC1", "Text": "LAS DROGAS ESINALOA.            "}
+{"StartTime": "20110107074511.000", "EndTime": "20110107074514.000", "PrimaryTag": "CC1", "Text": "TAMBIÉN FUERON EN TIJUANA,      "}
+{"StartTime": "20110107074514.000", "EndTime": "20110107074515.000", "PrimaryTag": "CC1", "Text": "DETENIDOS DOS PRESUNTOS         "}
+{"StartTime": "20110107074515.000", "EndTime": "20110107074516.000", "PrimaryTag": "CC1", "Text": "NARCOTRAFICANTES ACUSADOS DE    "}
+{"StartTime": "20110107074516.000", "EndTime": "20110107074518.000", "PrimaryTag": "CC1", "Text": "DECAPITAR UN HOMBRE QUE LE      "}
+{"StartTime": "20110107074518.000", "EndTime": "20110107074519.000", "PrimaryTag": "CC1", "Text": "DEBÍA DINERO Y COLGAR SU CABEZA "}
+{"StartTime": "20110107074519.000", "EndTime": "20110107074523.000", "PrimaryTag": "CC1", "Text": "DESDE UN PUENTE.                "}
+{"StartTime": "20110107074523.000", "EndTime": "20110107074524.000", "PrimaryTag": "CC1", "Text": "EL AÑO RECIÉN COMIENZA Y EN     "}
+{"StartTime": "20110107074524.000", "EndTime": "20110107074524.000", "PrimaryTag": "CC1", "Text": "ESTOS SEIS DÍAS LOS HABITANTES  "}
+{"StartTime": "20110107074524.000", "EndTime": "20110107074526.000", "PrimaryTag": "CC1", "Text": "DE LA CIUDAD COLOMBIANA DE      "}
+{"StartTime": "20110107074526.000", "EndTime": "20110107074528.000", "PrimaryTag": "CC1", "Text": "NEIVA HAN TENIDO QUE HACER      "}
+{"StartTime": "20110107074528.000", "EndTime": "20110107074529.000", "PrimaryTag": "CC1", "Text": "FRENTE A TRES ATENTADOS         "}
+{"StartTime": "20110107074529.000", "EndTime": "20110107074531.000", "PrimaryTag": "CC1", "Text": "TERRORISTAS EL ÚLTIMO OCURRIÓ   "}
+{"StartTime": "20110107074531.000", "EndTime": "20110107074533.000", "PrimaryTag": "CC1", "Text": "HOY EN UN BARRIO DE CLASE ALTA. "}
+{"StartTime": "20110107074533.000", "EndTime": "20110107074539.000", "PrimaryTag": "CC1", "Text": "UN GANADERO QUE SE HABRÍA       "}
+{"StartTime": "20110107074539.000", "EndTime": "20110107074540.000", "PrimaryTag": "CC1", "Text": "NEGADO A PAGAR UNA EXTORSIÓN DE "}
+{"StartTime": "20110107074540.000", "EndTime": "20110107074541.000", "PrimaryTag": "CC1", "Text": "LAS FARC.                       "}
+{"StartTime": "20110107074541.000", "EndTime": "20110107074546.000", "PrimaryTag": "CC1", "Text": ">> LA TRANQUILIDAD DE LA NOCHE, "}
+{"StartTime": "20110107074546.000", "EndTime": "20110107074547.000", "PrimaryTag": "CC1", "Text": "SE ROSA CON UNA EXPLOSIÓN QUE   "}
+{"StartTime": "20110107074547.000", "EndTime": "20110107074550.000", "PrimaryTag": "CC1", "Text": "SE SINTIÓ EN AL ?1 KM A LA      "}
+{"StartTime": "20110107074550.000", "EndTime": "20110107074552.000", "PrimaryTag": "CC1", "Text": "REDONDA. TERRORISTAS DETONARON  "}
+{"StartTime": "20110107074552.000", "EndTime": "20110107074553.000", "PrimaryTag": "CC1", "Text": "EN EL CENTRO DE COLOMBIA UN     "}
+{"StartTime": "20110107074553.000", "EndTime": "20110107074555.000", "PrimaryTag": "CC1", "Text": "ARTEFACTO CON MÁS DE 20 KILOS   "}
+{"StartTime": "20110107074555.000", "EndTime": "20110107074558.000", "PrimaryTag": "CC1", "Text": "DE UN PODEROSO EXPLOSIVO.       "}
+{"StartTime": "20110107074558.000", "EndTime": "20110107074600.000", "PrimaryTag": "CC1", "Text": ">> ES TREMENDO, PENSÁBAMOS QUE  "}
+{"StartTime": "20110107074600.000", "EndTime": "20110107074605.000", "PrimaryTag": "CC1", "Text": "ERA UN TERREMOTO.               "}
+{"StartTime": "20110107074605.000", "EndTime": "20110107074605.000", "PrimaryTag": "CC1", "Text": ">> EL ATENTADO TERRORISTA       "}
+{"StartTime": "20110107074605.000", "EndTime": "20110107074606.000", "PrimaryTag": "CC1", "Text": "AFECTÓ A CASI 100 FAMILIAS QUE  "}
+{"StartTime": "20110107074606.000", "EndTime": "20110107074608.000", "PrimaryTag": "CC1", "Text": "VIVEN EN ESTE SECTOR.  LA ÚNICA "}
+{"StartTime": "20110107074608.000", "EndTime": "20110107074610.000", "PrimaryTag": "CC1", "Text": "HIPÓTESIS SEÑALA UN SOLO GRUPO  "}
+{"StartTime": "20110107074610.000", "EndTime": "20110107074616.000", "PrimaryTag": "CC1", "Text": "DE ESTE HECHO CRIMINAL.         "}
+{"StartTime": "20110107074616.000", "EndTime": "20110107074617.000", "PrimaryTag": "CC1", "Text": ">> POR TAL MOTIVO NUESTRO       "}
+{"StartTime": "20110107074617.000", "EndTime": "20110107074618.000", "PrimaryTag": "CC1", "Text": "LLAMADO DE ATENCIÓN ES PARA QUE "}
+{"StartTime": "20110107074618.000", "EndTime": "20110107074618.000", "PrimaryTag": "CC1", "Text": "LA COMUNIDAD RECHACE ESTOS      "}
+{"StartTime": "20110107074618.000", "EndTime": "20110107074620.000", "PrimaryTag": "CC1", "Text": "HECHOS.                         "}
+{"StartTime": "20110107074620.000", "EndTime": "20110107074621.000", "PrimaryTag": "CC1", "Text": ">>  ENTRE LAS ESTRUCTURAS MÁS   "}
+{"StartTime": "20110107074621.000", "EndTime": "20110107074622.000", "PrimaryTag": "CC1", "Text": "AFECTADA SE ENCUENTRA LA        "}
+{"StartTime": "20110107074622.000", "EndTime": "20110107074623.000", "PrimaryTag": "CC1", "Text": "EDIFICACIÓN DE UN COLEGIO QUE   "}
+{"StartTime": "20110107074623.000", "EndTime": "20110107074624.000", "PrimaryTag": "CC1", "Text": "EN POCOS DÍAS DEBERÍA INICIAR   "}
+{"StartTime": "20110107074624.000", "EndTime": "20110107074627.000", "PrimaryTag": "CC1", "Text": "SUS CLASES.                     "}
+{"StartTime": "20110107074627.000", "EndTime": "20110107074630.000", "PrimaryTag": "CC1", "Text": ">> VALORAMOS ENTRE 80 Y $ 100   "}
+{"StartTime": "20110107074630.000", "EndTime": "20110107074634.000", "PrimaryTag": "CC1", "Text": "MILLONES CON LO QUE TOCA        "}
+{"StartTime": "20110107074634.000", "EndTime": "20110107074638.000", "PrimaryTag": "CC1", "Text": "REMODELAR.                      "}
+{"StartTime": "20110107074638.000", "EndTime": "20110107074639.000", "PrimaryTag": "CC1", "Text": ">> ENCONTRARON UNA SEGUNDA      "}
+{"StartTime": "20110107074639.000", "EndTime": "20110107074640.000", "PrimaryTag": "CC1", "Text": "BOMBA QUE FUE DESACTIVADA TRAS  "}
+{"StartTime": "20110107074640.000", "EndTime": "20110107074640.000", "PrimaryTag": "CC1", "Text": "EL DESALOJO DE LAS VIVIENDAS    "}
+{"StartTime": "20110107074640.000", "EndTime": "20110107074641.000", "PrimaryTag": "CC1", "Text": "VECINAS.                        "}
+{"StartTime": "20110107074641.000", "EndTime": "20110107074644.000", "PrimaryTag": "CC1", "Text": ">> DICEN QUE LA CASA DE         "}
+{"StartTime": "20110107074644.000", "EndTime": "20110107074644.000", "PrimaryTag": "CC1", "Text": "NOSOTROS NOS IBA A DAÑAR PORQUE "}
+{"StartTime": "20110107074644.000", "EndTime": "20110107074647.000", "PrimaryTag": "CC1", "Text": "NOS DECÍAN QUE NO SALIÉRAMOS    "}
+{"StartTime": "20110107074647.000", "EndTime": "20110107074650.000", "PrimaryTag": "CC1", "Text": "QUE LO IMPORTANTE ERA LA SALUD. "}
+{"StartTime": "20110107074650.000", "EndTime": "20110107074654.000", "PrimaryTag": "CC1", "Text": ">> SEGÚN INVESTIGACIONES EL     "}
+{"StartTime": "20110107074654.000", "EndTime": "20110107074655.000", "PrimaryTag": "CC1", "Text": "ATENTADO BUSCA ATEMORIZAR A     "}
+{"StartTime": "20110107074655.000", "EndTime": "20110107074655.000", "PrimaryTag": "CC1", "Text": "GANADEROS Y COMERCIANTES PARA   "}
+{"StartTime": "20110107074655.000", "EndTime": "20110107074658.000", "PrimaryTag": "CC1", "Text": "QUE PAGUEN EXTORSIONES.         "}
+{"StartTime": "20110107074658.000", "EndTime": "20110107074659.000", "PrimaryTag": "CC1", "Text": ">> LOS QUE TENEMOS, LLEVAMOS    "}
+{"StartTime": "20110107074659.000", "EndTime": "20110107074702.000", "PrimaryTag": "CC1", "Text": "TANTOS AÑOS EN LA ACTIVIDAD.    "}
+{"StartTime": "20110107074702.000", "EndTime": "20110107074702.000", "PrimaryTag": "CC1", "Text": "SOMOS CONSCIENTES DE QUE ESTE   "}
+{"StartTime": "20110107074702.000", "EndTime": "20110107074705.000", "PrimaryTag": "CC1", "Text": "TIPO DE SITUACIONES SE          "}
+{"StartTime": "20110107074705.000", "EndTime": "20110107074707.000", "PrimaryTag": "CC1", "Text": "PRESENTAN, PERO ESTO NOS ANIMA  "}
+{"StartTime": "20110107074707.000", "EndTime": "20110107074708.000", "PrimaryTag": "CC1", "Text": "MÁS A SEGUIR LUCHANDO, CON      "}
+{"StartTime": "20110107074708.000", "EndTime": "20110107074712.000", "PrimaryTag": "CC1", "Text": "MAYOR FUERZA.                   "}
+{"StartTime": "20110107074712.000", "EndTime": "20110107074713.000", "PrimaryTag": "CC1", "Text": ">> LA EXPLOSIÓN DEJÓ PÉRDIDAS   "}
+{"StartTime": "20110107074713.000", "EndTime": "20110107074718.000", "PrimaryTag": "CC1", "Text": "SUPERIORES A LOS $ 500.000. LA  "}
+{"StartTime": "20110107074718.000", "EndTime": "20110107074718.000", "PrimaryTag": "CC1", "Text": "POLICÍA OFRECIÓ UNA MILLONARIA  "}
+{"StartTime": "20110107074718.000", "EndTime": "20110107074719.000", "PrimaryTag": "CC1", "Text": "RECOMPENSA A QUIEN ENTREGUE     "}
+{"StartTime": "20110107074719.000", "EndTime": "20110107074720.000", "PrimaryTag": "CC1", "Text": "INFORMACIÓN SOBRE LOS AUTORES   "}
+{"StartTime": "20110107074720.000", "EndTime": "20110107074721.000", "PrimaryTag": "CC1", "Text": "MATERIALES.                     "}
+{"StartTime": "20110107074721.000", "EndTime": "20110107074722.000", "PrimaryTag": "CC1", "Text": ">> A LAS AUTORIDADES DONDE      "}
+{"StartTime": "20110107074722.000", "EndTime": "20110107074725.000", "PrimaryTag": "CC1", "Text": "ANTERIORMENTE EXISTE UNA FUERTE "}
+{"StartTime": "20110107074725.000", "EndTime": "20110107074726.000", "PrimaryTag": "CC1", "Text": "PRESENCIA DE LAS PARTES         "}
+{"StartTime": "20110107074726.000", "EndTime": "20110107074730.000", "PrimaryTag": "CC1", "Text": "PREOCUPA QUE EN MENOS DE UNA    "}
+{"StartTime": "20110107074730.000", "EndTime": "20110107074733.000", "PrimaryTag": "CC1", "Text": "SEMANA SE HAN REGISTRADO TRES   "}
+{"StartTime": "20110107074733.000", "EndTime": "20110107074735.000", "PrimaryTag": "CC1", "Text": "EXPLOSIONES,  SIN EMBARGO       "}
+{"StartTime": "20110107074735.000", "EndTime": "20110107074736.000", "PrimaryTag": "CC1", "Text": "REFORZARÁN TODOS LOS ESQUEMAS   "}
+{"StartTime": "20110107074736.000", "EndTime": "20110107074737.000", "PrimaryTag": "CC1", "Text": "DE SEGURIDAD PARA EVITAR NUEVOS "}
+{"StartTime": "20110107074737.000", "EndTime": "20110107074741.000", "PrimaryTag": "CC1", "Text": "ATAQUES.                        "}
+{"StartTime": "20110107074741.000", "EndTime": "20110107074741.000", "PrimaryTag": "CC1", "Text": ">> UN VÍDEO COMPUTARIZADO SOBRE "}
+{"StartTime": "20110107074741.000", "EndTime": "20110107074743.000", "PrimaryTag": "CC1", "Text": "EL MORTAL ACCIDENTE DE UN AVIÓN "}
+{"StartTime": "20110107074743.000", "EndTime": "20110107074746.000", "PrimaryTag": "CC1", "Text": "CUBANO, EL PASADO CUATRO DE     "}
+{"StartTime": "20110107074746.000", "EndTime": "20110107074748.000", "PrimaryTag": "CC1", "Text": "NOVIEMBRE EN LA ISLA MUESTRA    "}
+{"StartTime": "20110107074748.000", "EndTime": "20110107074749.000", "PrimaryTag": "CC1", "Text": "LAS PRIMERAS SEÑALES DE         "}
+{"StartTime": "20110107074749.000", "EndTime": "20110107074750.000", "PrimaryTag": "CC1", "Text": "CONGELAMIENTO EN EL PANEL DE    "}
+{"StartTime": "20110107074750.000", "EndTime": "20110107074753.000", "PrimaryTag": "CC1", "Text": "INSTRUMENTOS. EL MATERIAL       "}
+{"StartTime": "20110107074753.000", "EndTime": "20110107074754.000", "PrimaryTag": "CC1", "Text": "VISUAL PREPARADO POR EXPERTOS   "}
+{"StartTime": "20110107074754.000", "EndTime": "20110107074757.000", "PrimaryTag": "CC1", "Text": "CUBANOS TAMBIÉN REVELA LA       "}
+{"StartTime": "20110107074757.000", "EndTime": "20110107074759.000", "PrimaryTag": "CC1", "Text": "TEMÁTICA COMUNICACIÓN ENTRE LA  "}
+{"StartTime": "20110107074759.000", "EndTime": "20110107074840.000", "PrimaryTag": "CC1", "Text": "NAVE Y LA TORRE DE CONTROL.     "}
+{"StartTime": "20110107074840.000", "EndTime": "20110107074843.000", "PrimaryTag": "CC1", "Text": ">> EN EL ACCIDENTE NO HUBO      "}
+{"StartTime": "20110107074843.000", "EndTime": "20110107074844.000", "PrimaryTag": "CC1", "Text": "SOBREVIVIENTES, FALLECIERON     "}
+{"StartTime": "20110107074844.000", "EndTime": "20110107074844.000", "PrimaryTag": "CC1", "Text": "SIETE TRIPULANTES 33 PASAJEROS  "}
+{"StartTime": "20110107074844.000", "EndTime": "20110107074850.000", "PrimaryTag": "CC1", "Text": "CUBANOS Y 28 EXTRANJEROS.       "}
+{"StartTime": "20110107074850.000", "EndTime": "20110107074851.000", "PrimaryTag": "CC1", "Text": "VAMOS OTRO CORTE PUBLICITARIO Y "}
+{"StartTime": "20110107074851.000", "EndTime": "20110107074852.000", "PrimaryTag": "CC1", "Text": "EN POCO MÁS DE DOS MINUTOS,  LA "}
+{"StartTime": "20110107074852.000", "EndTime": "20110107074855.000", "PrimaryTag": "CC1", "Text": "CAÍDA A TIERRA DE PÁJAROS       "}
+{"StartTime": "20110107074855.000", "EndTime": "20110107074857.000", "PrimaryTag": "CC1", "Text": "MUERTOS AFECTA AHORA OTROS      "}
+{"StartTime": "20110107074857.000", "EndTime": "20110107074859.000", "PrimaryTag": "CC1", "Text": "PAÍSES.                         "}
+{"StartTime": "20110107074859.000", "EndTime": "20110107074900.000", "PrimaryTag": "CC1", "Text": "LES DIREMOS GOLES HAN SIDO LAS  "}
+{"StartTime": "20110107074900.000", "EndTime": "20110107075143.000", "PrimaryTag": "CC1", "Text": "CONSECUENCIAS DE LA DEMORA      "}
+{"StartTime": "20110107075143.000", "EndTime": "20110107075144.000", "PrimaryTag": "CC1", "Text": ">> CADA DÍA QUE PASA AUMENTA    "}
+{"StartTime": "20110107075144.000", "EndTime": "20110107075145.000", "PrimaryTag": "CC1", "Text": "LAS ESPECULACIONES SOBRE  QUE   "}
+{"StartTime": "20110107075145.000", "EndTime": "20110107075147.000", "PrimaryTag": "CC1", "Text": "ESTÁ CAUSANDO LA MUERTE DE      "}
+{"StartTime": "20110107075147.000", "EndTime": "20110107075148.000", "PrimaryTag": "CC1", "Text": "PÁJAROS Y PECES EN VARIOS       "}
+{"StartTime": "20110107075148.000", "EndTime": "20110107075150.000", "PrimaryTag": "CC1", "Text": "PAÍSES.                         "}
+{"StartTime": "20110107075150.000", "EndTime": "20110107075151.000", "PrimaryTag": "CC1", "Text": "UNO DE LOS PRIMEROS LUGARES FUE "}
+{"StartTime": "20110107075151.000", "EndTime": "20110107075153.000", "PrimaryTag": "CC1", "Text": "EN ARKANSAS, DESDE DONDE        "}
+{"StartTime": "20110107075153.000", "EndTime": "20110107075153.000", "PrimaryTag": "CC1", "Text": "NATALIA CRUZ NOS OFRECE LO MÁS  "}
+{"StartTime": "20110107075153.000", "EndTime": "20110107075156.000", "PrimaryTag": "CC1", "Text": "RECIENTE.                       "}
+{"StartTime": "20110107075156.000", "EndTime": "20110107075157.000", "PrimaryTag": "CC1", "Text": ">> MUCHA GENTE HA DICHO NO, ES  "}
+{"StartTime": "20110107075157.000", "EndTime": "20110107075159.000", "PrimaryTag": "CC1", "Text": "EL FINAL DEL MUNDO.             "}
+{"StartTime": "20110107075159.000", "EndTime": "20110107075200.000", "PrimaryTag": "CC1", "Text": ">> EN ESTA COMUNIDAD NO SE      "}
+{"StartTime": "20110107075200.000", "EndTime": "20110107075203.000", "PrimaryTag": "CC1", "Text": "HABLA DE OTRA COSA.             "}
+{"StartTime": "20110107075203.000", "EndTime": "20110107075204.000", "PrimaryTag": "CC1", "Text": ">> NOS ESTÁ LLAMANDO MUCHÍSIMA  "}
+{"StartTime": "20110107075204.000", "EndTime": "20110107075207.000", "PrimaryTag": "CC1", "Text": "GENTE PORQUE ESTÁN PREOCUPADOS. "}
+{"StartTime": "20110107075207.000", "EndTime": "20110107075210.000", "PrimaryTag": "CC1", "Text": ">> QUE PROVOCÓ QUE CAYERA MÁS   "}
+{"StartTime": "20110107075210.000", "EndTime": "20110107075215.000", "PrimaryTag": "CC1", "Text": "DE 5000 AVES.                   "}
+{"StartTime": "20110107075215.000", "EndTime": "20110107075215.000", "PrimaryTag": "CC1", "Text": "LOS TELÉFONOS SE CONFECCIORON   "}
+{"StartTime": "20110107075215.000", "EndTime": "20110107075216.000", "PrimaryTag": "CC1", "Text": "ANTE LAS LLAMADAS DE OYENTES    "}
+{"StartTime": "20110107075216.000", "EndTime": "20110107075218.000", "PrimaryTag": "CC1", "Text": "ATEMORIZADOS POR EL SUCESO.     "}
+{"StartTime": "20110107075218.000", "EndTime": "20110107075222.000", "PrimaryTag": "CC1", "Text": ">> HACE AÑOS ATRÁS CON LA       "}
+{"StartTime": "20110107075222.000", "EndTime": "20110107075223.000", "PrimaryTag": "CC1", "Text": "CONTAMINACIÓN COMENZARON A      "}
+{"StartTime": "20110107075223.000", "EndTime": "20110107075225.000", "PrimaryTag": "CC1", "Text": "MORIR PAJARITOS Y LA GENTE SE   "}
+{"StartTime": "20110107075225.000", "EndTime": "20110107075228.000", "PrimaryTag": "CC1", "Text": "ACOSTUMBRÓ, PERO AQUÍ QUE NUNCA "}
+{"StartTime": "20110107075228.000", "EndTime": "20110107075229.000", "PrimaryTag": "CC1", "Text": "HABÍAN VISTO ESTO LA GENTE SE   "}
+{"StartTime": "20110107075229.000", "EndTime": "20110107075230.000", "PrimaryTag": "CC1", "Text": "ESPANTÓ.                        "}
+{"StartTime": "20110107075230.000", "EndTime": "20110107075235.000", "PrimaryTag": "CC1", "Text": ">> A ESTA ALTURA LAS CALLES     "}
+{"StartTime": "20110107075235.000", "EndTime": "20110107075236.000", "PrimaryTag": "CC1", "Text": "ESTÁN LIBRES DE PÁJAROS MUERTOS "}
+{"StartTime": "20110107075236.000", "EndTime": "20110107075239.000", "PrimaryTag": "CC1", "Text": "DESPUÉS DE UNA INTENSA JORNADA, "}
+{"StartTime": "20110107075239.000", "EndTime": "20110107075242.000", "PrimaryTag": "CC1", "Text": "SIN EMBARGO FUE DIFÍCIL         "}
+{"StartTime": "20110107075242.000", "EndTime": "20110107075246.000", "PrimaryTag": "CC1", "Text": "LOGRAMOS ENCONTRAR              "}
+{"StartTime": "20110107075246.000", "EndTime": "20110107075247.000", "PrimaryTag": "CC1", "Text": "ESTO RESPALDARÍA LA HIPÓTESIS   "}
+{"StartTime": "20110107075247.000", "EndTime": "20110107075248.000", "PrimaryTag": "CC1", "Text": "DE QUE LOS FUEGOS ARTIFICIALES  "}
+{"StartTime": "20110107075248.000", "EndTime": "20110107075249.000", "PrimaryTag": "CC1", "Text": "DE AÑO NUEVO, PROVOCARON LAS    "}
+{"StartTime": "20110107075249.000", "EndTime": "20110107075252.000", "PrimaryTag": "CC1", "Text": "COLISIONES.                     "}
+{"StartTime": "20110107075252.000", "EndTime": "20110107075253.000", "PrimaryTag": "CC1", "Text": "ESTÁ RESIDENTE AFECTADO POR LA  "}
+{"StartTime": "20110107075253.000", "EndTime": "20110107075256.000", "PrimaryTag": "CC1", "Text": "LLUVIA DE PÁJAROS DICE ESTAR    "}
+{"StartTime": "20110107075256.000", "EndTime": "20110107075259.000", "PrimaryTag": "CC1", "Text": "SATISFECHA CON LA EXPLICACIÓN,  "}
+{"StartTime": "20110107075259.000", "EndTime": "20110107075300.000", "PrimaryTag": "CC1", "Text": "PERO LLERENA  AFIRMAR QUE LA    "}
+{"StartTime": "20110107075300.000", "EndTime": "20110107075304.000", "PrimaryTag": "CC1", "Text": "PRIMERA VEZ QUE ALGO ASÍ.       "}
+{"StartTime": "20110107075304.000", "EndTime": "20110107075305.000", "PrimaryTag": "CC1", "Text": ">> A VECES ESTÁ UNO CON LA      "}
+{"StartTime": "20110107075305.000", "EndTime": "20110107075306.000", "PrimaryTag": "CC1", "Text": "PREOCUPACIÓN QUE PUEDA HABER UN "}
+{"StartTime": "20110107075306.000", "EndTime": "20110107075309.000", "PrimaryTag": "CC1", "Text": "TIPO DE QUÍMICO EN EL AIRE, O   "}
+{"StartTime": "20110107075309.000", "EndTime": "20110107075311.000", "PrimaryTag": "CC1", "Text": "ALGO QUE ESTE AFECTANDO.        "}
+{"StartTime": "20110107075311.000", "EndTime": "20110107075313.000", "PrimaryTag": "CC1", "Text": ">> EN LOS ÚLTIMOS CUATRO DÍAS   "}
+{"StartTime": "20110107075313.000", "EndTime": "20110107075316.000", "PrimaryTag": "CC1", "Text": "EN ILLINOIS LUISIANA Y TEXAS    "}
+{"StartTime": "20110107075316.000", "EndTime": "20110107075320.000", "PrimaryTag": "CC1", "Text": "CAYERON MILES DE AVES.  EN      "}
+{"StartTime": "20110107075320.000", "EndTime": "20110107075320.000", "PrimaryTag": "CC1", "Text": "FLORIDA Y MICHIGAN MURIERON     "}
+{"StartTime": "20110107075320.000", "EndTime": "20110107075325.000", "PrimaryTag": "CC1", "Text": "CIENTOS DE MILES DE PECES.      "}
+{"StartTime": "20110107075325.000", "EndTime": "20110107075326.000", "PrimaryTag": "CC1", "Text": "SE REGISTRARON TAN DE LA MUERTE "}
+{"StartTime": "20110107075326.000", "EndTime": "20110107075329.000", "PrimaryTag": "CC1", "Text": "DE CANGREJOS Y PELÍCANOS.       "}
+{"StartTime": "20110107075329.000", "EndTime": "20110107075332.000", "PrimaryTag": "CC1", "Text": "EN JAPÓN CHINA COREA CHILE, A   "}
+{"StartTime": "20110107075332.000", "EndTime": "20110107075334.000", "PrimaryTag": "CC1", "Text": "CAÍDO MILES DE AVES INCLUIDAS   "}
+{"StartTime": "20110107075334.000", "EndTime": "20110107075339.000", "PrimaryTag": "CC1", "Text": "PALOMAS, PATOS Y ÁGUILAS.       "}
+{"StartTime": "20110107075339.000", "EndTime": "20110107075340.000", "PrimaryTag": "CC1", "Text": "BRASIL CANADÁ NUEVA ZELANDA Y   "}
+{"StartTime": "20110107075340.000", "EndTime": "20110107075341.000", "PrimaryTag": "CC1", "Text": "AL REINO UNIDO TAMBIÉN REPORTAN "}
+{"StartTime": "20110107075341.000", "EndTime": "20110107075342.000", "PrimaryTag": "CC1", "Text": "LA EXTRAÑA MUERTE DE PECES Y    "}
+{"StartTime": "20110107075342.000", "EndTime": "20110107075343.000", "PrimaryTag": "CC1", "Text": "CANGREJOS. CIENTÍFICOS DE       "}
+{"StartTime": "20110107075343.000", "EndTime": "20110107075344.000", "PrimaryTag": "CC1", "Text": "DIFERENTES LUGARES DEL MUNDO    "}
+{"StartTime": "20110107075344.000", "EndTime": "20110107075347.000", "PrimaryTag": "CC1", "Text": "TRATAN DE DESCUBRIR QUE ESTÁ    "}
+{"StartTime": "20110107075347.000", "EndTime": "20110107075348.000", "PrimaryTag": "CC1", "Text": "MATANDO LOS ANIMALES PERO AÚN   "}
+{"StartTime": "20110107075348.000", "EndTime": "20110107075351.000", "PrimaryTag": "CC1", "Text": "NO ES LA PUESTA CONVINCENTES.   "}
+{"StartTime": "20110107075351.000", "EndTime": "20110107075351.000", "PrimaryTag": "CC1", "Text": ">> AUNQUE LOS CIENTÍFICOS DICEN "}
+{"StartTime": "20110107075351.000", "EndTime": "20110107075352.000", "PrimaryTag": "CC1", "Text": "QUE ES MUY NORMAL QUE LAS AVES  "}
+{"StartTime": "20110107075352.000", "EndTime": "20110107075354.000", "PrimaryTag": "CC1", "Text": "MUEREN EN GRUPO, RECONOCEN QUE  "}
+{"StartTime": "20110107075354.000", "EndTime": "20110107075355.000", "PrimaryTag": "CC1", "Text": "MILES ES UN TANTO EXTRAÑO.      "}
+{"StartTime": "20110107075355.000", "EndTime": "20110107075400.000", "PrimaryTag": "CC1", "Text": "ENTRAS TANTO LAS AUTORIDADES    "}
+{"StartTime": "20110107075400.000", "EndTime": "20110107075401.000", "PrimaryTag": "CC1", "Text": "DICEN QUE SE DEMORARÁN DOS      "}
+{"StartTime": "20110107075401.000", "EndTime": "20110107075402.000", "PrimaryTag": "CC1", "Text": "SEMANAS MÁS LOS RESULTADOS DE   "}
+{"StartTime": "20110107075402.000", "EndTime": "20110107075403.000", "PrimaryTag": "CC1", "Text": "LO QUE PROVOCÓ LA MUERTE DE LOS "}
+{"StartTime": "20110107075403.000", "EndTime": "20110107075407.000", "PrimaryTag": "CC1", "Text": "$ 83.000 PERO CREEN QUE PUDO    "}
+{"StartTime": "20110107075407.000", "EndTime": "20110107075412.000", "PrimaryTag": "CC1", "Text": "DEBERSE UNA ENFERMEDAD.         "}
+{"StartTime": "20110107075412.000", "EndTime": "20110107075413.000", "PrimaryTag": "CC1", "Text": ">> SI EL GOBIERNO NO HACE       "}
+{"StartTime": "20110107075413.000", "EndTime": "20110107075413.000", "PrimaryTag": "CC1", "Text": "SERIAS REFORMAS AL SISTEMA DE   "}
+{"StartTime": "20110107075413.000", "EndTime": "20110107075414.000", "PrimaryTag": "CC1", "Text": "EXPLOTACIÓN PETROLERA EN        "}
+{"StartTime": "20110107075414.000", "EndTime": "20110107075417.000", "PrimaryTag": "CC1", "Text": "ESTADOS UNIDOS PODRÍA REPETIRSE "}
+{"StartTime": "20110107075417.000", "EndTime": "20110107075418.000", "PrimaryTag": "CC1", "Text": "DESASTRES COMO LA EXPLOSIÓN     "}
+{"StartTime": "20110107075418.000", "EndTime": "20110107075419.000", "PrimaryTag": "CC1", "Text": "PRODUCIDA EN EL GOLFO DE MÉXICO "}
+{"StartTime": "20110107075419.000", "EndTime": "20110107075420.000", "PrimaryTag": "CC1", "Text": "EL AÑO PASADO.                  "}
+{"StartTime": "20110107075420.000", "EndTime": "20110107075421.000", "PrimaryTag": "CC1", "Text": "ESTÁ ASÍ DE LA CONCLUSIÓN A LA  "}
+{"StartTime": "20110107075421.000", "EndTime": "20110107075422.000", "PrimaryTag": "CC1", "Text": "QUE LLEVÓ UNA JUNTA ASESORA DE  "}
+{"StartTime": "20110107075422.000", "EndTime": "20110107075423.000", "PrimaryTag": "CC1", "Text": "LA PRESIDENCIA.                 "}
+{"StartTime": "20110107075423.000", "EndTime": "20110107075424.000", "PrimaryTag": "CC1", "Text": "EL INFORME LLEGARÁ A MANOS DEL  "}
+{"StartTime": "20110107075424.000", "EndTime": "20110107075426.000", "PrimaryTag": "CC1", "Text": "PRESIDENTE OBAMA, EL PRÓXIMO 11 "}
+{"StartTime": "20110107075426.000", "EndTime": "20110107075428.000", "PrimaryTag": "CC1", "Text": "DE ENERO.                       "}
+{"StartTime": "20110107075428.000", "EndTime": "20110107075429.000", "PrimaryTag": "CC1", "Text": "LA DEMORA DE LIMPIAR LA NIEVE   "}
+{"StartTime": "20110107075429.000", "EndTime": "20110107075432.000", "PrimaryTag": "CC1", "Text": "TRAS LA TORMENTA EN NAVIDAD, EN "}
+{"StartTime": "20110107075432.000", "EndTime": "20110107075433.000", "PrimaryTag": "CC1", "Text": "NUEVA YORK HA COMENZADO TENER   "}
+{"StartTime": "20110107075433.000", "EndTime": "20110107075434.000", "PrimaryTag": "CC1", "Text": "UN COSTO ELEVADO PARA ALGUNOS   "}
+{"StartTime": "20110107075434.000", "EndTime": "20110107075437.000", "PrimaryTag": "CC1", "Text": "FUNCIONARIOS QUE HAN SIDO       "}
+{"StartTime": "20110107075437.000", "EndTime": "20110107075437.000", "PrimaryTag": "CC1", "Text": "REMPLAZADOS ENTRE ELLOS EL      "}
+{"StartTime": "20110107075437.000", "EndTime": "20110107075440.000", "PrimaryTag": "CC1", "Text": "COMANDANTE DE SERVICIOS MÉDICOS "}
+{"StartTime": "20110107075440.000", "EndTime": "20110107075441.000", "PrimaryTag": "CC1", "Text": "DE EMERGENCIAS,                 "}
+{"StartTime": "20110107075441.000", "EndTime": "20110107075442.000", "PrimaryTag": "CC1", "Text": "Y EL DIRECTOR DE COMUNICACIONES "}
+{"StartTime": "20110107075442.000", "EndTime": "20110107075442.000", "PrimaryTag": "CC1", "Text": "DE EMERGENCIAS AL ACERCARSE     "}
+{"StartTime": "20110107075442.000", "EndTime": "20110107075444.000", "PrimaryTag": "CC1", "Text": "OTRA TORMENTA EL ALCALDE        "}
+{"StartTime": "20110107075444.000", "EndTime": "20110107075446.000", "PrimaryTag": "CC1", "Text": "CALIFICÓ DE INACEPTABLE EL HECHO"}
+{"StartTime": "20110107075446.000", "EndTime": "20110107075945.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110107075446.000", "EndTime": "20110107075447.000", "PrimaryTag": "CC1", "Text": " Y DIJO QUE LOGRAR MEJOR LA     "}
+{"StartTime": "20110107075447.000", "EndTime": "20110107075449.000", "PrimaryTag": "CC1", "Text": "PRÓXIMA VEZ.                    "}
+{"StartTime": "20110107075449.000", "EndTime": "20110107075450.000", "PrimaryTag": "CC1", "Text": "NUEVO POZO COMERCIAL, YA        "}
+{"StartTime": "20110107075450.000", "EndTime": "20110107075452.000", "PrimaryTag": "CC1", "Text": "VOLVEMOS.                       "}
+{"StartTime": "20110107075452.000", "EndTime": "20110107075458.000", "PrimaryTag": "CC1", "Text": "VEREMOS QUE DECIDIÓ EL JUEZ     "}
+{"StartTime": "20110107075458.000", "EndTime": "20110107075500.000", "PrimaryTag": "CC1", "Text": "SOBRE EL NOVIO DE LA FALLECIDA  "}
+{"StartTime": "20110107075500.000", "EndTime": "20110107075507.000", "PrimaryTag": "CC1", "Text": "ANA NICOLÁS SMITH.              "}
+{"StartTime": "20110107075507.000", "EndTime": "20110107075508.000", "PrimaryTag": "CC1", "Text": "CHICAGO SE SUMA A LAS           "}
+{"StartTime": "20110107075508.000", "EndTime": "20110107075509.000", "PrimaryTag": "CC1", "Text": "FESTIVIDADES DE LOS TRES REYES  "}
+{"StartTime": "20110107075509.000", "EndTime": "20110107075552.000", "PrimaryTag": "CC1", "Text": "MAGOS.                          "}
+{"StartTime": "20110107075552.000", "EndTime": "20110107075730.000", "PrimaryTag": "CC1", "Text": " el                             "}
+{"StartTime": "20110107075730.000", "EndTime": "20110107075732.000", "PrimaryTag": "CC1", "Text": ">> UN JUEZ DE LOS ANGELES       "}
+{"StartTime": "20110107075732.000", "EndTime": "20110107075735.000", "PrimaryTag": "CC1", "Text": "EXCULPÓ HOY  AL ABOGADO, EX     "}
+{"StartTime": "20110107075735.000", "EndTime": "20110107075737.000", "PrimaryTag": "CC1", "Text": "NOVIO DE  LA ACTRIZ DE LOS      "}
+{"StartTime": "20110107075737.000", "EndTime": "20110107075738.000", "PrimaryTag": "CC1", "Text": "CARGOS DE CONSPIRACIÓN PARA     "}
+{"StartTime": "20110107075738.000", "EndTime": "20110107075740.000", "PrimaryTag": "CC1", "Text": "INDUCIR A LA EX MODELO A LA     "}
+{"StartTime": "20110107075740.000", "EndTime": "20110107075741.000", "PrimaryTag": "CC1", "Text": "ADICCIÓN A LOS FÁRMACOS QUE LE  "}
+{"StartTime": "20110107075741.000", "EndTime": "20110107075743.000", "PrimaryTag": "CC1", "Text": "CAUSARON LA MUERTE.             "}
+{"StartTime": "20110107075743.000", "EndTime": "20110107075746.000", "PrimaryTag": "CC1", "Text": "LA DECISIÓN LLEGÓ DOS MESES     "}
+{"StartTime": "20110107075746.000", "EndTime": "20110107075750.000", "PrimaryTag": "CC1", "Text": "DESPUÉS QUE EL JURADO DECLARÓ   "}
+{"StartTime": "20110107075750.000", "EndTime": "20110107075751.000", "PrimaryTag": "CC1", "Text": "CULPABLE, PERO EL JUEZ          "}
+{"StartTime": "20110107075751.000", "EndTime": "20110107075752.000", "PrimaryTag": "CC1", "Text": "CONSIDERÓ QUE TRAS DOS MESES DE "}
+{"StartTime": "20110107075752.000", "EndTime": "20110107075752.000", "PrimaryTag": "CC1", "Text": "JUICIO NO SER PROBÓ QUE COMETIÓ "}
+{"StartTime": "20110107075752.000", "EndTime": "20110107075757.000", "PrimaryTag": "CC1", "Text": "DELITO ALGUNO.                  "}
+{"StartTime": "20110107075757.000", "EndTime": "20110107075759.000", "PrimaryTag": "CC1", "Text": " MICHAEL JACKSON, MURIÓ ANTES   "}
+{"StartTime": "20110107075759.000", "EndTime": "20110107075804.000", "PrimaryTag": "CC1", "Text": "DE QUE LLEGARAN LOS             "}
+{"StartTime": "20110107075804.000", "EndTime": "20110107075805.000", "PrimaryTag": "CC1", "Text": "PARAMÉDICOS, ESO SE CONFIRMÓ Y  "}
+{"StartTime": "20110107075805.000", "EndTime": "20110107075808.000", "PrimaryTag": "CC1", "Text": "SE DECIDIRÁ SI  EL MÉDICO IRÁ O "}
+{"StartTime": "20110107075808.000", "EndTime": "20110107075809.000", "PrimaryTag": "CC1", "Text": "NO A JUICIO.                    "}
+{"StartTime": "20110107075809.000", "EndTime": "20110107075815.000", "PrimaryTag": "CC1", "Text": "EL PARAMÉDICO COINCIDIÓ EN QUE  "}
+{"StartTime": "20110107075815.000", "EndTime": "20110107075816.000", "PrimaryTag": "CC1", "Text": "MURRAY TRATÓ DE ESCONDER        "}
+{"StartTime": "20110107075816.000", "EndTime": "20110107075817.000", "PrimaryTag": "CC1", "Text": "MATERIAL MÉDICO QUE PUDIERA     "}
+{"StartTime": "20110107075817.000", "EndTime": "20110107075819.000", "PrimaryTag": "CC1", "Text": "SERVIR DE EVIDENCIA.            "}
+{"StartTime": "20110107075819.000", "EndTime": "20110107075825.000", "PrimaryTag": "CC1", "Text": "LA CAPITAL CALIFORNIANA, EL     "}
+{"StartTime": "20110107075825.000", "EndTime": "20110107075826.000", "PrimaryTag": "CC1", "Text": "CODICIADO GALARDÓN GANADO POR   "}
+{"StartTime": "20110107075826.000", "EndTime": "20110107075826.000", "PrimaryTag": "CC1", "Text": "LOS GIGANTES DE SAN FRANCISCO   "}
+{"StartTime": "20110107075826.000", "EndTime": "20110107075828.000", "PrimaryTag": "CC1", "Text": "FUE LICITADO POR MILES DE       "}
+{"StartTime": "20110107075828.000", "EndTime": "20110107075829.000", "PrimaryTag": "CC1", "Text": "AFICIONADOS QUE QUERÍAN TOMARSE "}
+{"StartTime": "20110107075829.000", "EndTime": "20110107075830.000", "PrimaryTag": "CC1", "Text": "FOTOS.                          "}
+{"StartTime": "20110107075830.000", "EndTime": "20110107075835.000", "PrimaryTag": "CC1", "Text": "EL TROFEO SEGUIRÁ LUEGO SU GIRA."}
+{"StartTime": "20110107075835.000", "EndTime": "20110107075837.000", "PrimaryTag": "CC1", "Text": "ESTAMOS A AUN  EN EL DÍA DE LOS "}
+{"StartTime": "20110107075837.000", "EndTime": "20110107075839.000", "PrimaryTag": "CC1", "Text": "TRES REYES MAGOS ESTÁ           "}
+{"StartTime": "20110107075839.000", "EndTime": "20110107075840.000", "PrimaryTag": "CC1", "Text": "CELEBRACIÓN SIN ARIGO LA        "}
+{"StartTime": "20110107075840.000", "EndTime": "20110107075842.000", "PrimaryTag": "CC1", "Text": "COMUNIDAD HISPANA.              "}
+{"StartTime": "20110107075842.000", "EndTime": "20110107075844.000", "PrimaryTag": "CC1", "Text": "EN PERÚ, VARIOS POLICÍAS SE     "}
+{"StartTime": "20110107075844.000", "EndTime": "20110107075846.000", "PrimaryTag": "CC1", "Text": "VISTIERON HOY COMO LOS CÉLEBRES "}
+{"StartTime": "20110107075846.000", "EndTime": "20110107075849.000", "PrimaryTag": "CC1", "Text": "PERSONAJES BÍBLICOS             "}
+{"StartTime": "20110107075849.000", "EndTime": "20110107075856.000", "PrimaryTag": "CC1", "Text": "REDISTRIBUIR JUGUETES.          "}
+{"StartTime": "20110107075856.000", "EndTime": "20110107075857.000", "PrimaryTag": "CC1", "Text": "PARA LA DESPEDIDA DISFRUTÁREMOS "}
+{"StartTime": "20110107075857.000", "EndTime": "20110107075858.000", "PrimaryTag": "CC1", "Text": "DE OTRAS CELEBRACIONES POR EL   "}
+{"StartTime": "20110107075858.000", "EndTime": "20110107075859.000", "PrimaryTag": "CC1", "Text": "DÍA DE LOS REYES MAGOS.         "}
+{"StartTime": "20110107075859.000", "EndTime": "20110107075901.000", "PrimaryTag": "CC1", "Text": "TUVIERON LUGAR EN CHICAGO Y EN  "}
+{"StartTime": "20110107075901.000", "EndTime": "20110107075906.000", "PrimaryTag": "CC1", "Text": "EL YORK. EN AMBOS LUGARES MILES "}
+{"StartTime": "20110107075906.000", "EndTime": "20110107075909.000", "PrimaryTag": "CC1", "Text": "DE NIÑOS Y ADULTOS RECIBIERON   "}
+{"StartTime": "20110107075909.000", "EndTime": "20110107075915.000", "PrimaryTag": "CC1", "Text": "LA LLEGADA DE MELCHOR GASPAR Y  "}
+{"StartTime": "20110107075915.000", "EndTime": "20110107075917.000", "PrimaryTag": "CC1", "Text": "BALTAZAR.                       "}
+{"StartTime": "20110107075917.000", "EndTime": "20110107075918.000", "PrimaryTag": "CC1", "Text": "EN LA GRAN MANZANA FAMILIAS     "}
+{"StartTime": "20110107075918.000", "EndTime": "20110107075923.000", "PrimaryTag": "CC1", "Text": "HISPANAS ACOMPAÑARON A LOS      "}
+{"StartTime": "20110107075923.000", "EndTime": "20110107075925.000", "PrimaryTag": "CC1", "Text": "PPERSONAJES BÍBLICOS.           "}
+{"StartTime": "20110107075925.000", "EndTime": "20110107075930.000", "PrimaryTag": "CC1", "Text": "COMO CABO OFICIALMENTE LA       "}
+{"StartTime": "20110107075930.000", "EndTime": "20110107075930.000", "PrimaryTag": "CC1", "Text": "TEMPORADA NAVIDEÑA, TERMINAMOS  "}
+{"StartTime": "20110107075930.000", "EndTime": "20110107075931.000", "PrimaryTag": "CC1", "Text": "HOY NUESTRA EMISIÓN GRACIAS POR "}
+{"StartTime": "20110107075931.000", "EndTime": "20110107075936.000", "PrimaryTag": "CC1", "Text": "SU SINTONÍA.                    "}
+{"StartTime": "20110107075936.000", "EndTime": "20110107075945.000", "PrimaryTag": "CC1", "Text": "BUENAS NOCHES Y QUE DESCANSAN.  "}
+{"End": "20110107075945", "FileName": "2011-01-07_0730_US_KMEX_Noticiero_Univision_Ultima_Hora"}

@@ -1,0 +1,889 @@
+TOP|20110126070001|2011-01-26_0700_US_KMEX_Noticias_34
+COL|Communication Studies Archive, UCLA
+UID|10225c52-291e-11e0-8ba4-001517add60e
+DUR|0:29:49.08
+VID|640x480
+CMT|
+LAN|SPA
+LBT|2011-01-25 23:00 America/Los_Angeles
+SEG_01|2014-02-14 18:23:17|Source_Program=commercial_detection.py|Source_Person=Weixin Li
+SEG_02|2014-02-25 00:41|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+POS_05|2015-02-05 15:36|Source_Program=Pattern.de 2.6, PartsOfSpeech-pattern_es-01.py|Source_Person=Tom De Smedt, FFS|Codebook=Treebank II
+20110126070028.000|20110126071407.000|SEG|Type=Story|Score=1.0
+20110126070028.000|20110126070053.000|CC1|sm esta noche un grupo de científicos hispanos aseguran haber desarrollado una vacuna contra el alcoholismoá 
+20110126070028.000|20110126070053.000|POS_05|sm/NN/B-NP/O/O/sm|esta/DT/I-NP/O/O/esta|noche/NN/I-NP/O/O/noche|un/DT/B-NP/O/O/un|grupo/NN/I-NP/O/O/grupo|de/IN/B-PP/B-PNP/O/de|científicos/NNS/B-NP/I-PNP/NP-SBJ-1/científico|hispanos/NN/I-NP/I-PNP/NP-SBJ-1/hispanos|aseguran/VB/B-VP/O/VP-1/asegurar|haber/MD/I-VP/O/VP-1/haber|desarrollado/VBN/I-VP/O/VP-1/desarrollar|una/DT/O/O/O/un|vacuna/JJ/B-ADJP/O/O/vacuno|contra/IN/B-PP/B-PNP/O/contra|el/DT/B-NP/I-PNP/O/el|alcoholismoá/NN/I-NP/I-PNP/O/alcoholismoá
+20110126070053.000|20110126070054.000|CC1|>> No está aquí.
+20110126070053.000|20110126070054.000|POS_05|No/RB/B-ADVP/O/O/no|está/MD/B-VP/O/O/estar|aquí/RB/B-ADVP/O/O/aquí|././O/O/O/.
+20110126070054.000|20110126070057.000|CC1|>> Te conozco muy bien, y sé que mientes.
+20110126070054.000|20110126070057.000|POS_05|Te/PRP/B-NP/O/NP-SBJ-1/te|conozco/VB/B-VP/O/VP-1/conocer|muy/RB/I-VP/O/VP-1/muy|bien/RB/I-VP/O/VP-1/bien|,/,/O/O/O/,|y/CC/O/O/O/y|sé/VB/B-VP/O/O/ser|que/IN/B-PP/B-PNP/O/que|mientes/NN/B-NP/I-PNP/O/mientes|././O/O/O/.
+20110126070057.000|20110126070058.000|CC1|¿Qué pretendes infeliz?
+20110126070057.000|20110126070058.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|pretendes/VB/B-VP/O/VP-1/pretender|infeliz/JJ/B-ADJP/O/O/infeliz|?/./O/O/O/?
+20110126070058.000|20110126070100.000|CC1|¿Hacerle a mi hija lo mismo que me hiciste a mí? 
+20110126070058.000|20110126070100.000|POS_05|¿Hacerle/NNP/B-NP/O/O/¿hacerle|a/IN/B-PP/B-PNP/O/a|mi/PRP$/B-NP/I-PNP/O/mi|hija/NN/I-NP/I-PNP/O/hija|lo/DT/O/O/O/lo|mismo/JJ/B-ADJP/O/O/mismo|que/WP$/O/O/O/que|me/PRP/B-NP/O/NP-SBJ-1/me|hiciste/VB/B-VP/O/VP-1/hacer|a/IN/B-PP/B-PNP/O/a|mí/PRP/B-NP/I-PNP/O/mí|?/./O/O/O/?
+20110126070100.000|20110126070105.000|CC1|>> Yo sería incapaz ni siquiera tocar a tu hija con el pétalo de una rosa.
+20110126070100.000|20110126070105.000|POS_05|Yo/PRP/B-NP/O/NP-SBJ-1/yo|sería/VB/B-VP/O/VP-1/ser|incapaz/JJ/B-ADJP/O/O/incapaz|ni/CC/O/O/O/ni|siquiera/RB/B-VP/O/O/siquiera|tocar/VB/I-VP/O/O/tocar|a/IN/B-PP/B-PNP/O/a|tu/PRP$/B-NP/I-PNP/O/tu|hija/NN/I-NP/I-PNP/O/hija|con/IN/B-PP/B-PNP/O/con|el/DT/B-NP/I-PNP/O/el|pétalo/NN/I-NP/I-PNP/O/pétalo|de/IN/B-PP/O/O/de|una/DT/O/O/O/un|rosa/JJ/B-ADJP/O/O/roso|././O/O/O/.
+20110126070105.000|20110126070106.000|CC1|A la futura esposa de mi hijo.
+20110126070105.000|20110126070106.000|POS_05|A/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|futura/JJ/I-NP/I-PNP/O/futuro|esposa/NN/I-NP/I-PNP/O/esposa|de/IN/B-PP/B-PNP/O/de|mi/PRP$/B-NP/I-PNP/O/mi|hijo/NN/I-NP/I-PNP/O/hijo|././O/O/O/.
+20110126070106.000|20110126070107.000|CC1|>> ¡Cállate!
+20110126070106.000|20110126070107.000|POS_05|¡Cállate/NNP/B-NP/O/O/¡cállate|!/./O/O/O/!
+20110126070107.000|20110126070114.000|CC1|¡Mi hija no se va a casar con el inútil y malviviente de tu hijo! ¡Fer! ¡Fer, sal inmediatamente o entro a buscarte!
+20110126070107.000|20110126070114.000|POS_05|¡Mi/NNP/B-NP/O/NP-SBJ-1/¡mi|hija/NN/I-NP/O/NP-SBJ-1/hija|no/RB/I-NP/O/NP-SBJ-1/no|se/PRP/I-NP/O/NP-SBJ-1/se|va/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|casar/VB/B-VP/O/O/casar|con/IN/B-PP/O/O/con|el/DT/O/O/O/el|inútil/JJ/B-ADJP/O/O/inútil|y/CC/O/O/O/y|malviviente/NN/B-NP/O/O/malviviente|de/IN/B-PP/B-PNP/O/de|tu/PRP$/B-NP/I-PNP/O/tu|hijo/NN/I-NP/I-PNP/O/hijo|!/./O/O/O/!
+20110126070107.000|20110126070114.000|POS_05|¡Fer/NNP/B-NP/O/O/¡fer|!/./O/O/O/!
+20110126070107.000|20110126070114.000|POS_05|¡Fer/NNP/B-NP/O/O/¡fer|,/,/I-NP/O/O/,|sal/NN/I-NP/O/O/sal|inmediatamente/RB/I-NP/O/O/inmediatamente|o/CC/O/O/O/o|entro/VB/B-VP/O/O/entrar|a/IN/B-PP/B-PNP/O/a|buscarte/NN/B-NP/I-PNP/O/buscarte|!/./O/O/O/!
+20110126070114.000|20110126070117.000|CC1|>> Señora, usted no tiene ningún derecho a venir a interrumpir mis dulces sueños.
+20110126070114.000|20110126070117.000|POS_05|Señora/NN/B-NP/O/NP-SBJ-1/señora|,/,/I-NP/O/NP-SBJ-1/,|usted/PRP/I-NP/O/NP-SBJ-1/usted|no/RB/I-NP/O/NP-SBJ-1/no|tiene/VB/I-VP/O/VP-1/tener|ningún/DT/B-NP/O/NP-OBJ-1/ningún|derecho/NN/I-NP/O/NP-OBJ-1/derecho|a/IN/B-PP/O/O/a|venir/VB/B-VP/O/O/venir|a/IN/B-PP/O/O/a|interrumpir/VB/B-VP/O/VP-2/interrumpir|mis/PRP$/B-NP/O/NP-OBJ-2/mis|dulces/NNS/I-NP/O/NP-OBJ-2/dulz|sueños/JJ/I-NP/O/NP-OBJ-2/sueño|././O/O/O/.
+20110126070117.000|20110126070118.000|CC1|Con esas histerias.
+20110126070117.000|20110126070118.000|POS_05|Con/IN/B-PP/B-PNP/O/con|esas/DT/B-NP/I-PNP/O/esas|histerias/NN/I-NP/I-PNP/O/histerias|././O/O/O/.
+20110126070118.000|20110126070119.000|CC1|>> ¡Cállate Rodolfo!
+20110126070118.000|20110126070119.000|POS_05|¡Cállate/NNP/B-NP/O/O/¡cállate|Rodolfo/NNP/I-NP/O/O/rodolfo|!/./O/O/O/!
+20110126070119.000|20110126070121.000|CC1|Y cuidado, mucho cuidado.
+20110126070119.000|20110126070121.000|POS_05|Y/CC/O/O/O/y|cuidado/NN/B-NP/O/O/cuidado|,/,/O/O/O/,|mucho/RB/B-ADVP/O/O/mucho|cuidado/NN/B-NP/O/O/cuidado|././O/O/O/.
+20110126070121.000|20110126070125.000|CC1|Yo ya no soy aquella indefensa muchacha y por mi hija soy capaz de todo.
+20110126070121.000|20110126070125.000|POS_05|Yo/PRP/B-NP/O/NP-SBJ-1/yo|ya/RB/I-NP/O/NP-SBJ-1/ya|no/RB/I-NP/O/NP-SBJ-1/no|soy/VB/I-VP/O/VP-1/ser|aquella/DT/B-NP/O/NP-OBJ-1/aquella|indefensa/JJ/I-NP/O/NP-OBJ-1/indefenso|muchacha/NN/I-NP/O/NP-OBJ-1/muchacha|y/CC/O/O/O/y|por/IN/B-PP/B-PNP/O/por|mi/PRP$/B-NP/I-PNP/NP-SBJ-2/mi|hija/NN/I-NP/I-PNP/NP-SBJ-2/hija|soy/VB/B-VP/O/VP-2/ser|capaz/JJ/B-ADJP/O/O/capaz|de/IN/B-PP/O/O/de|todo/DT/O/O/O/todo|././O/O/O/.
+20110126070125.000|20110126070128.000|CC1|Hasta de meterte en la cárcel de por vida.
+20110126070125.000|20110126070128.000|POS_05|Hasta/IN/B-PP/B-PNP/O/hasta|de/IN/I-PP/I-PNP/O/de|meterte/NN/B-NP/I-PNP/O/meterte|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|cárcel/NN/I-NP/I-PNP/O/cárcel|de/IN/B-PP/B-PNP/O/de|por/IN/I-PP/I-PNP/O/por|vida/NN/B-NP/I-PNP/O/vida|././O/O/O/.
+20110126070128.000|20110126070130.000|CC1|>> ¡Atrévete si quieres!
+20110126070128.000|20110126070130.000|POS_05|¡Atrévete/NNP/B-NP/O/O/¡atrévete|si/IN/B-PP/O/O/si|quieres/VB/B-VP/O/O/querer|!/./O/O/O/!
+20110126070130.000|20110126070132.000|CC1|Todo el mundo va a conocer tu oscuro pasado.
+20110126070130.000|20110126070132.000|POS_05|Todo/DT/B-NP/O/NP-SBJ-1/todo|el/DT/I-NP/O/NP-SBJ-1/el|mundo/NN/I-NP/O/NP-SBJ-1/mundo|va/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|conocer/VB/B-VP/O/VP-2/conocer|tu/PRP$/B-NP/O/NP-OBJ-2/tu|oscuro/JJ/I-NP/O/NP-OBJ-2/oscuro|pasado/NN/I-NP/O/NP-OBJ-2/pasado|././O/O/O/.
+20110126070132.000|20110126070133.000|CC1|>> ¡No me importa!
+20110126070132.000|20110126070133.000|POS_05|¡No/NNP/B-NP/O/NP-SBJ-1/¡no|me/PRP/I-NP/O/NP-SBJ-1/me|importa/VB/B-VP/O/VP-1/importar|!/./O/O/O/!
+20110126070133.000|20110126070135.000|CC1|No me importa nada.
+20110126070133.000|20110126070135.000|POS_05|No/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/NP-SBJ-1/me|importa/VB/B-VP/O/VP-1/importar|nada/DT/O/O/O/nada|././O/O/O/.
+20110126070135.000|20110126070139.000|CC1|Yo por mi hija soy capaz de dar la vida y yo no tengo nada de qué avergonzarme.
+20110126070135.000|20110126070139.000|POS_05|Yo/PRP/B-NP/O/O/yo|por/IN/B-PP/B-PNP/O/por|mi/PRP$/B-NP/I-PNP/NP-SBJ-1/mi|hija/NN/I-NP/I-PNP/NP-SBJ-1/hija|soy/VB/B-VP/O/VP-1/ser|capaz/JJ/B-ADJP/O/O/capaz|de/IN/B-PP/O/O/de|dar/VB/B-VP/O/VP-2/dar|la/DT/B-NP/O/NP-OBJ-2/el|vida/NN/I-NP/O/NP-OBJ-2/vida|y/CC/O/O/O/y|yo/PRP/B-NP/O/NP-SBJ-3/yo|no/RB/I-NP/O/NP-SBJ-3/no|tengo/VB/I-VP/O/VP-3/tener|nada/DT/O/O/O/nada|de/IN/B-PP/O/O/de|qué/WP$/O/O/O/qué|avergonzarme/NN/B-NP/O/O/avergonzarme|././O/O/O/.
+20110126070139.000|20110126070143.000|CC1|Si tú quieres escándalo, no tengo ningún inconveniente de que las autoridades se enteren de que.
+20110126070139.000|20110126070143.000|POS_05|Si/IN/B-PP/B-PNP/O/si|tú/PRP/B-NP/I-PNP/NP-SBJ-1/tú|quieres/VB/B-VP/O/VP-1/querer|escándalo/NN/B-NP/O/NP-OBJ-1/escándalo|,/,/O/O/O/,|no/RB/B-VP/O/VP-2/no|tengo/VB/I-VP/O/VP-2/tener|ningún/DT/B-NP/O/NP-OBJ-2/ningún|inconveniente/NN/I-NP/O/NP-OBJ-2/inconveniente|de/IN/B-PP/B-PNP/O/de|que/IN/I-PP/I-PNP/O/que|las/DT/B-NP/I-PNP/NP-SBJ-3/el|autoridades/NNS/I-NP/I-PNP/NP-SBJ-3/autoridad|se/PRP/I-NP/I-PNP/NP-SBJ-3/se|enteren/VB/B-VP/O/VP-3/enterer|de/IN/B-PP/B-PNP/O/de|que/IN/I-PP/I-PNP/O/que|././O/O/O/.
+20110126070143.000|20110126070145.000|CC1|¡Tú me violaste!
+20110126070143.000|20110126070145.000|POS_05|¡Tú/NNP/B-NP/O/O/¡tú|me/PRP/I-NP/O/O/me|violaste/NN/I-NP/O/O/violaste|!/./O/O/O/!
+20110126070145.000|20110126070150.000|CC1|Y si investigan un poco más, estoy segura que te van a encontrar mucho más delitos.
+20110126070145.000|20110126070150.000|POS_05|Y/CC/O/O/O/y|si/IN/B-PP/O/O/si|investigan/VB/B-VP/O/O/investigar|un/DT/O/O/O/un|poco/DT/O/O/O/poco|más/RB/B-ADVP/O/O/más|,/,/O/O/O/,|estoy/MD/B-VP/O/O/estar|segura/JJ/B-ADJP/O/O/seguro|que/IN/B-PP/B-PNP/O/que|te/PRP/B-NP/I-PNP/NP-SBJ-1/te|van/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|encontrar/VB/B-VP/O/O/encontrar|mucho/RB/B-ADVP/O/O/mucho|más/RB/B-ADVP/O/O/más|delitos/NNS/B-NP/O/O/delito|././O/O/O/.
+20110126070150.000|20110126070151.000|CC1|¡Quítate!
+20110126070150.000|20110126070151.000|POS_05|¡Quítate/NNP/B-NP/O/O/¡quítate|!/./O/O/O/!
+20110126070151.000|20110126070154.000|CC1|¡Fer! ¡Fer! 
+20110126070151.000|20110126070154.000|POS_05|¡Fer/NNP/B-NP/O/O/¡fer|!/./O/O/O/!
+20110126070151.000|20110126070154.000|POS_05|¡Fer/NNP/B-NP/O/O/¡fer|!/./O/O/O/!
+20110126070154.000|20110126070156.000|CC1|>> Ya llegamos del súper.
+20110126070154.000|20110126070156.000|POS_05|Ya/RB/B-VP/O/VP-1/ya|llegamos/VB/I-VP/O/VP-1/llegar|del/NN/B-NP/O/NP-OBJ-1/del|súper/NN/I-NP/O/NP-OBJ-1/súper|././O/O/O/.
+20110126070156.000|20110126070159.000|CC1|No alcanzó cono lo que nos diste, así que Fer, pagó con la tarjeta de crédito.
+20110126070156.000|20110126070159.000|POS_05|No/RB/B-VP/O/VP-1/no|alcanzó/VB/I-VP/O/VP-1/alcanzar|cono/NN/B-NP/O/NP-OBJ-1/cono|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|nos/PRP/B-NP/O/NP-SBJ-2/nos|diste/VB/B-VP/O/VP-2/dar|,/,/O/O/O/,|así/RB/B-ADVP/O/O/así|que/IN/B-PP/B-PNP/O/que|Fer/NNP/B-NP/I-PNP/O/fer|,/,/O/O/O/,|pagó/VB/B-VP/O/O/pagar|con/IN/B-PP/B-PNP/O/con|la/DT/B-NP/I-PNP/O/el|tarjeta/NN/I-NP/I-PNP/O/tarjeta|de/IN/B-PP/B-PNP/O/de|crédito/NN/B-NP/I-PNP/O/crédito|././O/O/O/.
+20110126070159.000|20110126070159.000|CC1|>> No importa eso.
+20110126070159.000|20110126070159.000|POS_05|No/RB/B-VP/O/O/no|importa/VB/I-VP/O/O/importar|eso/DT/O/O/O/eso|././O/O/O/.
+20110126070159.000|20110126070200.000|CC1|>> ¡Fer! 
+20110126070159.000|20110126070200.000|POS_05|¡Fer/NNP/B-NP/O/O/¡fer|!/./O/O/O/!
+20110126070200.000|20110126070201.000|CC1|>> ¡Mamá!
+20110126070200.000|20110126070201.000|POS_05|¡Mamá/NNP/B-NP/O/O/¡mamá|!/./O/O/O/!
+20110126070201.000|20110126070203.000|CC1|¿Qué haces aquí mamá?
+20110126070201.000|20110126070203.000|POS_05|¿Qué/NNP/B-NP/O/O/¿qué|haces/NNS/I-NP/O/O/haz|aquí/RB/I-NP/O/O/aquí|mamá/NN/I-NP/O/O/mamá|?/./O/O/O/?
+20110126070203.000|20110126070205.000|CC1|>> Vámonos inmediatamente de aquí.
+20110126070203.000|20110126070205.000|POS_05|Vámonos/NNP/B-NP/O/O/vámonos|inmediatamente/RB/I-NP/O/O/inmediatamente|de/RB/I-NP/O/O/de|aquí/RB/I-NP/O/O/aquí|././O/O/O/.
+20110126070205.000|20110126070207.000|CC1|>> Yo no me voy a ninguna parte, suéltame.
+20110126070205.000|20110126070207.000|POS_05|Yo/PRP/B-NP/O/NP-SBJ-1/yo|no/RB/I-NP/O/NP-SBJ-1/no|me/PRP/I-NP/O/NP-SBJ-1/me|voy/VB/B-VP/O/VP-1/ir|a/IN/B-PP/B-PNP/O/a|ninguna/DT/B-NP/I-PNP/O/ninguna|parte/NN/I-NP/I-PNP/O/parte|,/,/O/O/O/,|suéltame/NN/B-NP/O/O/suéltame|././O/O/O/.
+20110126070207.000|20110126070208.000|CC1|>> Tú vas donde yo diga.
+20110126070207.000|20110126070208.000|POS_05|Tú/PRP/B-NP/O/NP-SBJ-1/tú|vas/VB/B-VP/O/VP-1/ir|donde/IN/B-PP/B-PNP/O/donde|yo/PRP/B-NP/I-PNP/NP-SBJ-2/yo|diga/VB/B-VP/O/VP-2/decir|././O/O/O/.
+20110126070208.000|20110126070209.000|CC1|>> ¡Federico!
+20110126070208.000|20110126070209.000|POS_05|¡Federico/NNP/B-NP/O/O/¡federico|!/./O/O/O/!
+20110126070209.000|20110126070210.000|CC1|>> Ella no se quiere ir, tranquila.
+20110126070209.000|20110126070210.000|POS_05|Ella/PRP/B-NP/O/NP-SBJ-1/ella|no/RB/I-NP/O/NP-SBJ-1/no|se/PRP/I-NP/O/NP-SBJ-1/se|quiere/VB/B-VP/O/VP-1/querer|ir/VB/I-VP/O/VP-1/ir|,/,/O/O/O/,|tranquila/JJ/B-ADJP/O/O/tranquilo|././O/O/O/.
+20110126070210.000|20110126070212.000|CC1|>> ¡Cállate infeliz!
+20110126070210.000|20110126070212.000|POS_05|¡Cállate/NNP/B-NP/O/O/¡cállate|infeliz/JJ/I-NP/O/O/infeliz|!/./O/O/O/!
+20110126070212.000|20110126070212.000|CC1|Vámonos de aquí.
+20110126070212.000|20110126070212.000|POS_05|Vámonos/NNP/B-NP/O/O/vámonos|de/IN/B-PP/O/O/de|aquí/RB/B-ADVP/O/O/aquí|././O/O/O/.
+20110126070212.000|20110126070213.000|CC1|>> Fede, Fede.
+20110126070212.000|20110126070213.000|POS_05|Fede/NNP/B-NP/O/O/fede|,/,/I-NP/O/O/,|Fede/NNP/I-NP/O/O/fede|././O/O/O/.
+20110126070213.000|20110126070219.000|CC1|>> Vámonos.
+20110126070213.000|20110126070219.000|POS_05|Vámonos/NNP/B-NP/O/O/vámonos|././O/O/O/.
+20110126070219.000|20110126070227.000|CC1|>> No te preocupes hijo, tu novia va a regresar en menos de lo que te imaginas.
+20110126070219.000|20110126070227.000|POS_05|No/RB/B-ADVP/O/O/no|te/PRP/B-NP/O/O/te|preocupes/NN/I-NP/O/O/preocupes|hijo/NN/I-NP/O/O/hijo|,/,/O/O/O/,|tu/PRP$/B-NP/O/NP-SBJ-1/tu|novia/NN/I-NP/O/NP-SBJ-1/novia|va/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|regresar/VB/B-VP/O/O/regresar|en/IN/B-PP/O/O/en|menos/RB/B-ADVP/O/O/menos|de/IN/B-PP/O/O/de|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|te/PRP/B-NP/O/O/te|imaginas/NN/I-NP/O/O/imaginas|././O/O/O/.
+20110126070227.000|20110126070228.000|CC1|De eso yo me encargo.
+20110126070227.000|20110126070228.000|POS_05|De/IN/B-PP/B-PNP/O/de|eso/DT/B-NP/I-PNP/O/eso|yo/PRP/I-NP/I-PNP/O/yo|me/PRP/I-NP/I-PNP/O/me|encargo/NN/I-NP/I-PNP/O/encargo|././O/O/O/.
+20110126070228.000|20110126070233.000|CC1|>> Vamos a hablar muy seriamente.
+20110126070228.000|20110126070233.000|POS_05|Vamos/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|hablar/VB/B-VP/O/O/hablar|muy/RB/I-VP/O/O/muy|seriamente/RB/I-VP/O/O/seriamente|././O/O/O/.
+20110126070233.000|20110126070235.000|CC1|>> Hija.
+20110126070233.000|20110126070235.000|POS_05|Hija/NN/B-NP/O/O/hija|././O/O/O/.
+20110126070235.000|20110126070236.000|CC1|¿Qué pasó?
+20110126070235.000|20110126070236.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|pasó/VB/B-VP/O/VP-1/pasar|?/./O/O/O/?
+20110126070236.000|20110126070238.000|CC1|¿Qué pasó?
+20110126070236.000|20110126070238.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|pasó/VB/B-VP/O/VP-1/pasar|?/./O/O/O/?
+20110126070238.000|20110126070238.000|CC1|>> Nada.
+20110126070238.000|20110126070238.000|POS_05|Nada/DT/O/O/O/nada|././O/O/O/.
+20110126070238.000|20110126070239.000|CC1|>> ¿Qué hiciste ahora hija?
+20110126070238.000|20110126070239.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|hiciste/VB/B-VP/O/VP-1/hacer|ahora/RB/B-ADVP/O/O/ahora|hija/NN/B-NP/O/O/hija|?/./O/O/O/?
+20110126070239.000|20110126070240.000|CC1|¿Qué pasó?
+20110126070239.000|20110126070240.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|pasó/VB/B-VP/O/VP-1/pasar|?/./O/O/O/?
+20110126070240.000|20110126070241.000|CC1|>> Quiero ir a mi cuarto.
+20110126070240.000|20110126070241.000|POS_05|Quiero/VB/B-VP/O/O/querer|ir/VB/I-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|mi/PRP$/B-NP/I-PNP/O/mi|cuarto/NN/I-NP/I-PNP/O/cuarto|././O/O/O/.
+20110126070241.000|20110126070242.000|CC1|>> No, no, no.
+20110126070241.000|20110126070242.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no./NN/B-NP/O/O/no.
+20110126070242.000|20110126070243.000|CC1|Tenemos que hablar.
+20110126070242.000|20110126070243.000|POS_05|Tenemos/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|hablar/VB/B-VP/O/O/hablar|././O/O/O/.
+20110126070243.000|20110126070245.000|CC1|Vamos a hablar.
+20110126070243.000|20110126070245.000|POS_05|Vamos/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|hablar/VB/B-VP/O/O/hablar|././O/O/O/.
+20110126070245.000|20110126070249.000|CC1|>> Victoria, Victoria por favor hagámoslo en otro momento.
+20110126070245.000|20110126070249.000|POS_05|Victoria/NN/B-NP/O/O/victoria|,/,/I-NP/O/O/,|Victoria/NN/I-NP/O/O/victoria|por/IN/B-PP/B-PNP/O/por|favor/IN/I-PP/I-PNP/O/favor|hagámoslo/NN/B-NP/I-PNP/O/hagámoslo|en/IN/B-PP/B-PNP/O/en|otro/DT/B-NP/I-PNP/O/otro|momento/NN/I-NP/I-PNP/O/momento|././O/O/O/.
+20110126070249.000|20110126070250.000|CC1|¿Sí? 
+20110126070249.000|20110126070250.000|POS_05|¿Sí/NNP/B-NP/O/O/¿sí|?/./O/O/O/?
+20110126070250.000|20110126070251.000|CC1|>> No, no, no, este es el momento.
+20110126070250.000|20110126070251.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|este/DT/O/O/O/este|es/VB/B-VP/O/VP-1/ser|el/DT/B-NP/O/NP-OBJ-1/el|momento/NN/I-NP/O/NP-OBJ-1/momento|././O/O/O/.
+20110126070251.000|20110126070254.000|CC1|Los problemas no se solucionan dejándolos para después.
+20110126070251.000|20110126070254.000|POS_05|Los/DT/B-NP/O/O/el|problemas/NNS/I-NP/O/O/problema|no/RB/I-NP/O/O/no|se/PRP/B-NP/O/NP-SBJ-1/se|solucionan/VB/B-VP/O/VP-1/solucionar|dejándolos/NN/B-NP/O/NP-OBJ-1/dejándolos|para/IN/B-PP/B-PNP/O/para|después/IN/I-PP/I-PNP/O/después|././O/O/O/.
+20110126070254.000|20110126070303.000|CC1|Vamos a hablar ahora.
+20110126070254.000|20110126070303.000|POS_05|Vamos/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|hablar/VB/B-VP/O/O/hablar|ahora/RB/I-VP/O/O/ahora|././O/O/O/.
+20110126070303.000|20110126070304.000|CC1|>> ¡Ay doña Milagros!
+20110126070303.000|20110126070304.000|POS_05|¡Ay/NNP/B-NP/O/O/¡ay|doña/NN/I-NP/O/O/doña|Milagros/NNP/I-NP/O/O/milagros|!/./O/O/O/!
+20110126070304.000|20110126070305.000|CC1|De veras, en serio.
+20110126070304.000|20110126070305.000|POS_05|De/IN/B-PP/B-PNP/O/de|veras/NNS/B-NP/I-PNP/O/vera|,/,/O/O/O/,|en/IN/B-PP/O/O/en|serio/JJ/B-ADJP/O/O/serio|././O/O/O/.
+20110126070305.000|20110126070306.000|CC1|¿Eh?
+20110126070305.000|20110126070306.000|POS_05|¿Eh/NNP/B-NP/O/O/¿eh|?/./O/O/O/?
+20110126070306.000|20110126070308.000|CC1|Los huevos divorciados le quedan de re chupete.
+20110126070306.000|20110126070308.000|POS_05|Los/DT/B-NP/O/NP-SBJ-1/el|huevos/NNS/I-NP/O/NP-SBJ-1/huevo|divorciados/VBN/B-VP/O/VP-1/divorciados|le/PRP/B-NP/O/NP-OBJ-1*NP-SBJ-2/le|quedan/VB/B-VP/O/VP-2/quedar|de/IN/B-PP/B-PNP/O/de|re/JJ/B-NP/I-PNP/O/re|chupete/NN/I-NP/I-PNP/O/chupete|././O/O/O/.
+20110126070308.000|20110126070309.000|CC1|¿Eh? 
+20110126070308.000|20110126070309.000|POS_05|¿Eh/NNP/B-NP/O/O/¿eh|?/./O/O/O/?
+20110126070309.000|20110126070314.000|CC1|>> ¡Ay! Que feo nombre les pusieron, deberían de llamarse huevos enamorados.
+20110126070309.000|20110126070314.000|POS_05|¡Ay/NNP/B-NP/O/O/¡ay|!/./O/O/O/!
+20110126070309.000|20110126070314.000|POS_05|Que/IN/B-PP/B-PNP/O/que|feo/JJ/B-NP/I-PNP/NP-SBJ-1/feo|nombre/NN/I-NP/I-PNP/NP-SBJ-1/nombre|les/PRP/I-NP/I-PNP/NP-SBJ-1/les|pusieron/VB/B-VP/O/VP-1/poner|,/,/O/O/O/,|deberían/VB/B-VP/O/O/deber|de/IN/B-PP/B-PNP/O/de|llamarse/NN/B-NP/I-PNP/O/llamarse|huevos/NNS/I-NP/I-PNP/O/huevo|enamorados/JJ/I-NP/I-PNP/O/enamorado|././O/O/O/.
+20110126070314.000|20110126070321.000|CC1|>> Ah bueno, con usted doña Milagros, hasta en la comida tiene usted que hablar de amor, espéreme.
+20110126070314.000|20110126070321.000|POS_05|Ah/UH/O/O/O/ah|bueno/JJ/B-ADJP/O/O/bueno|,/,/O/O/O/,|con/IN/B-PP/B-PNP/O/con|usted/PRP/B-NP/I-PNP/O/usted|doña/NN/I-NP/I-PNP/O/doña|Milagros/NNP/I-NP/I-PNP/O/milagros|,/,/O/O/O/,|hasta/IN/B-PP/B-PNP/O/hasta|en/IN/I-PP/I-PNP/O/en|la/DT/B-NP/I-PNP/NP-SBJ-1/el|comida/NN/I-NP/I-PNP/NP-SBJ-1/comida|tiene/VB/B-VP/O/VP-1/tener|usted/PRP/B-NP/O/NP-OBJ-1/usted|que/IN/B-PP/O/O/que|hablar/VB/B-VP/O/O/hablar|de/IN/B-PP/B-PNP/O/de|amor/NN/B-NP/I-PNP/O/amor|,/,/I-NP/I-PNP/O/,|espéreme/NN/I-NP/I-PNP/O/espéreme|././O/O/O/.
+20110126070321.000|20110126070323.000|CC1|>> Oiga, lo que yo no me explico es.
+20110126070321.000|20110126070323.000|POS_05|Oiga/VB/B-VP/O/O/oir|,/,/O/O/O/,|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|yo/PRP/B-NP/O/NP-SBJ-1/yo|no/RB/I-NP/O/NP-SBJ-1/no|me/PRP/I-NP/O/NP-SBJ-1/me|explico/VB/B-VP/O/VP-1/explicar|es/VB/I-VP/O/VP-1/ser|././O/O/O/.
+20110126070323.000|20110126070325.000|CC1|¿Por qué usted es tan rejeco?
+20110126070323.000|20110126070325.000|POS_05|¿Por/NNP/B-NP/O/O/¿por|qué/WP$/O/O/O/qué|usted/PRP/B-NP/O/NP-SBJ-1/usted|es/VB/B-VP/O/VP-1/ser|tan/RB/B-ADVP/O/O/tan|rejeco/NN/B-NP/O/O/rejeco|?/./O/O/O/?
+20110126070325.000|20110126070337.000|CC1|Mire, estoy segura que sería usted muy feliz, si tuviera una buena mujer, de buen ver, fina, elegante, bañadita, limpiecita.
+20110126070325.000|20110126070337.000|POS_05|Mire/VB/B-VP/O/O/mirar|,/,/O/O/O/,|estoy/MD/B-VP/O/O/estar|segura/JJ/B-ADJP/O/O/seguro|que/IN/B-PP/O/O/que|sería/VB/B-VP/O/VP-1/ser|usted/PRP/B-NP/O/NP-OBJ-1/usted|muy/RB/I-NP/O/NP-OBJ-1/muy|feliz/JJ/I-NP/O/NP-OBJ-1/feliz|,/,/O/O/O/,|si/IN/B-PP/O/O/si|tuviera/VB/B-VP/O/VP-2/tener|una/DT/B-NP/O/NP-OBJ-2/un|buena/JJ/I-NP/O/NP-OBJ-2/bueno|mujer/NN/I-NP/O/NP-OBJ-2/mujer|,/,/O/O/O/,|de/IN/B-PP/O/O/de|buen/JJ/B-ADJP/O/O/buen|ver/VB/B-VP/O/O/ver|,/,/O/O/O/,|fina/JJ/B-NP/O/O/fino|,/,/I-NP/O/O/,|elegante/JJ/I-NP/O/O/elegante|,/,/I-NP/O/O/,|bañadita/NN/I-NP/O/O/bañadita|,/,/O/O/O/,|limpiecita/NN/B-NP/O/O/limpiecita|././O/O/O/.
+20110126070337.000|20110126070346.000|CC1|Que lo cuidara, que le guisara sus platillos favoritos, que le hiciera así como aroma y teatro, y títeres a las cuatro.
+20110126070337.000|20110126070346.000|POS_05|Que/IN/B-PP/B-PNP/O/que|lo/PRP/B-NP/I-PNP/NP-SBJ-1/lo|cuidara/VB/B-VP/O/VP-1/cuidar|,/,/O/O/O/,|que/WP$/O/O/O/que|le/PRP/B-NP/O/O/le|guisara/NN/I-NP/O/O/guisara|sus/PRP$/I-NP/O/O/sus|platillos/NNS/I-NP/O/O/platillo|favoritos/JJ/I-NP/O/O/favorito|,/,/O/O/O/,|que/WP$/O/O/O/que|le/PRP/B-NP/O/NP-SBJ-2/le|hiciera/VB/B-VP/O/VP-2/hacer|así/RB/I-VP/O/VP-2/así|como/CC/O/O/O/como|aroma/NN/B-NP/O/O/aroma|y/CC/O/O/O/y|teatro/NN/B-NP/O/O/teatro|,/,/O/O/O/,|y/CC/O/O/O/y|títeres/NNS/B-NP/O/O/títer|a/IN/B-PP/O/O/a|las/DT/O/O/O/el|cuatro/CD/O/O/O/cuatro|././O/O/O/.
+20110126070346.000|20110126070348.000|CC1|>> ¿Títeres?
+20110126070346.000|20110126070348.000|POS_05|¿Títeres/NNP/B-NP/O/O/¿títeres|?/./O/O/O/?
+20110126070348.000|20110126070352.000|CC1|>> Oiga, que bonitos ojos tiene.
+20110126070348.000|20110126070352.000|POS_05|Oiga/VB/B-VP/O/O/oir|,/,/O/O/O/,|que/WP$/O/O/O/que|bonitos/NN/B-NP/O/NP-SBJ-1/bonitos|ojos/NNS/I-NP/O/NP-SBJ-1/ojo|tiene/VB/B-VP/O/VP-1/tener|././O/O/O/.
+20110126070352.000|20110126070357.000|CC1|Tiene una boca chiquita, pero boquetona.
+20110126070352.000|20110126070357.000|POS_05|Tiene/VB/B-VP/O/VP-1/tener|una/DT/B-NP/O/NP-OBJ-1/un|boca/NN/I-NP/O/NP-OBJ-1/boca|chiquita/NN/I-NP/O/NP-OBJ-1/chiquita|,/,/O/O/O/,|pero/CC/O/O/O/pero|boquetona/NN/B-NP/O/O/boquetona|././O/O/O/.
+20110126070357.000|20110126070402.000|CC1|Como para darle un beso arrebatado.
+20110126070357.000|20110126070402.000|POS_05|Como/IN/B-PP/B-PNP/O/como|para/IN/I-PP/I-PNP/O/para|darle/VB/B-VP/O/VP-1/darler|un/DT/B-NP/O/NP-OBJ-1/un|beso/NN/I-NP/O/NP-OBJ-1/beso|arrebatado/NN/I-NP/O/NP-OBJ-1/arrebatado|././O/O/O/.
+20110126070402.000|20110126070405.000|CC1|>> El gas.
+20110126070402.000|20110126070405.000|POS_05|El/DT/B-NP/O/O/el|gas/NN/I-NP/O/O/gas|././O/O/O/.
+20110126070405.000|20110126070415.000|CC1|>> ¡Ay, ese del gas! ¡Inoportuno!
+20110126070405.000|20110126070415.000|POS_05|¡Ay/NNP/B-NP/O/O/¡ay|,/,/O/O/O/,|ese/DT/B-NP/O/O/ese|del/NN/I-NP/O/O/del|gas/NN/I-NP/O/O/gas|!/./O/O/O/!
+20110126070405.000|20110126070415.000|POS_05|¡Inoportuno/NNP/B-NP/O/O/¡inoportuno|!/./O/O/O/!
+20110126070415.000|20110126070419.000|CC1|>> Vaya, por primera vez el gas, me salva de una explosión.
+20110126070415.000|20110126070419.000|POS_05|Vaya/UH/O/O/O/vaya|,/,/O/O/O/,|por/IN/B-PP/B-PNP/O/por|primera/JJ/B-NP/I-PNP/O/primero|vez/NN/I-NP/I-PNP/O/vez|el/DT/B-NP/I-PNP/O/el|gas/NN/I-NP/I-PNP/O/gas|,/,/O/O/O/,|me/PRP/B-NP/O/NP-SBJ-1/me|salva/VB/B-VP/O/VP-1/salvar|de/IN/B-PP/B-PNP/O/de|una/DT/B-NP/I-PNP/O/un|explosión/NN/I-NP/I-PNP/O/explosión|././O/O/O/.
+20110126070419.000|20110126070421.000|CC1|>> Ya sabe donde va.
+20110126070419.000|20110126070421.000|POS_05|Ya/RB/B-VP/O/O/ya|sabe/VB/I-VP/O/O/saber|donde/IN/B-PP/O/O/donde|va/VB/B-VP/O/O/ir|././O/O/O/.
+20110126070421.000|20110126070422.000|CC1|¿Para qué me pregunta?
+20110126070421.000|20110126070422.000|POS_05|¿Para/NNP/B-NP/O/O/¿para|qué/WP$/O/O/O/qué|me/PRP/B-NP/O/NP-SBJ-1/me|pregunta/VB/B-VP/O/VP-1/preguntar|?/./O/O/O/?
+20110126070422.000|20110126070424.000|CC1|¡Inoportuno!
+20110126070422.000|20110126070424.000|POS_05|¡Inoportuno/NNP/B-NP/O/O/¡inoportuno|!/./O/O/O/!
+20110126070424.000|20110126070427.000|CC1|>> Tienes que entender que hiciste muy mal, Fer.
+20110126070424.000|20110126070427.000|POS_05|Tienes/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|entender/VB/B-VP/O/O/entender|que/IN/B-PP/O/O/que|hiciste/VB/B-VP/O/O/hacer|muy/RB/B-ADVP/O/O/muy|mal/RB/B-ADVP/O/O/mal|,/,/O/O/O/,|Fer/NNP/B-NP/O/O/fer|././O/O/O/.
+20110126070427.000|20110126070430.000|CC1|Te he dado todo, todo.
+20110126070427.000|20110126070430.000|POS_05|Te/PRP/B-NP/O/NP-SBJ-1/te|he/MD/B-VP/O/VP-1/her|dado/VBN/I-VP/O/VP-1/dar|todo/DT/O/O/O/todo|,/,/O/O/O/,|todo/DT/O/O/O/todo|././O/O/O/.
+20110126070430.000|20110126070432.000|CC1|¿Con eso me pagas?
+20110126070430.000|20110126070432.000|POS_05|¿Con/NNP/B-NP/O/O/¿con|eso/DT/I-NP/O/O/eso|me/PRP/I-NP/O/O/me|pagas/NNS/I-NP/O/O/paga|?/./O/O/O/?
+20110126070432.000|20110126070438.000|CC1|Porque eres la única hija que puedo querer, la única a quien puedo complacer.
+20110126070432.000|20110126070438.000|POS_05|Porque/IN/B-PP/O/O/porque|eres/VB/B-VP/O/VP-1/ser|la/DT/B-NP/O/NP-OBJ-1/el|única/JJ/I-NP/O/NP-OBJ-1/único|hija/NN/I-NP/O/NP-OBJ-1/hija|que/WP$/O/O/O/que|puedo/VB/B-VP/O/O/poder|querer/VB/I-VP/O/O/querer|,/,/O/O/O/,|la/DT/O/O/O/el|única/JJ/B-ADJP/O/O/único|a/IN/B-PP/O/O/a|quien/WP$/O/O/O/quien|puedo/VB/B-VP/O/O/poder|complacer/VB/I-VP/O/O/complacer|././O/O/O/.
+20110126070438.000|20110126070444.000|CC1|Por lo que lleva mi conciencia, te lo he dado todo, sin reservas, sin medidas.
+20110126070438.000|20110126070444.000|POS_05|Por/IN/B-PP/O/O/por|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|lleva/VB/B-VP/O/VP-1/llevar|mi/PRP$/B-NP/O/NP-OBJ-1*NP-SBJ-2/mi|conciencia/NN/I-NP/O/NP-OBJ-1*NP-SBJ-2/conciencia|,/,/I-NP/O/NP-OBJ-1*NP-SBJ-2/,|te/PRP/I-NP/O/NP-OBJ-1*NP-SBJ-2/te|lo/PRP/I-NP/O/NP-OBJ-1*NP-SBJ-2/lo|he/MD/B-VP/O/VP-2/her|dado/VBN/I-VP/O/VP-2/dar|todo/DT/O/O/O/todo|,/,/O/O/O/,|sin/IN/B-PP/B-PNP/O/sin|reservas/NNS/B-NP/I-PNP/O/reserva|,/,/O/O/O/,|sin/IN/B-PP/B-PNP/O/sin|medidas/NNS/B-NP/I-PNP/O/medida|././O/O/O/.
+20110126070444.000|20110126070448.000|CC1|Te di demasiado y mira lo que he logrado.
+20110126070444.000|20110126070448.000|POS_05|Te/PRP/B-NP/O/NP-SBJ-1/te|di/VB/B-VP/O/VP-1/decir|demasiado/RB/I-VP/O/VP-1/demasiado|y/CC/O/O/O/y|mira/VB/B-VP/O/O/mirar|lo/DT/O/O/O/lo|que/IN/B-PP/O/O/que|he/MD/B-VP/O/O/her|logrado/VBN/I-VP/O/O/lograr|././O/O/O/.
+20110126070448.000|20110126070451.000|CC1|>> Victoria por favor, no es con reclamo como vamos a solucionar este asunto.
+20110126070448.000|20110126070451.000|POS_05|Victoria/NN/B-NP/O/O/victoria|por/IN/B-PP/O/O/por|favor/RB/B-ADVP/O/O/favor|,/,/O/O/O/,|no/RB/B-VP/O/O/no|es/VB/I-VP/O/O/ser|con/IN/B-PP/B-PNP/O/con|reclamo/NN/B-NP/I-PNP/O/reclamo|como/IN/B-PP/O/O/como|vamos/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|solucionar/VB/B-VP/O/VP-1/solucionar|este/DT/B-NP/O/NP-OBJ-1/este|asunto/NN/I-NP/O/NP-OBJ-1/asunto|././O/O/O/.
+20110126070451.000|20110126070452.000|CC1|¿No? 
+20110126070451.000|20110126070452.000|POS_05|¿No/NNP/B-NP/O/O/¿no|?/./O/O/O/?
+20110126070452.000|20110126070455.000|CC1|>> Está bien, está bien.
+20110126070452.000|20110126070455.000|POS_05|Está/MD/B-VP/O/O/estar|bien/RB/B-ADVP/O/O/bien|,/,/O/O/O/,|está/MD/B-VP/O/O/estar|bien/RB/B-ADVP/O/O/bien|././O/O/O/.
+20110126070455.000|20110126070500.000|CC1|Mira hija, tienes que aceptar que hiciste muy mal.
+20110126070455.000|20110126070500.000|POS_05|Mira/VB/B-VP/O/VP-1/mirar|hija/NN/B-NP/O/NP-OBJ-1/hija|,/,/O/O/O/,|tienes/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|aceptar/VB/B-VP/O/O/aceptar|que/IN/B-PP/O/O/que|hiciste/VB/B-VP/O/O/hacer|muy/RB/I-VP/O/O/muy|mal/RB/I-VP/O/O/mal|././O/O/O/.
+20110126070500.000|20110126070504.000|CC1|Acepta que tu padre y yo, no somos tus enemigos.
+20110126070500.000|20110126070504.000|POS_05|Acepta/VB/B-VP/O/O/aceptar|que/IN/B-PP/B-PNP/O/que|tu/PRP$/B-NP/I-PNP/O/tu|padre/NN/I-NP/I-PNP/O/padre|y/CC/I-NP/I-PNP/O/y|yo/PRP/I-NP/I-PNP/O/yo|,/,/O/O/O/,|no/RB/B-VP/O/VP-1/no|somos/VB/I-VP/O/VP-1/ser|tus/PRP$/B-NP/O/NP-OBJ-1/tus|enemigos/NNS/I-NP/O/NP-OBJ-1/enemigo|././O/O/O/.
+20110126070504.000|20110126070510.000|CC1|Que por el contrario, nos moriríamos de pana si algo te pasara, Fer.
+20110126070504.000|20110126070510.000|POS_05|Que/IN/B-PP/B-PNP/O/que|por/IN/I-PP/I-PNP/O/por|el/DT/B-NP/I-PNP/O/el|contrario/NN/I-NP/I-PNP/O/contrario|,/,/O/O/O/,|nos/PRP/B-NP/O/O/nos|moriríamos/NN/I-NP/O/O/moriríamos|de/IN/B-PP/B-PNP/O/de|pana/NN/B-NP/I-PNP/O/pana|si/IN/B-PP/B-PNP/O/si|algo/DT/B-NP/I-PNP/NP-SBJ-1/algo|te/PRP/I-NP/I-PNP/NP-SBJ-1/te|pasara/VB/B-VP/O/VP-1/pasar|,/,/O/O/O/,|Fer/NNP/B-NP/O/O/fer|././O/O/O/.
+20110126070510.000|20110126070515.000|CC1|Nuestra única intención es protegerte, entiéndelo.
+20110126070510.000|20110126070515.000|POS_05|Nuestra/PRP$/B-NP/O/NP-SBJ-1/nuestra|única/JJ/I-NP/O/NP-SBJ-1/único|intención/NN/I-NP/O/NP-SBJ-1/intención|es/VB/B-VP/O/VP-1/ser|protegerte/NN/B-NP/O/NP-OBJ-1/protegerte|,/,/I-NP/O/NP-OBJ-1/,|entiéndelo/NN/I-NP/O/NP-OBJ-1/entiéndelo|././O/O/O/.
+20110126070515.000|20110126070520.000|CC1|>> No entiendo, no entiendo por qué les molesta tanto que salga con Osvaldo.
+20110126070515.000|20110126070520.000|POS_05|No/RB/B-VP/O/O/no|entiendo/VB/I-VP/O/O/entender|,/,/O/O/O/,|no/RB/B-VP/O/O/no|entiendo/VB/I-VP/O/O/entender|por/IN/B-PP/O/O/por|qué/WP$/O/O/O/qué|les/PRP/B-NP/O/NP-SBJ-1/les|molesta/VB/B-VP/O/VP-1/molestar|tanto/RB/I-VP/O/VP-1/tanto|que/IN/B-PP/O/O/que|salga/VB/B-VP/O/O/salir|con/IN/B-PP/B-PNP/O/con|Osvaldo/NNP/B-NP/I-PNP/O/osvaldo|././O/O/O/.
+20110126070520.000|20110126070526.000|CC1|>> Porque no está bien, porque estoy segura que por todo esto y por todas las cosas en las que te estás metiendo.
+20110126070520.000|20110126070526.000|POS_05|Porque/IN/B-PP/O/O/porque|no/RB/B-ADVP/O/O/no|está/MD/B-VP/O/O/estar|bien/RB/B-ADVP/O/O/bien|,/,/O/O/O/,|porque/IN/B-PP/O/O/porque|estoy/MD/B-VP/O/O/estar|segura/JJ/B-ADJP/O/O/seguro|que/IN/B-PP/B-PNP/O/que|por/IN/I-PP/I-PNP/O/por|todo/DT/O/O/O/todo|esto/DT/O/O/O/esto|y/CC/O/O/O/y|por/IN/B-PP/B-PNP/O/por|todas/DT/B-NP/I-PNP/O/todas|las/DT/I-NP/I-PNP/O/el|cosas/NNS/I-NP/I-PNP/O/cosa|en/IN/B-PP/O/O/en|las/DT/O/O/O/el|que/WP$/O/O/O/que|te/PRP/B-NP/O/NP-SBJ-1/te|estás/MD/B-VP/O/VP-1/estar|metiendo/VBG/I-VP/O/VP-1/meter|././O/O/O/.
+20110126070526.000|20110126070528.000|CC1|Mucha gente va a salir lastimada.
+20110126070526.000|20110126070528.000|POS_05|Mucha/DT/B-NP/O/NP-SBJ-1/mucha|gente/NN/I-NP/O/NP-SBJ-1/gente|va/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|salir/VB/B-VP/O/O/salir|lastimada/VBN/I-VP/O/O/lastimadar|././O/O/O/.
+20110126070528.000|20110126070532.000|CC1|Incluida tú.
+20110126070528.000|20110126070532.000|POS_05|Incluida/VBN/B-VP/O/VP-1/incluidar|tú/PRP/B-NP/O/NP-OBJ-1/tú|././O/O/O/.
+20110126070532.000|20110126070536.000|CC1|Mira, yo ya mejor me voy a arreglar, porque este tema a mí ya me cansó.
+20110126070532.000|20110126070536.000|POS_05|Mira/VB/B-VP/O/O/mirar|,/,/O/O/O/,|yo/PRP/B-NP/O/O/yo|ya/RB/I-NP/O/O/ya|mejor/JJ/I-NP/O/O/mejor|me/PRP/B-NP/O/NP-SBJ-1/me|voy/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|arreglar/VB/B-VP/O/O/arreglar|,/,/O/O/O/,|porque/IN/B-PP/B-PNP/O/porque|este/DT/B-NP/I-PNP/O/este|tema/NN/I-NP/I-PNP/O/tema|a/IN/B-PP/B-PNP/O/a|mí/PRP/B-NP/I-PNP/NP-SBJ-2/mí|ya/RB/I-NP/I-PNP/NP-SBJ-2/ya|me/PRP/I-NP/I-PNP/NP-SBJ-2/me|cansó/VB/B-VP/O/VP-2/cansar|././O/O/O/.
+20110126070536.000|20110126070539.000|CC1|A aparte tú, no entiendes.
+20110126070536.000|20110126070539.000|POS_05|A/IN/B-PP/B-PNP/O/a|aparte/IN/I-PP/I-PNP/O/aparte|tú/PRP/B-NP/I-PNP/O/tú|,/,/I-NP/I-PNP/O/,|no/RB/I-NP/I-PNP/O/no|entiendes/NN/I-NP/I-PNP/O/entiendes|././O/O/O/.
+20110126070539.000|20110126070545.000|CC1|Es como si le estuviera hablando a la pared.
+20110126070539.000|20110126070545.000|POS_05|Es/VB/B-VP/O/O/ser|como/IN/B-PP/B-PNP/O/como|si/IN/I-PP/I-PNP/O/si|le/PRP/B-NP/I-PNP/NP-SBJ-1/le|estuviera/MD/B-VP/O/VP-1/estar|hablando/VBG/I-VP/O/VP-1/hablar|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|pared/NN/I-NP/I-PNP/O/pared|././O/O/O/.
+20110126070545.000|20110126070552.000|CC1|>> A ver Linda, siéntate aquí a mi lado, vamos a hablar sinceramente.
+20110126070545.000|20110126070552.000|POS_05|A/IN/B-PP/O/O/a|ver/VB/B-VP/O/VP-1/ver|Linda/JJ/B-NP/O/NP-OBJ-1/lindo|,/,/I-NP/O/NP-OBJ-1/,|siéntate/NN/I-NP/O/NP-OBJ-1/siéntate|aquí/RB/I-NP/O/NP-OBJ-1/aquí|a/IN/B-PP/B-PNP/O/a|mi/PRP$/B-NP/I-PNP/O/mi|lado/NN/I-NP/I-PNP/O/lado|,/,/O/O/O/,|vamos/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|hablar/VB/B-VP/O/O/hablar|sinceramente/RB/I-VP/O/O/sinceramente|././O/O/O/.
+20110126070552.000|20110126070556.000|CC1|¿De verdad estás enamorada del señor Sandoval?
+20110126070552.000|20110126070556.000|POS_05|¿De/NNP/B-NP/O/NP-SBJ-1/¿de|verdad/NN/I-NP/O/NP-SBJ-1/verdad|estás/MD/B-VP/O/VP-1/estar|enamorada/VBN/I-VP/O/VP-1/enamoradar|del/NN/B-NP/O/NP-OBJ-1/del|señor/NN/I-NP/O/NP-OBJ-1/señor|Sandoval/NNP/I-NP/O/NP-OBJ-1/sandoval|?/./O/O/O/?
+20110126070556.000|20110126070605.000|CC1|>> Bueno, tanto así como amarlo, amarlo... La verdad no, no lo amo ni tantito.
+20110126070556.000|20110126070605.000|POS_05|Bueno/NNP/B-NP/O/O/bueno|,/,/O/O/O/,|tanto/RB/B-ADVP/O/O/tanto|así/RB/I-ADVP/O/O/así|como/CC/O/O/O/como|amarlo/NN/B-NP/O/O/amarlo|,/,/O/O/O/,|amarlo/NN/B-NP/O/O/amarlo|..././O/O/O/...
+20110126070556.000|20110126070605.000|POS_05|La/DT/B-NP/O/O/el|verdad/NN/I-NP/O/O/verdad|no/RB/I-NP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|lo/DT/B-NP/O/O/lo|amo/NN/I-NP/O/O/amo|ni/CC/O/O/O/ni|tantito/NN/B-NP/O/O/tantito|././O/O/O/.
+20110126070605.000|20110126070609.000|CC1|Me gusta, que es muy diferente.
+20110126070605.000|20110126070609.000|POS_05|Me/PRP/B-NP/O/NP-SBJ-1/me|gusta/VB/B-VP/O/VP-1/gustar|,/,/O/O/O/,|que/IN/B-PP/O/O/que|es/VB/B-VP/O/O/ser|muy/RB/I-VP/O/O/muy|diferente/JJ/I-ADJP/O/O/diferente|././O/O/O/.
+20110126070609.000|20110126070614.000|CC1|Pero lo que más me gusta de él, es que tiene dinero.
+20110126070609.000|20110126070614.000|POS_05|Pero/CC/O/O/O/pero|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|más/RB/B-ADVP/O/O/más|me/PRP/B-NP/O/NP-SBJ-1/me|gusta/VB/B-VP/O/VP-1/gustar|de/IN/B-PP/B-PNP/O/de|él/PRP/B-NP/I-PNP/O/él|,/,/O/O/O/,|es/VB/B-VP/O/O/ser|que/IN/B-PP/O/O/que|tiene/VB/B-VP/O/VP-2/tener|dinero/NN/B-NP/O/NP-OBJ-2/dinero|././O/O/O/.
+20110126070614.000|20110126070617.000|CC1|Es más, para que me entiendas y serte sincera.
+20110126070614.000|20110126070617.000|POS_05|Es/VB/B-VP/O/O/ser|más/RB/I-VP/O/O/más|,/,/O/O/O/,|para/IN/B-PP/B-PNP/O/para|que/IN/I-PP/I-PNP/O/que|me/PRP/B-NP/I-PNP/NP-SBJ-1/me|entiendas/VB/B-VP/O/VP-1/entender|y/CC/O/O/O/y|serte/NN/B-NP/O/O/serte|sincera/JJ/I-NP/O/O/sincero|././O/O/O/.
+20110126070617.000|20110126070620.000|CC1|Si Juanjo fuera millonario, tuviera el dinero que tiene Osvaldo.
+20110126070617.000|20110126070620.000|POS_05|Si/IN/B-PP/B-PNP/O/si|Juanjo/NNP/B-NP/I-PNP/O/juanjo|fuera/IN/B-PP/O/O/fuera|millonario/JJ/B-ADJP/O/O/millonario|,/,/O/O/O/,|tuviera/VB/B-VP/O/VP-1/tener|el/DT/B-NP/O/NP-OBJ-1/el|dinero/NN/I-NP/O/NP-OBJ-1/dinero|que/WP$/O/O/O/que|tiene/VB/B-VP/O/VP-2/tener|Osvaldo/NNP/B-NP/O/NP-OBJ-2/osvaldo|././O/O/O/.
+20110126070620.000|20110126070624.000|CC1|Yo me casaría con él sin dudarlo un solo instante.
+20110126070620.000|20110126070624.000|POS_05|Yo/PRP/B-NP/O/NP-SBJ-1/yo|me/PRP/I-NP/O/NP-SBJ-1/me|casaría/VB/B-VP/O/VP-1/casar|con/IN/B-PP/B-PNP/O/con|él/PRP/B-NP/I-PNP/O/él|sin/IN/B-PP/B-PNP/O/sin|dudarlo/NN/B-NP/I-PNP/O/dudarlo|un/DT/I-NP/I-PNP/O/un|solo/JJ/I-NP/I-PNP/O/solo|instante/NN/I-NP/I-PNP/O/instante|././O/O/O/.
+20110126070624.000|20110126070629.000|CC1|>> Entonces reconoces que no quieres al señor Sandoval, ni a Juanjo.
+20110126070624.000|20110126070629.000|POS_05|Entonces/RB/B-ADVP/O/O/entonces|reconoces/NN/B-NP/O/O/reconoces|que/IN/B-PP/O/O/que|no/RB/B-VP/O/VP-1/no|quieres/VB/I-VP/O/VP-1/querer|al/NN/B-NP/O/NP-OBJ-1/al|señor/NN/I-NP/O/NP-OBJ-1/señor|Sandoval/NNP/I-NP/O/NP-OBJ-1/sandoval|,/,/O/O/O/,|ni/CC/O/O/O/ni|a/IN/B-PP/B-PNP/O/a|Juanjo/NNP/B-NP/I-PNP/O/juanjo|././O/O/O/.
+20110126070629.000|20110126070633.000|CC1|Lo que tú amas es el dinero, sea de quien sea.
+20110126070629.000|20110126070633.000|POS_05|Lo/DT/O/O/O/lo|que/WP$/O/O/O/que|tú/PRP/B-NP/O/NP-SBJ-1/tú|amas/NNS/I-NP/O/NP-SBJ-1/ama|es/VB/B-VP/O/VP-1/ser|el/DT/B-NP/O/NP-OBJ-1/el|dinero/NN/I-NP/O/NP-OBJ-1/dinero|,/,/O/O/O/,|sea/VB/B-VP/O/O/ser|de/IN/B-PP/O/O/de|quien/WP$/O/O/O/quien|sea/VB/B-VP/O/O/ser|././O/O/O/.
+20110126070633.000|20110126070641.000|CC1|>> Me entendiste perfectamente.
+20110126070633.000|20110126070641.000|POS_05|Me/PRP/B-NP/O/O/me|entendiste/NN/I-NP/O/O/entendiste|perfectamente/RB/I-NP/O/O/perfectamente|././O/O/O/.
+20110126070641.000|20110126070645.000|CC1|>> Lo único que te pido en este momento, que te suplico.
+20110126070641.000|20110126070645.000|POS_05|Lo/DT/O/O/O/lo|único/JJ/B-ADJP/O/O/único|que/WP$/O/O/O/que|te/PRP/B-NP/O/NP-SBJ-1/te|pido/VB/B-VP/O/VP-1/pedir|en/IN/B-PP/B-PNP/O/en|este/DT/B-NP/I-PNP/O/este|momento/NN/I-NP/I-PNP/O/momento|,/,/O/O/O/,|que/WP$/O/O/O/que|te/PRP/B-NP/O/O/te|suplico/NN/I-NP/O/O/suplico|././O/O/O/.
+20110126070645.000|20110126070648.000|CC1|Es que hables con ella, no como madre, si no como amiga.
+20110126070645.000|20110126070648.000|POS_05|Es/VB/B-VP/O/O/ser|que/IN/B-PP/B-PNP/O/que|hables/NN/B-NP/I-PNP/O/hables|con/IN/B-PP/B-PNP/O/con|ella/PRP/B-NP/I-PNP/O/ella|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|como/IN/B-PP/B-PNP/O/como|madre/NN/B-NP/I-PNP/O/madre|,/,/O/O/O/,|si/IN/B-PP/O/O/si|no/RB/B-ADVP/O/O/no|como/IN/B-PP/B-PNP/O/como|amiga/NN/B-NP/I-PNP/O/amiga|././O/O/O/.
+20110126070648.000|20110126070650.000|CC1|Como amiga.
+20110126070648.000|20110126070650.000|POS_05|Como/IN/B-PP/B-PNP/O/como|amiga/NN/B-NP/I-PNP/O/amiga|././O/O/O/.
+20110126070650.000|20110126070652.000|CC1|>> ¿Saben qué?
+20110126070650.000|20110126070652.000|POS_05|¿Saben/NNP/B-NP/O/O/¿saben|qué/WP$/O/O/O/qué|?/./O/O/O/?
+20110126070652.000|20110126070657.000|CC1|Estoy harta de ustedes, quiero que dejen de meterse conmigo.
+20110126070652.000|20110126070657.000|POS_05|Estoy/MD/B-VP/O/O/estar|harta/VB/I-VP/O/O/hartar|de/IN/B-PP/B-PNP/O/de|ustedes/PRP/B-NP/I-PNP/O/ustedes|,/,/O/O/O/,|quiero/VB/B-VP/O/O/querer|que/IN/B-PP/O/O/que|dejen/VB/B-VP/O/O/dejar|de/IN/B-PP/B-PNP/O/de|meterse/NN/B-NP/I-PNP/O/meterse|conmigo/PRP/I-NP/I-PNP/O/conmigo|././O/O/O/.
+20110126070657.000|20110126070702.000|CC1|Papá, quiero ser dueña de mi vida, que me dejen en paz, por favor.
+20110126070657.000|20110126070702.000|POS_05|Papá/NNP/B-NP/O/O/papá|,/,/O/O/O/,|quiero/VB/B-VP/O/VP-1/querer|ser/VB/I-VP/O/VP-1/ser|dueña/NN/B-NP/O/NP-OBJ-1/dueña|de/IN/B-PP/B-PNP/O/de|mi/PRP$/B-NP/I-PNP/O/mi|vida/NN/I-NP/I-PNP/O/vida|,/,/O/O/O/,|que/WP$/O/O/O/que|me/PRP/B-NP/O/NP-SBJ-2/me|dejen/VB/B-VP/O/VP-2/dejar|en/IN/B-PP/B-PNP/O/en|paz/NN/B-NP/I-PNP/O/paz|,/,/O/O/O/,|por/IN/B-PP/B-PNP/O/por|favor/IN/I-PP/I-PNP/O/favor|././O/O/O/.
+20110126070702.000|20110126070703.000|CC1|>> Mira Fer.
+20110126070702.000|20110126070703.000|POS_05|Mira/VB/B-VP/O/VP-1/mirar|Fer/NNP/B-NP/O/NP-OBJ-1/fer|././O/O/O/.
+20110126070703.000|20110126070709.000|CC1|>> Madre.
+20110126070703.000|20110126070709.000|POS_05|Madre/NNP/B-NP/O/O/madre|././O/O/O/.
+20110126070709.000|20110126070712.000|CC1|>> Victoria, vamos a dejarlos a ellos solos un momento.
+20110126070709.000|20110126070712.000|POS_05|Victoria/NN/B-NP/O/O/victoria|,/,/O/O/O/,|vamos/VB/B-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|dejarlos/NN/B-NP/I-PNP/O/dejarlos|a/IN/B-PP/B-PNP/O/a|ellos/PRP/B-NP/I-PNP/O/ellos|solos/JJ/I-NP/I-PNP/O/solo|un/DT/B-NP/I-PNP/O/un|momento/NN/I-NP/I-PNP/O/momento|././O/O/O/.
+20110126070712.000|20110126070713.000|CC1|¿Sí?
+20110126070712.000|20110126070713.000|POS_05|¿Sí/NNP/B-NP/O/O/¿sí|?/./O/O/O/?
+20110126070713.000|20110126070717.000|CC1|Por favor.
+20110126070713.000|20110126070717.000|POS_05|Por/IN/B-PP/B-PNP/O/por|favor/IN/I-PP/I-PNP/O/favor|././O/O/O/.
+20110126070717.000|20110126070729.000|CC1|>> Fer.
+20110126070717.000|20110126070729.000|POS_05|Fer/NNP/B-NP/O/O/fer|././O/O/O/.
+20110126070729.000|20110126070732.000|CC1|>> No me toques Max, no me toques.
+20110126070729.000|20110126070732.000|POS_05|No/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/O/me|toques/NNS/I-NP/O/O/toqu|Max/NNP/I-NP/O/O/max|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/O/me|toques/NNS/I-NP/O/O/toqu|././O/O/O/.
+20110126070732.000|20110126070735.000|CC1|>> Fer yo no te quiero regañar.
+20110126070732.000|20110126070735.000|POS_05|Fer/NNP/B-NP/O/NP-SBJ-1/fer|yo/PRP/I-NP/O/NP-SBJ-1/yo|no/RB/I-NP/O/NP-SBJ-1/no|te/PRP/I-NP/O/NP-SBJ-1/te|quiero/VB/B-VP/O/VP-1/querer|regañar/VB/I-VP/O/VP-1/regañar|././O/O/O/.
+20110126070735.000|20110126070740.000|CC1|Quiero que sepas yo ya entiendo completamente.
+20110126070735.000|20110126070740.000|POS_05|Quiero/VB/B-VP/O/O/querer|que/IN/B-PP/B-PNP/O/que|sepas/NN/B-NP/I-PNP/NP-SBJ-1/sepas|yo/PRP/I-NP/I-PNP/NP-SBJ-1/yo|ya/RB/I-NP/I-PNP/NP-SBJ-1/ya|entiendo/VB/I-VP/O/VP-1/entender|completamente/RB/I-VP/O/VP-1/completamente|././O/O/O/.
+20110126070740.000|20110126070744.000|CC1|Porque cuando tenía tu edad, hacía las mismas cosas.
+20110126070740.000|20110126070744.000|POS_05|Porque/IN/B-PP/B-PNP/O/porque|cuando/IN/I-PP/I-PNP/O/cuando|tenía/VB/B-VP/O/VP-1/tener|tu/PRP$/B-NP/O/NP-OBJ-1/tu|edad/NN/I-NP/O/NP-OBJ-1/edad|,/,/O/O/O/,|hacía/VB/B-VP/O/VP-2/hacer|las/DT/B-NP/O/NP-OBJ-2/el|mismas/JJ/I-NP/O/NP-OBJ-2/mismo|cosas/NNS/I-NP/O/NP-OBJ-2/cosa|././O/O/O/.
+20110126070744.000|20110126070747.000|CC1|Les di mil dolores de cabeza a mis padres.
+20110126070744.000|20110126070747.000|POS_05|Les/PRP/B-NP/O/NP-SBJ-1/les|di/VB/B-VP/O/VP-1/decir|mil/CD/B-NP/O/NP-OBJ-1/mil|dolores/NNS/I-NP/O/NP-OBJ-1/dolor|de/IN/B-PP/B-PNP/O/de|cabeza/NN/B-NP/I-PNP/O/cabeza|a/IN/B-PP/B-PNP/O/a|mis/PRP$/B-NP/I-PNP/O/mis|padres/NNS/I-NP/I-PNP/O/padr|././O/O/O/.
+20110126070747.000|20110126070802.000|CC1|No les hacía caso, no los escuchaba, es más... Recuerdo cuando me expulsaron de la prepa, la única persona que me hizo comprender, me hizo ver lo que estaba haciendo mal.
+20110126070747.000|20110126070802.000|POS_05|No/RB/B-ADVP/O/O/no|les/PRP/B-NP/O/NP-SBJ-1/les|hacía/VB/B-VP/O/VP-1/hacer|caso/NN/B-NP/O/NP-OBJ-1*NP-SBJ-2/caso|,/,/I-NP/O/NP-OBJ-1*NP-SBJ-2/,|no/RB/I-NP/O/NP-OBJ-1*NP-SBJ-2/no|los/PRP/I-NP/O/NP-OBJ-1*NP-SBJ-2/los|escuchaba/VB/B-VP/O/VP-2/escuchar|,/,/O/O/O/,|es/VB/B-VP/O/O/ser|más/RB/I-VP/O/O/más|..././O/O/O/...
+20110126070747.000|20110126070802.000|POS_05|Recuerdo/VB/B-VP/O/O/recordar|cuando/IN/B-PP/B-PNP/O/cuando|me/PRP/B-NP/I-PNP/NP-SBJ-1/me|expulsaron/VB/B-VP/O/VP-1/expulsar|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|prepa/NN/I-NP/I-PNP/O/prepa|,/,/O/O/O/,|la/DT/B-NP/O/O/el|única/JJ/I-NP/O/O/único|persona/NN/I-NP/O/O/persona|que/WP$/O/O/O/que|me/PRP/B-NP/O/NP-SBJ-2/me|hizo/VB/B-VP/O/VP-2/hacer|comprender/VB/I-VP/O/VP-2/comprender|,/,/O/O/O/,|me/PRP/B-NP/O/NP-SBJ-3/me|hizo/VB/B-VP/O/VP-3/hacer|ver/VB/I-VP/O/VP-3/ver|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|estaba/MD/B-VP/O/O/estar|haciendo/VBG/I-VP/O/O/hacer|mal/RB/I-VP/O/O/mal|././O/O/O/.
+20110126070802.000|20110126070804.000|CC1|Fuiste tu Fer.
+20110126070802.000|20110126070804.000|POS_05|Fuiste/NNP/B-NP/O/O/fuiste|tu/PRP$/I-NP/O/O/tu|Fer/NNP/I-NP/O/O/fer|././O/O/O/.
+20110126070804.000|20110126070810.000|CC1|Por muy pequeña que estabas, fuiste tú.
+20110126070804.000|20110126070810.000|POS_05|Por/IN/B-PP/O/O/por|muy/RB/B-ADJP/O/O/muy|pequeña/JJ/I-ADJP/O/O/pequeño|que/IN/B-PP/O/O/que|estabas/MD/B-VP/O/O/estar|,/,/O/O/O/,|fuiste/NN/B-NP/O/O/fuiste|tú/PRP/I-NP/O/O/tú|././O/O/O/.
+20110126070810.000|20110126070815.000|CC1|Me viste y me dijiste, que querías un hermano del cual estuvieras orgullosa.
+20110126070810.000|20110126070815.000|POS_05|Me/PRP/B-NP/O/NP-SBJ-1/me|viste/VB/B-VP/O/VP-1/vestir|y/CC/O/O/O/y|me/PRP/B-NP/O/O/me|dijiste/NN/I-NP/O/O/dijiste|,/,/O/O/O/,|que/WP$/O/O/O/que|querías/NN/B-NP/O/O/querías|un/DT/I-NP/O/O/un|hermano/NN/I-NP/O/O/hermano|del/NN/I-NP/O/O/del|cual/WP$/O/O/O/cual|estuvieras/NN/B-NP/O/O/estuvieras|orgullosa/JJ/I-NP/O/O/orgulloso|././O/O/O/.
+20110126070815.000|20110126070817.000|CC1|¿Dónde está esa niña hermosa?
+20110126070815.000|20110126070817.000|POS_05|¿Dónde/NNP/B-NP/O/NP-SBJ-1/¿dónde|está/MD/B-VP/O/VP-1/estar|esa/DT/B-NP/O/NP-OBJ-1/esa|niña/NN/I-NP/O/NP-OBJ-1/niña|hermosa/JJ/I-NP/O/NP-OBJ-1/hermoso|?/./O/O/O/?
+20110126070817.000|20110126070819.000|CC1|¿Dónde está esa niña inteligente?
+20110126070817.000|20110126070819.000|POS_05|¿Dónde/NNP/B-NP/O/NP-SBJ-1/¿dónde|está/MD/B-VP/O/VP-1/estar|esa/DT/B-NP/O/NP-OBJ-1/esa|niña/NN/I-NP/O/NP-OBJ-1/niña|inteligente/JJ/I-NP/O/NP-OBJ-1/inteligente|?/./O/O/O/?
+20110126070819.000|20110126070824.000|CC1|¿Qué pasa contigo mi amor?
+20110126070819.000|20110126070824.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|pasa/VB/B-VP/O/VP-1/pasar|contigo/PRP/B-NP/O/NP-OBJ-1/contigo|mi/PRP$/I-NP/O/NP-OBJ-1/mi|amor/NN/I-NP/O/NP-OBJ-1/amor|?/./O/O/O/?
+20110126070824.000|20110126070836.000|CC1|Gracias a eso, hoy yo soy quien soy y te lo voy a agradecer toda la vida.
+20110126070824.000|20110126070836.000|POS_05|Gracias/IN/B-PP/B-PNP/O/gracias|a/IN/I-PP/I-PNP/O/a|eso/DT/B-NP/I-PNP/NP-SBJ-1/eso|,/,/I-NP/I-PNP/NP-SBJ-1/,|hoy/RB/I-NP/I-PNP/NP-SBJ-1/hoy|yo/PRP/I-NP/I-PNP/NP-SBJ-1/yo|soy/VB/B-VP/O/VP-1/ser|quien/IN/B-PP/O/O/quien|soy/VB/B-VP/O/O/ser|y/CC/O/O/O/y|te/PRP/B-NP/O/NP-SBJ-2/te|lo/PRP/I-NP/O/NP-SBJ-2/lo|voy/VB/B-VP/O/VP-2/ir|a/IN/B-PP/O/O/a|agradecer/VB/B-VP/O/VP-3/agradecer|toda/DT/B-NP/O/NP-OBJ-3/toda|la/DT/I-NP/O/NP-OBJ-3/el|vida/NN/I-NP/O/NP-OBJ-3/vida|././O/O/O/.
+20110126070836.000|20110126070838.000|CC1|>> Gracias.
+20110126070836.000|20110126070838.000|POS_05|Gracias/IN/B-PP/O/O/gracias|././O/O/O/.
+20110126070838.000|20110126070840.000|CC1|Max, muchas gracias.
+20110126070838.000|20110126070840.000|POS_05|Max/NNP/B-NP/O/O/max|,/,/O/O/O/,|muchas/DT/O/O/O/muchas|gracias/IN/B-PP/O/O/gracias|././O/O/O/.
+20110126070840.000|20110126070845.000|CC1|Quiero que sepas que si nos ponemos así es porque te queremos, es porque te amamos.
+20110126070840.000|20110126070845.000|POS_05|Quiero/VB/B-VP/O/O/querer|que/IN/B-PP/B-PNP/O/que|sepas/NN/B-NP/I-PNP/O/sepas|que/WP$/O/O/O/que|si/IN/B-PP/B-PNP/O/si|nos/PRP/B-NP/I-PNP/NP-SBJ-1/nos|ponemos/NN/I-NP/I-PNP/NP-SBJ-1/ponemos|así/RB/I-NP/I-PNP/NP-SBJ-1/así|es/VB/I-VP/O/VP-1/ser|porque/IN/B-PP/B-PNP/O/porque|te/PRP/B-NP/I-PNP/NP-SBJ-2/te|queremos/VB/B-VP/O/VP-2/querer|,/,/O/O/O/,|es/VB/B-VP/O/O/ser|porque/IN/B-PP/B-PNP/O/porque|te/PRP/B-NP/I-PNP/NP-SBJ-3/te|amamos/VB/B-VP/O/VP-3/amar|././O/O/O/.
+20110126070845.000|20110126070852.000|CC1|No lo olvides, queremos lo mejor para ti mi amor.
+20110126070845.000|20110126070852.000|POS_05|No/RB/B-ADVP/O/O/no|lo/PRP/B-NP/O/NP-SBJ-1/lo|olvides/VB/B-VP/O/VP-1/olvidar|,/,/O/O/O/,|queremos/VB/B-VP/O/O/querer|lo/DT/O/O/O/lo|mejor/JJ/B-ADJP/O/O/mejor|para/IN/B-PP/B-PNP/O/para|ti/PRP/B-NP/I-PNP/O/ti|mi/PRP$/I-NP/I-PNP/O/mi|amor/NN/I-NP/I-PNP/O/amor|././O/O/O/.
+20110126070852.000|20110126070853.000|CC1|>> Max.
+20110126070852.000|20110126070853.000|POS_05|Max/NNP/B-NP/O/O/max|././O/O/O/.
+20110126070853.000|20110126070856.000|CC1|Hermanito, te quiero mucho Max.
+20110126070853.000|20110126070856.000|POS_05|Hermanito/NN/B-NP/O/NP-SBJ-1/hermanito|,/,/I-NP/O/NP-SBJ-1/,|te/PRP/I-NP/O/NP-SBJ-1/te|quiero/VB/B-VP/O/VP-1/querer|mucho/RB/B-ADVP/O/O/mucho|Max/NNP/B-NP/O/O/max|././O/O/O/.
+20110126070856.000|20110126070859.000|CC1|>> Ya, ya, ya.
+20110126070856.000|20110126070859.000|POS_05|Ya/RB/B-ADVP/O/O/ya|,/,/O/O/O/,|ya/RB/B-ADVP/O/O/ya|,/,/O/O/O/,|ya/RB/B-ADVP/O/O/ya|././O/O/O/.
+20110126070859.000|20110126070903.000|CC1|>> Te quiero, mi hermanito, mucho, mucho, mucho.
+20110126070859.000|20110126070903.000|POS_05|Te/PRP/B-NP/O/NP-SBJ-1/te|quiero/VB/B-VP/O/VP-1/querer|,/,/O/O/O/,|mi/PRP$/B-NP/O/O/mi|hermanito/NN/I-NP/O/O/hermanito|,/,/O/O/O/,|mucho/RB/B-ADVP/O/O/mucho|,/,/O/O/O/,|mucho/RB/B-ADVP/O/O/mucho|,/,/O/O/O/,|mucho/RB/B-ADVP/O/O/mucho|././O/O/O/.
+20110126070903.000|20110126070911.000|CC1|>> Yo también te quiero mucho, mucho.
+20110126070903.000|20110126070911.000|POS_05|Yo/PRP/B-NP/O/NP-SBJ-1/yo|también/RB/I-NP/O/NP-SBJ-1/también|te/PRP/I-NP/O/NP-SBJ-1/te|quiero/VB/B-VP/O/VP-1/querer|mucho/RB/I-VP/O/VP-1/mucho|,/,/O/O/O/,|mucho/RB/B-ADVP/O/O/mucho|././O/O/O/.
+20110126070911.000|20110126070912.000|CC1|>> Mi amor, hola.
+20110126070911.000|20110126070912.000|POS_05|Mi/PRP$/B-NP/O/O/mi|amor/NN/I-NP/O/O/amor|,/,/O/O/O/,|hola/UH/O/O/O/hola|././O/O/O/.
+20110126070912.000|20110126070915.000|CC1|¿Cómo estás?
+20110126070912.000|20110126070915.000|POS_05|¿Cómo/NNP/B-NP/O/NP-SBJ-1/¿cómo|estás/MD/B-VP/O/VP-1/estar|?/./O/O/O/?
+20110126070915.000|20110126070916.000|CC1|¿Por qué no me has llamado?
+20110126070915.000|20110126070916.000|POS_05|¿Por/NNP/B-NP/O/O/¿por|qué/WP$/O/O/O/qué|no/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/NP-SBJ-1/me|has/MD/B-VP/O/VP-1/har|llamado/VBN/I-VP/O/VP-1/llamar|?/./O/O/O/?
+20110126070916.000|20110126070917.000|CC1|>> He estado algo ocupado Linda.
+20110126070916.000|20110126070917.000|POS_05|He/MD/B-VP/O/O/her|estado/VBN/I-VP/O/O/estar|algo/DT/O/O/O/algo|ocupado/VBN/B-VP/O/O/ocupar|Linda/JJ/B-ADJP/O/O/lindo|././O/O/O/.
+20110126070917.000|20110126070921.000|CC1|Además se me han presentado problemas acá en la familia.
+20110126070917.000|20110126070921.000|POS_05|Además/RB/B-ADVP/O/O/además|se/PRP/B-NP/O/NP-SBJ-1/se|me/PRP/I-NP/O/NP-SBJ-1/me|han/MD/B-VP/O/VP-1/har|presentado/VBN/I-VP/O/VP-1/presentar|problemas/NNS/B-NP/O/NP-OBJ-1/problema|acá/NN/I-NP/O/NP-OBJ-1/acá|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|familia/NN/I-NP/I-PNP/O/familia|././O/O/O/.
+20110126070921.000|20110126070923.000|CC1|>> Me apena muchísimo escuchar eso.
+20110126070921.000|20110126070923.000|POS_05|Me/PRP/B-NP/O/O/me|apena/NN/I-NP/O/O/apena|muchísimo/DT/O/O/O/muchísimo|escuchar/VB/B-VP/O/O/escuchar|eso/DT/O/O/O/eso|././O/O/O/.
+20110126070923.000|20110126070927.000|CC1|Te noto muy desanimado.
+20110126070923.000|20110126070927.000|POS_05|Te/PRP/B-NP/O/O/te|noto/NN/I-NP/O/O/noto|muy/RB/I-NP/O/O/muy|desanimado/JJ/I-NP/O/O/desanimado|././O/O/O/.
+20110126070927.000|20110126070930.000|CC1|¿Por qué no nos vemos aunque sea un ratito?
+20110126070927.000|20110126070930.000|POS_05|¿Por/NNP/B-NP/O/O/¿por|qué/WP$/O/O/O/qué|no/RB/B-ADVP/O/O/no|nos/PRP/B-NP/O/NP-SBJ-1/nos|vemos/VB/B-VP/O/VP-1/ver|aunque/CC/O/O/O/aunque|sea/VB/B-VP/O/VP-2/ser|un/DT/B-NP/O/NP-OBJ-2/un|ratito/NN/I-NP/O/NP-OBJ-2/ratito|?/./O/O/O/?
+20110126070930.000|20110126070930.000|CC1|>> No, no, no.
+20110126070930.000|20110126070930.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no./NN/B-NP/O/O/no.
+20110126070930.000|20110126070933.000|CC1|ahora no puedo.
+20110126070930.000|20110126070933.000|POS_05|ahora/RB/B-VP/O/O/ahora|no/RB/I-VP/O/O/no|puedo/VB/I-VP/O/O/poder|././O/O/O/.
+20110126070933.000|20110126070938.000|CC1|>> No seas malito, además lo hago por ti.
+20110126070933.000|20110126070938.000|POS_05|No/RB/B-VP/O/VP-1/no|seas/VB/I-VP/O/VP-1/ser|malito/NN/B-NP/O/NP-OBJ-1*NP-SBJ-2/malito|,/,/I-NP/O/NP-OBJ-1*NP-SBJ-2/,|además/RB/I-NP/O/NP-OBJ-1*NP-SBJ-2/además|lo/PRP/I-NP/O/NP-OBJ-1*NP-SBJ-2/lo|hago/VB/B-VP/O/VP-2/hacer|por/IN/B-PP/B-PNP/O/por|ti/PRP/B-NP/I-PNP/O/ti|././O/O/O/.
+20110126070938.000|20110126070945.000|CC1|Lo único que quiero es que te distraigas y te rías un ratito, junto conmigo.
+20110126070938.000|20110126070945.000|POS_05|Lo/DT/O/O/O/lo|único/JJ/B-ADJP/O/O/único|que/WP$/O/O/O/que|quiero/VB/B-VP/O/O/querer|es/VB/I-VP/O/O/ser|que/IN/B-PP/B-PNP/O/que|te/PRP/B-NP/I-PNP/O/te|distraigas/NN/I-NP/I-PNP/O/distraigas|y/CC/I-NP/I-PNP/O/y|te/PRP/I-NP/I-PNP/O/te|rías/NNS/I-NP/I-PNP/O/ría|un/DT/B-NP/I-PNP/O/un|ratito/NN/I-NP/I-PNP/O/ratito|,/,/O/O/O/,|junto/IN/B-PP/B-PNP/O/junto|conmigo/PRP/B-NP/I-PNP/O/conmigo|././O/O/O/.
+20110126070945.000|20110126070949.000|CC1|>> Está bien Linda, te busco.
+20110126070945.000|20110126070949.000|POS_05|Está/MD/B-VP/O/VP-1/estar|bien/RB/B-NP/O/NP-OBJ-1/bien|Linda/JJ/I-NP/O/NP-OBJ-1/lindo|,/,/I-NP/O/NP-OBJ-1/,|te/PRP/I-NP/O/NP-OBJ-1/te|busco/NN/I-NP/O/NP-OBJ-1/busco|././O/O/O/.
+20110126070949.000|20110126070952.000|CC1|Pero de paso hablaremos de algo que entiendo debes de tener muy claro.
+20110126070949.000|20110126070952.000|POS_05|Pero/CC/O/O/O/pero|de/IN/B-PP/B-PNP/O/de|paso/NN/B-NP/I-PNP/NP-SBJ-1/paso|hablaremos/VB/B-VP/O/VP-1/hablar|de/IN/B-PP/O/O/de|algo/DT/O/O/O/algo|que/WP$/O/O/O/que|entiendo/VB/B-VP/O/O/entender|debes/VB/I-VP/O/O/deber|de/IN/B-PP/O/O/de|tener/VB/B-VP/O/O/tener|muy/RB/I-VP/O/O/muy|claro/JJ/I-ADJP/O/O/claro|././O/O/O/.
+20110126070952.000|20110126070954.000|CC1|¿De acuerdo?
+20110126070952.000|20110126070954.000|POS_05|¿De/NNP/B-NP/O/O/¿de|acuerdo/NN/I-NP/O/O/acuerdo|?/./O/O/O/?
+20110126070954.000|20110126071003.000|CC1|Te veo al rato, hasta luego.
+20110126070954.000|20110126071003.000|POS_05|Te/PRP/B-NP/O/NP-SBJ-1/te|veo/VB/B-VP/O/VP-1/ver|al/NN/B-NP/O/NP-OBJ-1/al|rato/NN/I-NP/O/NP-OBJ-1/rato|,/,/O/O/O/,|hasta/IN/B-PP/O/O/hasta|luego/RB/B-ADVP/O/O/luego|././O/O/O/.
+20110126071003.000|20110126071008.000|CC1|Hablaré de una vez por todas con Linda, esto no puede seguir así.
+20110126071003.000|20110126071008.000|POS_05|Hablaré/NNP/B-NP/O/O/hablaré|de/IN/B-PP/B-PNP/O/de|una/DT/B-NP/I-PNP/O/un|vez/NN/I-NP/I-PNP/O/vez|por/IN/B-PP/O/O/por|todas/DT/O/O/O/todas|con/IN/B-PP/O/O/con|Linda/JJ/B-ADJP/O/O/lindo|,/,/O/O/O/,|esto/DT/O/O/O/esto|no/RB/B-VP/O/O/no|puede/VB/I-VP/O/O/poder|seguir/VB/I-VP/O/O/seguir|así/RB/I-VP/O/O/así|././O/O/O/.
+20110126071008.000|20110126071016.000|CC1|No soy un hombre que le guste tener una doble vida y Linda, Linda tendrá que comprenderlo.
+20110126071008.000|20110126071016.000|POS_05|No/RB/B-VP/O/VP-1/no|soy/VB/I-VP/O/VP-1/ser|un/DT/B-NP/O/NP-OBJ-1/un|hombre/NN/I-NP/O/NP-OBJ-1/hombre|que/WP$/O/O/O/que|le/PRP/B-NP/O/NP-SBJ-2/le|guste/VB/B-VP/O/VP-2/gustar|tener/VB/I-VP/O/VP-2/tener|una/DT/B-NP/O/NP-OBJ-2/un|doble/JJ/I-NP/O/NP-OBJ-2/doble|vida/NN/I-NP/O/NP-OBJ-2/vida|y/CC/O/O/O/y|Linda/JJ/B-ADJP/O/O/lindo|,/,/I-ADJP/O/O/,|Linda/JJ/I-ADJP/O/O/lindo|tendrá/VB/B-VP/O/O/tener|que/IN/B-PP/B-PNP/O/que|comprenderlo/NN/B-NP/I-PNP/O/comprenderlo|././O/O/O/.
+20110126071016.000|20110126071022.000|CC1|>> ¿Qué harás cuando él ya no esté a tu lado queriéndote como dices?
+20110126071016.000|20110126071022.000|POS_05|¿Qué/NNP/B-NP/O/O/¿qué|harás/NN/I-NP/O/O/harás|cuando/IN/B-PP/B-PNP/O/cuando|él/PRP/B-NP/I-PNP/NP-SBJ-1/él|ya/RB/I-NP/I-PNP/NP-SBJ-1/ya|no/RB/I-NP/I-PNP/NP-SBJ-1/no|esté/MD/B-VP/O/VP-1/estar|a/IN/B-PP/B-PNP/O/a|tu/PRP$/B-NP/I-PNP/O/tu|lado/NN/I-NP/I-PNP/O/lado|queriéndote/NN/I-NP/I-PNP/O/queriéndote|como/IN/B-PP/B-PNP/O/como|dices/NN/B-NP/I-PNP/O/dices|?/./O/O/O/?
+20110126071022.000|20110126071024.000|CC1|>> Mamá, mamá, Federico me quiere.
+20110126071022.000|20110126071024.000|POS_05|Mamá/NNP/B-NP/O/O/mamá|,/,/I-NP/O/O/,|mamá/NN/I-NP/O/O/mamá|,/,/O/O/O/,|Federico/NNP/B-NP/O/NP-SBJ-1/federico|me/PRP/I-NP/O/NP-SBJ-1/me|quiere/VB/B-VP/O/VP-1/querer|././O/O/O/.
+20110126071024.000|20110126071029.000|CC1|>> Hija, debes de entender que en estos casos, quien siempre lleva las de perder es la mujer.
+20110126071024.000|20110126071029.000|POS_05|Hija/NN/B-NP/O/O/hija|,/,/O/O/O/,|debes/VB/B-VP/O/O/deber|de/IN/B-PP/O/O/de|entender/VB/B-VP/O/O/entender|que/IN/B-PP/B-PNP/O/que|en/IN/I-PP/I-PNP/O/en|estos/DT/B-NP/I-PNP/O/estos|casos/NNS/I-NP/I-PNP/O/caso|,/,/O/O/O/,|quien/WP$/O/O/O/quien|siempre/RB/B-VP/O/O/siempre|lleva/VB/I-VP/O/O/llevar|las/DT/O/O/O/el|de/IN/B-PP/O/O/de|perder/VB/B-VP/O/VP-1/perder|es/VB/I-VP/O/VP-1/ser|la/DT/B-NP/O/NP-OBJ-1/el|mujer/NN/I-NP/O/NP-OBJ-1/mujer|././O/O/O/.
+20110126071029.000|20110126071034.000|CC1|La mayoría de los hombres, juran, juran que te aman.
+20110126071029.000|20110126071034.000|POS_05|La/DT/B-NP/O/O/el|mayoría/NN/I-NP/O/O/mayoría|de/IN/B-PP/B-PNP/O/de|los/DT/B-NP/I-PNP/O/el|hombres/NNS/I-NP/I-PNP/O/hombre|,/,/O/O/O/,|juran/NN/B-NP/O/O/juran|,/,/O/O/O/,|juran/NN/B-NP/O/O/juran|que/WP$/O/O/O/que|te/PRP/B-NP/O/NP-SBJ-1/te|aman/VB/B-VP/O/VP-1/amar|././O/O/O/.
+20110126071034.000|20110126071039.000|CC1|Pero ante el primer problema, salen huyendo.
+20110126071034.000|20110126071039.000|POS_05|Pero/CC/O/O/O/pero|ante/IN/B-PP/B-PNP/O/ante|el/DT/B-NP/I-PNP/O/el|primer/JJ/I-NP/I-PNP/O/primer|problema/NN/I-NP/I-PNP/O/problema|,/,/O/O/O/,|salen/VB/B-VP/O/O/salir|huyendo/VBG/I-VP/O/O/huir|././O/O/O/.
+20110126071039.000|20110126071047.000|CC1|Hija, si tú no sabes como vas a reaccionar y como va a reaccionar este muchacho.
+20110126071039.000|20110126071047.000|POS_05|Hija/NN/B-NP/O/O/hija|,/,/O/O/O/,|si/IN/B-PP/B-PNP/O/si|tú/PRP/B-NP/I-PNP/NP-SBJ-1/tú|no/RB/I-NP/I-PNP/NP-SBJ-1/no|sabes/VB/I-VP/O/VP-1/saber|como/IN/B-PP/O/O/como|vas/VB/B-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|reaccionar/NN/B-NP/I-PNP/O/reaccionar|y/CC/O/O/O/y|como/IN/B-PP/O/O/como|va/VB/B-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|reaccionar/NN/B-NP/I-PNP/O/reaccionar|este/DT/I-NP/I-PNP/O/este|muchacho/NN/I-NP/I-PNP/O/muchacho|././O/O/O/.
+20110126071047.000|20110126071050.000|CC1|Primero conócelo, y luego lo decides.
+20110126071047.000|20110126071050.000|POS_05|Primero/RB/B-ADVP/O/O/primero|conócelo/NN/B-NP/O/O/conócelo|,/,/O/O/O/,|y/CC/O/O/O/y|luego/RB/B-ADVP/O/O/luego|lo/DT/B-NP/O/O/lo|decides/NN/I-NP/O/O/decides|././O/O/O/.
+20110126071050.000|20110126071053.000|CC1|Eres muy joven para arruinar tu vida mi amor.
+20110126071050.000|20110126071053.000|POS_05|Eres/VB/B-VP/O/O/ser|muy/RB/I-VP/O/O/muy|joven/JJ/I-ADJP/O/O/joven|para/IN/B-PP/O/O/para|arruinar/VB/B-VP/O/VP-1/arruinar|tu/PRP$/B-NP/O/NP-OBJ-1/tu|vida/NN/I-NP/O/NP-OBJ-1/vida|mi/PRP$/I-NP/O/NP-OBJ-1/mi|amor/NN/I-NP/O/NP-OBJ-1/amor|././O/O/O/.
+20110126071053.000|20110126071058.000|CC1|>> Mamá, mamá por favor, yo lo quiero mamá.
+20110126071053.000|20110126071058.000|POS_05|Mamá/NNP/B-NP/O/O/mamá|,/,/I-NP/O/O/,|mamá/NN/I-NP/O/O/mamá|por/IN/B-PP/O/O/por|favor/RB/B-ADVP/O/O/favor|,/,/O/O/O/,|yo/PRP/B-NP/O/NP-SBJ-1/yo|lo/PRP/I-NP/O/NP-SBJ-1/lo|quiero/VB/B-VP/O/VP-1/querer|mamá/NN/B-NP/O/NP-OBJ-1/mamá|././O/O/O/.
+20110126071058.000|20110126071102.000|CC1|>> Lo quieres.
+20110126071058.000|20110126071102.000|POS_05|Lo/PRP/B-NP/O/NP-SBJ-1/lo|quieres/VB/B-VP/O/VP-1/querer|././O/O/O/.
+20110126071102.000|20110126071109.000|CC1|¿Lo quieres tanto como para renunciar a tus comodidades y vivir en la pocilga dónde él vive?
+20110126071102.000|20110126071109.000|POS_05|¿Lo/NNP/B-NP/O/NP-SBJ-1/¿lo|quieres/VB/B-VP/O/VP-1/querer|tanto/RB/I-VP/O/VP-1/tanto|como/IN/B-PP/B-PNP/O/como|para/IN/I-PP/I-PNP/O/para|renunciar/VB/B-VP/O/O/renunciar|a/IN/B-PP/B-PNP/O/a|tus/PRP$/B-NP/I-PNP/O/tus|comodidades/NNS/I-NP/I-PNP/O/comodidad|y/CC/O/O/O/y|vivir/VB/B-VP/O/O/vivir|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|pocilga/NN/I-NP/I-PNP/O/pocilga|dónde/WP$/O/O/O/dónde|él/PRP/B-NP/O/NP-SBJ-2/él|vive/VB/B-VP/O/VP-2/vivir|?/./O/O/O/?
+20110126071109.000|20110126071113.000|CC1|¿De verdad lo quieres tanto?
+20110126071109.000|20110126071113.000|POS_05|¿De/NNP/B-NP/O/NP-SBJ-1/¿de|verdad/NN/I-NP/O/NP-SBJ-1/verdad|lo/PRP/I-NP/O/NP-SBJ-1/lo|quieres/VB/B-VP/O/VP-1/querer|tanto/RB/I-VP/O/VP-1/tanto|?/./O/O/O/?
+20110126071113.000|20110126071126.000|CC1|Piénsalo, de verdad eres muy joven para arruinar tu vida.
+20110126071113.000|20110126071126.000|POS_05|Piénsalo/NNP/B-NP/O/O/piénsalo|,/,/O/O/O/,|de/IN/B-PP/B-PNP/O/de|verdad/NN/B-NP/I-PNP/NP-SBJ-1/verdad|eres/VB/B-VP/O/VP-1/ser|muy/RB/I-VP/O/VP-1/muy|joven/JJ/I-ADJP/O/O/joven|para/IN/B-PP/O/O/para|arruinar/VB/B-VP/O/VP-2/arruinar|tu/PRP$/B-NP/O/NP-OBJ-2/tu|vida/NN/I-NP/O/NP-OBJ-2/vida|././O/O/O/.
+20110126071126.000|20110126071145.000|CC1|Piénsalo hija.
+20110126071126.000|20110126071145.000|POS_05|Piénsalo/NNP/B-NP/O/O/piénsalo|hija/NN/I-NP/O/O/hija|././O/O/O/.
+20110126071145.000|20110126071154.000|CC1|>> Osvaldo, reconozco que he estado muy tensa, y que te he tratado muy mal.
+20110126071145.000|20110126071154.000|POS_05|Osvaldo/NNP/B-NP/O/O/osvaldo|,/,/I-NP/O/O/,|reconozco/NN/I-NP/O/O/reconozco|que/WP$/O/O/O/que|he/MD/B-VP/O/O/her|estado/VBN/I-VP/O/O/estar|muy/RB/I-VP/O/O/muy|tensa/JJ/I-ADJP/O/O/tenso|,/,/O/O/O/,|y/CC/O/O/O/y|que/WP$/O/O/O/que|te/PRP/B-NP/O/NP-SBJ-1/te|he/MD/B-VP/O/VP-1/her|tratado/VBN/I-VP/O/VP-1/tratar|muy/RB/I-VP/O/VP-1/muy|mal/RB/I-VP/O/VP-1/mal|././O/O/O/.
+20110126071154.000|20110126071156.000|CC1|Perdóname.
+20110126071154.000|20110126071156.000|POS_05|Perdóname/NNP/B-NP/O/O/perdóname|././O/O/O/.
+20110126071156.000|20110126071200.000|CC1|>> No mi amor, más bien perdóname tú a mí.
+20110126071156.000|20110126071200.000|POS_05|No/RB/B-ADVP/O/O/no|mi/PRP$/B-NP/O/O/mi|amor/NN/I-NP/O/O/amor|,/,/O/O/O/,|más/RB/B-ADVP/O/O/más|bien/RB/B-ADVP/O/O/bien|perdóname/NN/B-NP/O/O/perdóname|tú/PRP/I-NP/O/O/tú|a/IN/B-PP/B-PNP/O/a|mí/PRP/B-NP/I-PNP/O/mí|././O/O/O/.
+20110126071200.000|20110126071204.000|CC1|Yo también me he portado muy mal contigo, lo sé.
+20110126071200.000|20110126071204.000|POS_05|Yo/PRP/B-NP/O/NP-SBJ-1/yo|también/RB/I-NP/O/NP-SBJ-1/también|me/PRP/I-NP/O/NP-SBJ-1/me|he/MD/B-VP/O/VP-1/her|portado/VBN/I-VP/O/VP-1/portar|muy/RB/B-ADVP/O/O/muy|mal/RB/B-ADVP/O/O/mal|contigo/PRP/B-NP/O/O/contigo|,/,/O/O/O/,|lo/PRP/B-NP/O/NP-SBJ-2/lo|sé/VB/B-VP/O/VP-2/ser|././O/O/O/.
+20110126071204.000|20110126071210.000|CC1|Ven.
+20110126071204.000|20110126071210.000|POS_05|Ven/VB/B-VP/O/O/ver|././O/O/O/.
+20110126071210.000|20110126071213.000|CC1|Mi vida, yo quiero que tú sepas que yo te amo.
+20110126071210.000|20110126071213.000|POS_05|Mi/PRP$/B-NP/O/NP-SBJ-1/mi|vida/NN/I-NP/O/NP-SBJ-1/vida|,/,/I-NP/O/NP-SBJ-1/,|yo/PRP/I-NP/O/NP-SBJ-1/yo|quiero/VB/B-VP/O/VP-1/querer|que/IN/B-PP/B-PNP/O/que|tú/PRP/B-NP/I-PNP/O/tú|sepas/NN/I-NP/I-PNP/O/sepas|que/WP$/O/O/O/que|yo/PRP/B-NP/O/O/yo|te/PRP/I-NP/O/O/te|amo/NN/I-NP/O/O/amo|././O/O/O/.
+20110126071213.000|20110126071216.000|CC1|Que te amo con todo mi corazón.
+20110126071213.000|20110126071216.000|POS_05|Que/IN/B-PP/B-PNP/O/que|te/PRP/B-NP/I-PNP/O/te|amo/NN/I-NP/I-PNP/O/amo|con/IN/B-PP/B-PNP/O/con|todo/DT/B-NP/I-PNP/O/todo|mi/PRP$/I-NP/I-PNP/O/mi|corazón/NN/I-NP/I-PNP/O/corazón|././O/O/O/.
+20110126071216.000|20110126071222.000|CC1|Y que tú...Tú siempre serás la mujer de mi vida, siempre.
+20110126071216.000|20110126071222.000|POS_05|Y/CC/O/O/O/y|que/WP$/O/O/O/que|tú...Tú/NN/B-NP/O/O/tú...tú|siempre/RB/I-NP/O/O/siempre|serás/NN/I-NP/O/O/serás|la/DT/B-NP/O/O/el|mujer/NN/I-NP/O/O/mujer|de/IN/B-PP/B-PNP/O/de|mi/PRP$/B-NP/I-PNP/O/mi|vida/NN/I-NP/I-PNP/O/vida|,/,/O/O/O/,|siempre/RB/B-ADVP/O/O/siempre|././O/O/O/.
+20110126071222.000|20110126071243.000|CC1|>> Osvaldo.
+20110126071222.000|20110126071243.000|POS_05|Osvaldo/NNP/B-NP/O/O/osvaldo|././O/O/O/.
+20110126071243.000|20110126071247.000|CC1|>> Perdón, perdón, no era mi intención agarrarlos desprevenidos.
+20110126071243.000|20110126071247.000|POS_05|Perdón/NN/B-NP/O/O/perdón|,/,/I-NP/O/O/,|perdón/NN/I-NP/O/O/perdón|,/,/O/O/O/,|no/RB/B-VP/O/VP-1/no|era/VB/I-VP/O/VP-1/ser|mi/PRP$/B-NP/O/NP-OBJ-1/mi|intención/NN/I-NP/O/NP-OBJ-1/intención|agarrarlos/NN/I-NP/O/NP-OBJ-1/agarrarlos|desprevenidos/JJ/I-NP/O/NP-OBJ-1/desprevenido|././O/O/O/.
+20110126071247.000|20110126071253.000|CC1|Pero me da mucho gusto que se demuestren ese cariño.
+20110126071247.000|20110126071253.000|POS_05|Pero/CC/O/O/O/pero|me/PRP/B-NP/O/NP-SBJ-1/me|da/VB/B-VP/O/VP-1/dar|mucho/RB/B-ADVP/O/O/mucho|gusto/NN/B-NP/O/O/gusto|que/IN/B-PP/B-PNP/O/que|se/PRP/B-NP/I-PNP/NP-SBJ-2/se|demuestren/VB/B-VP/O/VP-2/demostrar|ese/DT/B-NP/O/NP-OBJ-2/ese|cariño/NN/I-NP/O/NP-OBJ-2/cariño|././O/O/O/.
+20110126071253.000|20110126071301.000|CC1|Pero bueno, los que les quería decir, era que...Cuando hablé con Fer, le dije varias cosas como amigo, espero que reflexione.
+20110126071253.000|20110126071301.000|POS_05|Pero/CC/O/O/O/pero|bueno/JJ/B-ADJP/O/O/bueno|,/,/O/O/O/,|los/DT/O/O/O/el|que/WP$/O/O/O/que|les/PRP/B-NP/O/NP-SBJ-1/les|quería/VB/B-VP/O/VP-1/querer|decir/VB/I-VP/O/VP-1/decir|,/,/O/O/O/,|era/VB/B-VP/O/VP-2/ser|que...Cuando/NN/B-NP/O/NP-OBJ-2*NP-SBJ-3/que...cuando|hablé/VB/B-VP/O/VP-3/hablar|con/IN/B-PP/B-PNP/O/con|Fer/NNP/B-NP/I-PNP/NP-SBJ-4/fer|,/,/I-NP/I-PNP/NP-SBJ-4/,|le/PRP/I-NP/I-PNP/NP-SBJ-4/le|dije/VB/B-VP/O/VP-4/decir|varias/DT/B-NP/O/NP-OBJ-4/varias|cosas/NNS/I-NP/O/NP-OBJ-4/cosa|como/IN/B-PP/B-PNP/O/como|amigo/NN/B-NP/I-PNP/O/amigo|,/,/O/O/O/,|espero/VB/B-VP/O/O/esperar|que/IN/B-PP/B-PNP/O/que|reflexione/NN/B-NP/I-PNP/O/reflexione|././O/O/O/.
+20110126071301.000|20110126071304.000|CC1|>> Me alegro mucho que así sea hijo.
+20110126071301.000|20110126071304.000|POS_05|Me/PRP/B-NP/O/O/me|alegro/NN/I-NP/O/O/alegro|mucho/RB/I-NP/O/O/mucho|que/IN/B-PP/O/O/que|así/RB/B-VP/O/VP-1/así|sea/VB/I-VP/O/VP-1/ser|hijo/NN/B-NP/O/NP-OBJ-1/hijo|././O/O/O/.
+20110126071304.000|20110126071309.000|CC1|Fer parece una niña alocada, pero es muy inteligente, y se que sabrá comprender.
+20110126071304.000|20110126071309.000|POS_05|Fer/NNP/B-NP/O/NP-SBJ-1/fer|parece/VB/B-VP/O/VP-1/parecer|una/DT/B-NP/O/NP-OBJ-1/un|niña/NN/I-NP/O/NP-OBJ-1/niña|alocada/JJ/I-NP/O/NP-OBJ-1/alocado|,/,/O/O/O/,|pero/CC/O/O/O/pero|es/VB/B-VP/O/O/ser|muy/RB/I-VP/O/O/muy|inteligente/JJ/I-ADJP/O/O/inteligente|,/,/O/O/O/,|y/CC/O/O/O/y|se/PRP/B-NP/O/O/se|que/WP$/O/O/O/que|sabrá/VB/B-VP/O/O/saber|comprender/VB/I-VP/O/O/comprender|././O/O/O/.
+20110126071309.000|20110126071314.000|CC1|>> Tienes toda la razón padre, por eso... Mamá.
+20110126071309.000|20110126071314.000|POS_05|Tienes/VB/B-VP/O/VP-1/tener|toda/DT/B-NP/O/NP-OBJ-1/toda|la/DT/I-NP/O/NP-OBJ-1/el|razón/NN/I-NP/O/NP-OBJ-1/razón|padre/NN/I-NP/O/NP-OBJ-1/padre|,/,/O/O/O/,|por/IN/B-PP/O/O/por|eso/DT/O/O/O/eso|..././O/O/O/...
+20110126071309.000|20110126071314.000|POS_05|Mamá/NNP/B-NP/O/O/mamá|././O/O/O/.
+20110126071314.000|20110126071317.000|CC1|¿Por qué no...No me mires así.
+20110126071314.000|20110126071317.000|POS_05|¿Por/NNP/B-NP/O/O/¿por|qué/WP$/O/O/O/qué|no...No/NN/B-NP/O/O/no...no|me/PRP/I-NP/O/O/me|mires/NN/I-NP/O/O/mires|así/RB/I-NP/O/O/así|././O/O/O/.
+20110126071317.000|20110126071319.000|CC1|¿Por qué no le levantas el castigo?
+20110126071317.000|20110126071319.000|POS_05|¿Por/NNP/B-NP/O/O/¿por|qué/WP$/O/O/O/qué|no/RB/B-ADVP/O/O/no|le/PRP/B-NP/O/O/le|levantas/NN/I-NP/O/O/levantas|el/DT/B-NP/O/O/el|castigo/NN/I-NP/O/O/castigo|?/./O/O/O/?
+20110126071319.000|20110126071320.000|CC1|No seas así.
+20110126071319.000|20110126071320.000|POS_05|No/RB/B-VP/O/O/no|seas/VB/I-VP/O/O/ser|así/RB/I-VP/O/O/así|././O/O/O/.
+20110126071320.000|20110126071324.000|CC1|>> No, no, no, va a pensar que es un premio.
+20110126071320.000|20110126071324.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|va/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|pensar/VB/B-VP/O/O/pensar|que/IN/B-PP/O/O/que|es/VB/B-VP/O/VP-1/ser|un/DT/B-NP/O/NP-OBJ-1/un|premio/NN/I-NP/O/NP-OBJ-1/premio|././O/O/O/.
+20110126071324.000|20110126071326.000|CC1|>> Victoria, tal vez Max tenga razón.
+20110126071324.000|20110126071326.000|POS_05|Victoria/NN/B-NP/O/O/victoria|,/,/O/O/O/,|tal/DT/B-NP/O/NP-SBJ-1/tal|vez/NN/I-NP/O/NP-SBJ-1/vez|Max/NNP/I-NP/O/NP-SBJ-1/max|tenga/VB/B-VP/O/VP-1/tener|razón/NN/B-NP/O/NP-OBJ-1/razón|././O/O/O/.
+20110126071326.000|20110126071332.000|CC1|Quizá lo que Fer necesita, es que sepa la queremos, que confiamos en ella.
+20110126071326.000|20110126071332.000|POS_05|Quizá/RB/B-ADVP/O/O/quizá|lo/DT/O/O/O/lo|que/IN/B-PP/B-PNP/O/que|Fer/NNP/B-NP/I-PNP/NP-SBJ-1/fer|necesita/VB/B-VP/O/VP-1/necesitar|,/,/O/O/O/,|es/VB/B-VP/O/O/ser|que/IN/B-PP/O/O/que|sepa/VB/B-VP/O/VP-2/saber|la/PRP/B-NP/O/NP-OBJ-2*NP-SBJ-3/la|queremos/VB/B-VP/O/VP-3/querer|,/,/O/O/O/,|que/IN/B-PP/B-PNP/O/que|confiamos/NN/B-NP/I-PNP/O/confiamos|en/IN/B-PP/B-PNP/O/en|ella/PRP/B-NP/I-PNP/O/ella|././O/O/O/.
+20110126071332.000|20110126071333.000|CC1|>> Sí. 
+20110126071332.000|20110126071333.000|POS_05|Sí/RB/B-ADVP/O/O/sí|././O/O/O/.
+20110126071333.000|20110126071335.000|CC1|>> No, no, yo no estoy de acuerdo.
+20110126071333.000|20110126071335.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|yo/PRP/B-NP/O/NP-SBJ-1/yo|no/RB/I-NP/O/NP-SBJ-1/no|estoy/MD/B-VP/O/VP-1/estar|de/IN/B-PP/B-PNP/O/de|acuerdo/NN/B-NP/I-PNP/O/acuerdo|././O/O/O/.
+20110126071335.000|20110126071337.000|CC1|>> Victoria.
+20110126071335.000|20110126071337.000|POS_05|Victoria/NN/B-NP/O/O/victoria|././O/O/O/.
+20110126071337.000|20110126071338.000|CC1|>> Por favor.
+20110126071337.000|20110126071338.000|POS_05|Por/IN/B-PP/B-PNP/O/por|favor/IN/I-PP/I-PNP/O/favor|././O/O/O/.
+20110126071338.000|20110126071341.000|CC1|>> Está bien, está bien, les voy a hacer caso.
+20110126071338.000|20110126071341.000|POS_05|Está/MD/B-VP/O/O/estar|bien/RB/B-ADVP/O/O/bien|,/,/O/O/O/,|está/MD/B-VP/O/O/estar|bien/RB/B-ADVP/O/O/bien|,/,/O/O/O/,|les/PRP/B-NP/O/NP-SBJ-1/les|voy/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|hacer/VB/B-VP/O/VP-2/hacer|caso/NN/B-NP/O/NP-OBJ-2/caso|././O/O/O/.
+20110126071341.000|20110126071343.000|CC1|Le levantamos el castigo.
+20110126071341.000|20110126071343.000|POS_05|Le/PRP/B-NP/O/O/le|levantamos/NN/I-NP/O/O/levantamos|el/DT/I-NP/O/O/el|castigo/NN/I-NP/O/O/castigo|././O/O/O/.
+20110126071343.000|20110126071345.000|CC1|>> Eso.
+20110126071343.000|20110126071345.000|POS_05|Eso/DT/O/O/O/eso|././O/O/O/.
+20110126071345.000|20110126071347.000|CC1|>> Puedo ir a trabajar tranquilo.
+20110126071345.000|20110126071347.000|POS_05|Puedo/VB/B-VP/O/O/poder|ir/VB/I-VP/O/O/ir|a/IN/B-PP/O/O/a|trabajar/VB/B-VP/O/O/trabajar|tranquilo/JJ/B-ADJP/O/O/tranquilo|././O/O/O/.
+20110126071347.000|20110126071347.000|CC1|Los quiero.
+20110126071347.000|20110126071347.000|POS_05|Los/PRP/B-NP/O/NP-SBJ-1/los|quiero/VB/B-VP/O/VP-1/querer|././O/O/O/.
+20110126071347.000|20110126071350.000|CC1|>> No, no, no, Max, espérame, nos vamos juntos.
+20110126071347.000|20110126071350.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|Max/NNP/B-NP/O/O/max|,/,/O/O/O/,|espérame/NN/B-NP/O/O/espérame|,/,/O/O/O/,|nos/PRP/B-NP/O/NP-SBJ-1/nos|vamos/VB/B-VP/O/VP-1/ir|juntos/JJ/B-ADJP/O/O/junto|././O/O/O/.
+20110126071350.000|20110126071351.000|CC1|>> ¿Juntos?
+20110126071350.000|20110126071351.000|POS_05|¿Juntos/NNP/B-NP/O/O/¿juntos|?/./O/O/O/?
+20110126071351.000|20110126071353.000|CC1|¿En mi carro?
+20110126071351.000|20110126071353.000|POS_05|¿En/NNP/B-NP/O/O/¿en|mi/PRP$/I-NP/O/O/mi|carro/NN/I-NP/O/O/carro|?/./O/O/O/?
+20110126071353.000|20110126071355.000|CC1|No madre, si a ti no te gusta mi carro.
+20110126071353.000|20110126071355.000|POS_05|No/RB/B-ADVP/O/O/no|madre/NN/B-NP/O/O/madre|,/,/O/O/O/,|si/IN/B-PP/B-PNP/O/si|a/IN/I-PP/I-PNP/O/a|ti/PRP/B-NP/I-PNP/NP-SBJ-1/ti|no/RB/I-NP/I-PNP/NP-SBJ-1/no|te/PRP/I-NP/I-PNP/NP-SBJ-1/te|gusta/VB/B-VP/O/VP-1/gustar|mi/PRP$/B-NP/O/NP-OBJ-1/mi|carro/NN/I-NP/O/NP-OBJ-1/carro|././O/O/O/.
+20110126071355.000|20110126071357.000|CC1|Y además contigo tengo que ir a treinta kilómetros por hora, no, no, no.
+20110126071355.000|20110126071357.000|POS_05|Y/CC/O/O/O/y|además/RB/B-ADVP/O/O/además|contigo/PRP/B-NP/O/NP-SBJ-1/contigo|tengo/VB/B-VP/O/VP-1/tener|que/IN/B-PP/O/O/que|ir/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|treinta/Zu/O/O/O/treinta|kilómetros/Zu/O/O/O/kilómetros|por/IN/B-PP/B-PNP/O/por|hora/NN/B-NP/I-PNP/O/hora|,/,/I-NP/I-PNP/O/,|no/RB/I-NP/I-PNP/O/no|,/,/I-NP/I-PNP/O/,|no/RB/I-NP/I-PNP/O/no|,/,/I-NP/I-PNP/O/,|no./NN/I-NP/I-PNP/O/no.
+20110126071357.000|20110126071401.000|CC1|Mejor nos vemos en la oficina.
+20110126071357.000|20110126071401.000|POS_05|Mejor/JJ/B-NP/O/NP-SBJ-1/mejor|nos/PRP/I-NP/O/NP-SBJ-1/nos|vemos/VB/B-VP/O/VP-1/ver|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|oficina/NN/I-NP/I-PNP/O/oficina|././O/O/O/.
+20110126071401.000|20110126071401.000|CC1|>> No. 
+20110126071401.000|20110126071401.000|POS_05|No/RB/B-ADVP/O/O/no|././O/O/O/.
+20110126071401.000|20110126071407.000|CC1|>> Te amo, te amo.
+20110126071401.000|20110126071407.000|POS_05|Te/PRP/B-NP/O/O/te|amo/NN/I-NP/O/O/amo|,/,/I-NP/O/O/,|te/PRP/I-NP/O/O/te|amo/NN/I-NP/O/O/amo|././O/O/O/.
+20110126071407.000|20110126071551.000|SEG_01|Type=Commercial|Score=1.0
+20110126071407.000|20110126071412.000|CC1|>> Por cierto Victoria, ya con tanto problema y tanta situación en al familia.
+20110126071407.000|20110126071412.000|POS_05|Por/IN/B-PP/B-PNP/O/por|cierto/JJ/B-NP/I-PNP/O/cierto|Victoria/NN/I-NP/I-PNP/O/victoria|,/,/O/O/O/,|ya/RB/B-ADVP/O/O/ya|con/RB/B-ADVP/O/O/con|tanto/RB/B-ADVP/O/O/tanto|problema/NN/B-NP/O/O/problema|y/CC/O/O/O/y|tanta/DT/B-NP/O/O/tanta|situación/NN/I-NP/O/O/situación|en/IN/B-PP/B-PNP/O/en|al/NN/B-NP/I-PNP/O/al|familia/NN/I-NP/I-PNP/O/familia|././O/O/O/.
+20110126071412.000|20110126071421.000|CC1|Se me había olvidado decirte que ayer estuvo por aquí un sacerdote que vino a buscarte.
+20110126071412.000|20110126071421.000|POS_05|Se/PRP/B-NP/O/NP-SBJ-1/se|me/PRP/I-NP/O/NP-SBJ-1/me|había/MD/B-VP/O/VP-1/haber|olvidado/VBN/I-VP/O/VP-1/olvidar|decirte/NN/B-NP/O/NP-OBJ-1/decirte|que/WP$/O/O/O/que|ayer/NN/B-NP/O/NP-SBJ-2/ayer|estuvo/MD/B-VP/O/VP-2/estar|por/IN/B-PP/O/O/por|aquí/RB/B-ADVP/O/O/aquí|un/DT/B-NP/O/O/un|sacerdote/NN/I-NP/O/O/sacerdote|que/WP$/O/O/O/que|vino/NN/B-NP/O/O/vino|a/IN/B-PP/B-PNP/O/a|buscarte/NN/B-NP/I-PNP/O/buscarte|././O/O/O/.
+20110126071421.000|20110126071425.000|CC1|>> ¿Y qué te dijo?
+20110126071421.000|20110126071425.000|POS_05|¿Y/NNP/B-NP/O/O/¿y|qué/WP$/O/O/O/qué|te/PRP/B-NP/O/NP-SBJ-1/te|dijo/VB/B-VP/O/VP-1/decir|?/./O/O/O/?
+20110126071425.000|20110126071435.000|CC1|>> Nada, simplemente quería hablar contigo y como no estabas se marchó.
+20110126071425.000|20110126071435.000|POS_05|Nada/DT/O/O/O/nada|,/,/O/O/O/,|simplemente/RB/B-VP/O/VP-1/simplemente|quería/VB/I-VP/O/VP-1/querer|hablar/VB/I-VP/O/VP-1/hablar|contigo/PRP/B-NP/O/NP-OBJ-1/contigo|y/CC/O/O/O/y|como/IN/B-PP/O/O/como|no/RB/B-ADVP/O/O/no|estabas/MD/B-VP/O/VP-2/estar|se/PRP/B-NP/O/NP-OBJ-2*NP-SBJ-3/se|marchó/VB/B-VP/O/VP-3/marchar|././O/O/O/.
+20110126071435.000|20110126071438.000|CC1|Te pusiste nerviosa 
+20110126071435.000|20110126071438.000|POS_05|Te/PRP/B-NP/O/O/te|pusiste/NN/I-NP/O/O/pusiste|nerviosa/JJ/I-NP/O/O/nervioso
+20110126071435.000|20110126071447.000|CC1|>> Es que...Lo que pasa es que ese sacerdote y yo, hemos tenido algunas diferencias.
+20110126071435.000|20110126071447.000|POS_05|Es/VB/B-VP/O/VP-1/ser|que...Lo/NN/B-NP/O/NP-OBJ-1/que...lo|que/WP$/O/O/O/que|pasa/VB/B-VP/O/O/pasar|es/VB/I-VP/O/O/ser|que/IN/B-PP/B-PNP/O/que|ese/DT/B-NP/I-PNP/O/ese|sacerdote/NN/I-NP/I-PNP/O/sacerdote|y/CC/O/O/O/y|yo/PRP/B-NP/O/O/yo|,/,/O/O/O/,|hemos/MD/B-VP/O/VP-2/her|tenido/VBN/I-VP/O/VP-2/tener|algunas/DT/B-NP/O/NP-OBJ-2/algunas|diferencias/NNS/I-NP/O/NP-OBJ-2/diferencia|././O/O/O/.
+20110126071447.000|20110126071449.000|CC1|>> Algunas diferencias.
+20110126071447.000|20110126071449.000|POS_05|Algunas/DT/B-NP/O/O/algunas|diferencias/NNS/I-NP/O/O/diferencia|././O/O/O/.
+20110126071449.000|20110126071501.000|CC1|Que raro, a mí me pareció una persona muy agradable.
+20110126071449.000|20110126071501.000|POS_05|Que/IN/B-PP/O/O/que|raro/JJ/B-ADJP/O/O/raro|,/,/O/O/O/,|a/IN/B-PP/B-PNP/O/a|mí/PRP/B-NP/I-PNP/NP-SBJ-1/mí|me/PRP/I-NP/I-PNP/NP-SBJ-1/me|pareció/VB/B-VP/O/VP-1/parecer|una/DT/B-NP/O/NP-OBJ-1/un|persona/NN/I-NP/O/NP-OBJ-1/persona|muy/RB/I-NP/O/NP-OBJ-1/muy|agradable/JJ/I-NP/O/NP-OBJ-1/agradable|././O/O/O/.
+20110126071501.000|20110126071504.000|CC1|>> Servicio de chofer a domicilio.
+20110126071501.000|20110126071504.000|POS_05|Servicio/NN/B-NP/O/O/servicio|de/IN/B-PP/B-PNP/O/de|chofer/NN/B-NP/I-PNP/O/chofer|a/IN/B-PP/B-PNP/O/a|domicilio/NN/B-NP/I-PNP/O/domicilio|././O/O/O/.
+20110126071504.000|20110126071506.000|CC1|¿Dónde desea la señorita que la lleve?
+20110126071504.000|20110126071506.000|POS_05|¿Dónde/NNP/B-NP/O/NP-SBJ-1/¿dónde|desea/VB/B-VP/O/VP-1/desear|la/DT/B-NP/O/NP-OBJ-1/el|señorita/NN/I-NP/O/NP-OBJ-1/señorita|que/WP$/O/O/O/que|la/PRP/B-NP/O/NP-SBJ-2/la|lleve/VB/B-VP/O/VP-2/llevar|?/./O/O/O/?
+20110126071506.000|20110126071507.000|CC1|>> ¿Max qué haces aquí?
+20110126071506.000|20110126071507.000|POS_05|¿Max/NNP/B-NP/O/O/¿max|qué/WP$/O/O/O/qué|haces/NNS/B-NP/O/O/haz|aquí/RB/I-NP/O/O/aquí|?/./O/O/O/?
+20110126071507.000|20110126071511.000|CC1|>> Nada, vine temprano para llevarte al trabajo.
+20110126071507.000|20110126071511.000|POS_05|Nada/DT/B-NP/O/O/nada|,/,/I-NP/O/O/,|vine/NN/I-NP/O/O/vine|temprano/RB/I-NP/O/O/temprano|para/IN/B-PP/B-PNP/O/para|llevarte/NN/B-NP/I-PNP/O/llevarte|al/NN/I-NP/I-PNP/O/al|trabajo/NN/I-NP/I-PNP/O/trabajo|././O/O/O/.
+20110126071511.000|20110126071513.000|CC1|>> ¿Bueno y si alguien nos ve? 
+20110126071511.000|20110126071513.000|POS_05|¿Bueno/NNP/B-NP/O/O/¿bueno|y/CC/O/O/O/y|si/IN/B-PP/B-PNP/O/si|alguien/DT/B-NP/I-PNP/NP-SBJ-1/alguien|nos/PRP/I-NP/I-PNP/NP-SBJ-1/nos|ve/VB/B-VP/O/VP-1/ver|?/./O/O/O/?
+20110126071513.000|20110126071518.000|CC1|>> Si alguien nos ve, pues nada, decimos que, no sé.
+20110126071513.000|20110126071518.000|POS_05|Si/IN/B-PP/B-PNP/O/si|alguien/DT/B-NP/I-PNP/NP-SBJ-1/alguien|nos/PRP/I-NP/I-PNP/NP-SBJ-1/nos|ve/VB/B-VP/O/VP-1/ver|,/,/O/O/O/,|pues/IN/B-PP/O/O/pues|nada/DT/O/O/O/nada|,/,/O/O/O/,|decimos/VB/B-VP/O/O/decir|que/IN/B-PP/O/O/que|,/,/O/O/O/,|no/RB/B-VP/O/O/no|sé/VB/I-VP/O/O/ser|././O/O/O/.
+20110126071518.000|20110126071521.000|CC1|Que asalté pesero en el que veías y que te saqué a la fuerza.
+20110126071518.000|20110126071521.000|POS_05|Que/IN/B-PP/B-PNP/O/que|asalté/NN/B-NP/I-PNP/O/asalté|pesero/NN/I-NP/I-PNP/O/pesero|en/IN/B-PP/O/O/en|el/DT/O/O/O/el|que/WP$/O/O/O/que|veías/NN/B-NP/O/O/veías|y/CC/O/O/O/y|que/WP$/O/O/O/que|te/PRP/B-NP/O/NP-SBJ-1/te|saqué/VB/B-VP/O/VP-1/sacar|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|fuerza/NN/I-NP/I-PNP/O/fuerza|././O/O/O/.
+20110126071521.000|20110126071525.000|CC1|O si no, si quieres te dejo a diez cuadras del trabajo y vas caminado.
+20110126071521.000|20110126071525.000|POS_05|O/CC/O/O/O/o|si/IN/B-PP/O/O/si|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|si/IN/B-PP/O/O/si|quieres/VB/B-VP/O/VP-1/querer|te/PRP/B-NP/O/NP-OBJ-1*NP-SBJ-2/te|dejo/VB/B-VP/O/VP-2/dejar|a/IN/B-PP/B-PNP/O/a|diez/CD/B-NP/I-PNP/O/diez|cuadras/NNS/I-NP/I-PNP/O/cuadra|del/NN/I-NP/I-PNP/O/del|trabajo/NN/I-NP/I-PNP/O/trabajo|y/CC/O/O/O/y|vas/VB/B-VP/O/O/ir|caminado/VBN/I-VP/O/O/caminar|././O/O/O/.
+20110126071525.000|20110126071528.000|CC1|¿Te parece bien?
+20110126071525.000|20110126071528.000|POS_05|¿Te/NNP/B-NP/O/NP-SBJ-1/¿te|parece/VB/B-VP/O/VP-1/parecer|bien/RB/I-VP/O/VP-1/bien|?/./O/O/O/?
+20110126071528.000|20110126071535.000|CC1|>> Todo lo que tú digas me parece muy bien.
+20110126071528.000|20110126071535.000|POS_05|Todo/DT/O/O/O/todo|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|tú/PRP/B-NP/O/NP-SBJ-1/tú|digas/VB/B-VP/O/VP-1/decir|me/PRP/B-NP/O/NP-OBJ-1*NP-SBJ-2/me|parece/VB/B-VP/O/VP-2/parecer|muy/RB/I-VP/O/VP-2/muy|bien/RB/I-VP/O/VP-2/bien|././O/O/O/.
+20110126071535.000|20110126071545.000|CC1|Vamos, hoy soy tu chofer, al rato te cobro.
+20110126071535.000|20110126071545.000|POS_05|Vamos/VB/B-VP/O/O/ir|,/,/O/O/O/,|hoy/RB/B-VP/O/VP-1/hoy|soy/VB/I-VP/O/VP-1/ser|tu/PRP$/B-NP/O/NP-OBJ-1/tu|chofer/NN/I-NP/O/NP-OBJ-1/chofer|,/,/I-NP/O/NP-OBJ-1/,|al/NN/I-NP/O/NP-OBJ-1/al|rato/NN/I-NP/O/NP-OBJ-1/rato|te/PRP/I-NP/O/NP-OBJ-1/te|cobro/NN/I-NP/O/NP-OBJ-1/cobro|././O/O/O/.
+20110126071545.000|20110126071546.000|CC1|Va a ser un poco caro.
+20110126071545.000|20110126071546.000|POS_05|Va/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|ser/VB/B-VP/O/O/ser|un/DT/O/O/O/un|poco/RB/B-ADJP/O/O/poco|caro/JJ/I-ADJP/O/O/caro|././O/O/O/.
+20110126071546.000|20110126071551.000|CC1|>> ¿Sí? 
+20110126071546.000|20110126071551.000|POS_05|¿Sí/NNP/B-NP/O/O/¿sí|?/./O/O/O/?
+20110126071551.000|20110126072941.000|SEG|Type=Story|Score=1.0
+20110126071551.000|20110126071553.000|CC1|>> ¿Lista?
+20110126071551.000|20110126071553.000|POS_05|¿Lista/NNP/B-NP/O/O/¿lista|?/./O/O/O/?
+20110126071553.000|20110126071558.000|CC1|>> Aha.
+20110126071553.000|20110126071558.000|POS_05|Aha/NNP/B-NP/O/O/aha|././O/O/O/.
+20110126071558.000|20110126071601.000|CC1|>> ¿Juan Pablo fue a tu casa y habló con Osvaldo?
+20110126071558.000|20110126071601.000|POS_05|¿Juan/NNP/B-NP/O/NP-SBJ-1/¿juan|Pablo/NNP/I-NP/O/NP-SBJ-1/pablo|fue/VB/B-VP/O/VP-1/ser|a/IN/B-PP/B-PNP/O/a|tu/PRP$/B-NP/I-PNP/O/tu|casa/NN/I-NP/I-PNP/O/casa|y/CC/O/O/O/y|habló/VB/B-VP/O/O/hablar|con/IN/B-PP/B-PNP/O/con|Osvaldo/NNP/B-NP/I-PNP/O/osvaldo|?/./O/O/O/?
+20110126071601.000|20110126071603.000|CC1|>> Sí, sí, pero no le dijo nada comprometedor.
+20110126071601.000|20110126071603.000|POS_05|Sí/RB/B-ADVP/O/O/sí|,/,/O/O/O/,|sí/PRP/B-NP/O/O/sí|,/,/O/O/O/,|pero/CC/O/O/O/pero|no/RB/B-ADVP/O/O/no|le/PRP/B-NP/O/NP-SBJ-1/le|dijo/VB/B-VP/O/VP-1/decir|nada/DT/B-NP/O/NP-OBJ-1/nada|comprometedor/NN/I-NP/O/NP-OBJ-1/comprometedor|././O/O/O/.
+20110126071603.000|20110126071605.000|CC1|>> ¡Ay! ¿Y si se atreve a decirle algo?
+20110126071603.000|20110126071605.000|POS_05|¡Ay/NNP/B-NP/O/O/¡ay|!/./O/O/O/!
+20110126071603.000|20110126071605.000|POS_05|¿Y/NNP/B-NP/O/O/¿y|si/IN/B-PP/B-PNP/O/si|se/PRP/B-NP/I-PNP/NP-SBJ-1/se|atreve/VB/B-VP/O/VP-1/atrever|a/IN/B-PP/B-PNP/O/a|decirle/NN/B-NP/I-PNP/O/decirle|algo/DT/O/O/O/algo|?/./O/O/O/?
+20110126071605.000|20110126071607.000|CC1|¿Qué vas a hacer?
+20110126071605.000|20110126071607.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|vas/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|hacer/VB/B-VP/O/O/hacer|?/./O/O/O/?
+20110126071607.000|20110126071611.000|CC1|>> No lo sé Antonieta, no lo sé.
+20110126071607.000|20110126071611.000|POS_05|No/RB/B-ADVP/O/O/no|lo/PRP/B-NP/O/NP-SBJ-1/lo|sé/VB/B-VP/O/VP-1/ser|Antonieta/NNP/B-NP/O/NP-OBJ-1*NP-SBJ-2/antonieta|,/,/I-NP/O/NP-OBJ-1*NP-SBJ-2/,|no/RB/I-NP/O/NP-OBJ-1*NP-SBJ-2/no|lo/PRP/I-NP/O/NP-OBJ-1*NP-SBJ-2/lo|sé/VB/B-VP/O/VP-2/ser|././O/O/O/.
+20110126071611.000|20110126071612.000|CC1|>> Dime Lucy.
+20110126071611.000|20110126071612.000|POS_05|Dime/NNP/B-NP/O/O/dime|Lucy/NNP/I-NP/O/O/lucy|././O/O/O/.
+20110126071612.000|20110126071625.000|CC1|>> Señora Victoria, la busca el padre Juan Pablo Iturbide, que le urge hablar con usted.
+20110126071612.000|20110126071625.000|POS_05|Señora/NN/B-NP/O/NP-SBJ-1/señora|Victoria/NN/I-NP/O/NP-SBJ-1/victoria|,/,/I-NP/O/NP-SBJ-1/,|la/PRP/I-NP/O/NP-SBJ-1/la|busca/VB/B-VP/O/VP-1/buscar|el/DT/B-NP/O/NP-OBJ-1/el|padre/NN/I-NP/O/NP-OBJ-1/padre|Juan/NNP/I-NP/O/NP-OBJ-1/juan|Pablo/NNP/I-NP/O/NP-OBJ-1/pablo|Iturbide/NNP/I-NP/O/NP-OBJ-1/iturbide|,/,/O/O/O/,|que/WP$/O/O/O/que|le/PRP/B-NP/O/NP-SBJ-2/le|urge/NN/I-NP/O/NP-SBJ-2/urge|hablar/VB/B-VP/O/VP-2/hablar|con/IN/B-PP/B-PNP/O/con|usted/PRP/B-NP/I-PNP/O/usted|././O/O/O/.
+20110126071625.000|20110126071628.000|CC1|>> Mi amor, me preocupas.
+20110126071625.000|20110126071628.000|POS_05|Mi/PRP$/B-NP/O/O/mi|amor/NN/I-NP/O/O/amor|,/,/I-NP/O/O/,|me/PRP/I-NP/O/O/me|preocupas/NN/I-NP/O/O/preocupas|././O/O/O/.
+20110126071628.000|20110126071631.000|CC1|Tu tono de voz cuando hoy te hablé no era el mismo.
+20110126071628.000|20110126071631.000|POS_05|Tu/PRP$/B-NP/O/O/tu|tono/NN/I-NP/O/O/tono|de/IN/B-PP/B-PNP/O/de|voz/NN/B-NP/I-PNP/O/voz|cuando/IN/B-PP/O/O/cuando|hoy/RB/B-ADVP/O/O/hoy|te/PRP/B-NP/O/NP-SBJ-1/te|hablé/VB/B-VP/O/VP-1/hablar|no/RB/I-VP/O/VP-1/no|era/VB/I-VP/O/VP-1/ser|el/DT/O/O/O/el|mismo/JJ/B-ADJP/O/O/mismo|././O/O/O/.
+20110126071631.000|20110126071635.000|CC1|¿Qué es lo que te pasa?
+20110126071631.000|20110126071635.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|es/VB/B-VP/O/VP-1/ser|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|te/PRP/B-NP/O/NP-SBJ-2/te|pasa/VB/B-VP/O/VP-2/pasar|?/./O/O/O/?
+20110126071635.000|20110126071637.000|CC1|>> Linda, tengo que ser muy honesto contigo.
+20110126071635.000|20110126071637.000|POS_05|Linda/JJ/B-ADJP/O/O/lindo|,/,/O/O/O/,|tengo/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|ser/VB/B-VP/O/VP-1/ser|muy/RB/B-NP/O/NP-OBJ-1/muy|honesto/JJ/I-NP/O/NP-OBJ-1/honesto|contigo/PRP/I-NP/O/NP-OBJ-1/contigo|././O/O/O/.
+20110126071637.000|20110126071639.000|CC1|>> ¿Qué pasa Osvaldo?
+20110126071637.000|20110126071639.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|pasa/VB/B-VP/O/VP-1/pasar|Osvaldo/NNP/B-NP/O/NP-OBJ-1/osvaldo|?/./O/O/O/?
+20110126071639.000|20110126071639.000|CC1|Me asustas.
+20110126071639.000|20110126071639.000|POS_05|Me/PRP/B-NP/O/O/me|asustas/NN/I-NP/O/O/asustas|././O/O/O/.
+20110126071639.000|20110126071645.000|CC1|>> Linda, no voy a andarme con rodeos.
+20110126071639.000|20110126071645.000|POS_05|Linda/JJ/B-ADJP/O/O/lindo|,/,/O/O/O/,|no/RB/B-VP/O/O/no|voy/VB/I-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|andarme/NN/B-NP/I-PNP/O/andarme|con/IN/B-PP/B-PNP/O/con|rodeos/NN/B-NP/I-PNP/O/rodeos|././O/O/O/.
+20110126071645.000|20110126071650.000|CC1|Tú eres una mujer guapa, joven, vales mucho, de verás que sí vales mucho.
+20110126071645.000|20110126071650.000|POS_05|Tú/PRP/B-NP/O/NP-SBJ-1/tú|eres/VB/B-VP/O/VP-1/ser|una/DT/B-NP/O/NP-OBJ-1/un|mujer/NN/I-NP/O/NP-OBJ-1/mujer|guapa/JJ/I-NP/O/NP-OBJ-1/guapo|,/,/O/O/O/,|joven/NN/B-NP/O/O/joven|,/,/O/O/O/,|vales/NN/B-NP/O/O/vales|mucho/RB/I-NP/O/O/mucho|,/,/O/O/O/,|de/IN/B-PP/B-PNP/O/de|verás/NN/B-NP/I-PNP/O/verás|que/WP$/O/O/O/que|sí/PRP/B-NP/O/O/sí|vales/NN/I-NP/O/O/vales|mucho/RB/I-NP/O/O/mucho|././O/O/O/.
+20110126071650.000|20110126071657.000|CC1|Pero... Definitivamente pienso que fue un error habernos acostado.
+20110126071650.000|20110126071657.000|POS_05|Pero/CC/O/O/O/pero|..././O/O/O/...
+20110126071650.000|20110126071657.000|POS_05|Definitivamente/RB/B-VP/O/O/definitivamente|pienso/VB/I-VP/O/O/pensar|que/IN/B-PP/O/O/que|fue/VB/B-VP/O/VP-1/ser|un/DT/B-NP/O/NP-OBJ-1/un|error/NN/I-NP/O/NP-OBJ-1/error|habernos/NN/I-NP/O/NP-OBJ-1/habernos|acostado/NN/I-NP/O/NP-OBJ-1/acostado|././O/O/O/.
+20110126071657.000|20110126071658.000|CC1|>> No Osvaldo, no digas eso.
+20110126071657.000|20110126071658.000|POS_05|No/RB/B-ADVP/O/O/no|Osvaldo/NNP/B-NP/O/O/osvaldo|,/,/O/O/O/,|no/RB/B-VP/O/O/no|digas/VB/I-VP/O/O/decir|eso/DT/O/O/O/eso|././O/O/O/.
+20110126071658.000|20110126071659.000|CC1|>> Sí Linda, sí lo fue.
+20110126071658.000|20110126071659.000|POS_05|Sí/RB/B-NP/O/NP-SBJ-1/sí|Linda/JJ/I-NP/O/NP-SBJ-1/lindo|,/,/I-NP/O/NP-SBJ-1/,|sí/PRP/I-NP/O/NP-SBJ-1/sí|lo/PRP/I-NP/O/NP-SBJ-1/lo|fue/VB/B-VP/O/VP-1/ser|././O/O/O/.
+20110126071659.000|20110126071703.000|CC1|Escúchame, yo amo a mi mujer, ella me ama, siempre la voy a amar.
+20110126071659.000|20110126071703.000|POS_05|Escúchame/NNP/B-NP/O/O/escúchame|,/,/I-NP/O/O/,|yo/PRP/I-NP/O/O/yo|amo/NN/I-NP/O/O/amo|a/IN/B-PP/B-PNP/O/a|mi/PRP$/B-NP/I-PNP/NP-SBJ-1/mi|mujer/NN/I-NP/I-PNP/NP-SBJ-1/mujer|,/,/I-NP/I-PNP/NP-SBJ-1/,|ella/PRP/I-NP/I-PNP/NP-SBJ-1/ella|me/PRP/I-NP/I-PNP/NP-SBJ-1/me|ama/VB/B-VP/O/VP-1/amar|,/,/O/O/O/,|siempre/RB/B-ADVP/O/O/siempre|la/PRP/B-NP/O/NP-SBJ-2/la|voy/VB/B-VP/O/VP-2/ir|a/IN/B-PP/O/O/a|amar/VB/B-VP/O/O/amar|././O/O/O/.
+20110126071703.000|20110126071707.000|CC1|No podemos seguir juntos Linda.
+20110126071703.000|20110126071707.000|POS_05|No/RB/B-VP/O/O/no|podemos/VB/I-VP/O/O/poder|seguir/VB/I-VP/O/O/seguir|juntos/JJ/B-ADJP/O/O/junto|Linda/JJ/I-ADJP/O/O/lindo|././O/O/O/.
+20110126071707.000|20110126071709.000|CC1|>> No, Osvaldo por favor, ahora no me digas eso.
+20110126071707.000|20110126071709.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|Osvaldo/NNP/B-NP/O/O/osvaldo|por/IN/B-PP/O/O/por|favor/RB/B-ADVP/O/O/favor|,/,/O/O/O/,|ahora/RB/B-ADVP/O/O/ahora|no/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/NP-SBJ-1/me|digas/VB/B-VP/O/VP-1/decir|eso/DT/O/O/O/eso|././O/O/O/.
+20110126071709.000|20110126071711.000|CC1|>> No debió de suceder, Linda por favor escúchame.
+20110126071709.000|20110126071711.000|POS_05|No/RB/B-VP/O/O/no|debió/VB/I-VP/O/O/deber|de/IN/B-PP/O/O/de|suceder/VB/B-VP/O/O/suceder|,/,/O/O/O/,|Linda/JJ/B-ADJP/O/O/lindo|por/IN/B-PP/B-PNP/O/por|favor/IN/I-PP/I-PNP/O/favor|escúchame/NN/B-NP/I-PNP/O/escúchame|././O/O/O/.
+20110126071711.000|20110126071717.000|CC1|Tengo que decirte que no volveremos a vernos nunca más.
+20110126071711.000|20110126071717.000|POS_05|Tengo/VB/B-VP/O/O/tener|que/IN/B-PP/B-PNP/O/que|decirte/NN/B-NP/I-PNP/O/decirte|que/WP$/O/O/O/que|no/RB/B-VP/O/O/no|volveremos/VB/I-VP/O/O/volver|a/IN/B-PP/B-PNP/O/a|vernos/NN/B-NP/I-PNP/O/vernos|nunca/RB/I-NP/I-PNP/O/nunca|más/RB/I-NP/I-PNP/O/más|././O/O/O/.
+20110126071717.000|20110126071728.000|CC1|>> No Osvaldo, no me dejes, yo no te pido nada.
+20110126071717.000|20110126071728.000|POS_05|No/RB/B-ADVP/O/O/no|Osvaldo/NNP/B-NP/O/O/osvaldo|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/O/me|dejes/NNS/I-NP/O/O/deje|,/,/O/O/O/,|yo/PRP/B-NP/O/O/yo|no/RB/I-NP/O/O/no|te/PRP/B-NP/O/NP-SBJ-1/te|pido/VB/B-VP/O/VP-1/pedir|nada/DT/O/O/O/nada|././O/O/O/.
+20110126071728.000|20110126071729.000|CC1|Solamente quiero estar a tu lado, cuidarte, amarte.
+20110126071728.000|20110126071729.000|POS_05|Solamente/RB/B-VP/O/O/solamente|quiero/VB/I-VP/O/O/querer|estar/MD/B-VP/O/O/estar|a/IN/B-PP/B-PNP/O/a|tu/PRP$/B-NP/I-PNP/O/tu|lado/NN/I-NP/I-PNP/O/lado|,/,/I-NP/I-PNP/O/,|cuidarte/NN/I-NP/I-PNP/O/cuidarte|,/,/O/O/O/,|amarte/NN/B-NP/O/O/amarte|././O/O/O/.
+20110126071729.000|20110126071730.000|CC1|>> Linda, Linda por favor, lo siento linda.
+20110126071729.000|20110126071730.000|POS_05|Linda/JJ/B-ADJP/O/O/lindo|,/,/I-ADJP/O/O/,|Linda/JJ/I-ADJP/O/O/lindo|por/IN/B-PP/O/O/por|favor/RB/B-ADVP/O/O/favor|,/,/O/O/O/,|lo/PRP/B-NP/O/NP-SBJ-1/lo|siento/VB/B-VP/O/VP-1/sentir|linda/JJ/B-ADJP/O/O/lindo|././O/O/O/.
+20110126071730.000|20110126071731.000|CC1|¡Ya está decidido!
+20110126071730.000|20110126071731.000|POS_05|¡Ya/NNP/B-NP/O/NP-SBJ-1/¡ya|está/MD/B-VP/O/VP-1/estar|decidido/VBN/I-VP/O/VP-1/decidir|!/./O/O/O/!
+20110126071731.000|20110126071733.000|CC1|No volveremos a vernos nunca más Linda.
+20110126071731.000|20110126071733.000|POS_05|No/RB/B-VP/O/O/no|volveremos/VB/I-VP/O/O/volver|a/IN/B-PP/B-PNP/O/a|vernos/NN/B-NP/I-PNP/O/vernos|nunca/RB/I-NP/I-PNP/O/nunca|más/RB/I-NP/I-PNP/O/más|Linda/JJ/I-NP/I-PNP/O/lindo|././O/O/O/.
+20110126071733.000|20110126071741.000|CC1|¿Te quedó claro?
+20110126071733.000|20110126071741.000|POS_05|¿Te/NNP/B-NP/O/NP-SBJ-1/¿te|quedó/VB/B-VP/O/VP-1/quedar|claro/JJ/B-ADJP/O/O/claro|?/./O/O/O/?
+20110126071741.000|20110126071747.000|CC1|>> Pase por favor, la señora lo va a recibir.
+20110126071741.000|20110126071747.000|POS_05|Pase/NNP/B-NP/O/O/pase|por/IN/B-PP/O/O/por|favor/RB/B-ADVP/O/O/favor|,/,/O/O/O/,|la/DT/B-NP/O/NP-SBJ-1/el|señora/NN/I-NP/O/NP-SBJ-1/señora|lo/PRP/I-NP/O/NP-SBJ-1/lo|va/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|recibir/VB/B-VP/O/O/recibir|././O/O/O/.
+20110126071747.000|20110126071748.000|CC1|>> Muy bien, con permiso.
+20110126071747.000|20110126071748.000|POS_05|Muy/RB/B-ADVP/O/O/muy|bien/RB/I-ADVP/O/O/bien|,/,/O/O/O/,|con/IN/B-PP/B-PNP/O/con|permiso/NN/B-NP/I-PNP/O/permiso|././O/O/O/.
+20110126071748.000|20110126071800.000|CC1|>> Propio.
+20110126071748.000|20110126071800.000|POS_05|Propio/JJ/B-ADJP/O/O/propio|././O/O/O/.
+20110126071800.000|20110126071803.000|CC1|>> ¿Cómo estás?
+20110126071800.000|20110126071803.000|POS_05|¿Cómo/NNP/B-NP/O/NP-SBJ-1/¿cómo|estás/MD/B-VP/O/VP-1/estar|?/./O/O/O/?
+20110126071803.000|20110126071806.000|CC1|>> ¿Cómo piensas que estoy?
+20110126071803.000|20110126071806.000|POS_05|¿Cómo/NNP/B-NP/O/NP-SBJ-1/¿cómo|piensas/VB/B-VP/O/VP-1/pensar|que/IN/B-PP/O/O/que|estoy/MD/B-VP/O/O/estar|?/./O/O/O/?
+20110126071806.000|20110126071808.000|CC1|¿Qué es lo que quieres?
+20110126071806.000|20110126071808.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|es/VB/B-VP/O/VP-1/ser|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|quieres/VB/B-VP/O/O/querer|?/./O/O/O/?
+20110126071808.000|20110126071811.000|CC1|>> Vine a pedirte perdón de nuevo.
+20110126071808.000|20110126071811.000|POS_05|Vine/NNP/B-NP/O/O/vine|a/IN/B-PP/B-PNP/O/a|pedirte/NN/B-NP/I-PNP/O/pedirte|perdón/NN/I-NP/I-PNP/O/perdón|de/IN/B-PP/O/O/de|nuevo/JJ/B-ADJP/O/O/nuevo|././O/O/O/.
+20110126071811.000|20110126071816.000|CC1|No puedo imaginar si quiera todo el sufrimiento que ha habido en tu alma.
+20110126071811.000|20110126071816.000|POS_05|No/RB/B-VP/O/O/no|puedo/VB/I-VP/O/O/poder|imaginar/VB/I-VP/O/O/imaginar|si/IN/B-PP/O/O/si|quiera/VB/B-VP/O/VP-1/querer|todo/DT/B-NP/O/NP-OBJ-1/todo|el/DT/I-NP/O/NP-OBJ-1/el|sufrimiento/NN/I-NP/O/NP-OBJ-1/sufrimiento|que/WP$/O/O/O/que|ha/MD/B-VP/O/O/har|habido/VBN/I-VP/O/O/haber|en/IN/B-PP/B-PNP/O/en|tu/PRP$/B-NP/I-PNP/O/tu|alma/NN/I-NP/I-PNP/O/alma|././O/O/O/.
+20110126071816.000|20110126071820.000|CC1|>> No, claro que no puedes imaginártelo porque no lo has vivido.
+20110126071816.000|20110126071820.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|claro/JJ/B-ADJP/O/O/claro|que/WP$/O/O/O/que|no/RB/B-VP/O/VP-1/no|puedes/VB/I-VP/O/VP-1/poder|imaginártelo/NN/B-NP/O/NP-OBJ-1/imaginártelo|porque/IN/B-PP/O/O/porque|no/RB/B-ADVP/O/O/no|lo/PRP/B-NP/O/NP-SBJ-2/lo|has/MD/B-VP/O/VP-2/har|vivido/VBN/I-VP/O/VP-2/vivir|././O/O/O/.
+20110126071820.000|20110126071830.000|CC1|Si así fuera, te darías cuenta que no solo el sufrimiento, si no también rencor y odio.
+20110126071820.000|20110126071830.000|POS_05|Si/IN/B-PP/O/O/si|así/RB/B-ADVP/O/O/así|fuera/RB/B-ADVP/O/O/fuera|,/,/O/O/O/,|te/PRP/B-NP/O/NP-SBJ-1/te|darías/NN/I-NP/O/NP-SBJ-1/darías|cuenta/VB/B-VP/O/VP-1/contar|que/IN/B-PP/O/O/que|no/RB/B-ADJP/O/O/no|solo/JJ/I-ADJP/O/O/solo|el/DT/B-NP/O/O/el|sufrimiento/NN/I-NP/O/O/sufrimiento|,/,/O/O/O/,|si/IN/B-PP/O/O/si|no/RB/B-ADVP/O/O/no|también/RB/B-ADVP/O/O/también|rencor/NN/B-NP/O/O/rencor|y/CC/O/O/O/y|odio/NN/B-NP/O/O/odio|././O/O/O/.
+20110126071830.000|20110126071836.000|CC1|Y si crees que viniendo a pedirme perdón vas a recuperar la paz de tu conciencia, estás muy equivocado.
+20110126071830.000|20110126071836.000|POS_05|Y/CC/O/O/O/y|si/IN/B-PP/B-PNP/O/si|crees/NN/B-NP/I-PNP/O/crees|que/WP$/O/O/O/que|viniendo/NN/B-NP/O/O/viniendo|a/IN/B-PP/B-PNP/O/a|pedirme/NN/B-NP/I-PNP/NP-SBJ-1/pedirme|perdón/NN/I-NP/I-PNP/NP-SBJ-1/perdón|vas/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|recuperar/VB/B-VP/O/VP-2/recuperar|la/DT/B-NP/O/NP-OBJ-2/el|paz/NN/I-NP/O/NP-OBJ-2/paz|de/IN/B-PP/B-PNP/O/de|tu/PRP$/B-NP/I-PNP/O/tu|conciencia/NN/I-NP/I-PNP/O/conciencia|,/,/O/O/O/,|estás/MD/B-VP/O/O/estar|muy/RB/I-VP/O/O/muy|equivocado/VBN/I-VP/O/O/equivocar|././O/O/O/.
+20110126071836.000|20110126071840.000|CC1|>> ¿Pero como puedo convencerte de que yo no sabía absolutamente nada Victoria?
+20110126071836.000|20110126071840.000|POS_05|¿Pero/NNP/B-NP/O/O/¿pero|como/IN/B-PP/O/O/como|puedo/VB/B-VP/O/VP-1/poder|convencerte/NN/B-NP/O/NP-OBJ-1/convencerte|de/IN/B-PP/O/O/de|que/WP$/O/O/O/que|yo/PRP/B-NP/O/NP-SBJ-2/yo|no/RB/I-NP/O/NP-SBJ-2/no|sabía/VB/I-VP/O/VP-2/saber|absolutamente/RB/I-VP/O/VP-2/absolutamente|nada/DT/B-NP/O/NP-OBJ-2/nada|Victoria/NN/I-NP/O/NP-OBJ-2/victoria|?/./O/O/O/?
+20110126071840.000|20110126071842.000|CC1|>> Se lo dije a tu madre.
+20110126071840.000|20110126071842.000|POS_05|Se/PRP/B-NP/O/NP-SBJ-1/se|lo/PRP/I-NP/O/NP-SBJ-1/lo|dije/VB/B-VP/O/VP-1/decir|a/IN/B-PP/B-PNP/O/a|tu/PRP$/B-NP/I-PNP/O/tu|madre/NN/I-NP/I-PNP/O/madre|././O/O/O/.
+20110126071842.000|20110126071845.000|CC1|>> Pero ella no me dijo ni una palabra.
+20110126071842.000|20110126071845.000|POS_05|Pero/CC/O/O/O/pero|ella/PRP/B-NP/O/O/ella|no/RB/I-NP/O/O/no|me/PRP/B-NP/O/NP-SBJ-1/me|dijo/VB/B-VP/O/VP-1/decir|ni/CC/O/O/O/ni|una/DT/B-NP/O/O/un|palabra/NN/I-NP/O/O/palabra|././O/O/O/.
+20110126071845.000|20110126071851.000|CC1|Es muy fácil culpar sin dar la oportunidad de escuchar una explicación.
+20110126071845.000|20110126071851.000|POS_05|Es/VB/B-VP/O/VP-1/ser|muy/RB/B-NP/O/NP-OBJ-1/muy|fácil/JJ/I-NP/O/NP-OBJ-1/fácil|culpar/NN/I-NP/O/NP-OBJ-1/culpar|sin/IN/B-PP/O/O/sin|dar/VB/B-VP/O/VP-2/dar|la/DT/B-NP/O/NP-OBJ-2/el|oportunidad/NN/I-NP/O/NP-OBJ-2/oportunidad|de/IN/B-PP/O/O/de|escuchar/VB/B-VP/O/VP-3/escuchar|una/DT/B-NP/O/NP-OBJ-3/un|explicación/NN/I-NP/O/NP-OBJ-3/explicación|././O/O/O/.
+20110126071851.000|20110126071856.000|CC1|>> Mira, por favor dime qué quieres y ya vete.
+20110126071851.000|20110126071856.000|POS_05|Mira/VB/B-VP/O/O/mirar|,/,/O/O/O/,|por/IN/B-PP/B-PNP/O/por|favor/IN/I-PP/I-PNP/O/favor|dime/NN/B-NP/I-PNP/O/dime|qué/WP$/O/O/O/qué|quieres/VB/B-VP/O/O/querer|y/CC/O/O/O/y|ya/RB/B-ADVP/O/O/ya|vete/NN/B-NP/O/O/vete|././O/O/O/.
+20110126071856.000|20110126071901.000|CC1|>> Voy a ayudarte, a buscar a tu hija.
+20110126071856.000|20110126071901.000|POS_05|Voy/VB/B-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|ayudarte/NN/B-NP/I-PNP/O/ayudarte|,/,/O/O/O/,|a/IN/B-PP/O/O/a|buscar/VB/B-VP/O/O/buscar|a/IN/B-PP/B-PNP/O/a|tu/PRP$/B-NP/I-PNP/O/tu|hija/NN/I-NP/I-PNP/O/hija|././O/O/O/.
+20110126071901.000|20110126071910.000|CC1|>> ¿Y piensas que todos estos años me he quedado con los brazos cruzados esperando tu ayuda?
+20110126071901.000|20110126071910.000|POS_05|¿Y/NNP/B-NP/O/NP-SBJ-1/¿y|piensas/VB/B-VP/O/VP-1/pensar|que/IN/B-PP/B-PNP/O/que|todos/DT/B-NP/I-PNP/NP-SBJ-2/todos|estos/DT/I-NP/I-PNP/NP-SBJ-2/estos|años/NNS/I-NP/I-PNP/NP-SBJ-2/año|me/PRP/I-NP/I-PNP/NP-SBJ-2/me|he/MD/B-VP/O/VP-2/her|quedado/VBN/I-VP/O/VP-2/quedar|con/IN/B-PP/B-PNP/O/con|los/DT/B-NP/I-PNP/NP-SBJ-3/el|brazos/NNS/I-NP/I-PNP/NP-SBJ-3/brazo|cruzados/VBN/B-VP/I-PNP/VP-3/cruzados|esperando/VBG/I-VP/I-PNP/VP-3/esperar|tu/PRP$/B-NP/I-PNP/NP-OBJ-3/tu|ayuda/NN/I-NP/I-PNP/NP-OBJ-3/ayuda|?/./O/O/O/?
+20110126071910.000|20110126071914.000|CC1|La he buscado por todos lados y no la he encontrado.
+20110126071910.000|20110126071914.000|POS_05|La/PRP/B-NP/O/NP-SBJ-1/la|he/MD/B-VP/O/VP-1/her|buscado/VBN/I-VP/O/VP-1/buscar|por/IN/B-PP/B-PNP/O/por|todos/DT/B-NP/I-PNP/O/todos|lados/NNS/I-NP/I-PNP/O/lado|y/CC/O/O/O/y|no/RB/B-ADVP/O/O/no|la/PRP/B-NP/O/NP-SBJ-2/la|he/MD/B-VP/O/VP-2/her|encontrado/VBN/I-VP/O/VP-2/encontrar|././O/O/O/.
+20110126071914.000|20110126071920.000|CC1|He contratado detectives, investigadores privados, sin saber nada de ella.
+20110126071914.000|20110126071920.000|POS_05|He/MD/B-VP/O/VP-1/her|contratado/VBN/I-VP/O/VP-1/contratar|detectives/NNS/B-NP/O/NP-OBJ-1*NP-SBJ-2/detectiv|,/,/I-NP/O/NP-OBJ-1*NP-SBJ-2/,|investigadores/NNS/I-NP/O/NP-OBJ-1*NP-SBJ-2/investigador|privados/VBN/B-VP/O/VP-2/privados|,/,/O/O/O/,|sin/IN/B-PP/O/O/sin|saber/VB/B-VP/O/O/saber|nada/DT/O/O/O/nada|de/IN/B-PP/B-PNP/O/de|ella/PRP/B-NP/I-PNP/O/ella|././O/O/O/.
+20110126071920.000|20110126071926.000|CC1|Tengo todo un archivo donde está anotado hasta el último detalle.
+20110126071920.000|20110126071926.000|POS_05|Tengo/VB/B-VP/O/VP-1/tener|todo/DT/B-NP/O/NP-OBJ-1/todo|un/DT/I-NP/O/NP-OBJ-1/un|archivo/NN/I-NP/O/NP-OBJ-1/archivo|donde/WP$/O/O/O/donde|está/MD/B-VP/O/O/estar|anotado/VBN/I-VP/O/O/anotar|hasta/IN/B-PP/B-PNP/O/hasta|el/DT/B-NP/I-PNP/O/el|último/JJ/I-NP/I-PNP/O/último|detalle/NN/I-NP/I-PNP/O/detalle|././O/O/O/.
+20110126071926.000|20110126071928.000|CC1|Pero no ha servido de nada.
+20110126071926.000|20110126071928.000|POS_05|Pero/CC/O/O/O/pero|no/RB/B-VP/O/O/no|ha/MD/I-VP/O/O/har|servido/VBN/I-VP/O/O/servir|de/IN/B-PP/O/O/de|nada/DT/O/O/O/nada|././O/O/O/.
+20110126071928.000|20110126071933.000|CC1|Acéptalo de una vez por todas, Juan Pablo.
+20110126071928.000|20110126071933.000|POS_05|Acéptalo/NNP/B-NP/O/O/acéptalo|de/IN/B-PP/B-PNP/O/de|una/DT/B-NP/I-PNP/O/un|vez/NN/I-NP/I-PNP/O/vez|por/IN/B-PP/B-PNP/O/por|todas/DT/B-NP/I-PNP/O/todas|,/,/I-NP/I-PNP/O/,|Juan/NNP/I-NP/I-PNP/O/juan|Pablo/NNP/I-NP/I-PNP/O/pablo|././O/O/O/.
+20110126071933.000|20110126071940.000|CC1|No sé donde está mi pequeña María.
+20110126071933.000|20110126071940.000|POS_05|No/RB/B-VP/O/O/no|sé/VB/I-VP/O/O/ser|donde/IN/B-PP/O/O/donde|está/MD/B-VP/O/VP-1/estar|mi/PRP$/B-NP/O/NP-OBJ-1/mi|pequeña/JJ/I-NP/O/NP-OBJ-1/pequeño|María/NNP/I-NP/O/NP-OBJ-1/maría|././O/O/O/.
+20110126071940.000|20110126071942.000|CC1|>> Este vestido está precioso.
+20110126071940.000|20110126071942.000|POS_05|Este/DT/B-NP/O/NP-SBJ-1/este|vestido/NN/I-NP/O/NP-SBJ-1/vestido|está/MD/B-VP/O/VP-1/estar|precioso/JJ/B-ADJP/O/O/precioso|././O/O/O/.
+20110126071942.000|20110126071944.000|CC1|>> ¡Claro!
+20110126071942.000|20110126071944.000|POS_05|¡Claro/NNP/B-NP/O/O/¡claro|!/./O/O/O/!
+20110126071944.000|20110126071946.000|CC1|Es mi creación.
+20110126071944.000|20110126071946.000|POS_05|Es/VB/B-VP/O/VP-1/ser|mi/PRP$/B-NP/O/NP-OBJ-1/mi|creación/NN/I-NP/O/NP-OBJ-1/creación|././O/O/O/.
+20110126071946.000|20110126071951.000|CC1|Fantástico, una vuelta, una vuelta.
+20110126071946.000|20110126071951.000|POS_05|Fantástico/JJ/B-ADJP/O/O/fantástico|,/,/O/O/O/,|una/DT/B-NP/O/O/un|vuelta/NN/I-NP/O/O/vuelta|,/,/O/O/O/,|una/DT/B-NP/O/O/un|vuelta/NN/I-NP/O/O/vuelta|././O/O/O/.
+20110126071951.000|20110126071954.000|CC1|Luce el vestido, alegría etérea, ¡Fantástica!
+20110126071951.000|20110126071954.000|POS_05|Luce/NNP/B-NP/O/O/luce|el/DT/I-NP/O/O/el|vestido/NN/I-NP/O/O/vestido|,/,/O/O/O/,|alegría/NN/B-NP/O/O/alegría|etérea/NN/I-NP/O/O/etérea|,/,/O/O/O/,|¡Fantástica/NNP/B-NP/O/O/¡fantástica|!/./O/O/O/!
+20110126071954.000|20110126071957.000|CC1|>> Detente.
+20110126071954.000|20110126071957.000|POS_05|Detente/NNP/B-NP/O/O/detente|././O/O/O/.
+20110126071957.000|20110126071959.000|CC1|>> ¿Qué pasa?
+20110126071957.000|20110126071959.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|pasa/VB/B-VP/O/VP-1/pasar|?/./O/O/O/?
+20110126071959.000|20110126072001.000|CC1|>> No, no pasa nada.
+20110126071959.000|20110126072001.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-VP/O/O/no|pasa/VB/I-VP/O/O/pasar|nada/DT/O/O/O/nada|././O/O/O/.
+20110126072001.000|20110126072017.000|CC1|Es que, es que no puedo describirlo, pero de pronto como que me estremecí, como que sentí algo extraño.
+20110126072001.000|20110126072017.000|POS_05|Es/VB/B-VP/O/O/ser|que/IN/B-PP/O/O/que|,/,/O/O/O/,|es/VB/B-VP/O/O/ser|que/IN/B-PP/O/O/que|no/RB/B-VP/O/VP-1/no|puedo/VB/I-VP/O/VP-1/poder|describirlo/NN/B-NP/O/NP-OBJ-1/describirlo|,/,/O/O/O/,|pero/CC/O/O/O/pero|de/IN/B-PP/O/O/de|pronto/RB/B-ADVP/O/O/pronto|como/IN/B-PP/B-PNP/O/como|que/IN/I-PP/I-PNP/O/que|me/PRP/B-NP/I-PNP/O/me|estremecí/NN/I-NP/I-PNP/O/estremecí|,/,/O/O/O/,|como/IN/B-PP/B-PNP/O/como|que/IN/I-PP/I-PNP/O/que|sentí/VB/B-VP/O/O/sentir|algo/DT/O/O/O/algo|extraño/JJ/B-ADJP/O/O/extraño|././O/O/O/.
+20110126072017.000|20110126072021.000|CC1|>> Antonieta ¿Qué cosa?
+20110126072017.000|20110126072021.000|POS_05|Antonieta/NNP/B-NP/O/O/antonieta|¿Qué/NNP/I-NP/O/O/¿qué|cosa/NN/I-NP/O/O/cosa|?/./O/O/O/?
+20110126072021.000|20110126072028.000|CC1|>> No sé, por un momento María Desamparada me recordó a Victoria.
+20110126072021.000|20110126072028.000|POS_05|No/RB/B-VP/O/O/no|sé/VB/I-VP/O/O/ser|,/,/O/O/O/,|por/IN/B-PP/B-PNP/O/por|un/DT/B-NP/I-PNP/O/un|momento/NN/I-NP/I-PNP/O/momento|María/NNP/I-NP/I-PNP/O/maría|Desamparada/NNP/I-NP/I-PNP/O/desamparada|me/PRP/I-NP/I-PNP/O/me|recordó/NN/I-NP/I-PNP/O/recordó|a/IN/B-PP/B-PNP/O/a|Victoria/NN/B-NP/I-PNP/O/victoria|././O/O/O/.
+20110126072028.000|20110126072031.000|CC1|Sí, sí, cuando era joven.
+20110126072028.000|20110126072031.000|POS_05|Sí/RB/B-ADVP/O/O/sí|,/,/O/O/O/,|sí/PRP/B-NP/O/O/sí|,/,/O/O/O/,|cuando/IN/B-PP/O/O/cuando|era/VB/B-VP/O/VP-1/ser|joven/NN/B-NP/O/NP-OBJ-1/joven|././O/O/O/.
+20110126072031.000|20110126072043.000|CC1|Mira tiene su mismo porte, y hasta se parece.
+20110126072031.000|20110126072043.000|POS_05|Mira/VB/B-VP/O/VP-1/mirar|tiene/VB/I-VP/O/VP-1/tener|su/PRP$/B-NP/O/NP-OBJ-1/su|mismo/JJ/I-NP/O/NP-OBJ-1/mismo|porte/NN/I-NP/O/NP-OBJ-1/porte|,/,/O/O/O/,|y/CC/O/O/O/y|hasta/RB/B-ADVP/O/O/hasta|se/PRP/B-NP/O/NP-SBJ-2/se|parece/VB/B-VP/O/VP-2/parecer|././O/O/O/.
+20110126072043.000|20110126072046.000|CC1|>> ¿Qué edad tenía la niña cuando se perdió?
+20110126072043.000|20110126072046.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|edad/NN/I-NP/O/NP-SBJ-1/edad|tenía/VB/B-VP/O/VP-1/tener|la/DT/B-NP/O/NP-OBJ-1/el|niña/NN/I-NP/O/NP-OBJ-1/niña|cuando/IN/B-PP/B-PNP/O/cuando|se/PRP/B-NP/I-PNP/NP-SBJ-2/se|perdió/VB/B-VP/O/VP-2/perder|?/./O/O/O/?
+20110126072046.000|20110126072048.000|CC1|>> ¿Para qué quieres saberlo?
+20110126072046.000|20110126072048.000|POS_05|¿Para/NNP/B-NP/O/O/¿para|qué/WP$/O/O/O/qué|quieres/VB/B-VP/O/VP-1/querer|saberlo/NN/B-NP/O/NP-OBJ-1/saberlo|?/./O/O/O/?
+20110126072048.000|20110126072051.000|CC1|¿Qué es lo que vas a hacer tú que no haya hecho yo? 
+20110126072048.000|20110126072051.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|es/VB/B-VP/O/VP-1/ser|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|vas/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|hacer/VB/B-VP/O/VP-2/hacer|tú/PRP/B-NP/O/NP-OBJ-2/tú|que/IN/B-PP/O/O/que|no/RB/B-ADVP/O/O/no|haya/MD/B-VP/O/VP-3/haber|hecho/NN/B-NP/O/NP-OBJ-3/hecho|yo/PRP/I-NP/O/NP-OBJ-3/yo|?/./O/O/O/?
+20110126072051.000|20110126072055.000|CC1|>> Quiero saber todo lo que ocurrió en aquel accidente donde se perdió.
+20110126072051.000|20110126072055.000|POS_05|Quiero/VB/B-VP/O/O/querer|saber/VB/I-VP/O/O/saber|todo/DT/O/O/O/todo|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|ocurrió/VB/B-VP/O/O/ocurrir|en/IN/B-PP/B-PNP/O/en|aquel/DT/B-NP/I-PNP/O/aquel|accidente/NN/I-NP/I-PNP/O/accidente|donde/WP$/O/O/O/donde|se/PRP/B-NP/O/NP-SBJ-1/se|perdió/VB/B-VP/O/VP-1/perder|././O/O/O/.
+20110126072055.000|20110126072057.000|CC1|Pero quiero saberlo todo, absolutamente todo.
+20110126072055.000|20110126072057.000|POS_05|Pero/CC/O/O/O/pero|quiero/VB/B-VP/O/VP-1/querer|saberlo/NN/B-NP/O/NP-OBJ-1/saberlo|todo/DT/O/O/O/todo|,/,/O/O/O/,|absolutamente/RB/B-ADVP/O/O/absolutamente|todo/DT/O/O/O/todo|././O/O/O/.
+20110126072057.000|20110126072059.000|CC1|>> ¿Qué es lo que pretendes?
+20110126072057.000|20110126072059.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|es/VB/B-VP/O/VP-1/ser|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|pretendes/VB/B-VP/O/O/pretender|?/./O/O/O/?
+20110126072059.000|20110126072115.000|CC1|>> Voy a buscarla, y dedicaré mi vida a encontrarla, sino mi conciencia no me dejará vivir en paz.
+20110126072059.000|20110126072115.000|POS_05|Voy/VB/B-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|buscarla/NN/B-NP/I-PNP/O/buscarla|,/,/O/O/O/,|y/CC/O/O/O/y|dedicaré/NN/B-NP/O/O/dedicaré|mi/PRP$/I-NP/O/O/mi|vida/NN/I-NP/O/O/vida|a/IN/B-PP/B-PNP/O/a|encontrarla/NN/B-NP/I-PNP/O/encontrarla|,/,/O/O/O/,|sino/CC/O/O/O/sino|mi/PRP$/B-NP/O/O/mi|conciencia/NN/I-NP/O/O/conciencia|no/RB/I-NP/O/O/no|me/PRP/B-NP/O/NP-SBJ-1/me|dejará/VB/B-VP/O/VP-1/dejar|vivir/VB/I-VP/O/VP-1/vivir|en/IN/B-PP/B-PNP/O/en|paz/NN/B-NP/I-PNP/O/paz|././O/O/O/.
+20110126072115.000|20110126072118.000|CC1|>> Lo siento, Linda, pero ya estoy decidido.
+20110126072115.000|20110126072118.000|POS_05|Lo/PRP/B-NP/O/NP-SBJ-1/lo|siento/VB/B-VP/O/VP-1/sentir|,/,/O/O/O/,|Linda/JJ/B-ADJP/O/O/lindo|,/,/O/O/O/,|pero/CC/O/O/O/pero|ya/RB/B-VP/O/O/ya|estoy/MD/I-VP/O/O/estar|decidido/VBN/I-VP/O/O/decidir|././O/O/O/.
+20110126072118.000|20110126072119.000|CC1|Tú y yo no volveremos a vernos.
+20110126072118.000|20110126072119.000|POS_05|Tú/PRP/B-NP/O/NP-SBJ-1/tú|y/CC/I-NP/O/NP-SBJ-1/y|yo/PRP/I-NP/O/NP-SBJ-1/yo|no/RB/I-NP/O/NP-SBJ-1/no|volveremos/VB/I-VP/O/VP-1/volver|a/IN/B-PP/B-PNP/O/a|vernos/NN/B-NP/I-PNP/O/vernos|././O/O/O/.
+20110126072119.000|20110126072127.000|CC1|>> ¡Suéltenme!
+20110126072119.000|20110126072127.000|POS_05|¡Suéltenme/NNP/B-NP/O/O/¡suéltenme|!/./O/O/O/!
+20110126072127.000|20110126072132.000|CC1|¡Suéltenme!
+20110126072127.000|20110126072132.000|POS_05|¡Suéltenme/NNP/B-NP/O/O/¡suéltenme|!/./O/O/O/!
+20110126072132.000|20110126072133.000|CC1|La pulsera no se las voy a dar.
+20110126072132.000|20110126072133.000|POS_05|La/DT/B-NP/O/O/el|pulsera/NN/I-NP/O/O/pulsera|no/RB/I-NP/O/O/no|se/PRP/B-NP/O/NP-SBJ-1/se|las/PRP/I-NP/O/NP-SBJ-1/las|voy/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|dar/VB/B-VP/O/O/dar|././O/O/O/.
+20110126072133.000|20110126072140.000|CC1|¡Déjenme!
+20110126072133.000|20110126072140.000|POS_05|¡Déjenme/NNP/B-NP/O/O/¡déjenme|!/./O/O/O/!
+20110126072140.000|20110126072141.000|CC1|Auxilio! 
+20110126072140.000|20110126072141.000|POS_05|Auxilio/NN/B-NP/O/O/auxilio|!/./O/O/O/!
+20110126072141.000|20110126072144.000|CC1|>>¡Órale!
+20110126072141.000|20110126072144.000|POS_05|¡Órale/NNP/B-NP/O/O/¡órale|!/./O/O/O/!
+20110126072144.000|20110126072155.000|CC1|¡No se hace eso! ¡Órale!
+20110126072144.000|20110126072155.000|POS_05|¡No/NNP/B-NP/O/NP-SBJ-1/¡no|se/PRP/I-NP/O/NP-SBJ-1/se|hace/VB/B-VP/O/VP-1/hacer|eso/DT/O/O/O/eso|!/./O/O/O/!
+20110126072144.000|20110126072155.000|POS_05|¡Órale/NNP/B-NP/O/O/¡órale|!/./O/O/O/!
+20110126072155.000|20110126072156.000|CC1|¡Lárguense!
+20110126072155.000|20110126072156.000|POS_05|¡Lárguense/NNP/B-NP/O/O/¡lárguense|!/./O/O/O/!
+20110126072156.000|20110126072159.000|CC1|¡Lárguense ya! ¡Órale!
+20110126072156.000|20110126072159.000|POS_05|¡Lárguense/NNP/B-NP/O/O/¡lárguense|ya/RB/I-NP/O/O/ya|!/./O/O/O/!
+20110126072156.000|20110126072159.000|POS_05|¡Órale/NNP/B-NP/O/O/¡órale|!/./O/O/O/!
+20110126072159.000|20110126072201.000|CC1|¿Estás bien, mi amor?
+20110126072159.000|20110126072201.000|POS_05|¿Estás/NNP/B-NP/O/O/¿estás|bien/RB/I-NP/O/O/bien|,/,/I-NP/O/O/,|mi/PRP$/I-NP/O/O/mi|amor/NN/I-NP/O/O/amor|?/./O/O/O/?
+20110126072201.000|20110126072203.000|CC1|¿Te hicieron algo esos cobardes?
+20110126072201.000|20110126072203.000|POS_05|¿Te/NNP/B-NP/O/NP-SBJ-1/¿te|hicieron/VB/B-VP/O/VP-1/hacer|algo/DT/B-NP/O/NP-OBJ-1/algo|esos/DT/I-NP/O/NP-OBJ-1/esos|cobardes/NNS/I-NP/O/NP-OBJ-1/cobard|?/./O/O/O/?
+20110126072203.000|20110126072207.000|CC1|>> No, pero me dieron el gran susto.
+20110126072203.000|20110126072207.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|pero/CC/O/O/O/pero|me/PRP/B-NP/O/NP-SBJ-1/me|dieron/VB/B-VP/O/VP-1/dar|el/DT/B-NP/O/NP-OBJ-1/el|gran/JJ/I-NP/O/NP-OBJ-1/gran|susto/NN/I-NP/O/NP-OBJ-1/susto|././O/O/O/.
+20110126072207.000|20110126072208.000|CC1|>> No te preocupes mi amor.
+20110126072207.000|20110126072208.000|POS_05|No/RB/B-ADVP/O/O/no|te/PRP/B-NP/O/O/te|preocupes/NN/I-NP/O/O/preocupes|mi/PRP$/I-NP/O/O/mi|amor/NN/I-NP/O/O/amor|././O/O/O/.
+20110126072208.000|20110126072209.000|CC1|Ya pasó.
+20110126072208.000|20110126072209.000|POS_05|Ya/RB/B-VP/O/O/ya|pasó/VB/I-VP/O/O/pasar|././O/O/O/.
+20110126072209.000|20110126072212.000|CC1|Ahora te llevo a la casa mi vida.
+20110126072209.000|20110126072212.000|POS_05|Ahora/RB/B-ADVP/O/O/ahora|te/PRP/B-NP/O/NP-SBJ-1/te|llevo/VB/B-VP/O/VP-1/llevar|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|casa/NN/I-NP/I-PNP/O/casa|mi/PRP$/I-NP/I-PNP/O/mi|vida/NN/I-NP/I-PNP/O/vida|././O/O/O/.
+20110126072212.000|20110126072215.000|CC1|>> Llegaste como caido del cielo.
+20110126072212.000|20110126072215.000|POS_05|Llegaste/NNP/B-NP/O/O/llegaste|como/IN/B-PP/B-PNP/O/como|caido/VBN/B-VP/I-PNP/VP-1/caer|del/NN/B-NP/I-PNP/NP-OBJ-1/del|cielo/NN/I-NP/I-PNP/NP-OBJ-1/cielo|././O/O/O/.
+20110126072215.000|20110126072220.000|CC1|Porque yo necesito a alguien que me quiera, que me cuide y me proteja.
+20110126072215.000|20110126072220.000|POS_05|Porque/IN/B-PP/B-PNP/O/porque|yo/PRP/B-NP/I-PNP/NP-SBJ-1/yo|necesito/VB/B-VP/O/VP-1/necesitar|a/IN/B-PP/O/O/a|alguien/DT/O/O/O/alguien|que/WP$/O/O/O/que|me/PRP/B-NP/O/NP-SBJ-2/me|quiera/VB/B-VP/O/VP-2/querer|,/,/O/O/O/,|que/WP$/O/O/O/que|me/PRP/B-NP/O/O/me|cuide/NN/I-NP/O/O/cuide|y/CC/I-NP/O/O/y|me/PRP/I-NP/O/O/me|proteja/NN/I-NP/O/O/proteja|././O/O/O/.
+20110126072220.000|20110126072228.000|CC1|>> Ya no tienes que buscarlo, mi amor.
+20110126072220.000|20110126072228.000|POS_05|Ya/RB/B-VP/O/O/ya|no/RB/I-VP/O/O/no|tienes/VB/I-VP/O/O/tener|que/IN/B-PP/B-PNP/O/que|buscarlo/NN/B-NP/I-PNP/O/buscarlo|,/,/I-NP/I-PNP/O/,|mi/PRP$/I-NP/I-PNP/O/mi|amor/NN/I-NP/I-PNP/O/amor|././O/O/O/.
+20110126072228.000|20110126072231.000|CC1|Nada te pasará conmigo mi amor, te lo prometo, mi vida.
+20110126072228.000|20110126072231.000|POS_05|Nada/DT/B-NP/O/NP-SBJ-1/nada|te/PRP/I-NP/O/NP-SBJ-1/te|pasará/VB/B-VP/O/VP-1/pasar|conmigo/PRP/B-NP/O/NP-OBJ-1/conmigo|mi/PRP$/I-NP/O/NP-OBJ-1/mi|amor/NN/I-NP/O/NP-OBJ-1/amor|,/,/I-NP/O/NP-OBJ-1/,|te/PRP/I-NP/O/NP-OBJ-1/te|lo/DT/B-NP/O/O/lo|prometo/NN/I-NP/O/O/prometo|,/,/O/O/O/,|mi/PRP$/B-NP/O/O/mi|vida/NN/I-NP/O/O/vida|././O/O/O/.
+20110126072231.000|20110126072233.000|CC1|>> Sí Juanjo, tú y yo ya somos novios.
+20110126072231.000|20110126072233.000|POS_05|Sí/RB/B-ADVP/O/O/sí|Juanjo/NNP/B-NP/O/O/juanjo|,/,/O/O/O/,|tú/PRP/B-NP/O/O/tú|y/CC/O/O/O/y|yo/PRP/B-NP/O/NP-SBJ-1/yo|ya/RB/I-NP/O/NP-SBJ-1/ya|somos/VB/I-VP/O/VP-1/ser|novios/NNS/B-NP/O/NP-OBJ-1/novio|././O/O/O/.
+20110126072233.000|20110126072233.000|CC1|>> ¿De veras, mi amor?
+20110126072233.000|20110126072233.000|POS_05|¿De/NNP/B-NP/O/O/¿de|veras/NNS/I-NP/O/O/vera|,/,/I-NP/O/O/,|mi/PRP$/I-NP/O/O/mi|amor/NN/I-NP/O/O/amor|?/./O/O/O/?
+20110126072233.000|20110126072238.000|CC1|¿De veras?
+20110126072233.000|20110126072238.000|POS_05|¿De/NNP/B-NP/O/O/¿de|veras/NNS/I-NP/O/O/vera|?/./O/O/O/?
+20110126072238.000|20110126072240.000|CC1|>> Sí, y creeme que más que nunca te necesito mucho.
+20110126072238.000|20110126072240.000|POS_05|Sí/RB/B-ADVP/O/O/sí|,/,/O/O/O/,|y/CC/O/O/O/y|creeme/NN/B-NP/O/O/creeme|que/WP$/O/O/O/que|más/RB/B-ADVP/O/O/más|que/IN/B-PP/O/O/que|nunca/RB/B-ADVP/O/O/nunca|te/PRP/B-NP/O/NP-SBJ-1/te|necesito/VB/B-VP/O/VP-1/necesitar|mucho/RB/I-VP/O/VP-1/mucho|././O/O/O/.
+20110126072240.000|20110126072245.000|CC1|¡Mucho, mucho!
+20110126072240.000|20110126072245.000|POS_05|¡Mucho/NNP/B-NP/O/O/¡mucho|,/,/O/O/O/,|mucho/RB/B-ADVP/O/O/mucho|!/./O/O/O/!
+20110126072245.000|20110126072247.000|CC1|No me dejes nunca.
+20110126072245.000|20110126072247.000|POS_05|No/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/O/me|dejes/NNS/I-NP/O/O/deje|nunca/RB/I-NP/O/O/nunca|././O/O/O/.
+20110126072247.000|20110126072251.000|CC1|Gracias, gracias.
+20110126072247.000|20110126072251.000|POS_05|Gracias/RB/B-ADVP/O/O/gracias|,/,/O/O/O/,|gracias/IN/B-PP/O/O/gracias|././O/O/O/.
+20110126072251.000|20110126072253.000|CC1|>> Tranquila, mi amor.
+20110126072251.000|20110126072253.000|POS_05|Tranquila/JJ/B-NP/O/O/tranquilo|,/,/I-NP/O/O/,|mi/PRP$/I-NP/O/O/mi|amor/NN/I-NP/O/O/amor|././O/O/O/.
+20110126072253.000|20110126072302.000|CC1|Tranquila, mi vida.
+20110126072253.000|20110126072302.000|POS_05|Tranquila/JJ/B-NP/O/O/tranquilo|,/,/I-NP/O/O/,|mi/PRP$/I-NP/O/O/mi|vida/NN/I-NP/O/O/vida|././O/O/O/.
+20110126072302.000|20110126072304.000|CC1|Ya mi amor, tranquila.
+20110126072302.000|20110126072304.000|POS_05|Ya/RB/B-ADVP/O/O/ya|mi/PRP$/B-NP/O/O/mi|amor/NN/I-NP/O/O/amor|,/,/O/O/O/,|tranquila/JJ/B-ADJP/O/O/tranquilo|././O/O/O/.
+20110126072304.000|20110126072305.000|CC1|Ya todo pasó.
+20110126072304.000|20110126072305.000|POS_05|Ya/RB/B-ADVP/O/O/ya|todo/DT/O/O/O/todo|pasó/VB/B-VP/O/O/pasar|././O/O/O/.
+20110126072305.000|20110126072311.000|CC1|>> Te quiero mucho, te quiero mucho, no me dejes Juanjo, no me dejes.
+20110126072305.000|20110126072311.000|POS_05|Te/PRP/B-NP/O/NP-SBJ-1/te|quiero/VB/B-VP/O/VP-1/querer|mucho/RB/B-ADVP/O/O/mucho|,/,/O/O/O/,|te/PRP/B-NP/O/NP-SBJ-2/te|quiero/VB/B-VP/O/VP-2/querer|mucho/RB/B-ADVP/O/O/mucho|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/O/me|dejes/NNS/I-NP/O/O/deje|Juanjo/NNP/I-NP/O/O/juanjo|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/O/me|dejes/NNS/I-NP/O/O/deje|././O/O/O/.
+20110126072311.000|20110126072317.000|CC1|>> No mi amor, ya tranquila, mi vida.
+20110126072311.000|20110126072317.000|POS_05|No/RB/B-ADVP/O/O/no|mi/PRP$/B-NP/O/O/mi|amor/NN/I-NP/O/O/amor|,/,/O/O/O/,|ya/RB/B-NP/O/O/ya|tranquila/JJ/I-NP/O/O/tranquilo|,/,/I-NP/O/O/,|mi/PRP$/I-NP/O/O/mi|vida/NN/I-NP/O/O/vida|././O/O/O/.
+20110126072317.000|20110126072319.000|CC1|>> ¿A que vino Juan Pablo?
+20110126072317.000|20110126072319.000|POS_05|¿A/NNP/B-NP/O/O/¿a|que/WP$/O/O/O/que|vino/NN/B-NP/O/O/vino|Juan/NNP/I-NP/O/O/juan|Pablo/NNP/I-NP/O/O/pablo|?/./O/O/O/?
+20110126072319.000|20110126072322.000|CC1|¿Qué te dijo?
+20110126072319.000|20110126072322.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|te/PRP/I-NP/O/NP-SBJ-1/te|dijo/VB/B-VP/O/VP-1/decir|?/./O/O/O/?
+20110126072322.000|20110126072328.000|CC1|>> Que dedicará su vida a buscar a la pequeña María.
+20110126072322.000|20110126072328.000|POS_05|Que/IN/B-PP/O/O/que|dedicará/VB/B-VP/O/VP-1/dedicar|su/PRP$/B-NP/O/NP-OBJ-1/su|vida/NN/I-NP/O/NP-OBJ-1/vida|a/IN/B-PP/O/O/a|buscar/VB/B-VP/O/O/buscar|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|pequeña/JJ/I-NP/I-PNP/O/pequeño|María/NNP/I-NP/I-PNP/O/maría|././O/O/O/.
+20110126072328.000|20110126072330.000|CC1|Y no va a parar hasta encontrarla.
+20110126072328.000|20110126072330.000|POS_05|Y/CC/O/O/O/y|no/RB/B-VP/O/O/no|va/VB/I-VP/O/O/ir|a/IN/B-PP/O/O/a|parar/VB/B-VP/O/O/parar|hasta/IN/B-PP/B-PNP/O/hasta|encontrarla/NN/B-NP/I-PNP/O/encontrarla|././O/O/O/.
+20110126072330.000|20110126072334.000|CC1|¿Y sabes qué?
+20110126072330.000|20110126072334.000|POS_05|¿Y/NNP/B-NP/O/NP-SBJ-1/¿y|sabes/VB/B-VP/O/VP-1/saber|qué/WP$/O/O/O/qué|?/./O/O/O/?
+20110126072334.000|20110126072343.000|CC1|En su mirada había mucha sinceridad.
+20110126072334.000|20110126072343.000|POS_05|En/IN/B-PP/B-PNP/O/en|su/PRP$/B-NP/I-PNP/NP-SBJ-1/su|mirada/NN/I-NP/I-PNP/NP-SBJ-1/mirada|había/VB/B-VP/O/VP-1/haber|mucha/DT/B-NP/O/NP-OBJ-1/mucha|sinceridad/NN/I-NP/O/NP-OBJ-1/sinceridad|././O/O/O/.
+20110126072343.000|20110126072344.000|CC1|>> ¿Qué?
+20110126072343.000|20110126072344.000|POS_05|¿Qué/NNP/B-NP/O/O/¿qué|?/./O/O/O/?
+20110126072344.000|20110126072345.000|CC1|¿Qué?
+20110126072344.000|20110126072345.000|POS_05|¿Qué/NNP/B-NP/O/O/¿qué|?/./O/O/O/?
+20110126072345.000|20110126072347.000|CC1|¿Qué dijiste?
+20110126072345.000|20110126072347.000|POS_05|¿Qué/NNP/B-NP/O/O/¿qué|dijiste/NN/I-NP/O/O/dijiste|?/./O/O/O/?
+20110126072347.000|20110126072349.000|CC1|¡Repite eso que acabas de decirme!
+20110126072347.000|20110126072349.000|POS_05|¡Repite/NNP/B-NP/O/O/¡repite|eso/DT/O/O/O/eso|que/WP$/O/O/O/que|acabas/NN/B-NP/O/O/acabas|de/IN/B-PP/B-PNP/O/de|decirme/NN/B-NP/I-PNP/O/decirme|!/./O/O/O/!
+20110126072349.000|20110126072352.000|CC1|>> Que voy a buscar a mi hija hasta encontrarla, mamá.
+20110126072349.000|20110126072352.000|POS_05|Que/IN/B-PP/O/O/que|voy/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|buscar/VB/B-VP/O/O/buscar|a/IN/B-PP/B-PNP/O/a|mi/PRP$/B-NP/I-PNP/O/mi|hija/NN/I-NP/I-PNP/O/hija|hasta/IN/B-PP/B-PNP/O/hasta|encontrarla/NN/B-NP/I-PNP/O/encontrarla|,/,/I-NP/I-PNP/O/,|mamá/NN/I-NP/I-PNP/O/mamá|././O/O/O/.
+20110126072352.000|20110126072355.000|CC1|>> ¿Te das cuenta de la locura que estás diciendo?
+20110126072352.000|20110126072355.000|POS_05|¿Te/NNP/B-NP/O/NP-SBJ-1/¿te|das/VB/B-VP/O/VP-1/dar|cuenta/VB/I-VP/O/VP-1/contar|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|locura/NN/I-NP/I-PNP/O/locura|que/WP$/O/O/O/que|estás/MD/B-VP/O/O/estar|diciendo/VBG/I-VP/O/O/decir|?/./O/O/O/?
+20110126072355.000|20110126072400.000|CC1|Si la curia  se entera de que tienes una hija te van a correr de la iglesia.
+20110126072355.000|20110126072400.000|POS_05|Si/IN/B-PP/B-PNP/O/si|la/DT/B-NP/I-PNP/NP-SBJ-1/el|curia/NN/I-NP/I-PNP/NP-SBJ-1/curia|se/PRP/I-NP/I-PNP/NP-SBJ-1/se|entera/VB/B-VP/O/VP-1/entr|de/IN/B-PP/B-PNP/O/de|que/IN/I-PP/I-PNP/O/que|tienes/VB/B-VP/O/VP-2/tener|una/DT/B-NP/O/NP-OBJ-2*NP-SBJ-3/un|hija/NN/I-NP/O/NP-OBJ-2*NP-SBJ-3/hija|te/PRP/I-NP/O/NP-OBJ-2*NP-SBJ-3/te|van/VB/B-VP/O/VP-3/ir|a/IN/B-PP/O/O/a|correr/VB/B-VP/O/O/correr|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|iglesia/NN/I-NP/I-PNP/O/iglesia|././O/O/O/.
+20110126072400.000|20110126072403.000|CC1|>> Es una obligación que debo cumplir.
+20110126072400.000|20110126072403.000|POS_05|Es/VB/B-VP/O/VP-1/ser|una/DT/B-NP/O/NP-OBJ-1/un|obligación/NN/I-NP/O/NP-OBJ-1/obligación|que/WP$/O/O/O/que|debo/VB/B-VP/O/O/deber|cumplir/VB/I-VP/O/O/cumplir|././O/O/O/.
+20110126072403.000|20110126072408.000|CC1|Además, cuando todo aquello pasó, aún era seminarista, no había hecho los votos de castidad.
+20110126072403.000|20110126072408.000|POS_05|Además/RB/B-ADVP/O/O/además|,/,/O/O/O/,|cuando/IN/B-PP/O/O/cuando|todo/DT/O/O/O/todo|aquello/DT/O/O/O/aquello|pasó/VB/B-VP/O/O/pasar|,/,/O/O/O/,|aún/RB/B-VP/O/VP-1/aún|era/VB/I-VP/O/VP-1/ser|seminarista/NN/B-NP/O/NP-OBJ-1/seminarista|,/,/O/O/O/,|no/RB/B-VP/O/VP-2/no|había/MD/I-VP/O/VP-2/haber|hecho/VBN/I-VP/O/VP-2/hacer|los/DT/B-NP/O/NP-OBJ-2/el|votos/NNS/I-NP/O/NP-OBJ-2/voto|de/IN/B-PP/B-PNP/O/de|castidad/NN/B-NP/I-PNP/O/castidad|././O/O/O/.
+20110126072408.000|20110126072422.000|CC1|>> ¡No, no! ¿ Y te has puesto a pensar en la clase de persona que será tu tal hija?lo? ¿Que no es una cualquiera?
+20110126072408.000|20110126072422.000|POS_05|¡No/NNP/B-NP/O/O/¡no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|!/./O/O/O/!
+20110126072408.000|20110126072422.000|POS_05|¿/./O/O/O/¿|Y/CC/O/O/O/y|te/PRP/B-NP/O/NP-SBJ-1/te|has/MD/B-VP/O/VP-1/har|puesto/VBN/I-VP/O/VP-1/poner|a/IN/B-PP/O/O/a|pensar/VB/B-VP/O/O/pensar|en/IN/B-PP/B-PNP/O/en|la/DT/B-NP/I-PNP/O/el|clase/NN/I-NP/I-PNP/O/clase|de/IN/B-PP/B-PNP/O/de|persona/NN/B-NP/I-PNP/O/persona|que/WP$/O/O/O/que|será/VB/B-VP/O/VP-2/ser|tu/PRP$/B-NP/O/NP-OBJ-2/tu|tal/DT/I-NP/O/NP-OBJ-2/tal|hija?lo/NN/I-NP/O/NP-OBJ-2/hija?lo|?/./O/O/O/?
+20110126072408.000|20110126072422.000|POS_05|¿Que/NNP/B-NP/O/NP-SBJ-1/¿que|no/RB/I-NP/O/NP-SBJ-1/no|es/VB/I-VP/O/VP-1/ser|una/DT/O/O/O/un|cualquiera/DT/O/O/O/cualquiera|?/./O/O/O/?
+20110126072422.000|20110126072424.000|CC1|>> ¡Te ruego que no hables así de ella!
+20110126072422.000|20110126072424.000|POS_05|¡Te/NNP/B-NP/O/O/¡te|ruego/NN/I-NP/O/O/ruego|que/WP$/O/O/O/que|no/RB/B-ADVP/O/O/no|hables/NN/B-NP/O/O/hables|así/RB/I-NP/O/O/así|de/IN/B-PP/B-PNP/O/de|ella/PRP/B-NP/I-PNP/O/ella|!/./O/O/O/!
+20110126072424.000|20110126072429.000|CC1|Si eso fuera cierto, entre más bajo haya caído, más obligado estoy con ella.
+20110126072424.000|20110126072429.000|POS_05|Si/IN/B-PP/O/O/si|eso/DT/O/O/O/eso|fuera/IN/B-PP/O/O/fuera|cierto/JJ/B-ADJP/O/O/cierto|,/,/O/O/O/,|entre/IN/B-PP/O/O/entre|más/RB/B-ADVP/O/O/más|bajo/IN/B-PP/O/O/bajo|haya/MD/B-VP/O/O/haber|caído/VBN/I-VP/O/O/caer|,/,/O/O/O/,|más/RB/B-VP/O/O/más|obligado/VBN/I-VP/O/O/obligar|estoy/MD/B-VP/O/O/estar|con/IN/B-PP/B-PNP/O/con|ella/PRP/B-NP/I-PNP/O/ella|././O/O/O/.
+20110126072429.000|20110126072447.000|CC1|>> ¡No! ¡No, no, no y no! Tú te debes a Dios, no puedes rebajarte, nadie debe enterarse, tú debes cuidar tu santidad.
+20110126072429.000|20110126072447.000|POS_05|¡No/NNP/B-NP/O/O/¡no|!/./O/O/O/!
+20110126072429.000|20110126072447.000|POS_05|¡No/NNP/B-NP/O/O/¡no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|y/CC/O/O/O/y|no/RB/B-ADVP/O/O/no|!/./O/O/O/!
+20110126072429.000|20110126072447.000|POS_05|Tú/PRP/B-NP/O/NP-SBJ-1/tú|te/PRP/I-NP/O/NP-SBJ-1/te|debes/VB/B-VP/O/VP-1/deber|a/IN/B-PP/B-PNP/O/a|Dios/NNP/B-NP/I-PNP/O/dios|,/,/O/O/O/,|no/RB/B-VP/O/VP-2/no|puedes/VB/I-VP/O/VP-2/poder|rebajarte/NN/B-NP/O/NP-OBJ-2/rebajarte|,/,/O/O/O/,|nadie/DT/O/O/O/nadie|debe/VB/B-VP/O/VP-3/deber|enterarse/NN/B-NP/O/NP-OBJ-3*NP-SBJ-4/enterarse|,/,/I-NP/O/NP-OBJ-3*NP-SBJ-4/,|tú/PRP/I-NP/O/NP-OBJ-3*NP-SBJ-4/tú|debes/VB/B-VP/O/VP-4/deber|cuidar/VB/I-VP/O/VP-4/cuidar|tu/PRP$/B-NP/O/NP-OBJ-4/tu|santidad/NN/I-NP/O/NP-OBJ-4/santidad|././O/O/O/.
+20110126072447.000|20110126072451.000|CC1|¿Quién te dice que no puedes llegar a cardenal?
+20110126072447.000|20110126072451.000|POS_05|¿Quién/NNP/B-NP/O/NP-SBJ-1/¿quién|te/PRP/I-NP/O/NP-SBJ-1/te|dice/VB/B-VP/O/VP-1/decir|que/IN/B-PP/O/O/que|no/RB/B-VP/O/O/no|puedes/VB/I-VP/O/O/poder|llegar/VB/I-VP/O/O/llegar|a/IN/B-PP/B-PNP/O/a|cardenal/NN/B-NP/I-PNP/O/cardenal|?/./O/O/O/?
+20110126072451.000|20110126072500.000|CC1|>> Así llegara a papa, sigo estando al servicio de Dios, lo cual me hace estar en deuda con mi conciencia.
+20110126072451.000|20110126072500.000|POS_05|Así/RB/B-VP/O/O/así|llegara/VB/I-VP/O/O/llegar|a/IN/B-PP/B-PNP/O/a|papa/NN/B-NP/I-PNP/O/papa|,/,/O/O/O/,|sigo/VB/B-VP/O/VP-1/seguir|estando/VBG/I-VP/O/VP-1/estar|al/NN/B-NP/O/NP-OBJ-1/al|servicio/NN/I-NP/O/NP-OBJ-1/servicio|de/IN/B-PP/B-PNP/O/de|Dios/NNP/B-NP/I-PNP/O/dios|,/,/O/O/O/,|lo/DT/O/O/O/lo|cual/WP$/O/O/O/cual|me/PRP/B-NP/O/NP-SBJ-2/me|hace/VB/B-VP/O/VP-2/hacer|estar/MD/B-VP/O/O/estar|en/IN/B-PP/B-PNP/O/en|deuda/NN/B-NP/I-PNP/O/deuda|con/IN/B-PP/B-PNP/O/con|mi/PRP$/B-NP/I-PNP/O/mi|conciencia/NN/I-NP/I-PNP/O/conciencia|././O/O/O/.
+20110126072500.000|20110126072518.000|CC1|>> Juan Pablo, te advierto que si sigues adelante con esta locura, no solamente vas a perder tu puesto de sacerdote, también perderás a tu madre, porque yo no querré volver a verte jamás en mi vida.
+20110126072500.000|20110126072518.000|POS_05|Juan/NNP/B-NP/O/NP-SBJ-1/juan|Pablo/NNP/I-NP/O/NP-SBJ-1/pablo|,/,/I-NP/O/NP-SBJ-1/,|te/PRP/I-NP/O/NP-SBJ-1/te|advierto/VB/B-VP/O/VP-1/advertir|que/IN/B-PP/B-PNP/O/que|si/IN/I-PP/I-PNP/O/si|sigues/VB/B-VP/O/O/seguir|adelante/RB/I-VP/O/O/adelante|con/IN/B-PP/B-PNP/O/con|esta/DT/B-NP/I-PNP/O/esta|locura/NN/I-NP/I-PNP/O/locura|,/,/O/O/O/,|no/RB/B-VP/O/O/no|solamente/RB/I-VP/O/O/solamente|vas/VB/I-VP/O/O/ir|a/IN/B-PP/O/O/a|perder/VB/B-VP/O/VP-2/perder|tu/PRP$/B-NP/O/NP-OBJ-2/tu|puesto/NN/I-NP/O/NP-OBJ-2/puesto|de/IN/B-PP/B-PNP/O/de|sacerdote/NN/B-NP/I-PNP/O/sacerdote|,/,/O/O/O/,|también/RB/B-VP/O/O/también|perderás/VB/I-VP/O/O/perder|a/IN/B-PP/B-PNP/O/a|tu/PRP$/B-NP/I-PNP/O/tu|madre/NN/I-NP/I-PNP/O/madre|,/,/O/O/O/,|porque/IN/B-PP/B-PNP/O/porque|yo/PRP/B-NP/I-PNP/NP-SBJ-3/yo|no/RB/I-NP/I-PNP/NP-SBJ-3/no|querré/VB/I-VP/O/VP-3/querer|volver/VB/I-VP/O/VP-3/volver|a/IN/B-PP/B-PNP/O/a|verte/NN/B-NP/I-PNP/O/verte|jamás/RB/I-NP/I-PNP/O/jamás|en/IN/B-PP/B-PNP/O/en|mi/PRP$/B-NP/I-PNP/O/mi|vida/NN/I-NP/I-PNP/O/vida|././O/O/O/.
+20110126072518.000|20110126072520.000|CC1|¿Escuchaste bien?
+20110126072518.000|20110126072520.000|POS_05|¿Escuchaste/NNP/B-NP/O/O/¿escuchaste|bien/RB/I-NP/O/O/bien|?/./O/O/O/?
+20110126072520.000|20110126072535.000|CC1|¡Jamás en mi vida! 
+20110126072520.000|20110126072535.000|POS_05|¡Jamás/NNP/B-NP/O/O/¡jamás|en/IN/B-PP/B-PNP/O/en|mi/PRP$/B-NP/I-PNP/O/mi|vida/NN/I-NP/I-PNP/O/vida|!/./O/O/O/!
+20110126072535.000|20110126072537.000|CC1|>> Mi amor, por favor, espérate, nos pueden descubrir.
+20110126072535.000|20110126072537.000|POS_05|Mi/PRP$/B-NP/O/O/mi|amor/NN/I-NP/O/O/amor|,/,/O/O/O/,|por/IN/B-PP/O/O/por|favor/RB/B-ADVP/O/O/favor|,/,/O/O/O/,|espérate/NN/B-NP/O/O/espérate|,/,/O/O/O/,|nos/PRP/B-NP/O/NP-SBJ-1/nos|pueden/VB/B-VP/O/VP-1/poder|descubrir/VB/I-VP/O/VP-1/descubrir|././O/O/O/.
+20110126072537.000|20110126072538.000|CC1|>> No pasa nada.
+20110126072537.000|20110126072538.000|POS_05|No/RB/B-VP/O/O/no|pasa/VB/I-VP/O/O/pasar|nada/DT/O/O/O/nada|././O/O/O/.
+20110126072538.000|20110126072539.000|CC1|¿Que pasa?
+20110126072538.000|20110126072539.000|POS_05|¿Que/NNP/B-NP/O/NP-SBJ-1/¿que|pasa/VB/B-VP/O/VP-1/pasar|?/./O/O/O/?
+20110126072539.000|20110126072541.000|CC1|Nada.
+20110126072539.000|20110126072541.000|POS_05|Nada/DT/O/O/O/nada|././O/O/O/.
+20110126072541.000|20110126072542.000|CC1|>> ¡Princesa!
+20110126072541.000|20110126072542.000|POS_05|¡Princesa/NNP/B-NP/O/O/¡princesa|!/./O/O/O/!
+20110126072542.000|20110126072558.000|CC1|Te estoy... ¿Y tú? Tú, tu... ¿Qué estás haciendo aquí?
+20110126072542.000|20110126072558.000|POS_05|Te/PRP/B-NP/O/NP-SBJ-1/te|estoy/MD/B-VP/O/VP-1/estar|..././O/O/O/...
+20110126072542.000|20110126072558.000|POS_05|¿Y/NNP/B-NP/O/O/¿y|tú/PRP/I-NP/O/O/tú|?/./O/O/O/?
+20110126072542.000|20110126072558.000|POS_05|Tú/PRP/B-NP/O/O/tú|,/,/I-NP/O/O/,|tu/PRP$/I-NP/O/O/tu|..././O/O/O/...
+20110126072542.000|20110126072558.000|POS_05|¿Qué/NNP/B-NP/O/NP-SBJ-1/¿qué|estás/MD/B-VP/O/VP-1/estar|haciendo/VBG/I-VP/O/VP-1/hacer|aquí/RB/I-VP/O/VP-1/aquí|?/./O/O/O/?
+20110126072558.000|20110126072600.000|CC1|>> ¿Yo?
+20110126072558.000|20110126072600.000|POS_05|¿Yo/NNP/B-NP/O/O/¿yo|?/./O/O/O/?
+20110126072600.000|20110126072602.000|CC1|Yo vine a buscar a Oscar.
+20110126072600.000|20110126072602.000|POS_05|Yo/PRP/B-NP/O/O/yo|vine/NN/I-NP/O/O/vine|a/IN/B-PP/O/O/a|buscar/VB/B-VP/O/O/buscar|a/IN/B-PP/B-PNP/O/a|Oscar/NNP/B-NP/I-PNP/O/oscar|././O/O/O/.
+20110126072602.000|20110126072603.000|CC1|¿No lo has visto?
+20110126072602.000|20110126072603.000|POS_05|¿No/NNP/B-NP/O/NP-SBJ-1/¿no|lo/PRP/I-NP/O/NP-SBJ-1/lo|has/MD/B-VP/O/VP-1/har|visto/VBN/I-VP/O/VP-1/vestir|?/./O/O/O/?
+20110126072603.000|20110126072605.000|CC1|>> ¿Oscar?
+20110126072603.000|20110126072605.000|POS_05|¿Oscar/NNP/B-NP/O/O/¿oscar|?/./O/O/O/?
+20110126072605.000|20110126072608.000|CC1|Nunca entra al salón de diseño.
+20110126072605.000|20110126072608.000|POS_05|Nunca/RB/B-VP/O/VP-1/nunca|entra/VB/I-VP/O/VP-1/entrar|al/NN/B-NP/O/NP-OBJ-1/al|salón/NN/I-NP/O/NP-OBJ-1/salón|de/IN/B-PP/B-PNP/O/de|diseño/NN/B-NP/I-PNP/O/diseño|././O/O/O/.
+20110126072608.000|20110126072609.000|CC1|Esto está muy raro.
+20110126072608.000|20110126072609.000|POS_05|Esto/DT/O/O/O/esto|está/MD/B-VP/O/O/estar|muy/RB/B-ADJP/O/O/muy|raro/JJ/I-ADJP/O/O/raro|././O/O/O/.
+20110126072609.000|20110126072609.000|CC1|¿Eh?
+20110126072609.000|20110126072609.000|POS_05|¿Eh/NNP/B-NP/O/O/¿eh|?/./O/O/O/?
+20110126072609.000|20110126072612.000|CC1|Aquí hay gato encerrado.
+20110126072609.000|20110126072612.000|POS_05|Aquí/RB/B-VP/O/VP-1/aquí|hay/VB/I-VP/O/VP-1/haber|gato/NN/B-NP/O/NP-OBJ-1*NP-SBJ-2/gato|encerrado/VBN/B-VP/O/VP-2/encerrar|././O/O/O/.
+20110126072612.000|20110126072618.000|CC1|>> No, no, no, aquí lo único que hay es un italiano un poco chismoso.
+20110126072612.000|20110126072618.000|POS_05|No/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|,/,/O/O/O/,|aquí/RB/B-ADVP/O/O/aquí|lo/DT/O/O/O/lo|único/JJ/B-ADJP/O/O/único|que/WP$/O/O/O/que|hay/VB/B-VP/O/VP-1/haber|es/VB/I-VP/O/VP-1/ser|un/DT/B-NP/O/NP-OBJ-1/un|italiano/NN/I-NP/O/NP-OBJ-1/italiano|un/DT/B-NP/O/O/un|poco/RB/I-NP/O/O/poco|chismoso/NN/I-NP/O/O/chismoso|././O/O/O/.
+20110126072618.000|20110126072619.000|CC1|Voy a ver si encuentro a Oscar.
+20110126072618.000|20110126072619.000|POS_05|Voy/VB/B-VP/O/O/ir|a/IN/B-PP/O/O/a|ver/VB/B-VP/O/O/ver|si/IN/B-PP/B-PNP/O/si|encuentro/NN/B-NP/I-PNP/O/encuentro|a/IN/B-PP/B-PNP/O/a|Oscar/NNP/B-NP/I-PNP/O/oscar|././O/O/O/.
+20110126072619.000|20110126072625.000|CC1|¡Ciao, bella!
+20110126072619.000|20110126072625.000|POS_05|¡Ciao/NNP/B-NP/O/O/¡ciao|,/,/O/O/O/,|bella/JJ/B-ADJP/O/O/bello|!/./O/O/O/!
+20110126072625.000|20110126072626.000|CC1|Nos vemos Pipino.
+20110126072625.000|20110126072626.000|POS_05|Nos/PRP/B-NP/O/NP-SBJ-1/nos|vemos/VB/B-VP/O/VP-1/ver|Pipino/NNP/B-NP/O/NP-OBJ-1/pipino|././O/O/O/.
+20110126072626.000|20110126072629.000|CC1|>> Nos vemos, nos vemos.
+20110126072626.000|20110126072629.000|POS_05|Nos/PRP/B-NP/O/NP-SBJ-1/nos|vemos/VB/B-VP/O/VP-1/ver|,/,/O/O/O/,|nos/PRP/B-NP/O/NP-SBJ-2/nos|vemos/VB/B-VP/O/VP-2/ver|././O/O/O/.
+20110126072629.000|20110126072632.000|CC1|Ciao bella, ciao bella.
+20110126072629.000|20110126072632.000|POS_05|Ciao/NNP/B-NP/O/O/ciao|bella/JJ/I-NP/O/O/bello|,/,/I-NP/O/O/,|ciao/NN/I-NP/O/O/ciao|bella/JJ/I-NP/O/O/bello|././O/O/O/.
+20110126072632.000|20110126072643.000|CC1|>> Pues sí, ya me levantaron el castigo, pero con la condición de que no vuelva a verte jamás.
+20110126072632.000|20110126072643.000|POS_05|Pues/IN/B-PP/B-PNP/O/pues|sí/PRP/B-NP/I-PNP/NP-SBJ-1/sí|,/,/I-NP/I-PNP/NP-SBJ-1/,|ya/RB/I-NP/I-PNP/NP-SBJ-1/ya|me/PRP/I-NP/I-PNP/NP-SBJ-1/me|levantaron/VB/B-VP/O/VP-1/levantar|el/DT/B-NP/O/NP-OBJ-1/el|castigo/NN/I-NP/O/NP-OBJ-1/castigo|,/,/O/O/O/,|pero/CC/O/O/O/pero|con/IN/B-PP/B-PNP/O/con|la/DT/B-NP/I-PNP/O/el|condición/NN/I-NP/I-PNP/O/condición|de/IN/B-PP/O/O/de|que/WP$/O/O/O/que|no/RB/B-VP/O/O/no|vuelva/VB/I-VP/O/O/volver|a/IN/B-PP/B-PNP/O/a|verte/NN/B-NP/I-PNP/O/verte|jamás/RB/I-NP/I-PNP/O/jamás|././O/O/O/.
+20110126072643.000|20110126072646.000|CC1|>> Chiale, eso no va a pasar, ¿verdad?
+20110126072643.000|20110126072646.000|POS_05|Chiale/NNP/B-NP/O/O/chiale|,/,/O/O/O/,|eso/DT/O/O/O/eso|no/RB/B-VP/O/O/no|va/VB/I-VP/O/O/ir|a/IN/B-PP/O/O/a|pasar/VB/B-VP/O/O/pasar|,/,/O/O/O/,|¿verdad/NN/B-NP/O/O/¿verdad|?/./O/O/O/?
+20110126072646.000|20110126072649.000|CC1|Nunca.
+20110126072646.000|20110126072649.000|POS_05|Nunca/RB/B-ADVP/O/O/nunca|././O/O/O/.
+20110126072649.000|20110126072649.000|CC1|>> No mi amor.
+20110126072649.000|20110126072649.000|POS_05|No/RB/B-ADVP/O/O/no|mi/PRP$/B-NP/O/O/mi|amor/NN/I-NP/O/O/amor|././O/O/O/.
+20110126072649.000|20110126072651.000|CC1|Pero a ver.
+20110126072649.000|20110126072651.000|POS_05|Pero/CC/O/O/O/pero|a/IN/B-PP/O/O/a|ver/VB/B-VP/O/O/ver|././O/O/O/.
+20110126072651.000|20110126072656.000|CC1|¿Cómo lo vamos a hacer para vernos?
+20110126072651.000|20110126072656.000|POS_05|¿Cómo/NNP/B-NP/O/NP-SBJ-1/¿cómo|lo/PRP/I-NP/O/NP-SBJ-1/lo|vamos/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|hacer/VB/B-VP/O/O/hacer|para/IN/B-PP/B-PNP/O/para|vernos/NN/B-NP/I-PNP/O/vernos|?/./O/O/O/?
+20110126072656.000|20110126072658.000|CC1|Ahora ya no voy a poder andar sola, Fede.
+20110126072656.000|20110126072658.000|POS_05|Ahora/RB/B-VP/O/O/ahora|ya/RB/I-VP/O/O/ya|no/RB/I-VP/O/O/no|voy/VB/I-VP/O/O/ir|a/IN/B-PP/O/O/a|poder/VB/B-VP/O/VP-1/poder|andar/VB/I-VP/O/VP-1/andar|sola/JJ/B-NP/O/NP-OBJ-1/solo|,/,/I-NP/O/NP-OBJ-1/,|Fede/NNP/I-NP/O/NP-OBJ-1/fede|././O/O/O/.
+20110126072658.000|20110126072703.000|CC1|Si quiero salir, el chofer me va a llevar, me va a esperar y me va a traer de regreso a la casa.
+20110126072658.000|20110126072703.000|POS_05|Si/IN/B-PP/O/O/si|quiero/VB/B-VP/O/O/querer|salir/VB/I-VP/O/O/salir|,/,/O/O/O/,|el/DT/B-NP/O/NP-SBJ-1/el|chofer/NN/I-NP/O/NP-SBJ-1/chofer|me/PRP/I-NP/O/NP-SBJ-1/me|va/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|llevar/VB/B-VP/O/O/llevar|,/,/O/O/O/,|me/PRP/B-NP/O/NP-SBJ-2/me|va/VB/B-VP/O/VP-2/ir|a/IN/B-PP/O/O/a|esperar/VB/B-VP/O/O/esperar|y/CC/O/O/O/y|me/PRP/B-NP/O/NP-SBJ-3/me|va/VB/B-VP/O/VP-3/ir|a/IN/B-PP/O/O/a|traer/VB/B-VP/O/O/traer|de/IN/B-PP/B-PNP/O/de|regreso/NN/B-NP/I-PNP/O/regreso|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|casa/NN/I-NP/I-PNP/O/casa|././O/O/O/.
+20110126072703.000|20110126072707.000|CC1|¿Entonces?
+20110126072703.000|20110126072707.000|POS_05|¿Entonces/NNP/B-NP/O/O/¿entonces|?/./O/O/O/?
+20110126072707.000|20110126072707.000|CC1|>> Pues ahí está.
+20110126072707.000|20110126072707.000|POS_05|Pues/IN/B-PP/O/O/pues|ahí/RB/B-ADVP/O/O/ahí|está/MD/B-VP/O/O/estar|././O/O/O/.
+20110126072707.000|20110126072712.000|CC1|En lo que te espera, nos podemos ver.
+20110126072707.000|20110126072712.000|POS_05|En/IN/B-PP/O/O/en|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|te/PRP/B-NP/O/NP-SBJ-1/te|espera/VB/B-VP/O/VP-1/esperar|,/,/O/O/O/,|nos/PRP/B-NP/O/NP-SBJ-2/nos|podemos/VB/B-VP/O/VP-2/poder|ver/VB/I-VP/O/VP-2/ver|././O/O/O/.
+20110126072712.000|20110126072713.000|CC1|>> Pues sí, mi amor.
+20110126072712.000|20110126072713.000|POS_05|Pues/IN/B-PP/B-PNP/O/pues|sí/PRP/B-NP/I-PNP/O/sí|,/,/I-NP/I-PNP/O/,|mi/PRP$/I-NP/I-PNP/O/mi|amor/NN/I-NP/I-PNP/O/amor|././O/O/O/.
+20110126072713.000|20110126072714.000|CC1|Pero.
+20110126072713.000|20110126072714.000|POS_05|Pero/CC/O/O/O/pero|././O/O/O/.
+20110126072714.000|20110126072716.000|CC1|¿Dónde?
+20110126072714.000|20110126072716.000|POS_05|¿Dónde/NNP/B-NP/O/O/¿dónde|?/./O/O/O/?
+20110126072716.000|20110126072727.000|CC1|¡Ay, Fede, ya sé! La universidad, Fede.
+20110126072716.000|20110126072727.000|POS_05|¡Ay/NNP/B-NP/O/O/¡ay|,/,/I-NP/O/O/,|Fede/NNP/I-NP/O/O/fede|,/,/O/O/O/,|ya/RB/B-VP/O/O/ya|sé/VB/I-VP/O/O/ser|!/./O/O/O/!
+20110126072716.000|20110126072727.000|POS_05|La/DT/B-NP/O/O/el|universidad/NN/I-NP/O/O/universidad|,/,/O/O/O/,|Fede/NNP/B-NP/O/O/fede|././O/O/O/.
+20110126072727.000|20110126072730.000|CC1|Voy a decirles que me voy a ir a inscribir a la universidad.
+20110126072727.000|20110126072730.000|POS_05|Voy/VB/B-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|decirles/NN/B-NP/I-PNP/O/decirles|que/WP$/O/O/O/que|me/PRP/B-NP/O/NP-SBJ-1/me|voy/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|ir/VB/B-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|inscribir/NN/B-NP/I-PNP/O/inscribir|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|universidad/NN/I-NP/I-PNP/O/universidad|././O/O/O/.
+20110126072730.000|20110126072737.000|CC1|Eso les va a poner tan felices, que ni me van a preguntar nada.
+20110126072730.000|20110126072737.000|POS_05|Eso/DT/B-NP/O/NP-SBJ-1/eso|les/PRP/I-NP/O/NP-SBJ-1/les|va/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|poner/VB/B-VP/O/O/poner|tan/RB/I-VP/O/O/tan|felices/JJ/I-ADJP/O/O/felic|,/,/O/O/O/,|que/WP$/O/O/O/que|ni/CC/O/O/O/ni|me/PRP/B-NP/O/NP-SBJ-2/me|van/VB/B-VP/O/VP-2/ir|a/IN/B-PP/O/O/a|preguntar/VB/B-VP/O/O/preguntar|nada/DT/O/O/O/nada|././O/O/O/.
+20110126072737.000|20110126072742.000|CC1|>> Si no hubiera sido por Juanjo, no sé que me hubiera pasado.
+20110126072737.000|20110126072742.000|POS_05|Si/IN/B-PP/O/O/si|no/RB/B-VP/O/O/no|hubiera/VB/I-VP/O/O/haber|sido/VBN/I-VP/O/O/ser|por/IN/B-PP/B-PNP/O/por|Juanjo/NNP/B-NP/I-PNP/O/juanjo|,/,/O/O/O/,|no/RB/B-VP/O/O/no|sé/VB/I-VP/O/O/ser|que/IN/B-PP/B-PNP/O/que|me/PRP/B-NP/I-PNP/NP-SBJ-1/me|hubiera/MD/B-VP/O/VP-1/haber|pasado/NN/B-NP/O/NP-OBJ-1/pasado|././O/O/O/.
+20110126072742.000|20110126072744.000|CC1|>> ¡Ay chiquita!
+20110126072742.000|20110126072744.000|POS_05|¡Ay/NNP/B-NP/O/O/¡ay|chiquita/NN/I-NP/O/O/chiquita|!/./O/O/O/!
+20110126072744.000|20110126072745.000|CC1|>> ¿Juanjo te salvó?
+20110126072744.000|20110126072745.000|POS_05|¿Juanjo/NNP/B-NP/O/NP-SBJ-1/¿juanjo|te/PRP/I-NP/O/NP-SBJ-1/te|salvó/VB/B-VP/O/VP-1/salvar|?/./O/O/O/?
+20110126072745.000|20110126072750.000|CC1|>> Aunque no me gusta, tengo que reconocer que se portó como un verdadero heroe.
+20110126072745.000|20110126072750.000|POS_05|Aunque/CC/O/O/O/aunque|no/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/NP-SBJ-1/me|gusta/VB/B-VP/O/VP-1/gustar|,/,/O/O/O/,|tengo/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|reconocer/VB/B-VP/O/O/reconocer|que/IN/B-PP/B-PNP/O/que|se/PRP/B-NP/I-PNP/NP-SBJ-2/se|portó/VB/B-VP/O/VP-2/portar|como/IN/B-PP/B-PNP/O/como|un/DT/B-NP/I-PNP/O/un|verdadero/JJ/I-NP/I-PNP/O/verdadero|heroe/NN/I-NP/I-PNP/O/heroe|././O/O/O/.
+20110126072750.000|20110126072757.000|CC1|Es una lástima que no tenga dinero, porque ahora que me salvó la vida sí me casaba con él.
+20110126072750.000|20110126072757.000|POS_05|Es/VB/B-VP/O/VP-1/ser|una/DT/B-NP/O/NP-OBJ-1/un|lástima/NN/I-NP/O/NP-OBJ-1/lástima|que/WP$/O/O/O/que|no/RB/B-VP/O/VP-2/no|tenga/VB/I-VP/O/VP-2/tener|dinero/NN/B-NP/O/NP-OBJ-2/dinero|,/,/O/O/O/,|porque/IN/B-PP/O/O/porque|ahora/RB/B-ADVP/O/O/ahora|que/IN/B-PP/B-PNP/O/que|me/PRP/B-NP/I-PNP/NP-SBJ-3/me|salvó/VB/B-VP/O/VP-3/salvar|la/DT/B-NP/O/NP-OBJ-3*NP-SBJ-4/el|vida/NN/I-NP/O/NP-OBJ-3*NP-SBJ-4/vida|sí/PRP/I-NP/O/NP-OBJ-3*NP-SBJ-4/sí|me/PRP/I-NP/O/NP-OBJ-3*NP-SBJ-4/me|casaba/VB/B-VP/O/VP-4/casar|con/IN/B-PP/B-PNP/O/con|él/PRP/B-NP/I-PNP/O/él|././O/O/O/.
+20110126072757.000|20110126072804.000|CC1|>> Pues en agradecimiento lo menos que deberías hacer es decirle que no lo amas, y que le pones los cuernos con el señor Sandoval.
+20110126072757.000|20110126072804.000|POS_05|Pues/IN/B-PP/B-PNP/O/pues|en/IN/I-PP/I-PNP/O/en|agradecimiento/NN/B-NP/I-PNP/O/agradecimiento|lo/DT/O/O/O/lo|menos/RB/B-ADVP/O/O/menos|que/IN/B-PP/B-PNP/O/que|deberías/NN/B-NP/I-PNP/NP-SBJ-1/deberías|hacer/VB/B-VP/O/VP-1/hacer|es/VB/I-VP/O/VP-1/ser|decirle/NN/B-NP/O/NP-OBJ-1/decirle|que/WP$/O/O/O/que|no/RB/B-ADVP/O/O/no|lo/DT/B-NP/O/O/lo|amas/NNS/I-NP/O/O/ama|,/,/O/O/O/,|y/CC/O/O/O/y|que/WP$/O/O/O/que|le/PRP/B-NP/O/O/le|pones/NN/I-NP/O/O/pones|los/DT/I-NP/O/O/el|cuernos/NNS/I-NP/O/O/cuerno|con/IN/B-PP/B-PNP/O/con|el/DT/B-NP/I-PNP/O/el|señor/NN/I-NP/I-PNP/O/señor|Sandoval/NNP/I-NP/I-PNP/O/sandoval|././O/O/O/.
+20110126072804.000|20110126072806.000|CC1|>> ¡Yo no le pongo los cuernos con el señor Sandoval!
+20110126072804.000|20110126072806.000|POS_05|¡Yo/NNP/B-NP/O/NP-SBJ-1/¡yo|no/RB/I-NP/O/NP-SBJ-1/no|le/PRP/I-NP/O/NP-SBJ-1/le|pongo/VB/B-VP/O/VP-1/poner|los/DT/B-NP/O/NP-OBJ-1/el|cuernos/NNS/I-NP/O/NP-OBJ-1/cuerno|con/IN/B-PP/B-PNP/O/con|el/DT/B-NP/I-PNP/O/el|señor/NN/I-NP/I-PNP/O/señor|Sandoval/NNP/I-NP/I-PNP/O/sandoval|!/./O/O/O/!
+20110126072806.000|20110126072808.000|CC1|>> ¿Qué dijiste?
+20110126072806.000|20110126072808.000|POS_05|¿Qué/NNP/B-NP/O/O/¿qué|dijiste/NN/I-NP/O/O/dijiste|?/./O/O/O/?
+20110126072808.000|20110126072811.000|CC1|>> Que Osvaldo me dejó.
+20110126072808.000|20110126072811.000|POS_05|Que/IN/B-PP/B-PNP/O/que|Osvaldo/NNP/B-NP/I-PNP/NP-SBJ-1/osvaldo|me/PRP/I-NP/I-PNP/NP-SBJ-1/me|dejó/VB/B-VP/O/VP-1/dejar|././O/O/O/.
+20110126072811.000|20110126072820.000|CC1|Dijo que jamás nos vamos a volver a ver, porque ama a su mujer y no quiere seguir engañandola.
+20110126072811.000|20110126072820.000|POS_05|Dijo/VB/B-VP/O/O/decir|que/IN/B-PP/O/O/que|jamás/RB/B-ADVP/O/O/jamás|nos/PRP/B-NP/O/NP-SBJ-1/nos|vamos/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|volver/VB/B-VP/O/O/volver|a/IN/B-PP/O/O/a|ver/VB/B-VP/O/O/ver|,/,/O/O/O/,|porque/IN/B-PP/O/O/porque|ama/VB/B-VP/O/O/amar|a/IN/B-PP/B-PNP/O/a|su/PRP$/B-NP/I-PNP/O/su|mujer/NN/I-NP/I-PNP/O/mujer|y/CC/O/O/O/y|no/RB/B-VP/O/VP-2/no|quiere/VB/I-VP/O/VP-2/querer|seguir/VB/I-VP/O/VP-2/seguir|engañandola/NN/B-NP/O/NP-OBJ-2/engañandola|././O/O/O/.
+20110126072820.000|20110126072826.000|CC1|>> No lo voy a permitir, no lo voy a permitir, no lo voy a permitir, no lo voy a permitir.
+20110126072820.000|20110126072826.000|POS_05|No/RB/B-ADVP/O/O/no|lo/PRP/B-NP/O/NP-SBJ-1/lo|voy/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|permitir/VB/B-VP/O/O/permitir|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|lo/PRP/B-NP/O/NP-SBJ-2/lo|voy/VB/B-VP/O/VP-2/ir|a/IN/B-PP/O/O/a|permitir/VB/B-VP/O/O/permitir|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|lo/PRP/B-NP/O/NP-SBJ-3/lo|voy/VB/B-VP/O/VP-3/ir|a/IN/B-PP/O/O/a|permitir/VB/B-VP/O/O/permitir|,/,/O/O/O/,|no/RB/B-ADVP/O/O/no|lo/PRP/B-NP/O/NP-SBJ-4/lo|voy/VB/B-VP/O/VP-4/ir|a/IN/B-PP/O/O/a|permitir/VB/B-VP/O/O/permitir|././O/O/O/.
+20110126072826.000|20110126072830.000|CC1|No lo voy a permitir.
+20110126072826.000|20110126072830.000|POS_05|No/RB/B-ADVP/O/O/no|lo/PRP/B-NP/O/NP-SBJ-1/lo|voy/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|permitir/VB/B-VP/O/O/permitir|././O/O/O/.
+20110126072830.000|20110126072847.000|CC1|No dejaré que Juan Pablo falte a sus deberes sacerdotales.
+20110126072830.000|20110126072847.000|POS_05|No/RB/B-VP/O/O/no|dejaré/VB/I-VP/O/O/dejar|que/IN/B-PP/B-PNP/O/que|Juan/NNP/B-NP/I-PNP/NP-SBJ-1/juan|Pablo/NNP/I-NP/I-PNP/NP-SBJ-1/pablo|falte/VB/B-VP/O/VP-1/faltar|a/IN/B-PP/B-PNP/O/a|sus/PRP$/B-NP/I-PNP/O/sus|deberes/NNS/I-NP/I-PNP/O/deber|sacerdotales/NN/I-NP/I-PNP/O/sacerdotales|././O/O/O/.
+20110126072847.000|20110126072909.000|CC1|Victoria, Victoria, por ti y para ti, mi señor.
+20110126072847.000|20110126072909.000|POS_05|Victoria/NN/B-NP/O/O/victoria|,/,/I-NP/O/O/,|Victoria/NN/I-NP/O/O/victoria|,/,/O/O/O/,|por/IN/B-PP/B-PNP/O/por|ti/PRP/B-NP/I-PNP/O/ti|y/CC/O/O/O/y|para/IN/B-PP/B-PNP/O/para|ti/PRP/B-NP/I-PNP/O/ti|,/,/I-NP/I-PNP/O/,|mi/PRP$/I-NP/I-PNP/O/mi|señor/NN/I-NP/I-PNP/O/señor|././O/O/O/.
+20110126072909.000|20110126072919.000|CC1|>> Hija, hija.
+20110126072909.000|20110126072919.000|POS_05|Hija/NN/B-NP/O/O/hija|,/,/I-NP/O/O/,|hija/NN/I-NP/O/O/hija|././O/O/O/.
+20110126072919.000|20110126072920.000|CC1|¿Lucy?
+20110126072919.000|20110126072920.000|POS_05|¿Lucy/NNP/B-NP/O/O/¿lucy|?/./O/O/O/?
+20110126072920.000|20110126072923.000|CC1|Te dije que no me pasaras ninguna llamada.
+20110126072920.000|20110126072923.000|POS_05|Te/PRP/B-NP/O/NP-SBJ-1/te|dije/VB/B-VP/O/VP-1/decir|que/IN/B-PP/O/O/que|no/RB/B-ADVP/O/O/no|me/PRP/B-NP/O/O/me|pasaras/NN/I-NP/O/O/pasaras|ninguna/DT/O/O/O/ninguna|llamada/VBN/B-VP/O/O/llamadar|././O/O/O/.
+20110126072923.000|20110126072928.000|CC1|>> Disculpe señora Victoria, pero aquí está una señora que insiste en verla.
+20110126072923.000|20110126072928.000|POS_05|Disculpe/NNP/B-NP/O/O/disculpe|señora/NN/I-NP/O/O/señora|Victoria/NN/I-NP/O/O/victoria|,/,/O/O/O/,|pero/CC/O/O/O/pero|aquí/RB/B-VP/O/VP-1/aquí|está/VB/I-VP/O/VP-1/estar|una/DT/B-NP/O/NP-OBJ-1/un|señora/NN/I-NP/O/NP-OBJ-1/señora|que/WP$/O/O/O/que|insiste/VB/B-VP/O/O/insistir|en/IN/B-PP/B-PNP/O/en|verla/NN/B-NP/I-PNP/O/verla|././O/O/O/.
+20110126072928.000|20110126072929.000|CC1|Dice que es algo muy urgente.
+20110126072928.000|20110126072929.000|POS_05|Dice/VB/B-VP/O/O/decir|que/IN/B-PP/O/O/que|es/VB/B-VP/O/O/ser|algo/DT/O/O/O/algo|muy/RB/B-ADJP/O/O/muy|urgente/JJ/I-ADJP/O/O/urgente|././O/O/O/.
+20110126072929.000|20110126072930.000|CC1|>> ¿Urgente?
+20110126072929.000|20110126072930.000|POS_05|¿Urgente/NNP/B-NP/O/O/¿urgente|?/./O/O/O/?
+20110126072930.000|20110126072941.000|CC1|Está bien, hazla pasar.
+20110126072930.000|20110126072941.000|POS_05|Está/MD/B-VP/O/O/estar|bien/RB/B-ADVP/O/O/bien|,/,/O/O/O/,|hazla/NN/B-NP/O/NP-SBJ-1/hazla|pasar/VB/B-VP/O/VP-1/pasar|././O/O/O/.
+20110126072941.000|20110126072941.000|CC1|>> Buenas tardes, Victoria.
+20110126072941.000|20110126072941.000|POS_05|Buenas/NNP/B-NP/O/O/buenas|tardes/NNS/I-NP/O/O/tard|,/,/I-NP/O/O/,|Victoria/NN/I-NP/O/O/victoria|././O/O/O/.
+END|20110126072950|2011-01-26_0700_US_KMEX_Noticias_34

@@ -1,0 +1,26 @@
+TOP|20110104201300|2011-01-04_2013_US_CampaignAds_Susan_B_Anthony_List
+COL|Communication Studies Archive, UCLA
+UID|e3404a32-10a7-11e2-8844-4fa96d2384bb
+AQD|2012-10-07 1753 UTC
+DUR|0:00:14.94
+VID|320x240
+TTL|RNC Chair Candidates Support an End to Federal Funding of Planned Parenthood
+URL|http://youtube.com/watch?v=w83gdg24AOs
+TTS|Youtube English machine transcript 2012-10-07 1753 UTC
+CMT|
+HED|RNC Chair Candidates Support an End to Federal Funding of Planned Parenthood
+LAN|ENG
+LBT|2011-01-04 15:13 America/New_York
+SEG_02|2014-02-25 00:28|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+SMT_01|2014-07-28 02:32|Source_Program=Pattern 2.6, seg-sentiment|Source_Person=Tom De Smedt
+SMT_02|2014-07-28 02:32|Source_Program=SentiWordNet 3.0, seg-sentiment|Source_Person=Andrea Esuli
+POS_01|2014-08-09 17:57|Source_Program=MBSP 1.4, PartsOfSpeech-MBSP-05.py|Source_Person=Walter Daelemans, FFS|Codebook=Treebank II
+POS_02|2014-08-12 14:50|Source_Program=stanford-postagger 3.4, PartsOfSpeech-StanfordNLP-02.py|Source_Person=Kristina Toutanova, FFS|Codebook=Treebank II
+NER_03|2016-12-18 22:08|Source_Program=stanford-ner 3.4, NER-StanfordNLP-03.py|Source_Person=Jenny Rose Finkel, FFS|Codebook=Category=Entity
+20110104201300.470|20110104201308.210|SEG_02|Type=Story|Score=1.0
+20110104201300.470|20110104201308.210|TR1|now it's interesting potentially a quick one allegation for completely defunding planned parenthood and by absolutely and we didn't cancer killer case and sorry just yes yes u_s_
+20110104201300.470|20110104201308.210|POS_02|now/RB|it's/VBZ|interesting/JJ|potentially/RB|a/DT|quick/JJ|one/CD|allegation/NN|for/IN|completely/RB|defunding/VBG|planned/NNP|parenthood/NNP|and/CC|by/IN|absolutely/RB|and/CC|we/PRP|didn't/VBP|cancer/NN|killer/NN|case/NN|and/CC|sorry/JJ|just/RB|yes/RB|yes/RB|u/s//JJ|
+20110104201300.470|20110104201308.210|POS_01|now/RB/I-ADVP/O/now|it/PRP/I-NP/O/it|'s/VBZ/I-VP/O/'s|interesting/JJ/I-ADJP/O/interesting|potentially/RB/I-NP/O/potentially|a/DT/I-NP/O/a|quick/JJ/I-NP/O/quick|one/CD/I-NP/O/one|allegation/NN/I-NP/O/allegation|for/IN/I-PP/B-PNP/for|completely/RB/I-NP/I-PNP/completely|defunding/JJ/I-NP/I-PNP/defunding|planned/JJ/I-NP/I-PNP/planned|parenthood/NN/I-NP/I-PNP/parenthood|and/CC/O/O/and|by/IN/I-PP/O/by|absolutely/RB/I-ADVP/O/absolutely|and/CC/O/O/and|we/PRP/I-NP/O/we|did/VBD/I-VP/O/do|not/RB/I-VP/O/not|cancer/VB/I-VP/O/cancer|killer/NN/I-NP/O/killer|case/NN/I-NP/O/case|and/CC/O/O/and|sorry/JJ/I-NP/O/sorry|just/RB/I-NP/O/just|yes/UH/I-INTJ/O/yes|yes/UH/I-INTJ/O/yes|u_s/NNS/I-NP/O/u_|_/:/O/O/_
+20110104201300.470|20110104201308.210|SMT_01|0.126666666667|0.66|interesting|0.5|0.5|potentially quick|0.333333333333|0.5|completely|0.1|0.4|absolutely|0.2|0.9|sorry|-0.5|1.0
+20110104201300.470|20110104201308.210|SMT_02|interesting|0.375|0.375|quick|0.0|0.0|one|-0.25|0.25|planned|0.0|0.0|sorry|-0.625|0.625|just|0.625|0.625
+END|20110104201300|2011-01-04_2013_US_CampaignAds_Susan_B_Anthony_List

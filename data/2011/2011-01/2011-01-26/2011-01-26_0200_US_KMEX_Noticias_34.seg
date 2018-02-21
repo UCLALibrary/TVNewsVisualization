@@ -1,0 +1,357 @@
+TOP|20110126020001|2011-01-26_0200_US_KMEX_Noticias_34
+COL|Communication Studies Archive, UCLA
+UID|277ec978-28f4-11e0-a6ec-001517add6f2
+DUR|0:29:50.15
+VID|640x480
+CMT|
+LAN|SPA
+LBT|2011-01-25 18:00 America/Los_Angeles
+SEG_01|2014-02-14 18:23:14|Source_Program=commercial_detection.py|Source_Person=Weixin Li
+SEG_02|2014-02-25 00:41|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+POS_05|2015-02-05 15:36|Source_Program=Pattern.de 2.6, PartsOfSpeech-pattern_es-01.py|Source_Person=Tom De Smedt, FFS|Codebook=Treebank II
+20110126020031.000|20110126020226.000|SEG|Type=Story|Score=1.0
+20110126020031.000|20110126020054.000|CC1|que tal buenas noches desde el discurso será en la camara!
+20110126020031.000|20110126020054.000|POS_05|que/WP$/O/O/O/que|tal/DT/B-NP/O/O/tal|buenas/JJ/I-NP/O/O/bueno|noches/NNS/I-NP/O/O/noch|desde/IN/B-PP/B-PNP/O/desde|el/DT/B-NP/I-PNP/NP-SBJ-1/el|discurso/NN/I-NP/I-PNP/NP-SBJ-1/discurso|será/VB/B-VP/O/VP-1/ser|en/IN/B-PP/B-PNP/O/en|la/PRP/B-NP/I-PNP/NP-SBJ-2/la|camara/VB/B-VP/O/VP-2/camar|!/./O/O/O/!
+20110126020045.000|20110126020108.000|CC1|y el Presidente Barack Obama ha mejorado su popularidad.
+20110126020045.000|20110126020108.000|POS_05|y/CC/O/O/O/y|el/DT/B-NP/O/NP-SBJ-1/el|Presidente/NNP/I-NP/O/NP-SBJ-1/presidente|Barack/NNP/I-NP/O/NP-SBJ-1/barack|Obama/NNP/I-NP/O/NP-SBJ-1/obama|ha/MD/B-VP/O/VP-1/har|mejorado/VBN/I-VP/O/VP-1/mejorar|su/PRP$/B-NP/O/NP-OBJ-1/su|popularidad/NN/I-NP/O/NP-OBJ-1/popularidad|././O/O/O/.
+20110126020108.000|20110126020121.000|CC1|>> sin embargo tiene el gran desafio de enfrentarse a un panorama muy distinto.
+20110126020108.000|20110126020121.000|POS_05|sin/IN/B-PP/B-PNP/O/sin|embargo/NN/B-NP/I-PNP/NP-SBJ-1/embargo|tiene/VB/B-VP/O/VP-1/tener|el/DT/B-NP/O/NP-OBJ-1/el|gran/JJ/I-NP/O/NP-OBJ-1/gran|desafio/NN/I-NP/O/NP-OBJ-1/desafio|de/IN/B-PP/B-PNP/O/de|enfrentarse/NN/B-NP/I-PNP/O/enfrentarse|a/IN/B-PP/B-PNP/O/a|un/DT/B-NP/I-PNP/O/un|panorama/NN/I-NP/I-PNP/O/panorama|muy/RB/I-NP/I-PNP/O/muy|distinto/JJ/I-NP/I-PNP/O/distinto|././O/O/O/.
+20110126020121.000|20110126020143.000|CC1|>> Fuente de la Casa Blanca nos han manifestado sobre el papel de los inmigrantes tienen en el desarrollo de esta pais PAíS:: .
+20110126020121.000|20110126020143.000|POS_05|Fuente/NNP/B-NP/O/O/fuente|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/NP-SBJ-1/el|Casa/NN/I-NP/I-PNP/NP-SBJ-1/casa|Blanca/NNP/I-NP/I-PNP/NP-SBJ-1/blanca|nos/PRP/I-NP/I-PNP/NP-SBJ-1/nos|han/MD/B-VP/O/VP-1/har|manifestado/VBN/I-VP/O/VP-1/manifestar|sobre/IN/B-PP/B-PNP/O/sobre|el/DT/B-NP/I-PNP/O/el|papel/NN/I-NP/I-PNP/O/papel|de/IN/B-PP/B-PNP/O/de|los/DT/B-NP/I-PNP/NP-SBJ-2/el|inmigrantes/NNS/I-NP/I-PNP/NP-SBJ-2/inmigrante|tienen/VB/B-VP/O/VP-2/tener|en/IN/B-PP/B-PNP/O/en|el/DT/B-NP/I-PNP/O/el|desarrollo/NN/I-NP/I-PNP/O/desarrollo|de/IN/B-PP/B-PNP/O/de|esta/DT/B-NP/I-PNP/O/esta|pais/NN/I-NP/I-PNP/O/pais|PAíS/NN/I-NP/I-PNP/O/país|:/:/O/O/O/:|:/:/O/O/O/:|././O/O/O/.
+20110126020143.000|20110126020158.000|CC1|>> Esta noche el va a redefinir su presencia de cara a los proximos años .
+20110126020143.000|20110126020158.000|POS_05|Esta/DT/B-NP/O/NP-SBJ-1/esta|noche/NN/I-NP/O/NP-SBJ-1/noche|el/PRP/I-NP/O/NP-SBJ-1/el|va/VB/B-VP/O/VP-1/ir|a/IN/B-PP/O/O/a|redefinir/VB/B-VP/O/VP-2/redefinir|su/PRP$/B-NP/O/NP-OBJ-2/su|presencia/NN/I-NP/O/NP-OBJ-2/presencia|de/IN/B-PP/B-PNP/O/de|cara/NN/B-NP/I-PNP/O/cara|a/IN/B-PP/B-PNP/O/a|los/DT/B-NP/I-PNP/O/el|proximos/NN/I-NP/I-PNP/O/proximos|años/NNS/I-NP/I-PNP/O/año|././O/O/O/.
+20110126020158.000|20110126020206.000|CC1|>> Lourdes buenas noches!. 
+20110126020158.000|20110126020206.000|POS_05|Lourdes/NNP/B-NP/O/O/lourdes|buenas/JJ/I-NP/O/O/bueno|noches/NNS/I-NP/O/O/noch|!/./O/O/O/!|././O/O/O/.
+20110126020206.000|20110126020220.000|CC1|>> Una de las novedades seran que muchos sñ juntarn en pareja.
+20110126020206.000|20110126020220.000|POS_05|Una/DT/O/O/O/un|de/IN/B-PP/B-PNP/O/de|las/DT/B-NP/I-PNP/O/el|novedades/NNS/I-NP/I-PNP/O/novedad|seran/NN/I-NP/I-PNP/O/seran|que/IN/B-PP/B-PNP/O/que|muchos/DT/B-NP/I-PNP/O/muchos|sñ/NN/I-NP/I-PNP/O/sñ|juntarn/NN/I-NP/I-PNP/O/juntarn|en/IN/B-PP/B-PNP/O/en|pareja/NN/B-NP/I-PNP/O/pareja|././O/O/O/.
+20110126020220.000|20110126020226.000|CC1|>> Los republicanos y 
+20110126020220.000|20110126020226.000|POS_05|Los/DT/O/O/O/el|republicanos/JJ/B-ADJP/O/O/republicano|y/CC/O/O/O/y
+20110126020226.000|20110126020408.000|SEG_01|Type=Commercial|Score=0.3087627947017678
+20110126020226.000|20110126020226.000|CC1|democratas.
+20110126020226.000|20110126020226.000|POS_05|democratas/NN/B-NP/O/O/democratas|././O/O/O/.
+20110126020226.000|20110126020234.000|CC1|>> Es un simbolo de querer trabajar juntos.
+20110126020226.000|20110126020234.000|POS_05|Es/VB/B-VP/O/VP-1/ser|un/DT/B-NP/O/NP-OBJ-1/un|simbolo/NN/I-NP/O/NP-OBJ-1/simbolo|de/IN/B-PP/O/O/de|querer/VB/B-VP/O/O/querer|trabajar/VB/I-VP/O/O/trabajar|juntos/JJ/B-ADJP/O/O/junto|././O/O/O/.
+20110126020234.000|20110126020247.000|CC1|>> Están bromeando parejas y con quien sentarse de partido opuesto.
+20110126020234.000|20110126020247.000|POS_05|Están/MD/B-VP/O/VP-1/estar|bromeando/VBN/I-VP/O/VP-1/bromear|parejas/NNS/B-NP/O/NP-OBJ-1/pareja|y/CC/O/O/O/y|con/IN/B-PP/O/O/con|quien/WP$/O/O/O/quien|sentarse/NN/B-NP/O/O/sentarse|de/IN/B-PP/B-PNP/O/de|partido/NN/B-NP/I-PNP/NP-SBJ-2/partido|opuesto/VBN/B-VP/I-PNP/VP-2/oponer|././O/O/O/.
+20110126020247.000|20110126020254.000|CC1|>> tradicionalmente sñ ha separado a la mitad.
+20110126020247.000|20110126020254.000|POS_05|tradicionalmente/RB/B-ADVP/O/O/tradicionalmente|sñ/NN/B-NP/O/NP-SBJ-1/sñ|ha/MD/B-VP/O/VP-1/har|separado/VBN/I-VP/O/VP-1/separar|a/IN/B-PP/B-PNP/O/a|la/DT/B-NP/I-PNP/O/el|mitad/NN/I-NP/I-PNP/O/mitad|././O/O/O/.
+20110126020254.000|20110126020309.000|CC1|>> El presidente dira de la necesidad de la cooperacion y la union.
+20110126020254.000|20110126020309.000|POS_05|El/DT/B-NP/O/O/el|presidente/NN/I-NP/O/O/presidente|dira/NN/I-NP/O/O/dira|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|necesidad/NN/I-NP/I-PNP/O/necesidad|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|cooperacion/NN/I-NP/I-PNP/O/cooperacion|y/CC/O/O/O/y|la/DT/B-NP/O/O/el|union/NN/I-NP/O/O/union|././O/O/O/.
+20110126020309.000|20110126020332.000|CC1|>> la tragedia de Touson nos recuerda que somos parte de algo mayor o más que un partido politico.
+20110126020309.000|20110126020332.000|POS_05|la/DT/B-NP/O/O/el|tragedia/NN/I-NP/O/O/tragedia|de/IN/B-PP/B-PNP/O/de|Touson/NNP/B-NP/I-PNP/NP-SBJ-1/touson|nos/PRP/I-NP/I-PNP/NP-SBJ-1/nos|recuerda/VB/B-VP/O/VP-1/recordar|que/IN/B-PP/O/O/que|somos/VB/B-VP/O/VP-2/ser|parte/NN/B-NP/O/NP-OBJ-2/parte|de/IN/B-PP/O/O/de|algo/DT/O/O/O/algo|mayor/JJ/B-ADJP/O/O/mayor|o/CC/O/O/O/o|más/RB/B-ADVP/O/O/más|que/IN/B-PP/B-PNP/O/que|un/DT/B-NP/I-PNP/O/un|partido/NN/I-NP/I-PNP/O/partido|politico/NN/I-NP/I-PNP/O/politico|././O/O/O/.
+20110126020332.000|20110126020345.000|CC1|>> Sñ dispondre un asiento vacío para recordar a Gaby que ya no esta con nosotros.
+20110126020332.000|20110126020345.000|POS_05|Sñ/NNP/B-NP/O/O/sñ|dispondre/NN/I-NP/O/O/dispondre|un/DT/I-NP/O/O/un|asiento/NN/I-NP/O/O/asiento|vacío/NN/I-NP/O/O/vacío|para/IN/B-PP/O/O/para|recordar/VB/B-VP/O/O/recordar|a/IN/B-PP/B-PNP/O/a|Gaby/NNP/B-NP/I-PNP/O/gaby|que/WP$/O/O/O/que|ya/RB/B-ADVP/O/O/ya|no/RB/I-ADVP/O/O/no|esta/DT/O/O/O/esta|con/IN/B-PP/B-PNP/O/con|nosotros/PRP/B-NP/I-PNP/O/nosotros|././O/O/O/.
+20110126020345.000|20110126020401.000|CC1|>> tambiñn sobre la economia y como invertir en educacion, innovacion.
+20110126020345.000|20110126020401.000|POS_05|tambiñn/NN/B-NP/O/O/tambiñn|sobre/IN/B-PP/B-PNP/O/sobre|la/DT/B-NP/I-PNP/O/el|economia/NN/I-NP/I-PNP/O/economia|y/CC/O/O/O/y|como/IN/B-PP/O/O/como|invertir/VB/B-VP/O/O/invertir|en/IN/B-PP/B-PNP/O/en|educacion/NN/B-NP/I-PNP/O/educacion|,/,/I-NP/I-PNP/O/,|innovacion/NN/I-NP/I-PNP/O/innovacion|././O/O/O/.
+20110126020401.000|20110126020408.000|CC1|>> Reconstrir el pais PAíS: .
+20110126020401.000|20110126020408.000|POS_05|Reconstrir/NNP/B-NP/O/O/reconstrir|el/DT/I-NP/O/O/el|pais/NN/I-NP/O/O/pais|PAíS/NN/I-NP/O/O/país|:/:/O/O/O/:|././O/O/O/.
+20110126020408.000|20110126021142.000|SEG|Type=Story|Score=0.7821991978994072
+20110126020408.000|20110126020419.000|CC1|>> hablara de como reducir el deficit .
+20110126020408.000|20110126020419.000|POS_05|hablara/NN/B-NP/O/O/hablara|de/IN/B-PP/B-PNP/O/de|como/IN/I-PP/I-PNP/O/como|reducir/VB/B-VP/O/VP-1/reducir|el/DT/B-NP/O/NP-OBJ-1/el|deficit/NN/I-NP/O/NP-OBJ-1/deficit|././O/O/O/.
+20110126020419.000|20110126020432.000|CC1|>> Esos son algunas de las cosas que el Presidente Barack Obama hablara!. 
+20110126020419.000|20110126020432.000|POS_05|Esos/DT/O/O/O/esos|son/VB/B-VP/O/O/ser|algunas/DT/O/O/O/algunas|de/IN/B-PP/B-PNP/O/de|las/DT/B-NP/I-PNP/O/el|cosas/NNS/I-NP/I-PNP/O/cosa|que/WP$/O/O/O/que|el/DT/B-NP/O/O/el|Presidente/NNP/I-NP/O/O/presidente|Barack/NNP/I-NP/O/O/barack|Obama/NNP/I-NP/O/O/obama|hablara/NN/I-NP/O/O/hablara|!/./O/O/O/!|././O/O/O/.
+20110126020432.000|20110126020445.000|CC1|>> Muchos estudiantes que no estas documentados tendrá derecho a educacion.
+20110126020432.000|20110126020445.000|POS_05|Muchos/DT/B-NP/O/O/muchos|estudiantes/NNS/I-NP/O/O/estudiante|que/WP$/O/O/O/que|no/RB/B-ADVP/O/O/no|estas/DT/O/O/O/estas|documentados/VBN/B-VP/O/VP-1/documentados|tendrá/VB/I-VP/O/VP-1/tener|derecho/NN/B-NP/O/NP-OBJ-1/derecho|a/IN/B-PP/B-PNP/O/a|educacion/NN/B-NP/I-PNP/O/educacion|././O/O/O/.
+20110126020445.000|20110126020447.000|CC1|>> Muchas gracias!. 
+20110126020445.000|20110126020447.000|POS_05|Muchas/DT/O/O/O/muchas|gracias/IN/B-PP/O/O/gracias|!/./O/O/O/!|././O/O/O/.
+20110126020447.000|20110126020453.000|CC1|>> Esta noche quermos que usted sñ una .
+20110126020447.000|20110126020453.000|POS_05|Esta/DT/B-NP/O/O/esta|noche/NN/I-NP/O/O/noche|quermos/NN/I-NP/O/O/quermos|que/WP$/O/O/O/que|usted/PRP/B-NP/O/O/usted|sñ/NN/I-NP/O/O/sñ|una/DT/O/O/O/un|././O/O/O/.
+20110126020453.000|20110126020455.000|CC1|>> Como? muy facil.
+20110126020453.000|20110126020455.000|POS_05|Como/IN/B-PP/O/O/como|?/./O/O/O/?
+20110126020453.000|20110126020455.000|POS_05|muy/RB/B-ADJP/O/O/muy|facil/JJ/I-ADJP/O/O/facil|././O/O/O/.
+20110126020455.000|20110126020508.000|CC1|>> Puede hacerlo en facebook o nuestra pagina de Univision.
+20110126020455.000|20110126020508.000|POS_05|Puede/VB/B-VP/O/VP-1/poder|hacerlo/NN/B-NP/O/NP-OBJ-1/hacerlo|en/IN/B-PP/B-PNP/O/en|facebook/NN/B-NP/I-PNP/NP-SBJ-2/facebook|o/CC/I-NP/I-PNP/NP-SBJ-2/o|nuestra/PRP$/I-NP/I-PNP/NP-SBJ-2/nuestra|pagina/VB/B-VP/O/VP-2/paginar|de/IN/B-PP/B-PNP/O/de|Univision/NNP/B-NP/I-PNP/O/univision|././O/O/O/.
+20110126020508.000|20110126020522.000|CC1|>> Tambiñn para hablarnos nos acompaña Victoria la profesora de ciencias politicas.
+20110126020508.000|20110126020522.000|POS_05|Tambiñn/NNP/B-NP/O/O/tambiñn|para/IN/B-PP/B-PNP/O/para|hablarnos/NN/B-NP/I-PNP/NP-SBJ-1/hablarnos|nos/PRP/I-NP/I-PNP/NP-SBJ-1/nos|acompaña/VB/B-VP/O/VP-1/acompañar|Victoria/NN/B-NP/O/NP-OBJ-1/victoria|la/DT/I-NP/O/NP-OBJ-1/el|profesora/NN/I-NP/O/NP-OBJ-1/profesora|de/IN/B-PP/B-PNP/O/de|ciencias/NNS/B-NP/I-PNP/O/ciencia|politicas/NN/I-NP/I-PNP/O/politicas|././O/O/O/.
+20110126020522.000|20110126020525.000|CC1|>>  gracias por venir.
+20110126020522.000|20110126020525.000|POS_05|gracias/IN/B-PP/B-PNP/O/gracias|por/IN/I-PP/I-PNP/O/por|venir/VB/B-VP/O/O/venir|././O/O/O/.
+20110126020525.000|20110126020541.000|CC1|>> El Presidente Barack Obama hablara a todo el pueblo y dígame que temas dira el para convencer al pueblo.
+20110126020525.000|20110126020541.000|POS_05|El/DT/B-NP/O/O/el|Presidente/NNP/I-NP/O/O/presidente|Barack/NNP/I-NP/O/O/barack|Obama/NNP/I-NP/O/O/obama|hablara/NN/I-NP/O/O/hablara|a/IN/B-PP/B-PNP/O/a|todo/DT/B-NP/I-PNP/O/todo|el/DT/I-NP/I-PNP/O/el|pueblo/NN/I-NP/I-PNP/O/pueblo|y/CC/O/O/O/y|dígame/NN/B-NP/O/O/dígame|que/WP$/O/O/O/que|temas/NNS/B-NP/O/O/tema|dira/NN/I-NP/O/O/dira|el/DT/O/O/O/el|para/IN/B-PP/O/O/para|convencer/VB/B-VP/O/VP-1/convencer|al/NN/B-NP/O/NP-OBJ-1/al|pueblo/NN/I-NP/O/NP-OBJ-1/pueblo|././O/O/O/.
+20110126020541.000|20110126020556.000|CC1|>> Pues para empezar empleos empleos y empleos y sobre la recuperacion de la economia.
+20110126020541.000|20110126020556.000|POS_05|Pues/IN/B-PP/B-PNP/O/pues|para/IN/I-PP/I-PNP/O/para|empezar/VB/B-VP/O/VP-1/empezar|empleos/NNS/B-NP/O/NP-OBJ-1/empleo|empleos/JJ/I-NP/O/NP-OBJ-1/empleo|y/CC/O/O/O/y|empleos/NNS/B-NP/O/O/empleo|y/CC/O/O/O/y|sobre/IN/B-PP/B-PNP/O/sobre|la/PRP/B-NP/I-PNP/NP-SBJ-2/la|recuperacion/VB/B-VP/O/VP-2/recuperacion|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|economia/NN/I-NP/I-PNP/O/economia|././O/O/O/.
+20110126020556.000|20110126020605.000|CC1|>> Tambiñn al mismo tiempo que reducira el deficit.
+20110126020556.000|20110126020605.000|POS_05|Tambiñn/NNP/B-NP/O/O/tambiñn|al/NN/I-NP/O/O/al|mismo/JJ/I-NP/O/O/mismo|tiempo/NN/I-NP/O/O/tiempo|que/WP$/O/O/O/que|reducira/VB/B-VP/O/VP-1/reducirar|el/DT/B-NP/O/NP-OBJ-1/el|deficit/NN/I-NP/O/NP-OBJ-1/deficit|././O/O/O/.
+20110126020605.000|20110126020614.000|CC1|>> En estos momentos el Presidente Barack Obama entra al congreso.
+20110126020605.000|20110126020614.000|POS_05|En/IN/B-PP/B-PNP/O/en|estos/DT/B-NP/I-PNP/O/estos|momentos/NNS/I-NP/I-PNP/O/momento|el/DT/B-NP/I-PNP/NP-SBJ-1/el|Presidente/NNP/I-NP/I-PNP/NP-SBJ-1/presidente|Barack/NNP/I-NP/I-PNP/NP-SBJ-1/barack|Obama/NNP/I-NP/I-PNP/NP-SBJ-1/obama|entra/VB/B-VP/O/VP-1/entrar|al/NN/B-NP/O/NP-OBJ-1/al|congreso/NN/I-NP/O/NP-OBJ-1/congreso|././O/O/O/.
+20110126020614.000|20110126020621.000|CC1|>> Es el segundo discurso.
+20110126020614.000|20110126020621.000|POS_05|Es/VB/B-VP/O/VP-1/ser|el/DT/B-NP/O/NP-OBJ-1/el|segundo/JJ/I-NP/O/NP-OBJ-1/segundo|discurso/NN/I-NP/O/NP-OBJ-1/discurso|././O/O/O/.
+20110126020621.000|20110126020635.000|CC1|>> El ultimo duro 96 minutos pero ahora es un panorama muy distinto.
+20110126020621.000|20110126020635.000|POS_05|El/PRP/B-NP/O/NP-SBJ-1/el|ultimo/VB/B-VP/O/VP-1/ultimar|duro/JJ/B-ADJP/O/O/duro|96/CD/B-NP/O/O/96|minutos/NNS/I-NP/O/O/minuto|pero/CC/O/O/O/pero|ahora/RB/B-VP/O/VP-2/ahora|es/VB/I-VP/O/VP-2/ser|un/DT/B-NP/O/NP-OBJ-2/un|panorama/NN/I-NP/O/NP-OBJ-2/panorama|muy/RB/I-NP/O/NP-OBJ-2/muy|distinto/JJ/I-NP/O/NP-OBJ-2/distinto|././O/O/O/.
+20110126020635.000|20110126020639.000|CC1|>> Ahora vemos caras nuevas .
+20110126020635.000|20110126020639.000|POS_05|Ahora/RB/B-VP/O/VP-1/ahora|vemos/VB/I-VP/O/VP-1/ver|caras/NNS/B-NP/O/NP-OBJ-1/cara|nuevas/JJ/I-NP/O/NP-OBJ-1/nuevo|././O/O/O/.
+20110126020639.000|20110126020643.000|CC1|>> Caras republicanas.
+20110126020639.000|20110126020643.000|POS_05|Caras/NNP/B-NP/O/O/caras|republicanas/JJ/I-NP/O/O/republicano|././O/O/O/.
+20110126020643.000|20110126020653.000|CC1|>> Ahora el presidente tiene que establecer un tono lateral.
+20110126020643.000|20110126020653.000|POS_05|Ahora/RB/B-ADVP/O/O/ahora|el/DT/B-NP/O/NP-SBJ-1/el|presidente/NN/I-NP/O/NP-SBJ-1/presidente|tiene/VB/B-VP/O/VP-1/tener|que/IN/B-PP/O/O/que|establecer/VB/B-VP/O/VP-2/establecer|un/DT/B-NP/O/NP-OBJ-2/un|tono/NN/I-NP/O/NP-OBJ-2/tono|lateral/JJ/I-NP/O/NP-OBJ-2/lateral|././O/O/O/.
+20110126020653.000|20110126020707.000|CC1|>> Pues acá hay voces republicanas que ayudaran a gobernar.
+20110126020653.000|20110126020707.000|POS_05|Pues/IN/B-PP/B-PNP/O/pues|acá/NN/B-NP/I-PNP/NP-SBJ-1/acá|hay/VB/B-VP/O/VP-1/haber|voces/NNS/B-NP/O/NP-OBJ-1/voz|republicanas/JJ/I-NP/O/NP-OBJ-1/republicano|que/WP$/O/O/O/que|ayudaran/NN/B-NP/O/O/ayudaran|a/IN/B-PP/O/O/a|gobernar/VB/B-VP/O/O/gobernar|././O/O/O/.
+20110126020707.000|20110126020722.000|CC1|>> hay presión tanto de frente como detras segun las personas que tendrá sentada a su alrededor.
+20110126020707.000|20110126020722.000|POS_05|hay/VB/B-VP/O/VP-1/haber|presión/NN/B-NP/O/NP-OBJ-1/presión|tanto/RB/I-NP/O/NP-OBJ-1/tanto|de/IN/B-PP/B-PNP/O/de|frente/IN/I-PP/I-PNP/O/frente|como/JJ/B-NP/I-PNP/O/como|detras/NN/I-NP/I-PNP/O/detras|segun/NN/I-NP/I-PNP/O/segun|las/DT/B-NP/I-PNP/O/el|personas/NNS/I-NP/I-PNP/O/persona|que/WP$/O/O/O/que|tendrá/VB/B-VP/O/O/tener|sentada/VBN/I-VP/O/O/sentadar|a/IN/B-PP/B-PNP/O/a|su/PRP$/B-NP/I-PNP/O/su|alrededor/NN/I-NP/I-PNP/O/alrededor|././O/O/O/.
+20110126020722.000|20110126020739.000|CC1|>> en cuanto a la economia el Presidente Barack Obama quiere crear empleos.
+20110126020722.000|20110126020739.000|POS_05|en/IN/B-PP/B-PNP/O/en|cuanto/IN/I-PP/I-PNP/O/cuanto|a/IN/I-PP/I-PNP/O/a|la/DT/B-NP/I-PNP/O/el|economia/NN/I-NP/I-PNP/O/economia|el/DT/B-NP/I-PNP/NP-SBJ-1/el|Presidente/NNP/I-NP/I-PNP/NP-SBJ-1/presidente|Barack/NNP/I-NP/I-PNP/NP-SBJ-1/barack|Obama/NNP/I-NP/I-PNP/NP-SBJ-1/obama|quiere/VB/B-VP/O/VP-1/querer|crear/VB/I-VP/O/VP-1/crear|empleos/NNS/B-NP/O/NP-OBJ-1/empleo|././O/O/O/.
+20110126020739.000|20110126020748.000|CC1|>> Los invitados esta saludando a los miembros del congreso.
+20110126020739.000|20110126020748.000|POS_05|Los/DT/B-NP/O/O/el|invitados/NNS/I-NP/O/O/invitado|esta/DT/O/O/O/esta|saludando/VBG/B-VP/O/O/saludar|a/IN/B-PP/B-PNP/O/a|los/DT/B-NP/I-PNP/O/el|miembros/NNS/I-NP/I-PNP/O/miembro|del/NN/I-NP/I-PNP/O/del|congreso/NN/I-NP/I-PNP/O/congreso|././O/O/O/.
+20110126020748.000|20110126020808.000|CC1|>>  como deciamos anteriormente están en parejas tanto democratas como republicanos.
+20110126020748.000|20110126020808.000|POS_05|como/IN/B-PP/B-PNP/O/como|deciamos/NN/B-NP/I-PNP/NP-SBJ-1/deciamos|anteriormente/RB/I-NP/I-PNP/NP-SBJ-1/anteriormente|están/MD/B-VP/O/VP-1/estar|en/IN/B-PP/B-PNP/O/en|parejas/NNS/B-NP/I-PNP/O/pareja|tanto/RB/I-NP/I-PNP/O/tanto|democratas/NN/I-NP/I-PNP/O/democratas|como/IN/B-PP/O/O/como|republicanos/JJ/B-ADJP/O/O/republicano|././O/O/O/.
+20110126020808.000|20110126020817.000|CC1|>> entre los invitados especiales junto con la primera dama.
+20110126020808.000|20110126020817.000|POS_05|entre/IN/B-PP/B-PNP/O/entre|los/DT/B-NP/I-PNP/O/el|invitados/NNS/I-NP/I-PNP/O/invitado|especiales/JJ/I-NP/I-PNP/O/especial|junto/IN/B-PP/B-PNP/O/junto|con/IN/I-PP/I-PNP/O/con|la/DT/B-NP/I-PNP/O/el|primera/JJ/I-NP/I-PNP/O/primero|dama/NN/I-NP/I-PNP/O/dama|././O/O/O/.
+20110126020817.000|20110126020828.000|CC1|>> Hay varias personas representativas.
+20110126020817.000|20110126020828.000|POS_05|Hay/VB/B-VP/O/VP-1/haber|varias/DT/B-NP/O/NP-OBJ-1/varias|personas/NNS/I-NP/O/NP-OBJ-1/persona|representativas/JJ/I-NP/O/NP-OBJ-1/representativo|././O/O/O/.
+20110126020828.000|20110126020837.000|CC1|>> Hay padres y familiares de la niña que mataron en ese atentado.
+20110126020828.000|20110126020837.000|POS_05|Hay/VB/B-VP/O/VP-1/haber|padres/NNS/B-NP/O/NP-OBJ-1/padr|y/CC/O/O/O/y|familiares/JJ/B-ADJP/O/O/familiar|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|niña/NN/I-NP/I-PNP/O/niña|que/WP$/O/O/O/que|mataron/VB/B-VP/O/O/matar|en/IN/B-PP/B-PNP/O/en|ese/DT/B-NP/I-PNP/O/ese|atentado/NN/I-NP/I-PNP/O/atentado|././O/O/O/.
+20110126020837.000|20110126020900.000|CC1|>> Hay dos hispanos Daniel Hernandez el Heroe que recordaran que fue el joven que era pasante de la congresista que le salvo la vida.
+20110126020837.000|20110126020900.000|POS_05|Hay/VB/B-VP/O/VP-1/haber|dos/CD/B-NP/O/NP-OBJ-1/dos|hispanos/NN/I-NP/O/NP-OBJ-1/hispanos|Daniel/NNP/I-NP/O/NP-OBJ-1/daniel|Hernandez/NNP/I-NP/O/NP-OBJ-1/hernandez|el/DT/B-NP/O/O/el|Heroe/NNP/I-NP/O/O/heroe|que/WP$/O/O/O/que|recordaran/NN/B-NP/O/O/recordaran|que/WP$/O/O/O/que|fue/VB/B-VP/O/VP-2/ser|el/DT/B-NP/O/NP-OBJ-2/el|joven/NN/I-NP/O/NP-OBJ-2/joven|que/WP$/O/O/O/que|era/VB/B-VP/O/O/ser|pasante/JJ/B-ADJP/O/O/pasante|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|congresista/NN/I-NP/I-PNP/O/congresista|que/WP$/O/O/O/que|le/PRP/B-NP/O/O/le|salvo/IN/B-PP/B-PNP/O/salvo|la/DT/B-NP/I-PNP/O/el|vida/NN/I-NP/I-PNP/O/vida|././O/O/O/.
+20110126020900.000|20110126020907.000|CC1|>>  y hoy es su cumpleaños.
+20110126020900.000|20110126020907.000|POS_05|y/CC/O/O/O/y|hoy/RB/B-VP/O/VP-1/hoy|es/VB/I-VP/O/VP-1/ser|su/PRP$/B-NP/O/NP-OBJ-1/su|cumpleaños/NN/I-NP/O/NP-OBJ-1/cumpleaños|././O/O/O/.
+20110126020907.000|20110126020925.000|CC1|>> hoy ella envio por twitter un saludo a este heroe y su primer mensaje que ella envia por esta via.
+20110126020907.000|20110126020925.000|POS_05|hoy/RB/B-ADVP/O/O/hoy|ella/PRP/B-NP/O/O/ella|envio/NN/I-NP/O/O/envio|por/IN/B-PP/B-PNP/O/por|twitter/NN/B-NP/I-PNP/O/twitter|un/DT/I-NP/I-PNP/O/un|saludo/NN/I-NP/I-PNP/O/saludo|a/IN/B-PP/B-PNP/O/a|este/DT/B-NP/I-PNP/O/este|heroe/NN/I-NP/I-PNP/O/heroe|y/CC/O/O/O/y|su/PRP$/B-NP/O/O/su|primer/JJ/I-NP/O/O/primer|mensaje/NN/B-NP/O/O/mensaje|que/WP$/O/O/O/que|ella/PRP/B-NP/O/O/ella|envia/NN/I-NP/O/O/envia|por/IN/B-PP/B-PNP/O/por|esta/DT/B-NP/I-PNP/O/esta|via/NN/I-NP/I-PNP/O/via|././O/O/O/.
+20110126020925.000|20110126020957.000|CC1|>> Otro hispano es Diego vasquez y este joven esta en su primer año de estudio y su historia es interesante pues este joven diseño un tipo de silla de ruedas para un concurso.
+20110126020925.000|20110126020957.000|POS_05|Otro/DT/O/O/O/otro|hispano/JJ/B-ADJP/O/O/hispano|es/VB/B-VP/O/VP-1/ser|Diego/NNP/B-NP/O/NP-OBJ-1/diego|vasquez/NN/I-NP/O/NP-OBJ-1/vasquez|y/CC/I-NP/O/NP-OBJ-1/y|este/DT/I-NP/O/NP-OBJ-1/este|joven/NN/I-NP/O/NP-OBJ-1/joven|esta/DT/O/O/O/esta|en/IN/B-PP/B-PNP/O/en|su/PRP$/B-NP/I-PNP/O/su|primer/JJ/I-NP/I-PNP/O/primer|año/NN/I-NP/I-PNP/O/año|de/IN/B-PP/B-PNP/O/de|estudio/NN/B-NP/I-PNP/NP-SBJ-2/estudio|y/CC/I-NP/I-PNP/NP-SBJ-2/y|su/PRP$/I-NP/I-PNP/NP-SBJ-2/su|historia/NN/I-NP/I-PNP/NP-SBJ-2/historia|es/VB/B-VP/O/VP-2/ser|interesante/JJ/B-ADJP/O/O/interesante|pues/IN/B-PP/B-PNP/O/pues|este/DT/B-NP/I-PNP/O/este|joven/NN/I-NP/I-PNP/O/joven|diseño/NN/I-NP/I-PNP/O/diseño|un/DT/B-NP/I-PNP/O/un|tipo/NN/I-NP/I-PNP/O/tipo|de/IN/B-PP/B-PNP/O/de|silla/NN/B-NP/I-PNP/O/silla|de/IN/B-PP/B-PNP/O/de|ruedas/NNS/B-NP/I-PNP/O/rueda|para/IN/B-PP/B-PNP/O/para|un/DT/B-NP/I-PNP/O/un|concurso/NN/I-NP/I-PNP/O/concurso|././O/O/O/.
+20110126020957.000|20110126021015.000|CC1|>> Lo bonito es que este grupo de jóvenes juntaron dinero para poder viajar a este concurso.
+20110126020957.000|20110126021015.000|POS_05|Lo/DT/O/O/O/lo|bonito/JJ/B-ADJP/O/O/bonito|es/VB/B-VP/O/O/ser|que/IN/B-PP/B-PNP/O/que|este/DT/B-NP/I-PNP/O/este|grupo/NN/I-NP/I-PNP/O/grupo|de/IN/B-PP/B-PNP/O/de|jóvenes/NNS/B-NP/I-PNP/NP-SBJ-1/jóvén|juntaron/VB/B-VP/O/VP-1/juntar|dinero/NN/B-NP/O/NP-OBJ-1/dinero|para/IN/B-PP/O/O/para|poder/VB/B-VP/O/O/poder|viajar/VB/I-VP/O/O/viajar|a/IN/B-PP/B-PNP/O/a|este/DT/B-NP/I-PNP/O/este|concurso/NN/I-NP/I-PNP/O/concurso|././O/O/O/.
+20110126021015.000|20110126021027.000|CC1|>> en cualquier momento el Presidente Barack Obama empezara a pronunciar su discurso.
+20110126021015.000|20110126021027.000|POS_05|en/IN/B-PP/B-PNP/O/en|cualquier/DT/B-NP/I-PNP/O/cualquier|momento/NN/I-NP/I-PNP/O/momento|el/DT/B-NP/I-PNP/NP-SBJ-1/el|Presidente/NNP/I-NP/I-PNP/NP-SBJ-1/presidente|Barack/NNP/I-NP/I-PNP/NP-SBJ-1/barack|Obama/NNP/I-NP/I-PNP/NP-SBJ-1/obama|empezara/VB/B-VP/O/VP-1/empezar|a/IN/B-PP/O/O/a|pronunciar/VB/B-VP/O/VP-2/pronunciar|su/PRP$/B-NP/O/NP-OBJ-2/su|discurso/NN/I-NP/O/NP-OBJ-2/discurso|././O/O/O/.
+20110126021027.000|20110126021032.000|CC1|>> Será un discurso tematico .
+20110126021027.000|20110126021032.000|POS_05|Será/VB/B-VP/O/VP-1/ser|un/DT/B-NP/O/NP-OBJ-1/un|discurso/NN/I-NP/O/NP-OBJ-1/discurso|tematico/NN/I-NP/O/NP-OBJ-1/tematico|././O/O/O/.
+20110126021032.000|20110126021037.000|CC1|>> el tema será ganar el futuro.
+20110126021032.000|20110126021037.000|POS_05|el/DT/B-NP/O/NP-SBJ-1/el|tema/NN/I-NP/O/NP-SBJ-1/tema|será/VB/B-VP/O/VP-1/ser|ganar/VB/I-VP/O/VP-1/ganar|el/DT/B-NP/O/NP-OBJ-1/el|futuro/NN/I-NP/O/NP-OBJ-1/futuro|././O/O/O/.
+20110126021037.000|20110126021041.000|CC1|>> El lema principal.
+20110126021037.000|20110126021041.000|POS_05|El/DT/B-NP/O/O/el|lema/NN/I-NP/O/O/lema|principal/JJ/I-NP/O/O/principal|././O/O/O/.
+20110126021041.000|20110126021102.000|CC1|>> Podemos esperar que sea un gran discurso en el que el ya sñ esta preparando para las elecciones del 2012.
+20110126021041.000|20110126021102.000|POS_05|Podemos/VB/B-VP/O/O/poder|esperar/VB/I-VP/O/O/esperar|que/IN/B-PP/O/O/que|sea/VB/B-VP/O/VP-1/ser|un/DT/B-NP/O/NP-OBJ-1/un|gran/JJ/I-NP/O/NP-OBJ-1/gran|discurso/NN/I-NP/O/NP-OBJ-1/discurso|en/IN/B-PP/O/O/en|el/DT/O/O/O/el|que/WP$/O/O/O/que|el/DT/B-NP/O/O/el|ya/RB/I-NP/O/O/ya|sñ/NN/I-NP/O/O/sñ|esta/DT/O/O/O/esta|preparando/VBG/B-VP/O/O/preparar|para/IN/B-PP/B-PNP/O/para|las/DT/B-NP/I-PNP/O/el|elecciones/NNS/I-NP/I-PNP/O/elección|del/NN/I-NP/I-PNP/O/del|2012/CD/O/O/O/2012|././O/O/O/.
+20110126021102.000|20110126021115.000|CC1|>> Tengo el privilegio y el honor de presentar al Presidente Barack Obama .
+20110126021102.000|20110126021115.000|POS_05|Tengo/VB/B-VP/O/VP-1/tener|el/DT/B-NP/O/NP-OBJ-1/el|privilegio/NN/I-NP/O/NP-OBJ-1/privilegio|y/CC/O/O/O/y|el/DT/B-NP/O/O/el|honor/NN/I-NP/O/O/honor|de/IN/B-PP/O/O/de|presentar/VB/B-VP/O/VP-2/presentar|al/NN/B-NP/O/NP-OBJ-2/al|Presidente/NNP/I-NP/O/NP-OBJ-2/presidente|Barack/NNP/I-NP/O/NP-OBJ-2/barack|Obama/NNP/I-NP/O/NP-OBJ-2/obama|././O/O/O/.
+20110126021115.000|20110126021121.000|CC1|>> Gracias!. 
+20110126021115.000|20110126021121.000|POS_05|Gracias/IN/B-PP/O/O/gracias|!/./O/O/O/!|././O/O/O/.
+20110126021121.000|20110126021124.000|CC1|>> muchas gracias!. 
+20110126021121.000|20110126021124.000|POS_05|muchas/DT/O/O/O/muchas|gracias/IN/B-PP/O/O/gracias|!/./O/O/O/!|././O/O/O/.
+20110126021124.000|20110126021127.000|CC1|>> Muchas gracias!. 
+20110126021124.000|20110126021127.000|POS_05|Muchas/DT/O/O/O/muchas|gracias/IN/B-PP/O/O/gracias|!/./O/O/O/!|././O/O/O/.
+20110126021127.000|20110126021129.000|CC1|>> Gracias!. 
+20110126021127.000|20110126021129.000|POS_05|Gracias/IN/B-PP/O/O/gracias|!/./O/O/O/!|././O/O/O/.
+20110126021129.000|20110126021134.000|CC1|>> Por favor tomen asiente.
+20110126021129.000|20110126021134.000|POS_05|Por/IN/B-PP/B-PNP/O/por|favor/IN/I-PP/I-PNP/O/favor|tomen/VB/B-VP/O/VP-1/tomar|asiente/NN/B-NP/O/NP-OBJ-1/asiente|././O/O/O/.
+20110126021134.000|20110126021142.000|CC1|>> Señor presidente de la camara señor vice pdte 
+20110126021134.000|20110126021142.000|POS_05|Señor/NN/B-NP/O/O/señor|presidente/NN/I-NP/O/O/presidente|de/IN/B-PP/B-PNP/O/de|la/PRP/B-NP/I-PNP/NP-SBJ-1/la|camara/VB/B-VP/O/VP-1/camar|señor/NN/B-NP/O/NP-OBJ-1/señor|vice/NN/I-NP/O/NP-OBJ-1/vice|pdte/NN/I-NP/O/NP-OBJ-1/pdte
+20110126021142.000|20110126021211.000|SEG_01|Type=Commercial|Score=1.0
+20110126021142.000|20110126021150.000|CC1|PRESIDENTE:: compatriota de Estados Unidos .
+20110126021142.000|20110126021150.000|POS_05|PRESIDENTE/NN/B-NP/O/O/presidente|:/:/O/O/O/:|:/:/O/O/O/:|compatriota/NN/B-NP/O/O/compatriota|de/IN/B-PP/B-PNP/O/de|Estados/NNP/B-NP/I-PNP/O/estados|Unidos/NNP/I-NP/I-PNP/O/unidos|././O/O/O/.
+20110126021150.000|20110126021211.000|CC1|>> Esta noche quiero felicitar a hombres y mujeres de este pais PAíS: .
+20110126021150.000|20110126021211.000|POS_05|Esta/DT/B-NP/O/NP-SBJ-1/esta|noche/NN/I-NP/O/NP-SBJ-1/noche|quiero/VB/B-VP/O/VP-1/querer|felicitar/NN/B-NP/O/NP-OBJ-1/felicitar|a/IN/B-PP/B-PNP/O/a|hombres/NNS/B-NP/I-PNP/O/hombre|y/CC/I-NP/I-PNP/O/y|mujeres/NNS/I-NP/I-PNP/O/mujer|de/IN/B-PP/B-PNP/O/de|este/DT/B-NP/I-PNP/O/este|pais/NN/I-NP/I-PNP/O/pais|PAíS/NN/I-NP/I-PNP/O/país|:/:/O/O/O/:|././O/O/O/.
+20110126021211.000|20110126021658.000|SEG|Type=Story|Score=0.09459861787123558
+20110126021211.000|20110126021216.000|CC1|>> (aplausos).
+20110126021211.000|20110126021216.000|POS_05|(/(/O/O/O/(|aplausos/NNS/B-NP/O/O/aplauso|)/)/O/O/O/)|././O/O/O/.
+20110126021216.000|20110126021257.000|CC1|>> y al marcar esta ocasion tambiñn recordarmos esta silla que sñ encuentra vacia en esta camara y la recordamos  a Gaby (aplausos).
+20110126021216.000|20110126021257.000|POS_05|y/CC/O/O/O/y|al/NN/B-NP/O/NP-SBJ-1/al|marcar/VB/B-VP/O/VP-1/marcar|esta/DT/B-NP/O/NP-OBJ-1/esta|ocasion/NN/I-NP/O/NP-OBJ-1/ocasion|tambiñn/NN/I-NP/O/NP-OBJ-1/tambiñn|recordarmos/NN/I-NP/O/NP-OBJ-1/recordarmos|esta/DT/B-NP/O/O/esta|silla/NN/I-NP/O/O/silla|que/WP$/O/O/O/que|sñ/NN/B-NP/O/NP-SBJ-2/sñ|encuentra/VB/B-VP/O/VP-2/encontrar|vacia/NN/B-NP/O/NP-OBJ-2/vacia|en/IN/B-PP/O/O/en|esta/DT/O/O/O/esta|camara/VB/B-VP/O/O/camar|y/CC/O/O/O/y|la/PRP/B-NP/O/NP-SBJ-3/la|recordamos/VB/B-VP/O/VP-3/recordar|a/IN/B-PP/B-PNP/O/a|Gaby/NNP/B-NP/I-PNP/O/gaby|(/(/O/O/O/(|aplausos/NNS/B-NP/O/O/aplauso|)/)/O/O/O/)|././O/O/O/.
+20110126021257.000|20110126021311.000|CC1|>> no es secreto alguno que muchos de nosotros acá hemos tenido diferencias.
+20110126021257.000|20110126021311.000|POS_05|no/RB/B-VP/O/VP-1/no|es/VB/I-VP/O/VP-1/ser|secreto/NN/B-NP/O/NP-OBJ-1/secreto|alguno/DT/O/O/O/alguno|que/WP$/O/O/O/que|muchos/DT/O/O/O/muchos|de/IN/B-PP/B-PNP/O/de|nosotros/PRP/B-NP/I-PNP/NP-SBJ-2/nosotros|acá/NN/I-NP/I-PNP/NP-SBJ-2/acá|hemos/MD/B-VP/O/VP-2/her|tenido/VBN/I-VP/O/VP-2/tener|diferencias/NNS/B-NP/O/NP-OBJ-2/diferencia|././O/O/O/.
+20110126021311.000|20110126021321.000|CC1|>> Hemos luchado ferozmente a favor de las creencias.
+20110126021311.000|20110126021321.000|POS_05|Hemos/MD/B-VP/O/VP-1/her|luchado/VBN/I-VP/O/VP-1/luchar|ferozmente/NN/B-NP/O/NP-OBJ-1/ferozmente|a/IN/B-PP/B-PNP/O/a|favor/IN/I-PP/I-PNP/O/favor|de/IN/I-PP/I-PNP/O/de|las/DT/B-NP/I-PNP/O/el|creencias/NNS/I-NP/I-PNP/O/creencia|././O/O/O/.
+20110126021321.000|20110126021322.000|CC1|>>  eso es bueno.
+20110126021321.000|20110126021322.000|POS_05|eso/DT/O/O/O/eso|es/VB/B-VP/O/O/ser|bueno/JJ/B-ADJP/O/O/bueno|././O/O/O/.
+20110126021322.000|20110126021333.000|CC1|>> Es lo que nos ayuda a distinguirnos como nacion.
+20110126021322.000|20110126021333.000|POS_05|Es/VB/B-VP/O/O/ser|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|nos/PRP/B-NP/O/O/nos|ayuda/NN/I-NP/O/O/ayuda|a/IN/B-PP/B-PNP/O/a|distinguirnos/NN/B-NP/I-PNP/O/distinguirnos|como/IN/B-PP/B-PNP/O/como|nacion/NN/B-NP/I-PNP/O/nacion|././O/O/O/.
+20110126021333.000|20110126021341.000|CC1|>> Hay una razón y pasion .
+20110126021333.000|20110126021341.000|POS_05|Hay/VB/B-VP/O/VP-1/haber|una/DT/B-NP/O/NP-OBJ-1/un|razón/NN/I-NP/O/NP-OBJ-1/razón|y/CC/O/O/O/y|pasion/NN/B-NP/O/O/pasion|././O/O/O/.
+20110126021341.000|20110126021352.000|CC1|>> Nos recordo de donde somos y de donde venimos.
+20110126021341.000|20110126021352.000|POS_05|Nos/PRP/B-NP/O/O/nos|recordo/NN/I-NP/O/O/recordo|de/IN/B-PP/O/O/de|donde/WP$/O/O/O/donde|somos/VB/B-VP/O/O/ser|y/CC/O/O/O/y|de/IN/B-PP/O/O/de|donde/WP$/O/O/O/donde|venimos/NN/B-NP/O/O/venimos|././O/O/O/.
+20110126021352.000|20110126021407.000|CC1|>> Somos parte de la familia de Estados Unidos queremos que este país donde cada raza seguimos hilados como un solo pueblo.
+20110126021352.000|20110126021407.000|POS_05|Somos/NNP/B-NP/O/O/somos|parte/NN/I-NP/O/O/parte|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|familia/NN/I-NP/I-PNP/O/familia|de/IN/B-PP/B-PNP/O/de|Estados/NNP/B-NP/I-PNP/NP-SBJ-1/estados|Unidos/NNP/I-NP/I-PNP/NP-SBJ-1/unidos|queremos/VB/B-VP/O/VP-1/querer|que/IN/B-PP/B-PNP/O/que|este/DT/B-NP/I-PNP/O/este|país/NN/I-NP/I-PNP/O/país|donde/IN/B-PP/B-PNP/O/donde|cada/DT/B-NP/I-PNP/NP-SBJ-2/cada|raza/NN/I-NP/I-PNP/NP-SBJ-2/raza|seguimos/VB/B-VP/O/VP-2/seguir|hilados/NNS/B-NP/O/NP-OBJ-2/hilado|como/IN/B-PP/B-PNP/O/como|un/DT/B-NP/I-PNP/O/un|solo/JJ/I-NP/I-PNP/O/solo|pueblo/NN/I-NP/I-PNP/O/pueblo|././O/O/O/.
+20110126021407.000|20110126021429.000|CC1|>> Pero los sueños de esa niñita nos distingue y destaca como nacion.
+20110126021407.000|20110126021429.000|POS_05|Pero/CC/O/O/O/pero|los/DT/B-NP/O/O/el|sueños/NNS/I-NP/O/O/sueño|de/IN/B-PP/B-PNP/O/de|esa/DT/B-NP/I-PNP/NP-SBJ-1/esa|niñita/JJ/I-NP/I-PNP/NP-SBJ-1/niñito|nos/PRP/I-NP/I-PNP/NP-SBJ-1/nos|distingue/VB/B-VP/O/VP-1/distinguir|y/CC/O/O/O/y|destaca/VB/B-VP/O/O/destacar|como/IN/B-PP/B-PNP/O/como|nacion/NN/B-NP/I-PNP/O/nacion|././O/O/O/.
+20110126021429.000|20110126021431.000|CC1|>> Ahora .
+20110126021429.000|20110126021431.000|POS_05|Ahora/RB/B-ADVP/O/O/ahora|././O/O/O/.
+20110126021431.000|20110126021437.000|CC1|>> De por si >Sí:Esta .
+20110126021431.000|20110126021437.000|POS_05|De/IN/B-PP/B-PNP/O/de|por/IN/I-PP/I-PNP/O/por|si/IN/I-PP/I-PNP/O/si|>Sí:Esta/NNP/B-NP/I-PNP/O/>sí:esta|././O/O/O/.
+20110126021437.000|20110126021445.000|CC1|>> Sencillo reconocimiento nos traera un cambio.
+20110126021437.000|20110126021445.000|POS_05|Sencillo/JJ/B-NP/O/O/sencillo|reconocimiento/NN/I-NP/O/O/reconocimiento|nos/PRP/I-NP/O/O/nos|traera/NN/I-NP/O/O/traera|un/DT/B-NP/O/O/un|cambio/NN/I-NP/O/O/cambio|././O/O/O/.
+20110126021445.000|20110126021500.000|CC1|>> lo que ocurre en este momento será sí podems trabajar juntos el día de mañana.
+20110126021445.000|20110126021500.000|POS_05|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|ocurre/VB/B-VP/O/O/ocurrir|en/IN/B-PP/B-PNP/O/en|este/DT/B-NP/I-PNP/NP-SBJ-1/este|momento/NN/I-NP/I-PNP/NP-SBJ-1/momento|será/VB/B-VP/O/VP-1/ser|sí/PRP/B-NP/O/NP-OBJ-1*NP-SBJ-2/sí|podems/NN/I-NP/O/NP-OBJ-1*NP-SBJ-2/podems|trabajar/VB/B-VP/O/VP-2/trabajar|juntos/JJ/B-ADJP/O/O/junto|el/DT/B-NP/O/O/el|día/NN/I-NP/O/O/día|de/IN/B-PP/B-PNP/O/de|mañana/NN/B-NP/I-PNP/O/mañana|././O/O/O/.
+20110126021500.000|20110126021509.000|CC1|>> (aplausos).
+20110126021500.000|20110126021509.000|POS_05|(/(/O/O/O/(|aplausos/NNS/B-NP/O/O/aplauso|)/)/O/O/O/)|././O/O/O/.
+20110126021509.000|20110126021513.000|CC1|>> creo que podemos.
+20110126021509.000|20110126021513.000|POS_05|creo/VB/B-VP/O/O/creer|que/IN/B-PP/O/O/que|podemos/VB/B-VP/O/O/poder|././O/O/O/.
+20110126021513.000|20110126021517.000|CC1|>> Y creo que tenemos que trabajar juntos.
+20110126021513.000|20110126021517.000|POS_05|Y/CC/O/O/O/y|creo/VB/B-VP/O/O/creer|que/IN/B-PP/O/O/que|tenemos/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|trabajar/VB/B-VP/O/O/trabajar|juntos/JJ/B-ADJP/O/O/junto|././O/O/O/.
+20110126021517.000|20110126021524.000|CC1|>> Es lo que espera el pueblo que nos eligio.
+20110126021517.000|20110126021524.000|POS_05|Es/VB/B-VP/O/O/ser|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|espera/VB/B-VP/O/VP-1/esperar|el/DT/B-NP/O/NP-OBJ-1/el|pueblo/NN/I-NP/O/NP-OBJ-1/pueblo|que/WP$/O/O/O/que|nos/PRP/B-NP/O/O/nos|eligio/NN/I-NP/O/O/eligio|././O/O/O/.
+20110126021524.000|20110126021532.000|CC1|>> Es una responsabilidad mancomunada entre partidos.
+20110126021524.000|20110126021532.000|POS_05|Es/VB/B-VP/O/VP-1/ser|una/DT/B-NP/O/NP-OBJ-1*NP-SBJ-2/un|responsabilidad/NN/I-NP/O/NP-OBJ-1*NP-SBJ-2/responsabilidad|mancomunada/VBN/B-VP/O/VP-2/mancomunadar|entre/IN/B-PP/B-PNP/O/entre|partidos/NNS/B-NP/I-PNP/O/partido|././O/O/O/.
+20110126021532.000|20110126021539.000|CC1|>> Vamos a desplazarnos hacia un futuro juntos.
+20110126021532.000|20110126021539.000|POS_05|Vamos/VB/B-VP/O/O/ir|a/IN/B-PP/B-PNP/O/a|desplazarnos/NN/B-NP/I-PNP/O/desplazarnos|hacia/IN/B-PP/B-PNP/O/hacia|un/DT/B-NP/I-PNP/O/un|futuro/NN/I-NP/I-PNP/O/futuro|juntos/JJ/I-NP/I-PNP/O/junto|././O/O/O/.
+20110126021539.000|20110126021544.000|CC1|>> Pues los desafios son mayores.
+20110126021539.000|20110126021544.000|POS_05|Pues/IN/B-PP/B-PNP/O/pues|los/DT/B-NP/I-PNP/NP-SBJ-1/el|desafios/NN/I-NP/I-PNP/NP-SBJ-1/desafios|son/VB/B-VP/O/VP-1/ser|mayores/JJ/B-ADJP/O/O/mayor|././O/O/O/.
+20110126021544.000|20110126021549.000|CC1|>> el juego no es quien gane.
+20110126021544.000|20110126021549.000|POS_05|el/DT/B-NP/O/NP-SBJ-1/el|juego/NN/I-NP/O/NP-SBJ-1/juego|no/RB/I-NP/O/NP-SBJ-1/no|es/VB/I-VP/O/VP-1/ser|quien/IN/B-PP/O/O/quien|gane/VB/B-VP/O/O/ganar|././O/O/O/.
+20110126021549.000|20110126021606.000|CC1|>> El juego es sí los nuevos empleos y las industrias es recompenzada.
+20110126021549.000|20110126021606.000|POS_05|El/DT/B-NP/O/NP-SBJ-1/el|juego/NN/I-NP/O/NP-SBJ-1/juego|es/VB/B-VP/O/VP-1/ser|sí/PRP/B-NP/O/NP-OBJ-1/sí|los/DT/I-NP/O/NP-OBJ-1/el|nuevos/JJ/I-NP/O/NP-OBJ-1/nuevo|empleos/NNS/I-NP/O/NP-OBJ-1/empleo|y/CC/O/O/O/y|las/DT/B-NP/O/NP-SBJ-2/el|industrias/NNS/I-NP/O/NP-SBJ-2/industria|es/VB/B-VP/O/VP-2/ser|recompenzada/NN/B-NP/O/NP-OBJ-2/recompenzada|././O/O/O/.
+20110126021606.000|20110126021619.000|CC1|>>nosotros estamos listos para progresar.
+20110126021606.000|20110126021619.000|POS_05|nosotros/PRP/B-NP/O/NP-SBJ-1/nosotros|estamos/MD/B-VP/O/VP-1/estar|listos/JJ/B-ADJP/O/O/listo|para/IN/B-PP/O/O/para|progresar/VB/B-VP/O/O/progresar|././O/O/O/.
+20110126021619.000|20110126021626.000|CC1|>> El mercado de la bolsa ha vuelto a surgir.
+20110126021619.000|20110126021626.000|POS_05|El/DT/B-NP/O/O/el|mercado/NN/I-NP/O/O/mercado|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/NP-SBJ-1/el|bolsa/NN/I-NP/I-PNP/NP-SBJ-1/bolsa|ha/MD/B-VP/O/VP-1/har|vuelto/VBN/I-VP/O/VP-1/volver|a/IN/B-PP/O/O/a|surgir/VB/B-VP/O/O/surgir|././O/O/O/.
+20110126021626.000|20110126021650.000|CC1|>> La economia esta creciendo una vez mayo la calidad de vida que sñ ofrece en los empleos.
+20110126021626.000|20110126021650.000|POS_05|La/DT/B-NP/O/O/el|economia/NN/I-NP/O/O/economia|esta/DT/O/O/O/esta|creciendo/VBG/B-VP/O/VP-1/crecer|una/DT/B-NP/O/NP-OBJ-1/un|vez/NN/I-NP/O/NP-OBJ-1/vez|mayo/NN/I-NP/O/NP-OBJ-1/mayo|la/DT/B-NP/O/O/el|calidad/NN/I-NP/O/O/calidad|de/IN/B-PP/B-PNP/O/de|vida/NN/B-NP/I-PNP/O/vida|que/WP$/O/O/O/que|sñ/NN/B-NP/O/NP-SBJ-2/sñ|ofrece/VB/B-VP/O/VP-2/ofrecer|en/IN/B-PP/B-PNP/O/en|los/DT/B-NP/I-PNP/O/el|empleos/NNS/I-NP/I-PNP/O/empleo|././O/O/O/.
+20110126021650.000|20110126021658.000|CC1|>> La oportunidad de entregar una mejor vida a usa 
+20110126021650.000|20110126021658.000|POS_05|La/DT/B-NP/O/O/el|oportunidad/NN/I-NP/O/O/oportunidad|de/IN/B-PP/O/O/de|entregar/VB/B-VP/O/VP-1/entregar|una/DT/B-NP/O/NP-OBJ-1/un|mejor/JJ/I-NP/O/NP-OBJ-1/mejor|vida/NN/I-NP/O/NP-OBJ-1/vida|a/IN/B-PP/O/O/a|usa/VB/B-VP/O/O/usar
+20110126021658.000|20110126021941.000|SEG_01|Type=Commercial|Score=0.25652218780087654
+20110126021658.000|20110126021700.000|CC1|ESTADOS UNIDOS.
+20110126021658.000|20110126021700.000|POS_05|ESTADOS/NNS/B-NP/O/O/estado|UNIDOS/NN/I-NP/O/O/unidos|././O/O/O/.
+20110126021700.000|20110126021707.000|CC1|>> Queremos trabajar juntos!. 
+20110126021700.000|20110126021707.000|POS_05|Queremos/VB/B-VP/O/O/querer|trabajar/VB/I-VP/O/O/trabajar|juntos/JJ/B-ADJP/O/O/junto|!/./O/O/O/!|././O/O/O/.
+20110126021707.000|20110126021716.000|CC1|>> lo hicímos en diciembre gracias a los recortes fiscales.
+20110126021707.000|20110126021716.000|POS_05|lo/DT/B-NP/O/O/lo|hicímos/NN/I-NP/O/O/hicímos|en/IN/B-PP/B-PNP/O/en|diciembre/NN/B-NP/I-PNP/O/diciembre|gracias/NN/I-NP/I-PNP/O/gracias|a/NN/I-NP/I-PNP/O/a|los/DT/I-NP/I-PNP/O/el|recortes/NNS/I-NP/I-PNP/O/recorte|fiscales/JJ/I-NP/I-PNP/O/fiscal|././O/O/O/.
+20110126021716.000|20110126021720.000|CC1|>> Los sueldos hoy son mayores.
+20110126021716.000|20110126021720.000|POS_05|Los/DT/B-NP/O/NP-SBJ-1/el|sueldos/NNS/I-NP/O/NP-SBJ-1/sueldo|hoy/RB/I-NP/O/NP-SBJ-1/hoy|son/VB/I-VP/O/VP-1/ser|mayores/JJ/B-ADJP/O/O/mayor|././O/O/O/.
+20110126021720.000|20110126021728.000|CC1|>> Los negocios pueden descontar bien.
+20110126021720.000|20110126021728.000|POS_05|Los/DT/B-NP/O/NP-SBJ-1/el|negocios/NNS/I-NP/O/NP-SBJ-1/negocio|pueden/VB/B-VP/O/VP-1/poder|descontar/NN/B-NP/O/NP-OBJ-1/descontar|bien/RB/I-NP/O/NP-OBJ-1/bien|././O/O/O/.
+20110126021728.000|20110126021740.000|CC1|>> Son pasos buenos que haran desarrollar la economia y crecera más de un millon de empleos.
+20110126021728.000|20110126021740.000|POS_05|Son/VB/B-VP/O/VP-1/ser|pasos/NNS/B-NP/O/NP-OBJ-1/paso|buenos/JJ/I-NP/O/NP-OBJ-1/bueno|que/WP$/O/O/O/que|haran/VB/B-VP/O/VP-2/har|desarrollar/VB/I-VP/O/VP-2/desarrollar|la/DT/B-NP/O/NP-OBJ-2/el|economia/NN/I-NP/O/NP-OBJ-2/economia|y/CC/O/O/O/y|crecera/NN/B-NP/O/O/crecera|más/RB/I-NP/O/O/más|de/IN/B-PP/B-PNP/O/de|un/DT/B-NP/I-PNP/O/un|millon/NN/I-NP/I-PNP/O/millon|de/IN/B-PP/B-PNP/O/de|empleos/NNS/B-NP/I-PNP/O/empleo|././O/O/O/.
+20110126021740.000|20110126021745.000|CC1|>> Pero queremos mas MáS: .
+20110126021740.000|20110126021745.000|POS_05|Pero/CC/O/O/O/pero|queremos/VB/B-VP/O/O/querer|mas/CC/O/O/O/mas|MáS/NN/B-NP/O/O/más|:/:/O/O/O/:|././O/O/O/.
+20110126021745.000|20110126021752.000|CC1|>> Ahora para ganar futuro tenemos que asumir desafios.
+20110126021745.000|20110126021752.000|POS_05|Ahora/RB/B-ADVP/O/O/ahora|para/IN/B-PP/O/O/para|ganar/VB/B-VP/O/VP-1/ganar|futuro/NN/B-NP/O/NP-OBJ-1*NP-SBJ-2/futuro|tenemos/VB/B-VP/O/VP-2/tener|que/IN/B-PP/O/O/que|asumir/VB/B-VP/O/VP-3/asumir|desafios/NN/B-NP/O/NP-OBJ-3/desafios|././O/O/O/.
+20110126021752.000|20110126021806.000|CC1|>> Muchas personas mirandonos esta noche recordaran que antes para encontrar un buen trabajo costaba mucho.
+20110126021752.000|20110126021806.000|POS_05|Muchas/DT/B-NP/O/O/muchas|personas/NNS/I-NP/O/O/persona|mirandonos/NN/I-NP/O/O/mirandonos|esta/DT/B-NP/O/O/esta|noche/NN/I-NP/O/O/noche|recordaran/NN/I-NP/O/O/recordaran|que/WP$/O/O/O/que|antes/IN/B-PP/B-PNP/O/antes|para/IN/I-PP/I-PNP/O/para|encontrar/VB/B-VP/O/VP-1/encontrar|un/DT/B-NP/O/NP-OBJ-1*NP-SBJ-2/un|buen/JJ/I-NP/O/NP-OBJ-1*NP-SBJ-2/buen|trabajo/NN/I-NP/O/NP-OBJ-1*NP-SBJ-2/trabajo|costaba/VB/B-VP/O/VP-2/costar|mucho/RB/I-VP/O/VP-2/mucho|././O/O/O/.
+20110126021806.000|20110126021820.000|CC1|>> No sñ necesitaba estudios y solo trabajar arduamente .
+20110126021806.000|20110126021820.000|POS_05|No/RB/B-ADVP/O/O/no|sñ/NN/B-NP/O/NP-SBJ-1/sñ|necesitaba/VB/B-VP/O/VP-1/necesitar|estudios/NNS/B-NP/O/NP-OBJ-1/estudio|y/CC/O/O/O/y|solo/JJ/B-ADJP/O/O/solo|trabajar/VB/B-VP/O/VP-2/trabajar|arduamente/NN/B-NP/O/NP-OBJ-2/arduamente|././O/O/O/.
+20110126021820.000|20110126021843.000|CC1|>> Quizás ustedes tendran el orgullod ede ver a su hijo trabajar.
+20110126021820.000|20110126021843.000|POS_05|Quizás/RB/B-ADVP/O/O/quizás|ustedes/PRP/B-NP/O/O/ustedes|tendran/NN/I-NP/O/O/tendran|el/DT/B-NP/O/NP-SBJ-1/el|orgullod/NN/I-NP/O/NP-SBJ-1/orgullod|ede/NN/I-NP/O/NP-SBJ-1/ede|ver/VB/B-VP/O/VP-1/ver|a/IN/B-PP/B-PNP/O/a|su/PRP$/B-NP/I-PNP/NP-SBJ-2/su|hijo/NN/I-NP/I-PNP/NP-SBJ-2/hijo|trabajar/VB/B-VP/O/VP-2/trabajar|././O/O/O/.
+20110126021843.000|20110126021853.000|CC1|>> he visto la frustracion de como los sueldo han desaparecido.
+20110126021843.000|20110126021853.000|POS_05|he/MD/B-VP/O/VP-1/her|visto/VBN/I-VP/O/VP-1/vestir|la/DT/B-NP/O/NP-OBJ-1/el|frustracion/NN/I-NP/O/NP-OBJ-1/frustracion|de/IN/B-PP/B-PNP/O/de|como/IN/I-PP/I-PNP/O/como|los/DT/B-NP/I-PNP/NP-SBJ-2/el|sueldo/NN/I-NP/I-PNP/NP-SBJ-2/sueldo|han/MD/B-VP/O/VP-2/har|desaparecido/VBN/I-VP/O/VP-2/desaparecer|././O/O/O/.
+20110126021853.000|20110126021901.000|CC1|>> Hombres y mujeres que piensan que las reglas han cambiado.
+20110126021853.000|20110126021901.000|POS_05|Hombres/NNP/B-NP/O/O/hombres|y/CC/I-NP/O/O/y|mujeres/NNS/I-NP/O/O/mujer|que/WP$/O/O/O/que|piensan/VB/B-VP/O/O/pensar|que/IN/B-PP/B-PNP/O/que|las/DT/B-NP/I-PNP/NP-SBJ-1/el|reglas/NNS/I-NP/I-PNP/NP-SBJ-1/regla|han/MD/B-VP/O/VP-1/har|cambiado/VBN/I-VP/O/VP-1/cambiar|././O/O/O/.
+20110126021901.000|20110126021908.000|CC1|>> Tienen razon RAZóN: pero ha habido un cambio.
+20110126021901.000|20110126021908.000|POS_05|Tienen/VB/B-VP/O/VP-1/tener|razon/NN/B-NP/O/NP-OBJ-1/razon|RAZóN/NN/I-NP/O/NP-OBJ-1/razón|:/:/O/O/O/:|pero/CC/O/O/O/pero|ha/MD/B-VP/O/VP-2/har|habido/VBN/I-VP/O/VP-2/haber|un/DT/B-NP/O/NP-OBJ-2/un|cambio/NN/I-NP/O/NP-OBJ-2/cambio|././O/O/O/.
+20110126021908.000|20110126021941.000|CC1|>> Las fabricas de acero necesitaba mil empleados y hoy lo hacen con 100. .
+20110126021908.000|20110126021941.000|POS_05|Las/DT/B-NP/O/O/el|fabricas/NN/I-NP/O/O/fabricas|de/IN/B-PP/B-PNP/O/de|acero/NN/B-NP/I-PNP/NP-SBJ-1/acero|necesitaba/VB/B-VP/O/VP-1/necesitar|mil/CD/B-NP/O/NP-OBJ-1/mil|empleados/NNS/I-NP/O/NP-OBJ-1/empleado|y/CC/O/O/O/y|hoy/RB/B-ADVP/O/O/hoy|lo/PRP/B-NP/O/NP-SBJ-2/lo|hacen/VB/B-VP/O/VP-2/hacer|con/IN/B-PP/O/O/con|100/CD/O/O/O/100|././O/O/O/.|././O/O/O/.
+20110126021941.000|20110126022058.000|SEG|Type=Story|Score=0.2348812235530108
+20110126021941.000|20110126021945.000|CC1|>> Invirtiendo en tecnologias.
+20110126021941.000|20110126021945.000|POS_05|Invirtiendo/NNP/B-NP/O/O/invirtiendo|en/IN/B-PP/B-PNP/O/en|tecnologias/NN/B-NP/I-PNP/O/tecnologias|././O/O/O/.
+20110126021945.000|20110126022000.000|CC1|>> La China sñ convirtio el sitio donde sñ encuentra la computadora más rapida del mundo.
+20110126021945.000|20110126022000.000|POS_05|La/DT/B-NP/O/O/el|China/NNP/I-NP/O/O/china|sñ/NN/I-NP/O/O/sñ|convirtio/NN/I-NP/O/O/convirtio|el/DT/B-NP/O/O/el|sitio/NN/I-NP/O/O/sitio|donde/WP$/O/O/O/donde|sñ/NN/B-NP/O/NP-SBJ-1/sñ|encuentra/VB/B-VP/O/VP-1/encontrar|la/DT/B-NP/O/NP-OBJ-1/el|computadora/NN/I-NP/O/NP-OBJ-1/computadora|más/RB/I-NP/O/NP-OBJ-1/más|rapida/JJ/I-NP/O/NP-OBJ-1/rapido|del/NN/B-NP/O/O/del|mundo/NN/I-NP/O/O/mundo|././O/O/O/.
+20110126022000.000|20110126022007.000|CC1|>> Y sí ahora hay más competencia.
+20110126022000.000|20110126022007.000|POS_05|Y/CC/O/O/O/y|sí/PRP/B-NP/O/NP-SBJ-1/sí|ahora/RB/I-NP/O/NP-SBJ-1/ahora|hay/VB/I-VP/O/VP-1/haber|más/RB/B-ADVP/O/O/más|competencia/NN/B-NP/O/O/competencia|././O/O/O/.
+20110126022007.000|20110126022017.000|CC1|>> Recuerden no importa todo lo que hemos recibido este año.
+20110126022007.000|20110126022017.000|POS_05|Recuerden/NNP/B-NP/O/NP-SBJ-1/recuerden|no/RB/I-NP/O/NP-SBJ-1/no|importa/VB/I-VP/O/VP-1/importar|todo/DT/O/O/O/todo|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|hemos/MD/B-VP/O/VP-2/her|recibido/VBN/I-VP/O/VP-2/recibir|este/DT/B-NP/O/NP-OBJ-2/este|año/NN/I-NP/O/NP-OBJ-2/año|././O/O/O/.
+20110126022017.000|20110126022024.000|CC1|>> Estados Unidos tiene la mayor economia y prospera del mundo.
+20110126022017.000|20110126022024.000|POS_05|Estados/NNP/B-NP/O/NP-SBJ-1/estados|Unidos/NNP/I-NP/O/NP-SBJ-1/unidos|tiene/VB/B-VP/O/VP-1/tener|la/DT/B-NP/O/NP-OBJ-1/el|mayor/JJ/I-NP/O/NP-OBJ-1/mayor|economia/NN/I-NP/O/NP-OBJ-1/economia|y/CC/O/O/O/y|prospera/VB/B-VP/O/VP-2/prospr|del/NN/B-NP/O/NP-OBJ-2/del|mundo/NN/I-NP/O/NP-OBJ-2/mundo|././O/O/O/.
+20110126022024.000|20110126022036.000|CC1|>> No hay trabajadores más productivos que los nuestros.
+20110126022024.000|20110126022036.000|POS_05|No/RB/B-VP/O/VP-1/no|hay/VB/I-VP/O/VP-1/haber|trabajadores/NNS/B-NP/O/NP-OBJ-1/trabajador|más/RB/I-NP/O/NP-OBJ-1/más|productivos/JJ/I-NP/O/NP-OBJ-1/productivo|que/IN/B-PP/B-PNP/O/que|los/DT/B-NP/I-PNP/O/el|nuestros/PRP$/I-NP/I-PNP/O/nuestros|././O/O/O/.
+20110126022036.000|20110126022040.000|CC1|>> Hombres y mujeres de empresa.
+20110126022036.000|20110126022040.000|POS_05|Hombres/NNP/B-NP/O/O/hombres|y/CC/I-NP/O/O/y|mujeres/NNS/I-NP/O/O/mujer|de/IN/B-PP/B-PNP/O/de|empresa/NN/B-NP/I-PNP/O/empresa|././O/O/O/.
+20110126022040.000|20110126022044.000|CC1|>> tenemos mejores universidades.
+20110126022040.000|20110126022044.000|POS_05|tenemos/VB/B-VP/O/VP-1/tener|mejores/JJ/B-NP/O/NP-OBJ-1/mejor|universidades/NNS/I-NP/O/NP-OBJ-1/universidad|././O/O/O/.
+20110126022044.000|20110126022050.000|CC1|>> Donde de todo el mundo vienen a estudiar.
+20110126022044.000|20110126022050.000|POS_05|Donde/WP$/O/O/O/donde|de/IN/B-PP/B-PNP/O/de|todo/DT/B-NP/I-PNP/NP-SBJ-1/todo|el/DT/I-NP/I-PNP/NP-SBJ-1/el|mundo/NN/I-NP/I-PNP/NP-SBJ-1/mundo|vienen/VB/B-VP/O/VP-1/venir|a/IN/B-PP/O/O/a|estudiar/VB/B-VP/O/O/estudiar|././O/O/O/.
+20110126022050.000|20110126022058.000|CC1|>> Tenemos una idea de que todos 
+20110126022050.000|20110126022058.000|POS_05|Tenemos/VB/B-VP/O/VP-1/tener|una/DT/B-NP/O/NP-OBJ-1/un|idea/NN/I-NP/O/NP-OBJ-1/idea|de/IN/B-PP/O/O/de|que/WP$/O/O/O/que|todos/DT/O/O/O/todos
+20110126022058.000|20110126022433.000|SEG_01|Type=Commercial|Score=1.0
+20110126022058.000|20110126022101.000|CC1|merecen forjar un destino.
+20110126022058.000|20110126022101.000|POS_05|merecen/VB/B-VP/O/VP-1/merecer|forjar/VB/I-VP/O/VP-1/forjar|un/DT/B-NP/O/NP-OBJ-1/un|destino/NN/I-NP/O/NP-OBJ-1/destino|././O/O/O/.
+20110126022101.000|20110126022110.000|CC1|>> Por eso los estudiantes hoy responden a preguntas como .
+20110126022101.000|20110126022110.000|POS_05|Por/IN/B-PP/B-PNP/O/por|eso/DT/B-NP/I-PNP/NP-SBJ-1/eso|los/DT/I-NP/I-PNP/NP-SBJ-1/el|estudiantes/NNS/I-NP/I-PNP/NP-SBJ-1/estudiante|hoy/RB/I-NP/I-PNP/NP-SBJ-1/hoy|responden/VB/I-VP/O/VP-1/responder|a/IN/B-PP/B-PNP/O/a|preguntas/NNS/B-NP/I-PNP/O/pregunta|como/IN/B-PP/O/O/como|././O/O/O/.
+20110126022110.000|20110126022116.000|CC1|>> Que quieres tú? para tú vida.
+20110126022110.000|20110126022116.000|POS_05|Que/IN/B-PP/O/O/que|quieres/VB/B-VP/O/VP-1/querer|tú/PRP/B-NP/O/NP-OBJ-1/tú|?/./O/O/O/?
+20110126022110.000|20110126022116.000|POS_05|para/IN/B-PP/B-PNP/O/para|tú/PRP/B-NP/I-PNP/O/tú|vida/NN/I-NP/I-PNP/O/vida|././O/O/O/.
+20110126022116.000|20110126022124.000|CC1|>> El futuro es nuestro y lo podemos ganar.
+20110126022116.000|20110126022124.000|POS_05|El/DT/B-NP/O/NP-SBJ-1/el|futuro/NN/I-NP/O/NP-SBJ-1/futuro|es/VB/B-VP/O/VP-1/ser|nuestro/PRP$/B-NP/O/NP-OBJ-1*NP-SBJ-2/nuestro|y/CC/I-NP/O/NP-OBJ-1*NP-SBJ-2/y|lo/PRP/I-NP/O/NP-OBJ-1*NP-SBJ-2/lo|podemos/VB/B-VP/O/VP-2/poder|ganar/VB/I-VP/O/VP-2/ganar|././O/O/O/.
+20110126022124.000|20110126022129.000|CC1|>> Y esto es un logro .
+20110126022124.000|20110126022129.000|POS_05|Y/CC/O/O/O/y|esto/DT/O/O/O/esto|es/VB/B-VP/O/O/ser|un/DT/O/O/O/un|logro/VB/B-VP/O/O/lograr|././O/O/O/.
+20110126022129.000|20110126022141.000|CC1|>> Es tener el sueño de Estados Unidos para mantenernos firmes y tranquilos.
+20110126022129.000|20110126022141.000|POS_05|Es/VB/B-VP/O/VP-1/ser|tener/VB/I-VP/O/VP-1/tener|el/DT/B-NP/O/NP-OBJ-1/el|sueño/NN/I-NP/O/NP-OBJ-1/sueño|de/IN/B-PP/B-PNP/O/de|Estados/NNP/B-NP/I-PNP/O/estados|Unidos/NNP/I-NP/I-PNP/O/unidos|para/IN/B-PP/B-PNP/O/para|mantenernos/NN/B-NP/I-PNP/O/mantenernos|firmes/JJ/I-NP/I-PNP/O/firme|y/CC/I-ADJP/O/O/y|tranquilos/JJ/I-ADJP/O/O/tranquilo|././O/O/O/.
+20110126022141.000|20110126022150.000|CC1|>> Que cada generacion luche las demandas de la nueva era.
+20110126022141.000|20110126022150.000|POS_05|Que/IN/B-PP/B-PNP/O/que|cada/DT/B-NP/I-PNP/NP-SBJ-1/cada|generacion/NN/I-NP/I-PNP/NP-SBJ-1/generacion|luche/VB/B-VP/O/VP-1/luchar|las/DT/B-NP/O/NP-OBJ-1/el|demandas/NNS/I-NP/O/NP-OBJ-1/demanda|de/IN/B-PP/O/O/de|la/DT/O/O/O/el|nueva/JJ/B-ADJP/O/O/nuevo|era/VB/B-VP/O/O/ser|././O/O/O/.
+20110126022150.000|20110126022157.000|CC1|>> Ahora nos toca a nosotros!. 
+20110126022150.000|20110126022157.000|POS_05|Ahora/RB/B-ADVP/O/O/ahora|nos/PRP/B-NP/O/NP-SBJ-1/nos|toca/VB/B-VP/O/VP-1/tocar|a/IN/B-PP/B-PNP/O/a|nosotros/PRP/B-NP/I-PNP/O/nosotros|!/./O/O/O/!|././O/O/O/.
+20110126022157.000|20110126022212.000|CC1|>> (aplausos).
+20110126022157.000|20110126022212.000|POS_05|(/(/O/O/O/(|aplausos/NNS/B-NP/O/O/aplauso|)/)/O/O/O/)|././O/O/O/.
+20110126022212.000|20110126022221.000|CC1|>> tenemos que hacer que Estados Unidos sea el mejor sitio para negociar.
+20110126022212.000|20110126022221.000|POS_05|tenemos/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|hacer/VB/B-VP/O/O/hacer|que/IN/B-PP/B-PNP/O/que|Estados/NNP/B-NP/I-PNP/NP-SBJ-1/estados|Unidos/NNP/I-NP/I-PNP/NP-SBJ-1/unidos|sea/VB/B-VP/O/VP-1/ser|el/DT/B-NP/O/NP-OBJ-1/el|mejor/JJ/I-NP/O/NP-OBJ-1/mejor|sitio/NN/I-NP/O/NP-OBJ-1/sitio|para/IN/B-PP/O/O/para|negociar/VB/B-VP/O/O/negociar|././O/O/O/.
+20110126022221.000|20110126022229.000|CC1|>> Así es como nuestro pueblo ganara el futuro.
+20110126022221.000|20110126022229.000|POS_05|Así/RB/B-VP/O/O/así|es/VB/I-VP/O/O/ser|como/IN/B-PP/B-PNP/O/como|nuestro/PRP$/B-NP/I-PNP/NP-SBJ-1/nuestro|pueblo/NN/I-NP/I-PNP/NP-SBJ-1/pueblo|ganara/VB/B-VP/O/VP-1/ganar|el/DT/B-NP/O/NP-OBJ-1/el|futuro/NN/I-NP/O/NP-OBJ-1/futuro|././O/O/O/.
+20110126022229.000|20110126022240.000|CC1|>> Esta noche quisiera hablar con ustedes sobre como llegaremos alla ALLá: .
+20110126022229.000|20110126022240.000|POS_05|Esta/DT/B-NP/O/NP-SBJ-1/esta|noche/NN/I-NP/O/NP-SBJ-1/noche|quisiera/VB/B-VP/O/VP-1/querer|hablar/VB/I-VP/O/VP-1/hablar|con/IN/B-PP/B-PNP/O/con|ustedes/PRP/B-NP/I-PNP/O/ustedes|sobre/IN/B-PP/B-PNP/O/sobre|como/JJ/B-NP/I-PNP/O/como|llegaremos/NN/I-NP/I-PNP/O/llegaremos|alla/NN/I-NP/I-PNP/O/alla|ALLá/NN/I-NP/I-PNP/O/allá|:/:/O/O/O/:|././O/O/O/.
+20110126022240.000|20110126022254.000|CC1|>> lo primero es la innovacion de usa ESTADOS UNIDOS: nadie sabe de donde saldran nuevos empleos.
+20110126022240.000|20110126022254.000|POS_05|lo/DT/O/O/O/lo|primero/JJ/B-ADJP/O/O/primero|es/VB/B-VP/O/VP-1/ser|la/DT/B-NP/O/NP-OBJ-1/el|innovacion/NN/I-NP/O/NP-OBJ-1/innovacion|de/IN/B-PP/O/O/de|usa/VB/B-VP/O/VP-2/usar|ESTADOS/NN/B-NP/O/NP-OBJ-2/estados|UNIDOS/NN/I-NP/O/NP-OBJ-2/unidos|:/:/O/O/O/:|nadie/DT/O/O/O/nadie|sabe/VB/B-VP/O/O/saber|de/IN/B-PP/B-PNP/O/de|donde/IN/I-PP/I-PNP/O/donde|saldran/NN/B-NP/I-PNP/O/saldran|nuevos/JJ/I-NP/I-PNP/O/nuevo|empleos/NNS/I-NP/I-PNP/O/empleo|././O/O/O/.
+20110126022254.000|20110126022311.000|CC1|>> Lo que sí podemos hacer es causar creatividad en nuestro pueblo.
+20110126022254.000|20110126022311.000|POS_05|Lo/DT/O/O/O/lo|que/WP$/O/O/O/que|sí/PRP/B-NP/O/NP-SBJ-1/sí|podemos/VB/B-VP/O/VP-1/poder|hacer/VB/I-VP/O/VP-1/hacer|es/VB/I-VP/O/VP-1/ser|causar/VB/I-VP/O/VP-1/causar|creatividad/NN/B-NP/O/NP-OBJ-1/creatividad|en/IN/B-PP/B-PNP/O/en|nuestro/PRP$/B-NP/I-PNP/O/nuestro|pueblo/NN/I-NP/I-PNP/O/pueblo|././O/O/O/.
+20110126022311.000|20110126022328.000|CC1|>> la innovacion no solo cambia nuestra vida sino como nos ganamos la vida.
+20110126022311.000|20110126022328.000|POS_05|la/DT/B-NP/O/NP-SBJ-1/el|innovacion/NN/I-NP/O/NP-SBJ-1/innovacion|no/RB/I-NP/O/NP-SBJ-1/no|solo/JJ/I-NP/O/NP-SBJ-1/solo|cambia/VB/B-VP/O/VP-1/cambiar|nuestra/PRP$/B-NP/O/NP-OBJ-1/nuestra|vida/NN/I-NP/O/NP-OBJ-1/vida|sino/CC/O/O/O/sino|como/IN/B-PP/B-PNP/O/como|nos/PRP/B-NP/I-PNP/O/nos|ganamos/NN/I-NP/I-PNP/O/ganamos|la/DT/I-NP/I-PNP/O/el|vida/NN/I-NP/I-PNP/O/vida|././O/O/O/.
+20110126022328.000|20110126022348.000|CC1|>> Nuestro sistema de libre empresa es la fuerza motriz pues no es solo de utilidad de economia.
+20110126022328.000|20110126022348.000|POS_05|Nuestro/PRP$/B-NP/O/O/nuestro|sistema/NN/I-NP/O/O/sistema|de/IN/B-PP/B-PNP/O/de|libre/JJ/B-NP/I-PNP/NP-SBJ-1/libre|empresa/NN/I-NP/I-PNP/NP-SBJ-1/empresa|es/VB/B-VP/O/VP-1/ser|la/DT/B-NP/O/NP-OBJ-1/el|fuerza/NN/I-NP/O/NP-OBJ-1/fuerza|motriz/JJ/I-NP/O/NP-OBJ-1/motriz|pues/IN/B-PP/O/O/pues|no/RB/B-VP/O/O/no|es/VB/I-VP/O/O/ser|solo/JJ/B-ADJP/O/O/solo|de/IN/B-PP/B-PNP/O/de|utilidad/NN/B-NP/I-PNP/O/utilidad|de/IN/B-PP/B-PNP/O/de|economia/NN/B-NP/I-PNP/O/economia|././O/O/O/.
+20110126022348.000|20110126022350.000|CC1|>> Por eso.
+20110126022348.000|20110126022350.000|POS_05|Por/IN/B-PP/O/O/por|eso/DT/O/O/O/eso|././O/O/O/.
+20110126022350.000|20110126022355.000|CC1|>> Sñ ha forjado la internet.
+20110126022350.000|20110126022355.000|POS_05|Sñ/NNP/B-NP/O/NP-SBJ-1/sñ|ha/MD/B-VP/O/VP-1/har|forjado/VBN/I-VP/O/VP-1/forjar|la/DT/B-NP/O/NP-OBJ-1/el|internet/NN/I-NP/O/NP-OBJ-1/internet|././O/O/O/.
+20110126022355.000|20110126022418.000|CC1|>> Ayuda a hacer pastillas de computadoras y GPS piensen en los empleos que sñ han producido por esto.
+20110126022355.000|20110126022418.000|POS_05|Ayuda/NN/B-NP/O/O/ayuda|a/IN/B-PP/O/O/a|hacer/VB/B-VP/O/VP-1/hacer|pastillas/NNS/B-NP/O/NP-OBJ-1/pastilla|de/IN/B-PP/B-PNP/O/de|computadoras/NNS/B-NP/I-PNP/NP-SBJ-2/computadora|y/CC/I-NP/I-PNP/NP-SBJ-2/y|GPS/NNP/I-NP/I-PNP/NP-SBJ-2/gps|piensen/VB/B-VP/O/VP-2/pensar|en/IN/B-PP/B-PNP/O/en|los/DT/B-NP/I-PNP/O/el|empleos/NNS/I-NP/I-PNP/O/empleo|que/WP$/O/O/O/que|sñ/NN/B-NP/O/NP-SBJ-3/sñ|han/MD/B-VP/O/VP-3/har|producido/VBN/I-VP/O/VP-3/producir|por/IN/B-PP/O/O/por|esto/DT/O/O/O/esto|././O/O/O/.
+20110126022418.000|20110126022433.000|CC1|>> La ciencia aún no sabía como la NAS aún no . .
+20110126022418.000|20110126022433.000|POS_05|La/DT/B-NP/O/NP-SBJ-1/el|ciencia/NN/I-NP/O/NP-SBJ-1/ciencia|aún/RB/I-NP/O/NP-SBJ-1/aún|no/RB/I-NP/O/NP-SBJ-1/no|sabía/VB/I-VP/O/VP-1/saber|como/IN/B-PP/B-PNP/O/como|la/DT/B-NP/I-PNP/O/el|NAS/NNP/I-NP/I-PNP/O/nas|aún/RB/I-NP/I-PNP/O/aún|no/RB/I-NP/I-PNP/O/no|././O/O/O/.|././O/O/O/.
+20110126022433.000|20110126022444.000|SEG|Type=Story|Score=1.0
+20110126022433.000|20110126022438.000|CC1|>> Este es el momento de nuestra nacion.
+20110126022433.000|20110126022438.000|POS_05|Este/DT/O/O/O/este|es/VB/B-VP/O/VP-1/ser|el/DT/B-NP/O/NP-OBJ-1/el|momento/NN/I-NP/O/NP-OBJ-1/momento|de/IN/B-PP/B-PNP/O/de|nuestra/PRP$/B-NP/I-PNP/O/nuestra|nacion/NN/I-NP/I-PNP/O/nacion|././O/O/O/.
+20110126022438.000|20110126022444.000|CC1|>> Hace años dije que 
+20110126022438.000|20110126022444.000|POS_05|Hace/VB/B-VP/O/VP-1/hacer|años/NNS/B-NP/O/NP-OBJ-1*NP-SBJ-2/año|dije/VB/B-VP/O/VP-2/decir|que/IN/B-PP/O/O/que
+20110126022444.000|20110126022626.000|SEG_01|Type=Commercial|Score=0.1642281804583757
+20110126022444.000|20110126022447.000|CC1|necesitabamos alcanzar un nivel.
+20110126022444.000|20110126022447.000|POS_05|necesitabamos/NN/B-NP/O/NP-SBJ-1/necesitabamos|alcanzar/VB/B-VP/O/VP-1/alcanzar|un/DT/B-NP/O/NP-OBJ-1/un|nivel/NN/I-NP/O/NP-OBJ-1/nivel|././O/O/O/.
+20110126022447.000|20110126022503.000|CC1|>> dentro de poco entregare un presupuesto para realizar investigaciones!. 
+20110126022447.000|20110126022503.000|POS_05|dentro/IN/B-PP/B-PNP/O/dentro|de/IN/I-PP/I-PNP/O/de|poco/RB/B-ADVP/O/O/poco|entregare/NN/B-NP/O/O/entregare|un/DT/B-NP/O/O/un|presupuesto/NN/I-NP/O/O/presupuesto|para/IN/B-PP/O/O/para|realizar/VB/B-VP/O/VP-1/realizar|investigaciones/NNS/B-NP/O/NP-OBJ-1/investigación|!/./O/O/O/!|././O/O/O/.
+20110126022503.000|20110126022525.000|CC1|>> Inversion que fortalecera estabilidad y lograra nuevos empleos a traves de la energia renovable.
+20110126022503.000|20110126022525.000|POS_05|Inversion/NNP/B-NP/O/O/inversion|que/WP$/O/O/O/que|fortalecera/NN/B-NP/O/O/fortalecera|estabilidad/NN/I-NP/O/O/estabilidad|y/CC/O/O/O/y|lograra/VB/B-VP/O/VP-1/lograr|nuevos/JJ/B-NP/O/NP-OBJ-1/nuevo|empleos/NNS/I-NP/O/NP-OBJ-1/empleo|a/IN/B-PP/O/O/a|traves/JJ/B-ADJP/O/O/trav|de/IN/B-PP/B-PNP/O/de|la/DT/B-NP/I-PNP/O/el|energia/NN/I-NP/I-PNP/O/energia|renovable/JJ/I-NP/I-PNP/O/renovable|././O/O/O/.
+20110126022525.000|20110126022548.000|CC1|>> hoy día con la ayuda de empresas gubernamentales ellos sñ reinventaron.
+20110126022525.000|20110126022548.000|POS_05|hoy/RB/B-ADVP/O/O/hoy|día/NN/B-NP/O/O/día|con/IN/B-PP/B-PNP/O/con|la/DT/B-NP/I-PNP/O/el|ayuda/NN/I-NP/I-PNP/O/ayuda|de/IN/B-PP/B-PNP/O/de|empresas/NNS/B-NP/I-PNP/O/empresa|gubernamentales/JJ/I-NP/I-PNP/O/gubernamental|ellos/PRP/I-NP/I-PNP/O/ellos|sñ/NN/I-NP/I-PNP/O/sñ|reinventaron/NN/I-NP/I-PNP/O/reinventaron|././O/O/O/.
+20110126022548.000|20110126022555.000|CC1|>> Eso es lo que hemos hecho.
+20110126022548.000|20110126022555.000|POS_05|Eso/DT/O/O/O/eso|es/VB/B-VP/O/O/ser|lo/DT/O/O/O/lo|que/WP$/O/O/O/que|hemos/MD/B-VP/O/O/her|hecho/VBN/I-VP/O/O/hacer|././O/O/O/.
+20110126022555.000|20110126022605.000|CC1|>> Reinventamos para hacer politica energetica.
+20110126022555.000|20110126022605.000|POS_05|Reinventamos/NNP/B-NP/O/O/reinventamos|para/IN/B-PP/O/O/para|hacer/VB/B-VP/O/VP-1/hacer|politica/VB/I-VP/O/VP-1/politicar|energetica/NN/B-NP/O/NP-OBJ-1/energetica|././O/O/O/.
+20110126022605.000|20110126022618.000|CC1|>> Les decimos a los cientificos que sí ellos agrupan a los mejores equipos.
+20110126022605.000|20110126022618.000|POS_05|Les/PRP/B-NP/O/NP-SBJ-1/les|decimos/VB/B-VP/O/VP-1/decir|a/IN/B-PP/B-PNP/O/a|los/DT/B-NP/I-PNP/O/el|cientificos/NN/I-NP/I-PNP/O/cientificos|que/WP$/O/O/O/que|sí/PRP/B-NP/O/NP-SBJ-2/sí|ellos/PRP/I-NP/O/NP-SBJ-2/ellos|agrupan/VB/B-VP/O/VP-2/agrupar|a/IN/B-PP/B-PNP/O/a|los/DT/B-NP/I-PNP/O/el|mejores/JJ/I-NP/I-PNP/O/mejor|equipos/NNS/I-NP/I-PNP/O/equipo|././O/O/O/.
+20110126022618.000|20110126022626.000|CC1|>> Nosotros le damos los fondos .
+20110126022618.000|20110126022626.000|POS_05|Nosotros/PRP/B-NP/O/NP-SBJ-1/nosotros|le/PRP/I-NP/O/NP-SBJ-1/le|damos/VB/B-VP/O/VP-1/dar|los/DT/B-NP/O/NP-OBJ-1/el|fondos/NNS/I-NP/O/NP-OBJ-1/fondo|././O/O/O/.
+20110126022626.000|20110126022745.000|SEG|Type=Story|Score=1.0
+20110126022626.000|20110126022636.000|CC1|>> Queremos convertir la luz solar para los automoviles.
+20110126022626.000|20110126022636.000|POS_05|Queremos/VB/B-VP/O/VP-1/querer|convertir/VB/I-VP/O/VP-1/convertir|la/DT/B-NP/O/NP-OBJ-1/el|luz/NN/I-NP/O/NP-OBJ-1/luz|solar/JJ/I-NP/O/NP-OBJ-1/solar|para/IN/B-PP/B-PNP/O/para|los/DT/B-NP/I-PNP/O/el|automoviles/NN/I-NP/I-PNP/O/automoviles|././O/O/O/.
+20110126022636.000|20110126022656.000|CC1|>> Muchas investigaciones habran y nos convertira el único país con un millon de autos electricos.
+20110126022636.000|20110126022656.000|POS_05|Muchas/DT/B-NP/O/O/muchas|investigaciones/NNS/I-NP/O/O/investigación|habran/NN/I-NP/O/O/habran|y/CC/O/O/O/y|nos/PRP/B-NP/O/O/nos|convertira/NN/I-NP/O/O/convertira|el/DT/B-NP/O/O/el|único/JJ/I-NP/O/O/único|país/NN/I-NP/O/O/país|con/IN/B-PP/B-PNP/O/con|un/DT/B-NP/I-PNP/O/un|millon/NN/I-NP/I-PNP/O/millon|de/IN/B-PP/B-PNP/O/de|autos/NNS/B-NP/I-PNP/O/auto|electricos/NN/I-NP/I-PNP/O/electricos|././O/O/O/.
+20110126022656.000|20110126022714.000|CC1|>> Le pido al concreso que ilumine los millones de dólares que le damos a las compañía petrolera.
+20110126022656.000|20110126022714.000|POS_05|Le/PRP/B-NP/O/NP-SBJ-1/le|pido/VB/B-VP/O/VP-1/pedir|al/NN/B-NP/O/NP-OBJ-1/al|concreso/NN/I-NP/O/NP-OBJ-1/concreso|que/WP$/O/O/O/que|ilumine/VB/B-VP/O/O/iluminar|los/DT/O/O/O/el|millones/CD/O/O/O/millones|de/CD/O/O/O/de|dólares/CD/O/O/O/dólares|que/WP$/O/O/O/que|le/PRP/B-NP/O/NP-SBJ-2/le|damos/VB/B-VP/O/VP-2/dar|a/IN/B-PP/B-PNP/O/a|las/DT/B-NP/I-PNP/O/el|compañía/NN/I-NP/I-PNP/O/compañía|petrolera/JJ/I-NP/I-PNP/O/petrolero|././O/O/O/.
+20110126022714.000|20110126022723.000|CC1|>> Ellos por su propia cuenta están bien.
+20110126022714.000|20110126022723.000|POS_05|Ellos/PRP/B-NP/O/O/ellos|por/IN/B-PP/B-PNP/O/por|su/PRP$/B-NP/I-PNP/NP-SBJ-1/su|propia/JJ/I-NP/I-PNP/NP-SBJ-1/propio|cuenta/VB/B-VP/O/VP-1/contar|están/MD/B-VP/O/O/estar|bien/RB/B-ADVP/O/O/bien|././O/O/O/.
+20110126022723.000|20110126022728.000|CC1|>> Convertiremos la energia del mañanan.
+20110126022723.000|20110126022728.000|POS_05|Convertiremos/NNP/B-NP/O/O/convertiremos|la/DT/I-NP/O/O/el|energia/NN/I-NP/O/O/energia|del/NN/I-NP/O/O/del|mañanan/NN/I-NP/O/O/mañanan|././O/O/O/.
+20110126022728.000|20110126022745.000|CC1|>> esta noche los desafio para que sñ unan a mí y así lograr 
+20110126022728.000|20110126022745.000|POS_05|esta/DT/B-NP/O/O/esta|noche/NN/I-NP/O/O/noche|los/DT/B-NP/O/O/el|desafio/NN/I-NP/O/O/desafio|para/IN/B-PP/B-PNP/O/para|que/IN/I-PP/I-PNP/O/que|sñ/NN/B-NP/I-PNP/O/sñ|unan/NN/I-NP/I-PNP/O/unan|a/IN/B-PP/B-PNP/O/a|mí/PRP/B-NP/I-PNP/O/mí|y/CC/O/O/O/y|así/RB/B-VP/O/O/así|lograr/VB/I-VP/O/O/lograr
+20110126022745.000|20110126022919.000|SEG_01|Type=Commercial|Score=1.0
+20110126022745.000|20110126022754.000|CC1|este suño de tener fuentes de energia!. 
+20110126022745.000|20110126022754.000|POS_05|este/DT/B-NP/O/O/este|suño/NN/I-NP/O/O/suño|de/IN/B-PP/O/O/de|tener/VB/B-VP/O/VP-1/tener|fuentes/NNS/B-NP/O/NP-OBJ-1/fuente|de/IN/B-PP/B-PNP/O/de|energia/NN/B-NP/I-PNP/O/energia|!/./O/O/O/!|././O/O/O/.
+20110126022754.000|20110126022758.000|CC1|>> Algunos quieren eolica.
+20110126022754.000|20110126022758.000|POS_05|Algunos/DT/O/O/O/algunos|quieren/VB/B-VP/O/VP-1/querer|eolica/NN/B-NP/O/NP-OBJ-1/eolica|././O/O/O/.
+20110126022758.000|20110126022801.000|CC1|>> Solar.
+20110126022758.000|20110126022801.000|POS_05|Solar/NNP/B-NP/O/O/solar|././O/O/O/.
+20110126022801.000|20110126022802.000|CC1|>> Carbon.
+20110126022801.000|20110126022802.000|POS_05|Carbon/NNP/B-NP/O/O/carbon|././O/O/O/.
+20110126022802.000|20110126022804.000|CC1|>> Necesitaremos todas de ellas.
+20110126022802.000|20110126022804.000|POS_05|Necesitaremos/VB/B-VP/O/O/necesitar|todas/DT/O/O/O/todas|de/IN/B-PP/B-PNP/O/de|ellas/PRP/B-NP/I-PNP/O/ellas|././O/O/O/.
+20110126022804.000|20110126022818.000|CC1|>> E insto a republicanos y democratas a unirse!. 
+20110126022804.000|20110126022818.000|POS_05|E/NN/B-NP/O/NP-SBJ-1/e|insto/VB/B-VP/O/VP-1/instar|a/IN/B-PP/O/O/a|republicanos/JJ/B-ADJP/O/O/republicano|y/CC/O/O/O/y|democratas/NN/B-NP/O/O/democratas|a/IN/B-PP/B-PNP/O/a|unirse/NN/B-NP/I-PNP/O/unirse|!/./O/O/O/!|././O/O/O/.
+20110126022818.000|20110126022827.000|CC1|>> Sí queremos ganar el futuro.
+20110126022818.000|20110126022827.000|POS_05|Sí/RB/B-VP/O/VP-1/sí|queremos/VB/I-VP/O/VP-1/querer|ganar/VB/I-VP/O/VP-1/ganar|el/DT/B-NP/O/NP-OBJ-1/el|futuro/NN/I-NP/O/NP-OBJ-1/futuro|././O/O/O/.
+20110126022827.000|20110126022837.000|CC1|>> Tenemos que ganar la carrera para educar a sus hijos.
+20110126022827.000|20110126022837.000|POS_05|Tenemos/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|ganar/VB/B-VP/O/VP-1/ganar|la/DT/B-NP/O/NP-OBJ-1/el|carrera/NN/I-NP/O/NP-OBJ-1/carrera|para/IN/B-PP/O/O/para|educar/VB/B-VP/O/O/educar|a/IN/B-PP/B-PNP/O/a|sus/PRP$/B-NP/I-PNP/O/sus|hijos/NNS/I-NP/I-PNP/O/hijo|././O/O/O/.
+20110126022837.000|20110126022852.000|CC1|>> Todos los empleos pedirán estudios de más allá de un bachillerato!. 
+20110126022837.000|20110126022852.000|POS_05|Todos/DT/B-NP/O/O/todos|los/DT/I-NP/O/O/el|empleos/NNS/I-NP/O/O/empleo|pedirán/NN/I-NP/O/O/pedirán|estudios/NNS/I-NP/O/O/estudio|de/IN/B-PP/B-PNP/O/de|más/IN/I-PP/I-PNP/O/más|allá/IN/I-PP/I-PNP/O/allá|de/IN/I-PP/I-PNP/O/de|un/DT/B-NP/I-PNP/O/un|bachillerato/NN/I-NP/I-PNP/O/bachillerato|!/./O/O/O/!|././O/O/O/.
+20110126022852.000|20110126022858.000|CC1|>> Todo esta por muy detras .
+20110126022852.000|20110126022858.000|POS_05|Todo/DT/O/O/O/todo|esta/DT/O/O/O/esta|por/IN/B-PP/O/O/por|muy/RB/B-ADJP/O/O/muy|detras/JJ/I-ADJP/O/O/detro|././O/O/O/.
+20110126022858.000|20110126022908.000|CC1|>> Estados Unidos cayo en noveno lugar en titulos de estudiantes.
+20110126022858.000|20110126022908.000|POS_05|Estados/NNP/B-NP/O/O/estados|Unidos/NNP/I-NP/O/O/unidos|cayo/NN/I-NP/O/O/cayo|en/IN/B-PP/B-PNP/O/en|noveno/JJ/B-NP/I-PNP/O/noveno|lugar/NN/I-NP/I-PNP/O/lugar|en/IN/B-PP/B-PNP/O/en|titulos/NNS/B-NP/I-PNP/O/titulo|de/IN/B-PP/B-PNP/O/de|estudiantes/NNS/B-NP/I-PNP/O/estudiante|././O/O/O/.
+20110126022908.000|20110126022919.000|CC1|>> todos tienenq ue tener la responsabilidad de nter exito.
+20110126022908.000|20110126022919.000|POS_05|todos/DT/B-NP/O/NP-SBJ-1/todos|tienenq/NN/I-NP/O/NP-SBJ-1/tienenq|ue/NN/I-NP/O/NP-SBJ-1/ue|tener/VB/B-VP/O/VP-1/tener|la/DT/B-NP/O/NP-OBJ-1/el|responsabilidad/NN/I-NP/O/NP-OBJ-1/responsabilidad|de/IN/B-PP/B-PNP/O/de|nter/NN/B-NP/I-PNP/O/nter|exito/NN/I-NP/I-PNP/O/exito|././O/O/O/.
+20110126022919.000|20110126022919.000|CC1|>>   .
+20110126022919.000|20110126022919.000|POS_05|././O/O/O/.
+20110126022919.000|20110126022937.000|SEG|Type=Story|Score=0.7585132818826048
+20110126022919.000|20110126022930.000|CC1|>> Es la familia quien le tiene que inculcar el amor por el aprendizaje a los niños.
+20110126022919.000|20110126022930.000|POS_05|Es/VB/B-VP/O/VP-1/ser|la/DT/B-NP/O/NP-OBJ-1/el|familia/NN/I-NP/O/NP-OBJ-1/familia|quien/WP$/O/O/O/quien|le/PRP/B-NP/O/NP-SBJ-2/le|tiene/VB/B-VP/O/VP-2/tener|que/IN/B-PP/B-PNP/O/que|inculcar/NN/B-NP/I-PNP/O/inculcar|el/DT/I-NP/I-PNP/O/el|amor/NN/I-NP/I-PNP/O/amor|por/IN/B-PP/B-PNP/O/por|el/DT/B-NP/I-PNP/O/el|aprendizaje/NN/I-NP/I-PNP/O/aprendizaje|a/IN/B-PP/B-PNP/O/a|los/DT/B-NP/I-PNP/O/el|niños/NNS/I-NP/I-PNP/O/niño|././O/O/O/.
+20110126022930.000|20110126022937.000|CC1|>> Tenemos que enseñar a nuestros hijos!!
+20110126022930.000|20110126022937.000|POS_05|Tenemos/VB/B-VP/O/O/tener|que/IN/B-PP/O/O/que|enseñar/VB/B-VP/O/O/enseñar|a/IN/B-PP/B-PNP/O/a|nuestros/PRP$/B-NP/I-PNP/O/nuestros|hijos/NNS/I-NP/I-PNP/O/hijo|!/./O/O/O/!|!/./O/O/O/!
+END|20110126022951|2011-01-26_0200_US_KMEX_Noticias_34

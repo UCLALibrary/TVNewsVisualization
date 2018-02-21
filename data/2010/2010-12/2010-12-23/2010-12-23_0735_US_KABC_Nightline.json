@@ -1,0 +1,712 @@
+{"Top": "20101223073501", "Filename": "2010-12-23_0735_US_KABC_Nightline"}
+{"Collection": "Communication Studies Archive, UCLA"}
+{"UID": "583d89c2-0e6a-11e0-989a-001517add6fa"}
+{"Duration": "0:30:29.56"}
+{"Video_Picture_Size": "640x368", "Original_Picture_Size": ""}
+{"Comment": ""}
+{"Language": "ENG"}
+{"Local_Broadcast_Time": "2010-12-22 23:35 America/Los_Angeles"}
+{"Annotation_Tag": "SEG_01", "Creation_Time": "2014-02-03 01:06:47", "Source_Program": "commercial_detection.py", "Source_Person": "Weixin Li"}
+{"StartTime": "20101223073504.000", "EndTime": "20101223073504.000", "PrimaryTag": "XDS", "Text": "%  NETWORK: ABC"}
+{"StartTime": "20101223073504.000", "EndTime": "20101223073504.000", "PrimaryTag": "XDS", "Text": "%     CALL:   "}
+{"StartTime": "20101223073507.000", "EndTime": "20101223073507.000", "PrimaryTag": "XDS", "Text": "%   RATING: (NOT RATED) (72)"}
+{"StartTime": "20101223073507.000", "EndTime": "20101223073507.000", "PrimaryTag": "XDS", "Text": "% TIMECODE: 12/23 2:35"}
+{"StartTime": "20101223073507.000", "EndTime": "20101223073507.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 12:23:00 of 2:35:00"}
+{"StartTime": "20101223073510.000", "EndTime": "20101223073510.000", "PrimaryTag": "XDS", "Text": "%    TITLE: ABC NEWS NIGHTLINE"}
+{"StartTime": "20101223073510.000", "EndTime": "20101223073510.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:00:00 of 0:31:00"}
+{"StartTime": "20101223073513.000", "EndTime": "20101223073529.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101223073513.000", "EndTime": "20101223073515.000", "PrimaryTag": "CC1", "Text": ">>> TONIGHT ON \"NIGHTLINE,\"     "}
+{"StartTime": "20101223073515.000", "EndTime": "20101223073518.000", "PrimaryTag": "CC1", "Text": "EXTREME WEATHER.                "}
+{"StartTime": "20101223073518.000", "EndTime": "20101223073520.000", "PrimaryTag": "CC1", "Text": "TORRENTIAL RAINS, FLOODED       "}
+{"StartTime": "20101223073520.000", "EndTime": "20101223073523.000", "PrimaryTag": "CC1", "Text": "STREETS, DUMPING SNOW, FREEZING "}
+{"StartTime": "20101223073523.000", "EndTime": "20101223073523.000", "PrimaryTag": "CC1", "Text": "COLD.                           "}
+{"StartTime": "20101223073523.000", "EndTime": "20101223073525.000", "PrimaryTag": "CC1", "Text": "THE WEATHER HAS GONE WILD ALL   "}
+{"StartTime": "20101223073525.000", "EndTime": "20101223073526.000", "PrimaryTag": "CC1", "Text": "AROUND THE WORLD, AND WE MEET   "}
+{"StartTime": "20101223073526.000", "EndTime": "20101223073529.000", "PrimaryTag": "CC1", "Text": "THE MAN WHO SAYS HE KNOWS WHY.  "}
+{"StartTime": "20101223073529.000", "EndTime": "20101223073540.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101223073529.000", "EndTime": "20101223073532.000", "PrimaryTag": "CC1", "Text": ">>> PLUS, PHONE WARS.           "}
+{"StartTime": "20101223073532.000", "EndTime": "20101223073534.000", "PrimaryTag": "CC1", "Text": "LOOK OUT, iPHONE.               "}
+{"StartTime": "20101223073534.000", "EndTime": "20101223073536.000", "PrimaryTag": "CC1", "Text": "GOOGLE GOES OFF THE MOBILE PHONE"}
+{"StartTime": "20101223073536.000", "EndTime": "20101223073537.000", "PrimaryTag": "CC1", "Text": "MARKET, AND WE GET THE FIRST    "}
+{"StartTime": "20101223073537.000", "EndTime": "20101223073539.000", "PrimaryTag": "CC1", "Text": "EVER LOOK INSIDE THEIR          "}
+{"StartTime": "20101223073539.000", "EndTime": "20101223073540.000", "PrimaryTag": "CC1", "Text": "LABORATORIES.                   "}
+{"StartTime": "20101223073540.000", "EndTime": "20101223074304.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101223073540.000", "EndTime": "20101223073545.000", "PrimaryTag": "CC1", "Text": ">>> AND, THE ODD COUPLE.        "}
+{"StartTime": "20101223073545.000", "EndTime": "20101223073547.000", "PrimaryTag": "CC1", "Text": "BING AND BOWIE.                 "}
+{"StartTime": "20101223073547.000", "EndTime": "20101223073551.000", "PrimaryTag": "CC1", "Text": "IN A CLASSIC 1977 CHRISTMAS     "}
+{"StartTime": "20101223073551.000", "EndTime": "20101223073552.000", "PrimaryTag": "CC1", "Text": "SPECIAL THAT'S FINDING A WHOLE  "}
+{"StartTime": "20101223073552.000", "EndTime": "20101223073553.000", "PrimaryTag": "CC1", "Text": "NEW LOOK.                       "}
+{"StartTime": "20101223073553.000", "EndTime": "20101223073557.000", "PrimaryTag": "CC1", "Text": "? OUR FINEST GIFTS WE BRING ?   "}
+{"StartTime": "20101223073558.000", "EndTime": "20101223073558.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:01:00 of 0:31:00"}
+{"StartTime": "20101223073557.000", "EndTime": "20101223073559.000", "PrimaryTag": "CC1", "Text": ">> AND THAT'S A \"SIGN OF THE    "}
+{"StartTime": "20101223073559.000", "EndTime": "20101223073559.000", "PrimaryTag": "CC1", "Text": "TIMES.\"                         "}
+{"StartTime": "20101223073559.000", "EndTime": "20101223073602.000", "PrimaryTag": "CC1", "Text": ">> Announcer: FROM THE GLOBAL   "}
+{"StartTime": "20101223073602.000", "EndTime": "20101223073603.000", "PrimaryTag": "CC1", "Text": "RESOURCES OF ABC NEWS, WITH     "}
+{"StartTime": "20101223073603.000", "EndTime": "20101223073606.000", "PrimaryTag": "CC1", "Text": "TERRY MORAN, CYNTHIA McFADDEN   "}
+{"StartTime": "20101223073606.000", "EndTime": "20101223073607.000", "PrimaryTag": "CC1", "Text": "AND BILL WEIR IN NEW YORK CITY, "}
+{"StartTime": "20101223073607.000", "EndTime": "20101223073608.000", "PrimaryTag": "CC1", "Text": "THIS IS \"NIGHTLINE,\" DECEMBER   "}
+{"StartTime": "20101223073608.000", "EndTime": "20101223073613.000", "PrimaryTag": "CC1", "Text": "22nd, 2010.                     "}
+{"StartTime": "20101223073613.000", "EndTime": "20101223073615.000", "PrimaryTag": "CC1", "Text": ">> GOOD EVENING, I'M CYNTHIA    "}
+{"StartTime": "20101223073615.000", "EndTime": "20101223073617.000", "PrimaryTag": "CC1", "Text": "McFADDEN.                       "}
+{"StartTime": "20101223073617.000", "EndTime": "20101223073618.000", "PrimaryTag": "CC1", "Text": "WE BEGIN TONIGHT WITH THE       "}
+{"StartTime": "20101223073618.000", "EndTime": "20101223073619.000", "PrimaryTag": "CC1", "Text": "WEATHER.                        "}
+{"StartTime": "20101223073619.000", "EndTime": "20101223073621.000", "PrimaryTag": "CC1", "Text": "WINTER HAS BROUGHT THE KIND OF  "}
+{"StartTime": "20101223073621.000", "EndTime": "20101223073623.000", "PrimaryTag": "CC1", "Text": "STORMS THAT INTERRUPT AND EVEN  "}
+{"StartTime": "20101223073623.000", "EndTime": "20101223073624.000", "PrimaryTag": "CC1", "Text": "ENDANGER LIVES, WITH DAYS OF    "}
+{"StartTime": "20101223073624.000", "EndTime": "20101223073625.000", "PrimaryTag": "CC1", "Text": "RAIN AND FLOODING IN THE        "}
+{"StartTime": "20101223073625.000", "EndTime": "20101223073627.000", "PrimaryTag": "CC1", "Text": "SOUTHWEST, RECORD SNOWFALL IN   "}
+{"StartTime": "20101223073627.000", "EndTime": "20101223073629.000", "PrimaryTag": "CC1", "Text": "THE NORTH, AND CONDITIONS HARSH "}
+{"StartTime": "20101223073629.000", "EndTime": "20101223073631.000", "PrimaryTag": "CC1", "Text": "ENOUGH OVERSEAS TO SHUT MAJOR   "}
+{"StartTime": "20101223073631.000", "EndTime": "20101223073632.000", "PrimaryTag": "CC1", "Text": "TRANSPORTATION HUBS.            "}
+{"StartTime": "20101223073632.000", "EndTime": "20101223073634.000", "PrimaryTag": "CC1", "Text": "THIS, AFTER A SUMMER OF EVEN    "}
+{"StartTime": "20101223073634.000", "EndTime": "20101223073636.000", "PrimaryTag": "CC1", "Text": "MORE DANGEROUS WAVES OF HEAT AND"}
+{"StartTime": "20101223073636.000", "EndTime": "20101223073636.000", "PrimaryTag": "CC1", "Text": "WATER.                          "}
+{"StartTime": "20101223073636.000", "EndTime": "20101223073639.000", "PrimaryTag": "CC1", "Text": "TONIGHT, DAN HARRIS TALKS WITH A"}
+{"StartTime": "20101223073639.000", "EndTime": "20101223073640.000", "PrimaryTag": "CC1", "Text": "FORECASTER WHO SAW IT ALL       "}
+{"StartTime": "20101223073640.000", "EndTime": "20101223073642.000", "PrimaryTag": "CC1", "Text": "COMING, AND WHO HAS LESS THAN   "}
+{"StartTime": "20101223073642.000", "EndTime": "20101223073643.000", "PrimaryTag": "CC1", "Text": "PROMISING NEWS FOR WHAT'S COMING"}
+{"StartTime": "20101223073643.000", "EndTime": "20101223073648.000", "PrimaryTag": "CC1", "Text": "NEXT.                           "}
+{"StartTime": "20101223073648.000", "EndTime": "20101223073650.000", "PrimaryTag": "CC1", "Text": ">> Reporter: IT'S HARD NOT TO BE"}
+{"StartTime": "20101223073650.000", "EndTime": "20101223073652.000", "PrimaryTag": "CC1", "Text": "IMPRESSED WHEN YOU SEE ENTIRE   "}
+{"StartTime": "20101223073652.000", "EndTime": "20101223073653.000", "PrimaryTag": "CC1", "Text": "HOUSES BEING SWEPT AWAY BY FLOOD"}
+{"StartTime": "20101223073653.000", "EndTime": "20101223073655.000", "PrimaryTag": "CC1", "Text": "WATERS IN THE WEST.             "}
+{"StartTime": "20101223073655.000", "EndTime": "20101223073657.000", "PrimaryTag": "CC1", "Text": "PART OF THE SAME STORM THAT,    "}
+{"StartTime": "20101223073657.000", "EndTime": "20101223073659.000", "PrimaryTag": "CC1", "Text": "TONIGHT, IS CREATING ROAD       "}
+{"StartTime": "20101223073701.000", "EndTime": "20101223073701.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:02:00 of 0:31:00"}
+{"StartTime": "20101223073659.000", "EndTime": "20101223073702.000", "PrimaryTag": "CC1", "Text": "CLOSURES, EVACUATIONS AND WILD  "}
+{"StartTime": "20101223073702.000", "EndTime": "20101223073705.000", "PrimaryTag": "CC1", "Text": "SPREAD FEAR OF MUD SLIDE.       "}
+{"StartTime": "20101223073705.000", "EndTime": "20101223073706.000", "PrimaryTag": "CC1", "Text": "MEANWHILE, THE MADNESS CONTINUES"}
+{"StartTime": "20101223073706.000", "EndTime": "20101223073707.000", "PrimaryTag": "CC1", "Text": "OVER IN EUROPE, WHERE THE SNOW  "}
+{"StartTime": "20101223073707.000", "EndTime": "20101223073709.000", "PrimaryTag": "CC1", "Text": "AND FREEZING TEMPERATURES THAT  "}
+{"StartTime": "20101223073709.000", "EndTime": "20101223073711.000", "PrimaryTag": "CC1", "Text": "PARALYZE MAJOR CITIES IS ONLY   "}
+{"StartTime": "20101223073711.000", "EndTime": "20101223073714.000", "PrimaryTag": "CC1", "Text": "NOW STARTING TO RELENT.         "}
+{"StartTime": "20101223073714.000", "EndTime": "20101223073716.000", "PrimaryTag": "CC1", "Text": "THERE IS ONE PERSON WHO IS HAPPY"}
+{"StartTime": "20101223073716.000", "EndTime": "20101223073717.000", "PrimaryTag": "CC1", "Text": "ABOUT ALL OF THIS, THOUGH.      "}
+{"StartTime": "20101223073717.000", "EndTime": "20101223073720.000", "PrimaryTag": "CC1", "Text": ">> I'M EXTREMELY PLEASED THAT   "}
+{"StartTime": "20101223073720.000", "EndTime": "20101223073722.000", "PrimaryTag": "CC1", "Text": "IT'S VERY COLD AND IT'S VERY    "}
+{"StartTime": "20101223073722.000", "EndTime": "20101223073724.000", "PrimaryTag": "CC1", "Text": "COLD IN EUROPE AS WELL.         "}
+{"StartTime": "20101223073724.000", "EndTime": "20101223073725.000", "PrimaryTag": "CC1", "Text": ">> Reporter: THIS RATHER        "}
+{"StartTime": "20101223073725.000", "EndTime": "20101223073726.000", "PrimaryTag": "CC1", "Text": "ODD-LOOKING MAN IS PIERCE       "}
+{"StartTime": "20101223073726.000", "EndTime": "20101223073728.000", "PrimaryTag": "CC1", "Text": "CORBIN, WHO ACTUALLY PREDICTED  "}
+{"StartTime": "20101223073728.000", "EndTime": "20101223073730.000", "PrimaryTag": "CC1", "Text": "THIS NASTY WEATHER, WHICH THE   "}
+{"StartTime": "20101223073730.000", "EndTime": "20101223073732.000", "PrimaryTag": "CC1", "Text": "BRITISH GOVERNMENT FAILED TO DO."}
+{"StartTime": "20101223073732.000", "EndTime": "20101223073735.000", "PrimaryTag": "CC1", "Text": ">> WE PREDICTED THAT THIS WINTER"}
+{"StartTime": "20101223073735.000", "EndTime": "20101223073736.000", "PrimaryTag": "CC1", "Text": "IN BRITAIN AND EUROPE WOULD BE  "}
+{"StartTime": "20101223073736.000", "EndTime": "20101223073739.000", "PrimaryTag": "CC1", "Text": "THE COLDEST FOR 100 YEARS.      "}
+{"StartTime": "20101223073739.000", "EndTime": "20101223073741.000", "PrimaryTag": "CC1", "Text": ">> Reporter: CORBIN'S METHODS   "}
+{"StartTime": "20101223073741.000", "EndTime": "20101223073743.000", "PrimaryTag": "CC1", "Text": "ARE, TO SAY THE LEAST,          "}
+{"StartTime": "20101223073743.000", "EndTime": "20101223073743.000", "PrimaryTag": "CC1", "Text": "UNORTHODOX.                     "}
+{"StartTime": "20101223073743.000", "EndTime": "20101223073745.000", "PrimaryTag": "CC1", "Text": "HE FORECASTS BASED ON THE       "}
+{"StartTime": "20101223073745.000", "EndTime": "20101223073746.000", "PrimaryTag": "CC1", "Text": "MAGNETIC CONNECTION BETWEEN THE "}
+{"StartTime": "20101223073746.000", "EndTime": "20101223073748.000", "PrimaryTag": "CC1", "Text": "SUN AND THE EARTH.              "}
+{"StartTime": "20101223073748.000", "EndTime": "20101223073749.000", "PrimaryTag": "CC1", "Text": "THOUGH MANY PEOPLE SAY HIS      "}
+{"StartTime": "20101223073749.000", "EndTime": "20101223073751.000", "PrimaryTag": "CC1", "Text": "CORRECT FORECASTS ARE JUST A    "}
+{"StartTime": "20101223073751.000", "EndTime": "20101223073753.000", "PrimaryTag": "CC1", "Text": "FLUKE, HE REMAINS SUPREMELY     "}
+{"StartTime": "20101223073753.000", "EndTime": "20101223073755.000", "PrimaryTag": "CC1", "Text": "CONFIDENT, AND NOW SAYS THE     "}
+{"StartTime": "20101223073755.000", "EndTime": "20101223073756.000", "PrimaryTag": "CC1", "Text": "WEATHER WILL ONLY GET WORSE AND "}
+{"StartTime": "20101223073756.000", "EndTime": "20101223073758.000", "PrimaryTag": "CC1", "Text": "VERY SOON.                      "}
+{"StartTime": "20101223073758.000", "EndTime": "20101223073801.000", "PrimaryTag": "CC1", "Text": ">> IN THE COMING PERIOD IN THE  "}
+{"StartTime": "20101223073801.000", "EndTime": "20101223073803.000", "PrimaryTag": "CC1", "Text": "NEW YEAR, WE ARE EXPECTING      "}
+{"StartTime": "20101223073804.000", "EndTime": "20101223073804.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:03:00 of 0:31:00"}
+{"StartTime": "20101223073803.000", "EndTime": "20101223073805.000", "PrimaryTag": "CC1", "Text": "BLIZZARDS IN EUROPE AND THE     "}
+{"StartTime": "20101223073805.000", "EndTime": "20101223073806.000", "PrimaryTag": "CC1", "Text": "EASTERN PARTS OF ENGLAND.       "}
+{"StartTime": "20101223073806.000", "EndTime": "20101223073808.000", "PrimaryTag": "CC1", "Text": "WE ARE EXPECTING BLIZZARDS IN   "}
+{"StartTime": "20101223073808.000", "EndTime": "20101223073809.000", "PrimaryTag": "CC1", "Text": "THE NORTHEAST USA.              "}
+{"StartTime": "20101223073809.000", "EndTime": "20101223073810.000", "PrimaryTag": "CC1", "Text": ">> Reporter: MAYBE HE'S RIGHT,  "}
+{"StartTime": "20101223073810.000", "EndTime": "20101223073811.000", "PrimaryTag": "CC1", "Text": "MAYBE HE'S NOT.                 "}
+{"StartTime": "20101223073811.000", "EndTime": "20101223073813.000", "PrimaryTag": "CC1", "Text": "EITHER WAY, WE ARE CERTAINLY    "}
+{"StartTime": "20101223073813.000", "EndTime": "20101223073816.000", "PrimaryTag": "CC1", "Text": "COMING TO AN END OF A YEAR OF   "}
+{"StartTime": "20101223073816.000", "EndTime": "20101223073818.000", "PrimaryTag": "CC1", "Text": "CRAZY AND OFTEN LETHAL WEATHER. "}
+{"StartTime": "20101223073818.000", "EndTime": "20101223073820.000", "PrimaryTag": "CC1", "Text": "MOST NOTABLY, THAT UNPRECEDENTED"}
+{"StartTime": "20101223073820.000", "EndTime": "20101223073822.000", "PrimaryTag": "CC1", "Text": "HEAT WAVE OVER IN RUSSIA AND    "}
+{"StartTime": "20101223073822.000", "EndTime": "20101223073824.000", "PrimaryTag": "CC1", "Text": "THAT HUGE AND LETHAL EPISODE OF "}
+{"StartTime": "20101223073824.000", "EndTime": "20101223073825.000", "PrimaryTag": "CC1", "Text": "FLOODING IN PAKISTAN.           "}
+{"StartTime": "20101223073825.000", "EndTime": "20101223073826.000", "PrimaryTag": "CC1", "Text": "AND, OF COURSE, EVERY TIME WE   "}
+{"StartTime": "20101223073826.000", "EndTime": "20101223073827.000", "PrimaryTag": "CC1", "Text": "HAVE A YEAR LIKE THIS, PEOPLE   "}
+{"StartTime": "20101223073827.000", "EndTime": "20101223073830.000", "PrimaryTag": "CC1", "Text": "ALWAYS ASK THE SAME QUESTION -- "}
+{"StartTime": "20101223073830.000", "EndTime": "20101223073832.000", "PrimaryTag": "CC1", "Text": "THIS HAS BEEN A, BY ANY STRETCH,"}
+{"StartTime": "20101223073832.000", "EndTime": "20101223073835.000", "PrimaryTag": "CC1", "Text": "PRETTY CRAZY YEAR IN TERMS OF   "}
+{"StartTime": "20101223073835.000", "EndTime": "20101223073836.000", "PrimaryTag": "CC1", "Text": "WEATHER.                        "}
+{"StartTime": "20101223073836.000", "EndTime": "20101223073837.000", "PrimaryTag": "CC1", "Text": "IS THERE ANYTHING IN WHAT YOU   "}
+{"StartTime": "20101223073837.000", "EndTime": "20101223073838.000", "PrimaryTag": "CC1", "Text": "SEE THIS YEAR THAT MAKES YOU    "}
+{"StartTime": "20101223073838.000", "EndTime": "20101223073839.000", "PrimaryTag": "CC1", "Text": "THINK THAT WE'RE SEEING CLIMATE "}
+{"StartTime": "20101223073839.000", "EndTime": "20101223073839.000", "PrimaryTag": "CC1", "Text": "CHANGE AT WORK?                 "}
+{"StartTime": "20101223073839.000", "EndTime": "20101223073842.000", "PrimaryTag": "CC1", "Text": ">> YOU CAN NEVER ATTRIBUTE THE  "}
+{"StartTime": "20101223073842.000", "EndTime": "20101223073844.000", "PrimaryTag": "CC1", "Text": "CAUSE OF INDIVIDUAL WEATHER     "}
+{"StartTime": "20101223073844.000", "EndTime": "20101223073845.000", "PrimaryTag": "CC1", "Text": "EVENTS TO A LONG-TERM TREND LIKE"}
+{"StartTime": "20101223073845.000", "EndTime": "20101223073848.000", "PrimaryTag": "CC1", "Text": "THE GLOBAL WARMING TREND BROUGHT"}
+{"StartTime": "20101223073848.000", "EndTime": "20101223073850.000", "PrimaryTag": "CC1", "Text": "ABOUT BY THE BUILDUP OF THE     "}
+{"StartTime": "20101223073850.000", "EndTime": "20101223073851.000", "PrimaryTag": "CC1", "Text": "GREENHOUSE GASES.               "}
+{"StartTime": "20101223073851.000", "EndTime": "20101223073853.000", "PrimaryTag": "CC1", "Text": "YOU CAN SEE THAT CERTAIN TYPES  "}
+{"StartTime": "20101223073853.000", "EndTime": "20101223073855.000", "PrimaryTag": "CC1", "Text": "OF WEATHER ARE MADE MORE LIKELY "}
+{"StartTime": "20101223073855.000", "EndTime": "20101223073856.000", "PrimaryTag": "CC1", "Text": "BY THE BUILDUP.                 "}
+{"StartTime": "20101223073856.000", "EndTime": "20101223073859.000", "PrimaryTag": "CC1", "Text": ">> Reporter: THAT'S MICHAEL     "}
+{"StartTime": "20101223073859.000", "EndTime": "20101223073901.000", "PrimaryTag": "CC1", "Text": "OPPENHEIMER, WHO SAYS CLIMATE   "}
+{"StartTime": "20101223073901.000", "EndTime": "20101223073903.000", "PrimaryTag": "CC1", "Text": "CHANGE IS LIKE LOADING THE DICE "}
+{"StartTime": "20101223073903.000", "EndTime": "20101223073905.000", "PrimaryTag": "CC1", "Text": "OR TILTING A PINBALL MACHINE.   "}
+{"StartTime": "20101223073905.000", "EndTime": "20101223073906.000", "PrimaryTag": "CC1", "Text": "MAKING IT MORE LIKELY THAT WE'LL"}
+{"StartTime": "20101223073907.000", "EndTime": "20101223073907.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:04:00 of 0:31:00"}
+{"StartTime": "20101223073906.000", "EndTime": "20101223073908.000", "PrimaryTag": "CC1", "Text": "HAVE HEAT WAVES, INTENSE        "}
+{"StartTime": "20101223073908.000", "EndTime": "20101223073909.000", "PrimaryTag": "CC1", "Text": "RAINSTORMS AND HIGHER SEA       "}
+{"StartTime": "20101223073909.000", "EndTime": "20101223073910.000", "PrimaryTag": "CC1", "Text": "LEVELS.                         "}
+{"StartTime": "20101223073910.000", "EndTime": "20101223073911.000", "PrimaryTag": "CC1", "Text": "IT'S NOT A PRETTY PICTURE.      "}
+{"StartTime": "20101223073911.000", "EndTime": "20101223073913.000", "PrimaryTag": "CC1", "Text": ">> OVER THE LONG-TERM, IT'S NOT."}
+{"StartTime": "20101223073913.000", "EndTime": "20101223073915.000", "PrimaryTag": "CC1", "Text": "AND IF WE DON'T ACT TO STEM THE "}
+{"StartTime": "20101223073915.000", "EndTime": "20101223073918.000", "PrimaryTag": "CC1", "Text": "EMISSIONS OF THE GASES,         "}
+{"StartTime": "20101223073918.000", "EndTime": "20101223073920.000", "PrimaryTag": "CC1", "Text": "EVENTUALLY, IT GETS DISASTROUS  "}
+{"StartTime": "20101223073920.000", "EndTime": "20101223073922.000", "PrimaryTag": "CC1", "Text": "BECAUSE EARTH SIMPLY KEEPING    "}
+{"StartTime": "20101223073922.000", "EndTime": "20101223073922.000", "PrimaryTag": "CC1", "Text": "WARMING.                        "}
+{"StartTime": "20101223073922.000", "EndTime": "20101223073925.000", "PrimaryTag": "CC1", "Text": ">> Reporter: IT FIGMIGHT FEEL C "}
+{"StartTime": "20101223073925.000", "EndTime": "20101223073927.000", "PrimaryTag": "CC1", "Text": "OUTSIDE OF YOUR HOUSE TONIGHT,  "}
+{"StartTime": "20101223073927.000", "EndTime": "20101223073929.000", "PrimaryTag": "CC1", "Text": "BUT 2010 MAY TURN OUT TO BE THE "}
+{"StartTime": "20101223073929.000", "EndTime": "20101223073930.000", "PrimaryTag": "CC1", "Text": "HOTTEST YEAR ON RECORD.         "}
+{"StartTime": "20101223073930.000", "EndTime": "20101223073931.000", "PrimaryTag": "CC1", "Text": "AND IN FACT, THE LAST DECADE WAS"}
+{"StartTime": "20101223073931.000", "EndTime": "20101223073932.000", "PrimaryTag": "CC1", "Text": "DEFINITELY THE HOTTEST ON       "}
+{"StartTime": "20101223073932.000", "EndTime": "20101223073933.000", "PrimaryTag": "CC1", "Text": "RECORD.                         "}
+{"StartTime": "20101223073933.000", "EndTime": "20101223073934.000", "PrimaryTag": "CC1", "Text": "DESPITE ALL THAT COME PEOPLING  "}
+{"StartTime": "20101223073934.000", "EndTime": "20101223073936.000", "PrimaryTag": "CC1", "Text": "EVIDENCE, CLIMATE SCIENTISTS SAY"}
+{"StartTime": "20101223073936.000", "EndTime": "20101223073937.000", "PrimaryTag": "CC1", "Text": "THEY NOW FEEL MORE EMBATTLED    "}
+{"StartTime": "20101223073937.000", "EndTime": "20101223073939.000", "PrimaryTag": "CC1", "Text": "THAN EVER.                      "}
+{"StartTime": "20101223073939.000", "EndTime": "20101223073941.000", "PrimaryTag": "CC1", "Text": "AND SOME OF THEIR BIGGEST       "}
+{"StartTime": "20101223073941.000", "EndTime": "20101223073942.000", "PrimaryTag": "CC1", "Text": "OPPONENTS, THEY SAY, ARE        "}
+{"StartTime": "20101223073942.000", "EndTime": "20101223073944.000", "PrimaryTag": "CC1", "Text": "POLITICIANS ON THE RIGHT.       "}
+{"StartTime": "20101223073944.000", "EndTime": "20101223073950.000", "PrimaryTag": "CC1", "Text": "IN ONE CONGRESSIONAL HEARING, A "}
+{"StartTime": "20101223073950.000", "EndTime": "20101223073954.000", "PrimaryTag": "CC1", "Text": "CONGRESSMAN ARGUED THAT GOD SAID"}
+{"StartTime": "20101223073954.000", "EndTime": "20101223073959.000", "PrimaryTag": "CC1", "Text": "EARTH WILL STAY SAFE FOR M      "}
+{"StartTime": "20101223073959.000", "EndTime": "20101223073959.000", "PrimaryTag": "CC1", "Text": "MANKIND.                        "}
+{"StartTime": "20101223073959.000", "EndTime": "20101223074000.000", "PrimaryTag": "CC1", "Text": "AND HERE'S WHAT JOHN BOEHNER    "}
+{"StartTime": "20101223074000.000", "EndTime": "20101223074002.000", "PrimaryTag": "CC1", "Text": "TOLD GEORGE STEPHANOPOULOS.     "}
+{"StartTime": "20101223074002.000", "EndTime": "20101223074006.000", "PrimaryTag": "CC1", "Text": ">> GEORGE, THE IDEA THAT CARBON "}
+{"StartTime": "20101223074006.000", "EndTime": "20101223074009.000", "PrimaryTag": "CC1", "Text": "DIOXIDE IS A CAR SIN KNOW JEN,  "}
+{"StartTime": "20101223074010.000", "EndTime": "20101223074010.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:05:00 of 0:31:00"}
+{"StartTime": "20101223074009.000", "EndTime": "20101223074011.000", "PrimaryTag": "CC1", "Text": "THAT IT'S HARMFUL TO OUR        "}
+{"StartTime": "20101223074011.000", "EndTime": "20101223074013.000", "PrimaryTag": "CC1", "Text": "ENVIRONMENT IS ALMOST COMICAL.  "}
+{"StartTime": "20101223074013.000", "EndTime": "20101223074014.000", "PrimaryTag": "CC1", "Text": ">> Reporter: WHAT IS YOUR       "}
+{"StartTime": "20101223074014.000", "EndTime": "20101223074015.000", "PrimaryTag": "CC1", "Text": "REACTION?                       "}
+{"StartTime": "20101223074015.000", "EndTime": "20101223074018.000", "PrimaryTag": "CC1", "Text": ">> WELL, NO ONE IS ASSERTING    "}
+{"StartTime": "20101223074018.000", "EndTime": "20101223074021.000", "PrimaryTag": "CC1", "Text": "THAT IT'S A CAR SIN JOE JEN.    "}
+{"StartTime": "20101223074021.000", "EndTime": "20101223074025.000", "PrimaryTag": "CC1", "Text": "IT COULD BE CLASSIFIED AS AN AIR"}
+{"StartTime": "20101223074025.000", "EndTime": "20101223074026.000", "PrimaryTag": "CC1", "Text": "POLLUTANT.                      "}
+{"StartTime": "20101223074026.000", "EndTime": "20101223074028.000", "PrimaryTag": "CC1", "Text": "THIS IS NONSENSE IT'S           "}
+{"StartTime": "20101223074028.000", "EndTime": "20101223074029.000", "PrimaryTag": "CC1", "Text": "POLITICALLY MOTIVATED AND       "}
+{"StartTime": "20101223074029.000", "EndTime": "20101223074031.000", "PrimaryTag": "CC1", "Text": "COMPLETELY DETACHED FROM THE    "}
+{"StartTime": "20101223074031.000", "EndTime": "20101223074031.000", "PrimaryTag": "CC1", "Text": "SCIENTIFIC REALITY.             "}
+{"StartTime": "20101223074031.000", "EndTime": "20101223074033.000", "PrimaryTag": "CC1", "Text": ">> Reporter: MEANWHILE, THE FBI "}
+{"StartTime": "20101223074033.000", "EndTime": "20101223074035.000", "PrimaryTag": "CC1", "Text": "TELLS US IT HAS SEEN A SPIKE IN "}
+{"StartTime": "20101223074035.000", "EndTime": "20101223074037.000", "PrimaryTag": "CC1", "Text": "THREATENING E-MAILS TO CLIMATE  "}
+{"StartTime": "20101223074037.000", "EndTime": "20101223074039.000", "PrimaryTag": "CC1", "Text": "SCIENTISTS, AND A WHY           "}
+{"StartTime": "20101223074039.000", "EndTime": "20101223074041.000", "PrimaryTag": "CC1", "Text": "SUPREMACIST WEBSITE RAIN        "}
+{"StartTime": "20101223074041.000", "EndTime": "20101223074043.000", "PrimaryTag": "CC1", "Text": "PICTURES OF SCIENTISTS WITH THE "}
+{"StartTime": "20101223074043.000", "EndTime": "20101223074046.000", "PrimaryTag": "CC1", "Text": "WORD \"JEW\" NEXT TO THEM.        "}
+{"StartTime": "20101223074046.000", "EndTime": "20101223074048.000", "PrimaryTag": "CC1", "Text": "OPPENHEIMER SAYS THIS INTERVIEW "}
+{"StartTime": "20101223074048.000", "EndTime": "20101223074050.000", "PrimaryTag": "CC1", "Text": "WILL GET ANGRY E-MAILS.         "}
+{"StartTime": "20101223074050.000", "EndTime": "20101223074053.000", "PrimaryTag": "CC1", "Text": ">> I READ OUT SOME OF MY E-MAILS"}
+{"StartTime": "20101223074053.000", "EndTime": "20101223074054.000", "PrimaryTag": "CC1", "Text": "AND PEOPLE WERE ASTONISHED.     "}
+{"StartTime": "20101223074054.000", "EndTime": "20101223074056.000", "PrimaryTag": "CC1", "Text": "SOME PEOPLE HAVE GOTTEN DEATH   "}
+{"StartTime": "20101223074056.000", "EndTime": "20101223074056.000", "PrimaryTag": "CC1", "Text": "THREATS.                        "}
+{"StartTime": "20101223074056.000", "EndTime": "20101223074058.000", "PrimaryTag": "CC1", "Text": ">> Reporter: WHAT TYPES OF      "}
+{"StartTime": "20101223074058.000", "EndTime": "20101223074059.000", "PrimaryTag": "CC1", "Text": "THINGS HAVE PEOPLE CALLED YOU?  "}
+{"StartTime": "20101223074059.000", "EndTime": "20101223074102.000", "PrimaryTag": "CC1", "Text": ">> YOU CAN'T USE THE MORE       "}
+{"StartTime": "20101223074102.000", "EndTime": "20101223074105.000", "PrimaryTag": "CC1", "Text": "AMUSING ONES ON FAMILY          "}
+{"StartTime": "20101223074105.000", "EndTime": "20101223074105.000", "PrimaryTag": "CC1", "Text": "TELEVISION.                     "}
+{"StartTime": "20101223074105.000", "EndTime": "20101223074106.000", "PrimaryTag": "CC1", "Text": ">> Reporter: NOW CLIMATE        "}
+{"StartTime": "20101223074106.000", "EndTime": "20101223074108.000", "PrimaryTag": "CC1", "Text": "SCIENTISTS, INCLUDING PROFESSOR "}
+{"StartTime": "20101223074108.000", "EndTime": "20101223074109.000", "PrimaryTag": "CC1", "Text": "OPPENHEIMER ARE FIGHTING BACK,  "}
+{"StartTime": "20101223074109.000", "EndTime": "20101223074111.000", "PrimaryTag": "CC1", "Text": "FORMING RAPID RESPONSE TEAMS TO "}
+{"StartTime": "20101223074111.000", "EndTime": "20101223074114.000", "PrimaryTag": "CC1", "Text": "COUNTER WHAT THEY DESCRIBE AS A "}
+{"StartTime": "20101223074114.000", "EndTime": "20101223074115.000", "PrimaryTag": "CC1", "Text": "VAST DISINFORMATION CAMPAIGN.   "}
+{"StartTime": "20101223074116.000", "EndTime": "20101223074116.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:06:00 of 0:31:00"}
+{"StartTime": "20101223074115.000", "EndTime": "20101223074118.000", "PrimaryTag": "CC1", "Text": ">> THERE'S NO QUESTION THAT     "}
+{"StartTime": "20101223074118.000", "EndTime": "20101223074120.000", "PrimaryTag": "CC1", "Text": "GOING BACK ALMOST 20 YEARS THAT "}
+{"StartTime": "20101223074120.000", "EndTime": "20101223074122.000", "PrimaryTag": "CC1", "Text": "CERTAIN SEGMENTS OF INDUSTRY GOT"}
+{"StartTime": "20101223074122.000", "EndTime": "20101223074124.000", "PrimaryTag": "CC1", "Text": "TOGETHER AND STARTED FUNDING    "}
+{"StartTime": "20101223074124.000", "EndTime": "20101223074126.000", "PrimaryTag": "CC1", "Text": "DISINFORMATION CAMPAIGNS, JUST  "}
+{"StartTime": "20101223074126.000", "EndTime": "20101223074128.000", "PrimaryTag": "CC1", "Text": "LIKE THE TOBACCO INDUSTRY DID   "}
+{"StartTime": "20101223074128.000", "EndTime": "20101223074130.000", "PrimaryTag": "CC1", "Text": "WITH SMOKING, IN ORDER TO CREATE"}
+{"StartTime": "20101223074130.000", "EndTime": "20101223074133.000", "PrimaryTag": "CC1", "Text": "DOUBT IN THE PUBLIC'S MIND THAT "}
+{"StartTime": "20101223074133.000", "EndTime": "20101223074134.000", "PrimaryTag": "CC1", "Text": "THE SCIENCE WAS FIRM ENOUGH ON  "}
+{"StartTime": "20101223074134.000", "EndTime": "20101223074136.000", "PrimaryTag": "CC1", "Text": "GLOBAL WARMING TO ACTUALLY ACT  "}
+{"StartTime": "20101223074136.000", "EndTime": "20101223074136.000", "PrimaryTag": "CC1", "Text": "ON IT.                          "}
+{"StartTime": "20101223074136.000", "EndTime": "20101223074138.000", "PrimaryTag": "CC1", "Text": "BUT THIS IS A DEVICE WE'VE SEEN "}
+{"StartTime": "20101223074138.000", "EndTime": "20101223074139.000", "PrimaryTag": "CC1", "Text": "BEFORE.                         "}
+{"StartTime": "20101223074139.000", "EndTime": "20101223074140.000", "PrimaryTag": "CC1", "Text": ">> Reporter: AND IT WORKED FOR A"}
+{"StartTime": "20101223074140.000", "EndTime": "20101223074140.000", "PrimaryTag": "CC1", "Text": "LITTLE WHILE.                   "}
+{"StartTime": "20101223074140.000", "EndTime": "20101223074141.000", "PrimaryTag": "CC1", "Text": ">> IT DID.                      "}
+{"StartTime": "20101223074141.000", "EndTime": "20101223074142.000", "PrimaryTag": "CC1", "Text": "IT DELAYED ACTION.              "}
+{"StartTime": "20101223074142.000", "EndTime": "20101223074144.000", "PrimaryTag": "CC1", "Text": "WE SEE THE SAME THING HERE.     "}
+{"StartTime": "20101223074144.000", "EndTime": "20101223074145.000", "PrimaryTag": "CC1", "Text": ">> Reporter: THEIR FOE, THEY    "}
+{"StartTime": "20101223074145.000", "EndTime": "20101223074146.000", "PrimaryTag": "CC1", "Text": "SAY, IS A WELL-FUNDED CAMPAIGN  "}
+{"StartTime": "20101223074146.000", "EndTime": "20101223074147.000", "PrimaryTag": "CC1", "Text": "TO CONFUSE.                     "}
+{"StartTime": "20101223074147.000", "EndTime": "20101223074151.000", "PrimaryTag": "CC1", "Text": "LED BY PEOPLE LIKE DR. FRIEND   "}
+{"StartTime": "20101223074151.000", "EndTime": "20101223074152.000", "PrimaryTag": "CC1", "Text": "SINGER, A CONTROVERSIAL         "}
+{"StartTime": "20101223074152.000", "EndTime": "20101223074154.000", "PrimaryTag": "CC1", "Text": "SCIENTIFIC SKEPTIC WITH WHOM I  "}
+{"StartTime": "20101223074154.000", "EndTime": "20101223074155.000", "PrimaryTag": "CC1", "Text": "CONDUCTED THIS COMBATIVE        "}
+{"StartTime": "20101223074155.000", "EndTime": "20101223074157.000", "PrimaryTag": "CC1", "Text": "INTERVIEW SEVERAL YEARS AGO,    "}
+{"StartTime": "20101223074157.000", "EndTime": "20101223074159.000", "PrimaryTag": "CC1", "Text": "WHICH WAS HEAVILY CRITERIA SIZED"}
+{"StartTime": "20101223074159.000", "EndTime": "20101223074202.000", "PrimaryTag": "CC1", "Text": "BY MANY IN THE SKEPTICS         "}
+{"StartTime": "20101223074202.000", "EndTime": "20101223074202.000", "PrimaryTag": "CC1", "Text": "COMMUNITY.                      "}
+{"StartTime": "20101223074202.000", "EndTime": "20101223074204.000", "PrimaryTag": "CC1", "Text": "THERE ARE SO MANY SCIENTISTS WHO"}
+{"StartTime": "20101223074204.000", "EndTime": "20101223074205.000", "PrimaryTag": "CC1", "Text": "DISAGREE WITH WHAT YOU'RE       "}
+{"StartTime": "20101223074205.000", "EndTime": "20101223074208.000", "PrimaryTag": "CC1", "Text": "SAYING, NASA, NOAA, THE NATIONAL"}
+{"StartTime": "20101223074208.000", "EndTime": "20101223074212.000", "PrimaryTag": "CC1", "Text": "ACADEMY OF SCIENCES, THE        "}
+{"StartTime": "20101223074212.000", "EndTime": "20101223074214.000", "PrimaryTag": "CC1", "Text": "AMERICAN GEOPHYSICAL UNION.     "}
+{"StartTime": "20101223074214.000", "EndTime": "20101223074216.000", "PrimaryTag": "CC1", "Text": "WE'RE TALKING ABOUT SCIENTISTS  "}
+{"StartTime": "20101223074216.000", "EndTime": "20101223074217.000", "PrimaryTag": "CC1", "Text": "ALL OVER THE GLOBE.             "}
+{"StartTime": "20101223074217.000", "EndTime": "20101223074218.000", "PrimaryTag": "CC1", "Text": ">> WHAT CAN I SAY?              "}
+{"StartTime": "20101223074218.000", "EndTime": "20101223074219.000", "PrimaryTag": "CC1", "Text": "THEY'RE WRONG.                  "}
+{"StartTime": "20101223074219.000", "EndTime": "20101223074219.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:07:00 of 0:31:00"}
+{"StartTime": "20101223074219.000", "EndTime": "20101223074220.000", "PrimaryTag": "CC1", "Text": ">> Reporter: WE SHOULD SAY THAT "}
+{"StartTime": "20101223074220.000", "EndTime": "20101223074221.000", "PrimaryTag": "CC1", "Text": "PIERCE CORBIN, THAT GUY WHO     "}
+{"StartTime": "20101223074221.000", "EndTime": "20101223074223.000", "PrimaryTag": "CC1", "Text": "CLAIMED TO HAVE PREDICTED       "}
+{"StartTime": "20101223074223.000", "EndTime": "20101223074224.000", "PrimaryTag": "CC1", "Text": "EUROPE'S CURRENT WEATHER WOES,  "}
+{"StartTime": "20101223074224.000", "EndTime": "20101223074227.000", "PrimaryTag": "CC1", "Text": "HE, TOO, IS A CLIMATE SKEPTIC.  "}
+{"StartTime": "20101223074227.000", "EndTime": "20101223074228.000", "PrimaryTag": "CC1", "Text": ">> THERE ARE CERTAIN PEOPLE IN  "}
+{"StartTime": "20101223074228.000", "EndTime": "20101223074230.000", "PrimaryTag": "CC1", "Text": "THE GLOBAL WARMING CULT, AND    "}
+{"StartTime": "20101223074230.000", "EndTime": "20101223074231.000", "PrimaryTag": "CC1", "Text": "THAT'S WHAT IT IS, IT'S A       "}
+{"StartTime": "20101223074231.000", "EndTime": "20101223074233.000", "PrimaryTag": "CC1", "Text": "RELIGIOUS CULT, THEY BELIEVE    "}
+{"StartTime": "20101223074233.000", "EndTime": "20101223074234.000", "PrimaryTag": "CC1", "Text": "THAT EVERYTHING THAT HAPPENS IS "}
+{"StartTime": "20101223074234.000", "EndTime": "20101223074236.000", "PrimaryTag": "CC1", "Text": "CAUSED BY GLOBAL WARMING.       "}
+{"StartTime": "20101223074236.000", "EndTime": "20101223074241.000", "PrimaryTag": "CC1", "Text": "LOOK, IT'S SHEER MAGNUS.        "}
+{"StartTime": "20101223074241.000", "EndTime": "20101223074242.000", "PrimaryTag": "CC1", "Text": ">> Reporter: CORBIN IS          "}
+{"StartTime": "20101223074242.000", "EndTime": "20101223074244.000", "PrimaryTag": "CC1", "Text": "PREDICTING A MINI ICE AGE IN THE"}
+{"StartTime": "20101223074244.000", "EndTime": "20101223074245.000", "PrimaryTag": "CC1", "Text": "COMING YEARS.                   "}
+{"StartTime": "20101223074245.000", "EndTime": "20101223074246.000", "PrimaryTag": "CC1", "Text": "HOWEVER, THE VAST MAJORITY OF   "}
+{"StartTime": "20101223074246.000", "EndTime": "20101223074248.000", "PrimaryTag": "CC1", "Text": "CLIMATE SCIENTISTS DISAGREE AND "}
+{"StartTime": "20101223074248.000", "EndTime": "20101223074250.000", "PrimaryTag": "CC1", "Text": "SAY, IF YOU LIKE THIS YEAR'S    "}
+{"StartTime": "20101223074250.000", "EndTime": "20101223074252.000", "PrimaryTag": "CC1", "Text": "EXTREMELY DEADLY WEATHER, YOU'LL"}
+{"StartTime": "20101223074252.000", "EndTime": "20101223074253.000", "PrimaryTag": "CC1", "Text": "LIKELY GET MUCH MORE IF THE     "}
+{"StartTime": "20101223074253.000", "EndTime": "20101223074256.000", "PrimaryTag": "CC1", "Text": "WORLD DOESN'T ACT VERY QUICKLY. "}
+{"StartTime": "20101223074256.000", "EndTime": "20101223074257.000", "PrimaryTag": "CC1", "Text": "FOR \"NIGHTLINE\" THIS IS DAN     "}
+{"StartTime": "20101223074257.000", "EndTime": "20101223074259.000", "PrimaryTag": "CC1", "Text": "HARRIS IN NEW YORK.             "}
+{"StartTime": "20101223074259.000", "EndTime": "20101223074300.000", "PrimaryTag": "CC1", "Text": ">> THE FIGHT OVER WEATHER,      "}
+{"StartTime": "20101223074300.000", "EndTime": "20101223074303.000", "PrimaryTag": "CC1", "Text": "HOPING YOUR HOLIDAYS ARE FREE OF"}
+{"StartTime": "20101223074303.000", "EndTime": "20101223074304.000", "PrimaryTag": "CC1", "Text": "WEATHER WOES.                   "}
+{"StartTime": "20101223074304.000", "EndTime": "20101223074635.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101223074304.000", "EndTime": "20101223074306.000", "PrimaryTag": "CC1", "Text": ">>> WHEN WE COME BACK, A        "}
+{"StartTime": "20101223074306.000", "EndTime": "20101223074307.000", "PrimaryTag": "CC1", "Text": "FIRST-EVER LOOK INSIDE THE      "}
+{"StartTime": "20101223074307.000", "EndTime": "20101223074309.000", "PrimaryTag": "CC1", "Text": "LABORATORY WHERE GOOGLE IS      "}
+{"StartTime": "20101223074309.000", "EndTime": "20101223074310.000", "PrimaryTag": "CC1", "Text": "DEVELOPING THE MOBILE PHONE OF  "}
+{"StartTime": "20101223074310.000", "EndTime": "20101223074312.000", "PrimaryTag": "CC1", "Text": "THE FUTURE.                     "}
+{"StartTime": "20101223074322.000", "EndTime": "20101223074322.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:08:00 of 0:31:00"}
+{"StartTime": "20101223074312.000", "EndTime": "20101223074635.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20101223074312.000", "EndTime": "20101223074348.000", "PrimaryTag": "CC1", "Text": "    I CAN'T BELIEVE I USED TO   "}
+{"StartTime": "20101223074348.000", "EndTime": "20101223074350.000", "PrimaryTag": "CC1", "Text": "    SWING OVER THOSE ROCKS...   "}
+{"StartTime": "20101223074350.000", "EndTime": "20101223074350.000", "PrimaryTag": "CC1", "Text": "     TOOK SOME FOOLISH RISKS    "}
+{"StartTime": "20101223074350.000", "EndTime": "20101223074352.000", "PrimaryTag": "CC1", "Text": "         AS A TEENAGER.         "}
+{"StartTime": "20101223074352.000", "EndTime": "20101223074352.000", "PrimaryTag": "CC1", "Text": "BUT I WAS STILL TAKING A FOOLISH"}
+{"StartTime": "20101223074352.000", "EndTime": "20101223074355.000", "PrimaryTag": "CC1", "Text": "    RISK WITH MY CHOLESTEROL.   "}
+{"StartTime": "20101223074355.000", "EndTime": "20101223074357.000", "PrimaryTag": "CC1", "Text": "  ANYONE WITH HIGH CHOLESTEROL  "}
+{"StartTime": "20101223074357.000", "EndTime": "20101223074357.000", "PrimaryTag": "CC1", "Text": "    MAY BE AT INCREASED RISK    "}
+{"StartTime": "20101223074357.000", "EndTime": "20101223074359.000", "PrimaryTag": "CC1", "Text": "        OF HEART ATTACK.        "}
+{"StartTime": "20101223074359.000", "EndTime": "20101223074359.000", "PrimaryTag": "CC1", "Text": "        DIET AND EXERCISE       "}
+{"StartTime": "20101223074359.000", "EndTime": "20101223074401.000", "PrimaryTag": "CC1", "Text": "     WEREN'T ENOUGH FOR ME.     "}
+{"StartTime": "20101223074401.000", "EndTime": "20101223074403.000", "PrimaryTag": "CC1", "Text": "    I STOPPED KIDDING MYSELF.   "}
+{"StartTime": "20101223074403.000", "EndTime": "20101223074403.000", "PrimaryTag": "CC1", "Text": "   I'VE BEEN EATING HEALTHIER,  "}
+{"StartTime": "20101223074403.000", "EndTime": "20101223074405.000", "PrimaryTag": "CC1", "Text": "       EXERCISING MORE...       "}
+{"StartTime": "20101223074405.000", "EndTime": "20101223074407.000", "PrimaryTag": "CC1", "Text": "AND NOW I'M ALSO TAKING LIPITOR."}
+{"StartTime": "20101223074407.000", "EndTime": "20101223074407.000", "PrimaryTag": "CC1", "Text": " IF YOU'VE BEEN KIDDING YOURSELF"}
+{"StartTime": "20101223074407.000", "EndTime": "20101223074410.000", "PrimaryTag": "CC1", "Text": " ABOUT HIGH CHOLESTEROL...STOP. "}
+{"StartTime": "20101223074410.000", "EndTime": "20101223074410.000", "PrimaryTag": "CC1", "Text": "        ALONG WITH DIET,        "}
+{"StartTime": "20101223074410.000", "EndTime": "20101223074411.000", "PrimaryTag": "CC1", "Text": "     LIPITOR HAS BEEN SHOWN     "}
+{"StartTime": "20101223074411.000", "EndTime": "20101223074411.000", "PrimaryTag": "CC1", "Text": "    TO LOWER BAD CHOLESTEROL    "}
+{"StartTime": "20101223074411.000", "EndTime": "20101223074414.000", "PrimaryTag": "CC1", "Text": "           39% TO 60%.          "}
+{"StartTime": "20101223074414.000", "EndTime": "20101223074415.000", "PrimaryTag": "CC1", "Text": "     LIPITOR IS FDA APPROVED    "}
+{"StartTime": "20101223074415.000", "EndTime": "20101223074415.000", "PrimaryTag": "CC1", "Text": "       TO REDUCE THE RISK       "}
+{"StartTime": "20101223074415.000", "EndTime": "20101223074417.000", "PrimaryTag": "CC1", "Text": "   OF HEART ATTACK AND STROKE   "}
+{"StartTime": "20101223074417.000", "EndTime": "20101223074417.000", "PrimaryTag": "CC1", "Text": "           IN PATIENTS          "}
+{"StartTime": "20101223074417.000", "EndTime": "20101223074419.000", "PrimaryTag": "CC1", "Text": "     WHO HAVE HEART DISEASE     "}
+{"StartTime": "20101223074419.000", "EndTime": "20101223074419.000", "PrimaryTag": "CC1", "Text": "         OR RISK FACTORS        "}
+{"StartTime": "20101223074419.000", "EndTime": "20101223074421.000", "PrimaryTag": "CC1", "Text": "       FOR HEART DISEASE.       "}
+{"StartTime": "20101223074421.000", "EndTime": "20101223074421.000", "PrimaryTag": "CC1", "Text": "       [ Female Announcer ]     "}
+{"StartTime": "20101223074421.000", "EndTime": "20101223074422.000", "PrimaryTag": "CC1", "Text": "   LIPITOR IS NOT FOR EVERYONE, "}
+{"StartTime": "20101223074422.000", "EndTime": "20101223074422.000", "PrimaryTag": "CC1", "Text": "         INCLUDING PEOPLE       "}
+{"StartTime": "20101223074422.000", "EndTime": "20101223074423.000", "PrimaryTag": "CC1", "Text": "       WITH LIVER PROBLEMS      "}
+{"StartTime": "20101223074423.000", "EndTime": "20101223074423.000", "PrimaryTag": "CC1", "Text": "    AND WOMEN WHO ARE NURSING,  "}
+{"StartTime": "20101223074423.000", "EndTime": "20101223074424.000", "PrimaryTag": "CC1", "Text": "             PREGNANT           "}
+{"StartTime": "20101223074424.000", "EndTime": "20101223074427.000", "PrimaryTag": "CC1", "Text": "     OR MAY BECOME PREGNANT.    "}
+{"StartTime": "20101223074425.000", "EndTime": "20101223074425.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:09:00 of 0:31:00"}
+{"StartTime": "20101223074427.000", "EndTime": "20101223074427.000", "PrimaryTag": "CC1", "Text": "   YOU NEED SIMPLE BLOOD TESTS  "}
+{"StartTime": "20101223074427.000", "EndTime": "20101223074429.000", "PrimaryTag": "CC1", "Text": "   TO CHECK FOR LIVER PROBLEMS. "}
+{"StartTime": "20101223074429.000", "EndTime": "20101223074429.000", "PrimaryTag": "CC1", "Text": "   TELL YOUR DOCTOR IF YOU ARE  "}
+{"StartTime": "20101223074429.000", "EndTime": "20101223074431.000", "PrimaryTag": "CC1", "Text": "     TAKING OTHER MEDICATIONS   "}
+{"StartTime": "20101223074431.000", "EndTime": "20101223074431.000", "PrimaryTag": "CC1", "Text": "  OR IF YOU HAVE ANY MUSCLE PAIN"}
+{"StartTime": "20101223074431.000", "EndTime": "20101223074433.000", "PrimaryTag": "CC1", "Text": "           OR WEAKNESS.         "}
+{"StartTime": "20101223074433.000", "EndTime": "20101223074433.000", "PrimaryTag": "CC1", "Text": "   THIS MAY BE A SIGN OF A RARE "}
+{"StartTime": "20101223074433.000", "EndTime": "20101223074435.000", "PrimaryTag": "CC1", "Text": "     BUT SERIOUS SIDE EFFECT.   "}
+{"StartTime": "20101223074435.000", "EndTime": "20101223074435.000", "PrimaryTag": "CC1", "Text": " LET'S GO, BOY, GO!             "}
+{"StartTime": "20101223074435.000", "EndTime": "20101223074439.000", "PrimaryTag": "CC1", "Text": "     WHOO-WHEE!                 "}
+{"StartTime": "20101223074439.000", "EndTime": "20101223074440.000", "PrimaryTag": "CC1", "Text": "  IF YOU HAVE HIGH CHOLESTEROL, "}
+{"StartTime": "20101223074440.000", "EndTime": "20101223074440.000", "PrimaryTag": "CC1", "Text": "  YOU MAY BE AT INCREASED RISK  "}
+{"StartTime": "20101223074440.000", "EndTime": "20101223074443.000", "PrimaryTag": "CC1", "Text": "  OF HEART ATTACK AND STROKE.   "}
+{"StartTime": "20101223074443.000", "EndTime": "20101223074444.000", "PrimaryTag": "CC1", "Text": "       DON'T KID YOURSELF.      "}
+{"StartTime": "20101223074444.000", "EndTime": "20101223074444.000", "PrimaryTag": "CC1", "Text": "    TALK TO YOUR DOCTOR ABOUT   "}
+{"StartTime": "20101223074444.000", "EndTime": "20101223074533.000", "PrimaryTag": "CC1", "Text": "  YOUR RISK AND ABOUT LIPITOR.  "}
+{"StartTime": "20101223074528.000", "EndTime": "20101223074528.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:10:00 of 0:31:00"}
+{"StartTime": "20101223074533.000", "EndTime": "20101223074533.000", "PrimaryTag": "CC1", "Text": "       (announcer)              "}
+{"StartTime": "20101223074533.000", "EndTime": "20101223074534.000", "PrimaryTag": "CC1", "Text": "       NO MATTER WHAT           "}
+{"StartTime": "20101223074534.000", "EndTime": "20101223074535.000", "PrimaryTag": "CC1", "Text": "       LIFE THROWS AT YOU,      "}
+{"StartTime": "20101223074535.000", "EndTime": "20101223074535.000", "PrimaryTag": "CC1", "Text": "           YOU CAN TAKE         "}
+{"StartTime": "20101223074535.000", "EndTime": "20101223074536.000", "PrimaryTag": "CC1", "Text": "           THE HEAT.            "}
+{"StartTime": "20101223074536.000", "EndTime": "20101223074536.000", "PrimaryTag": "CC1", "Text": "         'TIL IT TURNS          "}
+{"StartTime": "20101223074536.000", "EndTime": "20101223074537.000", "PrimaryTag": "CC1", "Text": "         INTO HEARTBURN,        "}
+{"StartTime": "20101223074537.000", "EndTime": "20101223074537.000", "PrimaryTag": "CC1", "Text": "          YOU'VE GOT            "}
+{"StartTime": "20101223074537.000", "EndTime": "20101223074539.000", "PrimaryTag": "CC1", "Text": "          WHAT IT TAKES:        "}
+{"StartTime": "20101223074539.000", "EndTime": "20101223074540.000", "PrimaryTag": "CC1", "Text": "             ZANTAC.            "}
+{"StartTime": "20101223074540.000", "EndTime": "20101223074540.000", "PrimaryTag": "CC1", "Text": "        IT'S STRONG, FAST       "}
+{"StartTime": "20101223074540.000", "EndTime": "20101223074542.000", "PrimaryTag": "CC1", "Text": "        LASTING RELIEF.         "}
+{"StartTime": "20101223074542.000", "EndTime": "20101223074542.000", "PrimaryTag": "CC1", "Text": "         SO LET THEM TURN       "}
+{"StartTime": "20101223074542.000", "EndTime": "20101223074545.000", "PrimaryTag": "CC1", "Text": "         UP THE HEAT.           "}
+{"StartTime": "20101223074545.000", "EndTime": "20101223074545.000", "PrimaryTag": "CC1", "Text": "        YOU CAN STOP THAT       "}
+{"StartTime": "20101223074545.000", "EndTime": "20101223074545.000", "PrimaryTag": "CC1", "Text": "        HEARTBURN COLD:         "}
+{"StartTime": "20101223074545.000", "EndTime": "20101223074546.000", "PrimaryTag": "CC1", "Text": "          (sssssssss!!!)        "}
+{"StartTime": "20101223074546.000", "EndTime": "20101223074635.000", "PrimaryTag": "CC1", "Text": "             ZANTAC.            "}
+{"StartTime": "20101223074635.000", "EndTime": "20101223074635.000", "PrimaryTag": "CC1", "Text": "        YOU CAN STOP THAT       "}
+{"StartTime": "20101223074635.000", "EndTime": "20101223074635.000", "PrimaryTag": "CC1", "Text": "        HEARTBURN COLD:         "}
+{"StartTime": "20101223074635.000", "EndTime": "20101223074635.000", "PrimaryTag": "CC1", "Text": "          (sssssssss!!!)        "}
+{"StartTime": "20101223074636.000", "EndTime": "20101223074636.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20101223074636.000", "EndTime": "20101223074636.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:11:00 of 0:31:00"}
+{"StartTime": "20101223074635.000", "EndTime": "20101223075333.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101223074635.000", "EndTime": "20101223074648.000", "PrimaryTag": "CC1", "Text": ">>> WELL, NO ONE KNOWS, OF      "}
+{"StartTime": "20101223074648.000", "EndTime": "20101223074650.000", "PrimaryTag": "CC1", "Text": "COURSE, HOW BIG THE MARKET FOR  "}
+{"StartTime": "20101223074650.000", "EndTime": "20101223074651.000", "PrimaryTag": "CC1", "Text": "SMARTPHONES MAY BE.             "}
+{"StartTime": "20101223074651.000", "EndTime": "20101223074654.000", "PrimaryTag": "CC1", "Text": "A LEADING RESEARCH FIRM SAYS IT "}
+{"StartTime": "20101223074654.000", "EndTime": "20101223074657.000", "PrimaryTag": "CC1", "Text": "WILL HIT $200 BILLION IN 2012.  "}
+{"StartTime": "20101223074657.000", "EndTime": "20101223074658.000", "PrimaryTag": "CC1", "Text": "BUT EVERYONE IS SURE IT WILL BE "}
+{"StartTime": "20101223074658.000", "EndTime": "20101223074700.000", "PrimaryTag": "CC1", "Text": "BIG, WHICH IS WHY ONE OF THE    "}
+{"StartTime": "20101223074700.000", "EndTime": "20101223074701.000", "PrimaryTag": "CC1", "Text": "BIGGEST NAMES IN TECHNOLOGY,    "}
+{"StartTime": "20101223074701.000", "EndTime": "20101223074703.000", "PrimaryTag": "CC1", "Text": "GOOGLE, IS JUMPING INTO THE     "}
+{"StartTime": "20101223074703.000", "EndTime": "20101223074705.000", "PrimaryTag": "CC1", "Text": "MOBILE MARKET WITH BOTH FEET.   "}
+{"StartTime": "20101223074705.000", "EndTime": "20101223074707.000", "PrimaryTag": "CC1", "Text": "WELL, TONIGHT, WE GET A LOOK    "}
+{"StartTime": "20101223074707.000", "EndTime": "20101223074709.000", "PrimaryTag": "CC1", "Text": "INSIDE THE COMPANY'S EFFORT TO  "}
+{"StartTime": "20101223074709.000", "EndTime": "20101223074712.000", "PrimaryTag": "CC1", "Text": "RAISEBAR FOR SMARTPHONE         "}
+{"StartTime": "20101223074712.000", "EndTime": "20101223074713.000", "PrimaryTag": "CC1", "Text": "TECHNOLOGY.                     "}
+{"StartTime": "20101223074713.000", "EndTime": "20101223074714.000", "PrimaryTag": "CC1", "Text": "HERE'S NEAL KARLINSKY.          "}
+{"StartTime": "20101223074714.000", "EndTime": "20101223074715.000", "PrimaryTag": "CC1", "Text": ">> PREPARE TO TURN RIGHT.       "}
+{"StartTime": "20101223074715.000", "EndTime": "20101223074718.000", "PrimaryTag": "CC1", "Text": ">> Reporter: IN CASE YOU HADN'T "}
+{"StartTime": "20101223074718.000", "EndTime": "20101223074719.000", "PrimaryTag": "CC1", "Text": "NOTICED, AT SOME POINT IN THE   "}
+{"StartTime": "20101223074719.000", "EndTime": "20101223074720.000", "PrimaryTag": "CC1", "Text": "LAST FEW YEARS, A PHONE STOPPED "}
+{"StartTime": "20101223074720.000", "EndTime": "20101223074722.000", "PrimaryTag": "CC1", "Text": "BEING JUST A PHONE.             "}
+{"StartTime": "20101223074722.000", "EndTime": "20101223074723.000", "PrimaryTag": "CC1", "Text": "IF YOU BELIEVE THE HYPE, GETTING"}
+{"StartTime": "20101223074723.000", "EndTime": "20101223074727.000", "PrimaryTag": "CC1", "Text": "AN iPHONE, AN ANDROID PHONE OR A"}
+{"StartTime": "20101223074727.000", "EndTime": "20101223074728.000", "PrimaryTag": "CC1", "Text": "WINDOWS PHONE, CAN BE A LIFE    "}
+{"StartTime": "20101223074728.000", "EndTime": "20101223074729.000", "PrimaryTag": "CC1", "Text": "CHANGING EXPERIENCE.            "}
+{"StartTime": "20101223074729.000", "EndTime": "20101223074730.000", "PrimaryTag": "CC1", "Text": ">> WHERE IS THE iPHONE FOUR?    "}
+{"StartTime": "20101223074732.000", "EndTime": "20101223074732.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:12:00 of 0:31:00"}
+{"StartTime": "20101223074730.000", "EndTime": "20101223074732.000", "PrimaryTag": "CC1", "Text": ">> Reporter: THE INTERNET IS    "}
+{"StartTime": "20101223074732.000", "EndTime": "20101223074734.000", "PrimaryTag": "CC1", "Text": "FILLED WITH SPOOCHS ABOUT THE   "}
+{"StartTime": "20101223074734.000", "EndTime": "20101223074735.000", "PrimaryTag": "CC1", "Text": "COMPETITION, AND LOVE FOR ALL   "}
+{"StartTime": "20101223074735.000", "EndTime": "20101223074736.000", "PrimaryTag": "CC1", "Text": "THINGS iPHONE.                  "}
+{"StartTime": "20101223074736.000", "EndTime": "20101223074738.000", "PrimaryTag": "CC1", "Text": ">> IF IT'S NOT AN iPHONE, WHY   "}
+{"StartTime": "20101223074738.000", "EndTime": "20101223074739.000", "PrimaryTag": "CC1", "Text": "WOULD I WANT IT?                "}
+{"StartTime": "20101223074739.000", "EndTime": "20101223074740.000", "PrimaryTag": "CC1", "Text": ">> NOTHING CAN COMPARE TO THE   "}
+{"StartTime": "20101223074740.000", "EndTime": "20101223074742.000", "PrimaryTag": "CC1", "Text": "iPHONE, THE GUYS OVER AT THE    "}
+{"StartTime": "20101223074742.000", "EndTime": "20101223074744.000", "PrimaryTag": "CC1", "Text": "APPLE STORE ASSURED ME OF THIS. "}
+{"StartTime": "20101223074744.000", "EndTime": "20101223074744.000", "PrimaryTag": "CC1", "Text": ">> Reporter: AND IF YOU THINK   "}
+{"StartTime": "20101223074744.000", "EndTime": "20101223074747.000", "PrimaryTag": "CC1", "Text": "THE BATTLE FOR COOL BETWEEN THE "}
+{"StartTime": "20101223074747.000", "EndTime": "20101223074749.000", "PrimaryTag": "CC1", "Text": "MAC AND PC GUY IS INTENSE --    "}
+{"StartTime": "20101223074749.000", "EndTime": "20101223074750.000", "PrimaryTag": "CC1", "Text": ">> FUTURE PC.                   "}
+{"StartTime": "20101223074750.000", "EndTime": "20101223074753.000", "PrimaryTag": "CC1", "Text": "HAVE THEY FIGURED OUT HOW TO    "}
+{"StartTime": "20101223074753.000", "EndTime": "20101223074754.000", "PrimaryTag": "CC1", "Text": "MAKE US STABLE?                 "}
+{"StartTime": "20101223074754.000", "EndTime": "20101223074756.000", "PrimaryTag": "CC1", "Text": ">> FUTURE PC JUST FROZE.        "}
+{"StartTime": "20101223074756.000", "EndTime": "20101223074757.000", "PrimaryTag": "CC1", "Text": ">> Reporter: YOU'RE MISSING THE "}
+{"StartTime": "20101223074757.000", "EndTime": "20101223074758.000", "PrimaryTag": "CC1", "Text": "FIGHT FOR THE FUTURE SITTING    "}
+{"StartTime": "20101223074758.000", "EndTime": "20101223074759.000", "PrimaryTag": "CC1", "Text": "RIGHT IN YOUR HAND.             "}
+{"StartTime": "20101223074759.000", "EndTime": "20101223074800.000", "PrimaryTag": "CC1", "Text": "THE PEOPLE THAT PUT THE GOOGLE  "}
+{"StartTime": "20101223074800.000", "EndTime": "20101223074802.000", "PrimaryTag": "CC1", "Text": "IN GOOGLE SEE THOSE LONG LINES  "}
+{"StartTime": "20101223074802.000", "EndTime": "20101223074804.000", "PrimaryTag": "CC1", "Text": "OUTSIDE THE APPLE STORE FOR A   "}
+{"StartTime": "20101223074804.000", "EndTime": "20101223074805.000", "PrimaryTag": "CC1", "Text": "NEW iPHONE AND WANT A PIECE OF  "}
+{"StartTime": "20101223074805.000", "EndTime": "20101223074807.000", "PrimaryTag": "CC1", "Text": "THE ACTION.                     "}
+{"StartTime": "20101223074807.000", "EndTime": "20101223074809.000", "PrimaryTag": "CC1", "Text": "WHAT'S GOOGLE DOING IN THE PHONE"}
+{"StartTime": "20101223074809.000", "EndTime": "20101223074809.000", "PrimaryTag": "CC1", "Text": "BUSINESS?                       "}
+{"StartTime": "20101223074809.000", "EndTime": "20101223074811.000", "PrimaryTag": "CC1", "Text": ">> WE'RE IN THE PHONE BUSINESS, "}
+{"StartTime": "20101223074811.000", "EndTime": "20101223074813.000", "PrimaryTag": "CC1", "Text": "I'D LIKE TO SAY THAT WE ARE IN  "}
+{"StartTime": "20101223074813.000", "EndTime": "20101223074815.000", "PrimaryTag": "CC1", "Text": "THE PORTABLE INTERNET BUSINESS. "}
+{"StartTime": "20101223074815.000", "EndTime": "20101223074817.000", "PrimaryTag": "CC1", "Text": ">> Reporter: JOHN IS ONE OF THE "}
+{"StartTime": "20101223074817.000", "EndTime": "20101223074819.000", "PrimaryTag": "CC1", "Text": "HEADS OF GOOGLE'S ANDROID UNIT. "}
+{"StartTime": "20101223074819.000", "EndTime": "20101223074820.000", "PrimaryTag": "CC1", "Text": "NOT THAT THEY LIKE TO PUT IT    "}
+{"StartTime": "20101223074820.000", "EndTime": "20101223074822.000", "PrimaryTag": "CC1", "Text": "THIS WAY, BUT ANDROID IS        "}
+{"StartTime": "20101223074822.000", "EndTime": "20101223074824.000", "PrimaryTag": "CC1", "Text": "GOOGLE'S ANSWER TO THE iPHONE.  "}
+{"StartTime": "20101223074824.000", "EndTime": "20101223074825.000", "PrimaryTag": "CC1", "Text": "AND OUR CAMERAS WERE THE FIRST  "}
+{"StartTime": "20101223074825.000", "EndTime": "20101223074828.000", "PrimaryTag": "CC1", "Text": "TO BE ALLOWED INSIDE ANDROID    "}
+{"StartTime": "20101223074828.000", "EndTime": "20101223074830.000", "PrimaryTag": "CC1", "Text": "HEADQUARTERS IN SILICON VALLEY, "}
+{"StartTime": "20101223074830.000", "EndTime": "20101223074832.000", "PrimaryTag": "CC1", "Text": "WHERE EVERY VERSION OF THE      "}
+{"StartTime": "20101223074832.000", "EndTime": "20101223074833.000", "PrimaryTag": "CC1", "Text": "GOOGLE PHONE MADE WORLDWIDE IS  "}
+{"StartTime": "20101223074833.000", "EndTime": "20101223074835.000", "PrimaryTag": "CC1", "Text": "PROUDLY ON DISPLAY.             "}
+{"StartTime": "20101223074837.000", "EndTime": "20101223074837.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:13:00 of 0:31:00"}
+{"StartTime": "20101223074835.000", "EndTime": "20101223074839.000", "PrimaryTag": "CC1", "Text": "SO, THIS IS THE NEXUS S.        "}
+{"StartTime": "20101223074839.000", "EndTime": "20101223074842.000", "PrimaryTag": "CC1", "Text": "THE LATEST AND GREATEST ANDROID "}
+{"StartTime": "20101223074842.000", "EndTime": "20101223074843.000", "PrimaryTag": "CC1", "Text": "DEVICE.                         "}
+{"StartTime": "20101223074843.000", "EndTime": "20101223074844.000", "PrimaryTag": "CC1", "Text": "I'M EXCITED ABOUT THIS DEVICE,  "}
+{"StartTime": "20101223074844.000", "EndTime": "20101223074845.000", "PrimaryTag": "CC1", "Text": "YES.                            "}
+{"StartTime": "20101223074845.000", "EndTime": "20101223074845.000", "PrimaryTag": "CC1", "Text": ">> Reporter: CAN I TOUCH YOUR   "}
+{"StartTime": "20101223074845.000", "EndTime": "20101223074846.000", "PrimaryTag": "CC1", "Text": "PHONE?                          "}
+{"StartTime": "20101223074846.000", "EndTime": "20101223074847.000", "PrimaryTag": "CC1", "Text": ">> YOU CAN TOUCH MY PHONE ANY   "}
+{"StartTime": "20101223074847.000", "EndTime": "20101223074848.000", "PrimaryTag": "CC1", "Text": "TIME.                           "}
+{"StartTime": "20101223074848.000", "EndTime": "20101223074849.000", "PrimaryTag": "CC1", "Text": ">> Reporter: IT'S NO JOKE TO    "}
+{"StartTime": "20101223074849.000", "EndTime": "20101223074850.000", "PrimaryTag": "CC1", "Text": "GOOGLE.                         "}
+{"StartTime": "20101223074850.000", "EndTime": "20101223074852.000", "PrimaryTag": "CC1", "Text": "THEY MAY DIFFER WITH THEIR      "}
+{"StartTime": "20101223074852.000", "EndTime": "20101223074853.000", "PrimaryTag": "CC1", "Text": "NEIGHBORS FROM APPLE ON SOME    "}
+{"StartTime": "20101223074853.000", "EndTime": "20101223074855.000", "PrimaryTag": "CC1", "Text": "THINGS, BUT ON THIS THEY AGREE. "}
+{"StartTime": "20101223074855.000", "EndTime": "20101223074857.000", "PrimaryTag": "CC1", "Text": ">> NOTE TO SELF, BRUSH TEETH    "}
+{"StartTime": "20101223074857.000", "EndTime": "20101223074859.000", "PrimaryTag": "CC1", "Text": "BEFORE ABC INTERVIEW.           "}
+{"StartTime": "20101223074859.000", "EndTime": "20101223074901.000", "PrimaryTag": "CC1", "Text": ">> Reporter: THE FUTURE IS      "}
+{"StartTime": "20101223074901.000", "EndTime": "20101223074901.000", "PrimaryTag": "CC1", "Text": "MOBILE.                         "}
+{"StartTime": "20101223074901.000", "EndTime": "20101223074902.000", "PrimaryTag": "CC1", "Text": "DOES GOOGLE HAVE TO BE IN       "}
+{"StartTime": "20101223074902.000", "EndTime": "20101223074903.000", "PrimaryTag": "CC1", "Text": "MOBILE?                         "}
+{"StartTime": "20101223074903.000", "EndTime": "20101223074903.000", "PrimaryTag": "CC1", "Text": "IS IT DO OR DIE?                "}
+{"StartTime": "20101223074903.000", "EndTime": "20101223074907.000", "PrimaryTag": "CC1", "Text": ">> IT'S CHEAP COMPUTING POWER.  "}
+{"StartTime": "20101223074907.000", "EndTime": "20101223074908.000", "PrimaryTag": "CC1", "Text": "IT'S PORTABLE, PERSONAL.        "}
+{"StartTime": "20101223074908.000", "EndTime": "20101223074909.000", "PrimaryTag": "CC1", "Text": "IT COMES VERY NATURAL.          "}
+{"StartTime": "20101223074909.000", "EndTime": "20101223074911.000", "PrimaryTag": "CC1", "Text": "WE WANT TO MAKE SURE THAT THE   "}
+{"StartTime": "20101223074911.000", "EndTime": "20101223074912.000", "PrimaryTag": "CC1", "Text": "GOOGLE SERVICES ARE AVAILABLE ON"}
+{"StartTime": "20101223074912.000", "EndTime": "20101223074913.000", "PrimaryTag": "CC1", "Text": "THESE DEVICES.                  "}
+{"StartTime": "20101223074913.000", "EndTime": "20101223074915.000", "PrimaryTag": "CC1", "Text": "I THINK THAT THE GOOGLE BOARD   "}
+{"StartTime": "20101223074915.000", "EndTime": "20101223074921.000", "PrimaryTag": "CC1", "Text": "REALLY SIGNALED VERY EARLY THAT "}
+{"StartTime": "20101223074921.000", "EndTime": "20101223074922.000", "PrimaryTag": "CC1", "Text": "MOBILE WILL BE VERY IMPORTANT   "}
+{"StartTime": "20101223074922.000", "EndTime": "20101223074922.000", "PrimaryTag": "CC1", "Text": "AND WE SHOULD BET ON THIS.      "}
+{"StartTime": "20101223074922.000", "EndTime": "20101223074927.000", "PrimaryTag": "CC1", "Text": ">> Reporter: THE iPHONE JOOUTSE "}
+{"StartTime": "20101223074927.000", "EndTime": "20101223074928.000", "PrimaryTag": "CC1", "Text": "GOOGLE, BUT THE NUMBERS SHOW    "}
+{"StartTime": "20101223074928.000", "EndTime": "20101223074929.000", "PrimaryTag": "CC1", "Text": "GOOGLE GAINING.                 "}
+{"StartTime": "20101223074929.000", "EndTime": "20101223074931.000", "PrimaryTag": "CC1", "Text": "IT IS IMPORTANT BECAUSE THE     "}
+{"StartTime": "20101223074931.000", "EndTime": "20101223074932.000", "PrimaryTag": "CC1", "Text": "PHONE IS STEADILY BECOMING THE  "}
+{"StartTime": "20101223074932.000", "EndTime": "20101223074934.000", "PrimaryTag": "CC1", "Text": "SINGLE MOST IMPORTANT DEVICE A  "}
+{"StartTime": "20101223074934.000", "EndTime": "20101223074935.000", "PrimaryTag": "CC1", "Text": "PERSON CARRIES.                 "}
+{"StartTime": "20101223074935.000", "EndTime": "20101223074937.000", "PrimaryTag": "CC1", "Text": "WHEN YOU HEAD OUT TO THE STORE, "}
+{"StartTime": "20101223074937.000", "EndTime": "20101223074938.000", "PrimaryTag": "CC1", "Text": "FOR EXAMPLE, WHAT DO YOU BRING? "}
+{"StartTime": "20101223074940.000", "EndTime": "20101223074940.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:14:00 of 0:31:00"}
+{"StartTime": "20101223074938.000", "EndTime": "20101223074941.000", "PrimaryTag": "CC1", "Text": "YOUR KEYS, A WALLET OR PURSE,   "}
+{"StartTime": "20101223074941.000", "EndTime": "20101223074943.000", "PrimaryTag": "CC1", "Text": "CASH AND CREDIT CARDS, MAYBE A  "}
+{"StartTime": "20101223074943.000", "EndTime": "20101223074945.000", "PrimaryTag": "CC1", "Text": "SHOPPING LIST, AND, OF COURSE,  "}
+{"StartTime": "20101223074945.000", "EndTime": "20101223074946.000", "PrimaryTag": "CC1", "Text": "YOUR CELL PHONE.                "}
+{"StartTime": "20101223074946.000", "EndTime": "20101223074948.000", "PrimaryTag": "CC1", "Text": "SOON, YOU WON'T NEED ANY OF IT, "}
+{"StartTime": "20101223074948.000", "EndTime": "20101223074949.000", "PrimaryTag": "CC1", "Text": "EXCEPT THE PHONE, WHICH WILL    "}
+{"StartTime": "20101223074949.000", "EndTime": "20101223074951.000", "PrimaryTag": "CC1", "Text": "SWIPE ACROSS PRODUCTS TO DEDUCT "}
+{"StartTime": "20101223074951.000", "EndTime": "20101223074953.000", "PrimaryTag": "CC1", "Text": "FROM YOUR BANK ACCOUNT, EVEN ACT"}
+{"StartTime": "20101223074953.000", "EndTime": "20101223074954.000", "PrimaryTag": "CC1", "Text": "AS A CAR KEY.                   "}
+{"StartTime": "20101223074954.000", "EndTime": "20101223074956.000", "PrimaryTag": "CC1", "Text": "IN A LAB IN SANTA MONICA,       "}
+{"StartTime": "20101223074956.000", "EndTime": "20101223074958.000", "PrimaryTag": "CC1", "Text": "CALIFORNIA, FOR AN APPLICATION  "}
+{"StartTime": "20101223074958.000", "EndTime": "20101223075000.000", "PrimaryTag": "CC1", "Text": "CALLED GOOGLE GOGGLES, THEY'RE  "}
+{"StartTime": "20101223075000.000", "EndTime": "20101223075002.000", "PrimaryTag": "CC1", "Text": "SHOWING US HOW THE PHONE'S      "}
+{"StartTime": "20101223075002.000", "EndTime": "20101223075004.000", "PrimaryTag": "CC1", "Text": "CAMERA CAN IDENTIFY PRODUCTS    "}
+{"StartTime": "20101223075004.000", "EndTime": "20101223075006.000", "PrimaryTag": "CC1", "Text": "JUST BY LOOKING AT THEM.        "}
+{"StartTime": "20101223075006.000", "EndTime": "20101223075009.000", "PrimaryTag": "CC1", "Text": "HARTMAN CREATED GOGGLES.        "}
+{"StartTime": "20101223075009.000", "EndTime": "20101223075011.000", "PrimaryTag": "CC1", "Text": "AMONG ITS MANY TICKRICKS, IT CA "}
+{"StartTime": "20101223075011.000", "EndTime": "20101223075013.000", "PrimaryTag": "CC1", "Text": "TRABS LATE A MENU WRITTEN IN    "}
+{"StartTime": "20101223075013.000", "EndTime": "20101223075013.000", "PrimaryTag": "CC1", "Text": "GERMAN.                         "}
+{"StartTime": "20101223075013.000", "EndTime": "20101223075015.000", "PrimaryTag": "CC1", "Text": ">> IN GERMAN, IT WOULD HAVE SAID"}
+{"StartTime": "20101223075015.000", "EndTime": "20101223075017.000", "PrimaryTag": "CC1", "Text": "THIS, IN ENGLISH, IT TRANS LAPTS"}
+{"StartTime": "20101223075017.000", "EndTime": "20101223075021.000", "PrimaryTag": "CC1", "Text": "TO SALAD OF BEETROOT AND GRATED "}
+{"StartTime": "20101223075021.000", "EndTime": "20101223075022.000", "PrimaryTag": "CC1", "Text": "CHEESE.                         "}
+{"StartTime": "20101223075022.000", "EndTime": "20101223075023.000", "PrimaryTag": "CC1", "Text": ">> Reporter: WE TRIED IT OUT AT "}
+{"StartTime": "20101223075023.000", "EndTime": "20101223075025.000", "PrimaryTag": "CC1", "Text": "THIS MUSEUM IN LOS ANGELES,     "}
+{"StartTime": "20101223075025.000", "EndTime": "20101223075027.000", "PrimaryTag": "CC1", "Text": "WHERE THE PHONE KNOWS           "}
+{"StartTime": "20101223075027.000", "EndTime": "20101223075030.000", "PrimaryTag": "CC1", "Text": "PRACTICALLY EVERY PIECE OF ART  "}
+{"StartTime": "20101223075030.000", "EndTime": "20101223075031.000", "PrimaryTag": "CC1", "Text": "IMAGINABLE, JUST BY SIGHT.      "}
+{"StartTime": "20101223075031.000", "EndTime": "20101223075033.000", "PrimaryTag": "CC1", "Text": ">> THE GOGGLES RECOGNIZED IT AS "}
+{"StartTime": "20101223075033.000", "EndTime": "20101223075034.000", "PrimaryTag": "CC1", "Text": "A VAN GOGH.                     "}
+{"StartTime": "20101223075034.000", "EndTime": "20101223075035.000", "PrimaryTag": "CC1", "Text": ">> Reporter: THE STAKES ARE     "}
+{"StartTime": "20101223075035.000", "EndTime": "20101223075036.000", "PrimaryTag": "CC1", "Text": "EXTREMELY HIGH, BECAUSE THE     "}
+{"StartTime": "20101223075036.000", "EndTime": "20101223075039.000", "PrimaryTag": "CC1", "Text": "PHONE AND ALL THE INFORMATION IT"}
+{"StartTime": "20101223075039.000", "EndTime": "20101223075040.000", "PrimaryTag": "CC1", "Text": "PROVIDES, NOT TO YOU, BUT ABOUT "}
+{"StartTime": "20101223075040.000", "EndTime": "20101223075042.000", "PrimaryTag": "CC1", "Text": "YOU, ARE THE FUTURE OF COMMERCE."}
+{"StartTime": "20101223075043.000", "EndTime": "20101223075043.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:15:00 of 0:31:00"}
+{"StartTime": "20101223075042.000", "EndTime": "20101223075044.000", "PrimaryTag": "CC1", "Text": ">> THIS IS A MAJOR BATTLEGROUND "}
+{"StartTime": "20101223075044.000", "EndTime": "20101223075046.000", "PrimaryTag": "CC1", "Text": "FOR THE FUTURE OF COMPUTER.     "}
+{"StartTime": "20101223075046.000", "EndTime": "20101223075048.000", "PrimaryTag": "CC1", "Text": "ING ARE KARA SWISHER IS THE     "}
+{"StartTime": "20101223075048.000", "EndTime": "20101223075050.000", "PrimaryTag": "CC1", "Text": "EXECUTIVE DIRECTOR OF THE       "}
+{"StartTime": "20101223075050.000", "EndTime": "20101223075052.000", "PrimaryTag": "CC1", "Text": "INFLUENTIAL BLOG \"ALL THINGS    "}
+{"StartTime": "20101223075052.000", "EndTime": "20101223075053.000", "PrimaryTag": "CC1", "Text": "DIGITAL.\"                       "}
+{"StartTime": "20101223075053.000", "EndTime": "20101223075054.000", "PrimaryTag": "CC1", "Text": ">> A LOT OF MONEY IS BEING PUT  "}
+{"StartTime": "20101223075054.000", "EndTime": "20101223075055.000", "PrimaryTag": "CC1", "Text": "INTO COMMERCE, WHICH IS HUGELY  "}
+{"StartTime": "20101223075055.000", "EndTime": "20101223075056.000", "PrimaryTag": "CC1", "Text": "IMPORTANT, BECAUSE LOCATION     "}
+{"StartTime": "20101223075056.000", "EndTime": "20101223075058.000", "PrimaryTag": "CC1", "Text": "GIVES YOU A LOT OF INFORMATION  "}
+{"StartTime": "20101223075058.000", "EndTime": "20101223075100.000", "PrimaryTag": "CC1", "Text": "OF WHERE YOU ARE AND WHAT YOU'RE"}
+{"StartTime": "20101223075100.000", "EndTime": "20101223075100.000", "PrimaryTag": "CC1", "Text": "DOING.                          "}
+{"StartTime": "20101223075100.000", "EndTime": "20101223075102.000", "PrimaryTag": "CC1", "Text": ">> Reporter: SOME ANALYSTS SEE  "}
+{"StartTime": "20101223075102.000", "EndTime": "20101223075103.000", "PrimaryTag": "CC1", "Text": "ONE PIECE OF GOOD NEWS FOR      "}
+{"StartTime": "20101223075103.000", "EndTime": "20101223075105.000", "PrimaryTag": "CC1", "Text": "GOOGLE IN APPLE'S HISTORY.      "}
+{"StartTime": "20101223075105.000", "EndTime": "20101223075107.000", "PrimaryTag": "CC1", "Text": "BY PUTTING ANDROID ON AS MANY   "}
+{"StartTime": "20101223075107.000", "EndTime": "20101223075109.000", "PrimaryTag": "CC1", "Text": "DIFFERENT KINDS OF MOBILE PHONES"}
+{"StartTime": "20101223075109.000", "EndTime": "20101223075111.000", "PrimaryTag": "CC1", "Text": "AS POSSIBLE, GOOGLE IS TAKING A "}
+{"StartTime": "20101223075111.000", "EndTime": "20101223075113.000", "PrimaryTag": "CC1", "Text": "PAGE FROM MICROSOFT'S WINDOWS,  "}
+{"StartTime": "20101223075113.000", "EndTime": "20101223075115.000", "PrimaryTag": "CC1", "Text": "BACK IN THE '90s, WHICH         "}
+{"StartTime": "20101223075115.000", "EndTime": "20101223075117.000", "PrimaryTag": "CC1", "Text": "DOMINATED APPLEBY GETTING ON    "}
+{"StartTime": "20101223075117.000", "EndTime": "20101223075118.000", "PrimaryTag": "CC1", "Text": "MANY DIFFERENT COMPUTERS.       "}
+{"StartTime": "20101223075118.000", "EndTime": "20101223075120.000", "PrimaryTag": "CC1", "Text": "WHILE APPLE, BACK THEN, JUST    "}
+{"StartTime": "20101223075120.000", "EndTime": "20101223075121.000", "PrimaryTag": "CC1", "Text": "LIKE THE iPHONE TODAY, STUCK    "}
+{"StartTime": "20101223075121.000", "EndTime": "20101223075123.000", "PrimaryTag": "CC1", "Text": "WITH ITS OWN SYSTEM, RUN ONLY BY"}
+{"StartTime": "20101223075123.000", "EndTime": "20101223075124.000", "PrimaryTag": "CC1", "Text": "ITS OWN DEVICE.                 "}
+{"StartTime": "20101223075124.000", "EndTime": "20101223075127.000", "PrimaryTag": "CC1", "Text": ">> I MEAN, GOOGLE'S NOT STUPID  "}
+{"StartTime": "20101223075127.000", "EndTime": "20101223075129.000", "PrimaryTag": "CC1", "Text": "TO WANT TO BE ON AS MANY DEVICES"}
+{"StartTime": "20101223075129.000", "EndTime": "20101223075130.000", "PrimaryTag": "CC1", "Text": "AS POSSIBLE.                    "}
+{"StartTime": "20101223075130.000", "EndTime": "20101223075130.000", "PrimaryTag": "CC1", "Text": "PEOPLE LIKE CHOICE.             "}
+{"StartTime": "20101223075130.000", "EndTime": "20101223075133.000", "PrimaryTag": "CC1", "Text": "WALK INTO A SUPERMARKET, THERE'S"}
+{"StartTime": "20101223075133.000", "EndTime": "20101223075135.000", "PrimaryTag": "CC1", "Text": "400 TIMES OF CEREAL OF THE SAME "}
+{"StartTime": "20101223075135.000", "EndTime": "20101223075135.000", "PrimaryTag": "CC1", "Text": "TIME.                           "}
+{"StartTime": "20101223075135.000", "EndTime": "20101223075137.000", "PrimaryTag": "CC1", "Text": "APPLE IS MAKING YOUR BET THAT   "}
+{"StartTime": "20101223075137.000", "EndTime": "20101223075138.000", "PrimaryTag": "CC1", "Text": "THIS IS WHAT YOU WANT.          "}
+{"StartTime": "20101223075138.000", "EndTime": "20101223075140.000", "PrimaryTag": "CC1", "Text": "ANDROID IS MAKING THE OPPOSITE. "}
+{"StartTime": "20101223075140.000", "EndTime": "20101223075141.000", "PrimaryTag": "CC1", "Text": ">> Reporter: INHERENT OF THAT   "}
+{"StartTime": "20101223075141.000", "EndTime": "20101223075142.000", "PrimaryTag": "CC1", "Text": "BET IS THE NOTION THAT PEOPLE   "}
+{"StartTime": "20101223075142.000", "EndTime": "20101223075144.000", "PrimaryTag": "CC1", "Text": "WILL CONTINUE FEEL COMFORTABLE  "}
+{"StartTime": "20101223075144.000", "EndTime": "20101223075145.000", "PrimaryTag": "CC1", "Text": "SHARING SO MUCH OF THEIR        "}
+{"StartTime": "20101223075145.000", "EndTime": "20101223075146.000", "PrimaryTag": "CC1", "Text": "PERSONAL INFORMATION.           "}
+{"StartTime": "20101223075146.000", "EndTime": "20101223075146.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:16:00 of 0:31:00"}
+{"StartTime": "20101223075146.000", "EndTime": "20101223075149.000", "PrimaryTag": "CC1", "Text": "BETWEEN ITS PHONES, G-MAIL AND  "}
+{"StartTime": "20101223075149.000", "EndTime": "20101223075150.000", "PrimaryTag": "CC1", "Text": "SEARCHES, GOOGLE NOW HAVE THE   "}
+{"StartTime": "20101223075150.000", "EndTime": "20101223075151.000", "PrimaryTag": "CC1", "Text": "POTENTIAL TO KNOW WHERE YOU ARE "}
+{"StartTime": "20101223075151.000", "EndTime": "20101223075154.000", "PrimaryTag": "CC1", "Text": "AT ALL TIMES, WHO YOUR FRIENDS  "}
+{"StartTime": "20101223075154.000", "EndTime": "20101223075155.000", "PrimaryTag": "CC1", "Text": "ARE, WHAT YOU'RE BUYING AND     "}
+{"StartTime": "20101223075155.000", "EndTime": "20101223075156.000", "PrimaryTag": "CC1", "Text": "MORE.                           "}
+{"StartTime": "20101223075156.000", "EndTime": "20101223075157.000", "PrimaryTag": "CC1", "Text": ">> WELL, THAT'S THE PLAN OF THE "}
+{"StartTime": "20101223075157.000", "EndTime": "20101223075158.000", "PrimaryTag": "CC1", "Text": "BORG.                           "}
+{"StartTime": "20101223075158.000", "EndTime": "20101223075200.000", "PrimaryTag": "CC1", "Text": "THAT'S WHAT WE CALL IT FONDLY   "}
+{"StartTime": "20101223075200.000", "EndTime": "20101223075201.000", "PrimaryTag": "CC1", "Text": "HERE, THE BORG.                 "}
+{"StartTime": "20101223075201.000", "EndTime": "20101223075202.000", "PrimaryTag": "CC1", "Text": "THEY'RE TRYING TO SUCK UP AS    "}
+{"StartTime": "20101223075202.000", "EndTime": "20101223075203.000", "PrimaryTag": "CC1", "Text": "MUCH INFORMATION AS POSSIBLE.   "}
+{"StartTime": "20101223075203.000", "EndTime": "20101223075205.000", "PrimaryTag": "CC1", "Text": "THEY KNOW WHAT YOU'RE SEARCHING "}
+{"StartTime": "20101223075205.000", "EndTime": "20101223075206.000", "PrimaryTag": "CC1", "Text": "ON AND THEY KNOW WHAT YOU'RE    "}
+{"StartTime": "20101223075206.000", "EndTime": "20101223075208.000", "PrimaryTag": "CC1", "Text": "DOING NEXT, THEY KNOW WHERE YOU "}
+{"StartTime": "20101223075208.000", "EndTime": "20101223075210.000", "PrimaryTag": "CC1", "Text": "ARE MOVING NEXT.                "}
+{"StartTime": "20101223075210.000", "EndTime": "20101223075211.000", "PrimaryTag": "CC1", "Text": "AND SO THERE'S A POTENTIAL FOR  "}
+{"StartTime": "20101223075211.000", "EndTime": "20101223075213.000", "PrimaryTag": "CC1", "Text": "ABUSE AND THAT'S WHAT PEOPLE ARE"}
+{"StartTime": "20101223075213.000", "EndTime": "20101223075214.000", "PrimaryTag": "CC1", "Text": "WORRIED ABOUT.                  "}
+{"StartTime": "20101223075214.000", "EndTime": "20101223075217.000", "PrimaryTag": "CC1", "Text": ">> SO, ANY LOCATION DATA THAT   "}
+{"StartTime": "20101223075217.000", "EndTime": "20101223075221.000", "PrimaryTag": "CC1", "Text": "GOOGLE IS LOOKING AT IS TOTALLY "}
+{"StartTime": "20101223075221.000", "EndTime": "20101223075223.000", "PrimaryTag": "CC1", "Text": "ANONMIZED AND TEMPORAL.         "}
+{"StartTime": "20101223075223.000", "EndTime": "20101223075225.000", "PrimaryTag": "CC1", "Text": "YOU CAN SIT HERE AND TELL ME    "}
+{"StartTime": "20101223075225.000", "EndTime": "20101223075227.000", "PrimaryTag": "CC1", "Text": "THAT BUT PEOPLE --              "}
+{"StartTime": "20101223075227.000", "EndTime": "20101223075229.000", "PrimaryTag": "CC1", "Text": ">> WE WOULD BE BETTING OUR      "}
+{"StartTime": "20101223075229.000", "EndTime": "20101223075229.000", "PrimaryTag": "CC1", "Text": "FUTURE.                         "}
+{"StartTime": "20101223075229.000", "EndTime": "20101223075231.000", "PrimaryTag": "CC1", "Text": "SO, THE RISK FOR GOOGLE TO      "}
+{"StartTime": "20101223075231.000", "EndTime": "20101223075233.000", "PrimaryTag": "CC1", "Text": "MISUSE OR EVEN MISREPRESENT WHAT"}
+{"StartTime": "20101223075233.000", "EndTime": "20101223075235.000", "PrimaryTag": "CC1", "Text": "WE'RE DOING WOULD BE MUCH LARGER"}
+{"StartTime": "20101223075235.000", "EndTime": "20101223075237.000", "PrimaryTag": "CC1", "Text": "THAN WHAT A POTENTIAL UPSIDE    "}
+{"StartTime": "20101223075237.000", "EndTime": "20101223075238.000", "PrimaryTag": "CC1", "Text": "WOULD BE.                       "}
+{"StartTime": "20101223075238.000", "EndTime": "20101223075239.000", "PrimaryTag": "CC1", "Text": "THERE IS TOO MUCH RISK.         "}
+{"StartTime": "20101223075239.000", "EndTime": "20101223075240.000", "PrimaryTag": "CC1", "Text": ">> Reporter: TO GIVE YOU        "}
+{"StartTime": "20101223075240.000", "EndTime": "20101223075241.000", "PrimaryTag": "CC1", "Text": "PERSPECTIVE ON HOW IMPORTANT    "}
+{"StartTime": "20101223075241.000", "EndTime": "20101223075242.000", "PrimaryTag": "CC1", "Text": "GETTING ANDROID RIGHT IS TO     "}
+{"StartTime": "20101223075242.000", "EndTime": "20101223075243.000", "PrimaryTag": "CC1", "Text": "GOOGLE, CONSIDER THIS.          "}
+{"StartTime": "20101223075243.000", "EndTime": "20101223075245.000", "PrimaryTag": "CC1", "Text": "IT IS ESSENTIALLY GIVEN AWAY    "}
+{"StartTime": "20101223075245.000", "EndTime": "20101223075247.000", "PrimaryTag": "CC1", "Text": "FREE TO MOBILE PHONE MAKERS JUST"}
+{"StartTime": "20101223075247.000", "EndTime": "20101223075249.000", "PrimaryTag": "CC1", "Text": "TO GET IT OUT THERE AND BRING   "}
+{"StartTime": "20101223075249.000", "EndTime": "20101223075249.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:17:00 of 0:31:00"}
+{"StartTime": "20101223075249.000", "EndTime": "20101223075251.000", "PrimaryTag": "CC1", "Text": "GOOGLE TO YOUR POCKET.          "}
+{"StartTime": "20101223075251.000", "EndTime": "20101223075253.000", "PrimaryTag": "CC1", "Text": "HOW MUCH PRESSURE IS THERE ON   "}
+{"StartTime": "20101223075253.000", "EndTime": "20101223075255.000", "PrimaryTag": "CC1", "Text": "SOMEONE LIKE YOU HERE, MOBILE?  "}
+{"StartTime": "20101223075255.000", "EndTime": "20101223075258.000", "PrimaryTag": "CC1", "Text": "I MEAN, GOOGLE HAS TO BE PAYING "}
+{"StartTime": "20101223075258.000", "EndTime": "20101223075259.000", "PrimaryTag": "CC1", "Text": "BIG, BIG TIME IN MOBILE.        "}
+{"StartTime": "20101223075259.000", "EndTime": "20101223075301.000", "PrimaryTag": "CC1", "Text": ">> I THINK WE HAVE -- WE ARE    "}
+{"StartTime": "20101223075301.000", "EndTime": "20101223075303.000", "PrimaryTag": "CC1", "Text": "GETTING A LOT OF ATTENTION AND  "}
+{"StartTime": "20101223075303.000", "EndTime": "20101223075304.000", "PrimaryTag": "CC1", "Text": "FOCUS.                          "}
+{"StartTime": "20101223075304.000", "EndTime": "20101223075305.000", "PrimaryTag": "CC1", "Text": "IT'S BOTH POSITIVE AND NEGATIVE."}
+{"StartTime": "20101223075305.000", "EndTime": "20101223075307.000", "PrimaryTag": "CC1", "Text": "THERE'S A LOT OF PRESSURE,      "}
+{"StartTime": "20101223075307.000", "EndTime": "20101223075307.000", "PrimaryTag": "CC1", "Text": "OBVIOUSLY.                      "}
+{"StartTime": "20101223075307.000", "EndTime": "20101223075310.000", "PrimaryTag": "CC1", "Text": "PEOPLE HAVE VERY HIGH           "}
+{"StartTime": "20101223075310.000", "EndTime": "20101223075310.000", "PrimaryTag": "CC1", "Text": "EXPECTATIONS.                   "}
+{"StartTime": "20101223075310.000", "EndTime": "20101223075311.000", "PrimaryTag": "CC1", "Text": ">> Reporter: AFTER ALL, A PHONE "}
+{"StartTime": "20101223075311.000", "EndTime": "20101223075313.000", "PrimaryTag": "CC1", "Text": "IS NO LONGER JUST FOR MAKING    "}
+{"StartTime": "20101223075313.000", "EndTime": "20101223075314.000", "PrimaryTag": "CC1", "Text": "CALLS.                          "}
+{"StartTime": "20101223075314.000", "EndTime": "20101223075315.000", "PrimaryTag": "CC1", "Text": ">> NAVIGATE TO NEAREST GROCERY  "}
+{"StartTime": "20101223075315.000", "EndTime": "20101223075316.000", "PrimaryTag": "CC1", "Text": "STORE.                          "}
+{"StartTime": "20101223075316.000", "EndTime": "20101223075318.000", "PrimaryTag": "CC1", "Text": ">> Reporter: AND AT GOOGLE,     "}
+{"StartTime": "20101223075318.000", "EndTime": "20101223075320.000", "PrimaryTag": "CC1", "Text": "SEARCH IS NOT ENOUGH.           "}
+{"StartTime": "20101223075320.000", "EndTime": "20101223075321.000", "PrimaryTag": "CC1", "Text": "I'M NEAL KARLINSKY FOR          "}
+{"StartTime": "20101223075321.000", "EndTime": "20101223075322.000", "PrimaryTag": "CC1", "Text": "NIGHTLINE IN MOUNTAINVIEW,    "}
+{"StartTime": "20101223075322.000", "EndTime": "20101223075324.000", "PrimaryTag": "CC1", "Text": "CALIFORNIA.                     "}
+{"StartTime": "20101223075324.000", "EndTime": "20101223075326.000", "PrimaryTag": "CC1", "Text": ">> TALK ABOUT SMARTPHONE.       "}
+{"StartTime": "20101223075326.000", "EndTime": "20101223075328.000", "PrimaryTag": "CC1", "Text": "GOOGLE RECENTLY ANNOUNCED THAT  "}
+{"StartTime": "20101223075328.000", "EndTime": "20101223075330.000", "PrimaryTag": "CC1", "Text": "300,000 DROID PHONES ARE BEING  "}
+{"StartTime": "20101223075330.000", "EndTime": "20101223075331.000", "PrimaryTag": "CC1", "Text": "ACTIVATED EVERY DAY.            "}
+{"StartTime": "20101223075331.000", "EndTime": "20101223075333.000", "PrimaryTag": "CC1", "Text": "THE SMARTPHONE BATTLE CONTINUES."}
+{"StartTime": "20101223075333.000", "EndTime": "20101223080530.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20101223075333.000", "EndTime": "20101223075336.000", "PrimaryTag": "CC1", "Text": ">>> UP NEXT, THE LITTLE DRUMMER "}
+{"StartTime": "20101223075336.000", "EndTime": "20101223075336.000", "PrimaryTag": "CC1", "Text": "BOY.                            "}
+{"StartTime": "20101223075336.000", "EndTime": "20101223075338.000", "PrimaryTag": "CC1", "Text": "A 1970s CHRISTMAS CLASSIC THAT'S"}
+{"StartTime": "20101223075338.000", "EndTime": "20101223075339.000", "PrimaryTag": "CC1", "Text": "GETTING, WELL, A WHOLE NEW      "}
+{"StartTime": "20101223075339.000", "EndTime": "20101223075341.000", "PrimaryTag": "CC1", "Text": "SOUND.                          "}
+{"StartTime": "20101223075341.000", "EndTime": "20101223075705.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20101223075341.000", "EndTime": "20101223075350.000", "PrimaryTag": "CC1", "Text": "        ? YOU'RE THE ONE ?      "}
+{"StartTime": "20101223075350.000", "EndTime": "20101223075352.000", "PrimaryTag": "CC1", "Text": "      ? WHO'S BORN TO CARE ?    "}
+{"StartTime": "20101223075352.000", "EndTime": "20101223075353.000", "PrimaryTag": "CC1", "Text": "    THIS LIFE WAS PROTECTED...  "}
+{"StartTime": "20101223075353.000", "EndTime": "20101223075353.000", "PrimaryTag": "CC1", "Text": "      ? SEEMS YOU'VE ALWAYS     "}
+{"StartTime": "20101223075353.000", "EndTime": "20101223075357.000", "PrimaryTag": "CC1", "Text": "        BEEN RIGHT THERE ?      "}
+{"StartTime": "20101223075355.000", "EndTime": "20101223075355.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:18:00 of 0:31:00"}
+{"StartTime": "20101223075357.000", "EndTime": "20101223075359.000", "PrimaryTag": "CC1", "Text": "      THIS LIFE WAS SAVED...    "}
+{"StartTime": "20101223075359.000", "EndTime": "20101223075400.000", "PrimaryTag": "CC1", "Text": "       ? SOOTHING SADNESS ?     "}
+{"StartTime": "20101223075400.000", "EndTime": "20101223075400.000", "PrimaryTag": "CC1", "Text": "         ? HEALING PAIN ?       "}
+{"StartTime": "20101223075400.000", "EndTime": "20101223075400.000", "PrimaryTag": "CC1", "Text": "          AND THIS LIFE         "}
+{"StartTime": "20101223075400.000", "EndTime": "20101223075402.000", "PrimaryTag": "CC1", "Text": "    # WAS MADE EASIER...        "}
+{"StartTime": "20101223075402.000", "EndTime": "20101223075404.000", "PrimaryTag": "CC1", "Text": "  ? MAKING SMILES APPEAR AGAIN ?"}
+{"StartTime": "20101223075404.000", "EndTime": "20101223075406.000", "PrimaryTag": "CC1", "Text": "      BECAUSE OF THIS LIFE.     "}
+{"StartTime": "20101223075406.000", "EndTime": "20101223075407.000", "PrimaryTag": "CC1", "Text": "             NURSING.           "}
+{"StartTime": "20101223075407.000", "EndTime": "20101223075408.000", "PrimaryTag": "CC1", "Text": "      AT JOHNSON & JOHNSON,     "}
+{"StartTime": "20101223075408.000", "EndTime": "20101223075408.000", "PrimaryTag": "CC1", "Text": "       WE SALUTE ALL THOSE      "}
+{"StartTime": "20101223075408.000", "EndTime": "20101223075410.000", "PrimaryTag": "CC1", "Text": "      WHO HOOSE THE LIFE...     "}
+{"StartTime": "20101223075410.000", "EndTime": "20101223075411.000", "PrimaryTag": "CC1", "Text": "     THAT MAKES A DIFFERENCE.   "}
+{"StartTime": "20101223075411.000", "EndTime": "20101223075414.000", "PrimaryTag": "CC1", "Text": "        ? YOU'RE A NURSE ?      "}
+{"StartTime": "20101223075414.000", "EndTime": "20101223075427.000", "PrimaryTag": "CC1", "Text": "    ? YOU MAKE A DIFFERENCE ?   "}
+{"StartTime": "20101223075427.000", "EndTime": "20101223075427.000", "PrimaryTag": "CC1", "Text": "    AH, IT'S STINGING A LITTLE  "}
+{"StartTime": "20101223075427.000", "EndTime": "20101223075430.000", "PrimaryTag": "CC1", "Text": "    BIT MORE THAN USUAL!        "}
+{"StartTime": "20101223075430.000", "EndTime": "20101223075430.000", "PrimaryTag": "CC1", "Text": "                YEAH, YOU'LL GET"}
+{"StartTime": "20101223075430.000", "EndTime": "20101223075431.000", "PrimaryTag": "CC1", "Text": "                USED TO IT.     "}
+{"StartTime": "20101223075431.000", "EndTime": "20101223075431.000", "PrimaryTag": "CC1", "Text": "    THE LONGER YOU KEEP         "}
+{"StartTime": "20101223075431.000", "EndTime": "20101223075433.000", "PrimaryTag": "CC1", "Text": "    YOUR HIGH MILEAGE CAR,      "}
+{"StartTime": "20101223075433.000", "EndTime": "20101223075433.000", "PrimaryTag": "CC1", "Text": "        THE MORE IT             "}
+{"StartTime": "20101223075433.000", "EndTime": "20101223075434.000", "PrimaryTag": "CC1", "Text": "        PAYS YOU BACK.          "}
+{"StartTime": "20101223075434.000", "EndTime": "20101223075434.000", "PrimaryTag": "CC1", "Text": "        GET CASTROL GTX         "}
+{"StartTime": "20101223075434.000", "EndTime": "20101223075436.000", "PrimaryTag": "CC1", "Text": "        HIGH MILEAGE.           "}
+{"StartTime": "20101223075436.000", "EndTime": "20101223075436.000", "PrimaryTag": "CC1", "Text": "        IT HELPS ENGINES LAST   "}
+{"StartTime": "20101223075436.000", "EndTime": "20101223075438.000", "PrimaryTag": "CC1", "Text": "        LONGER BY FIGHTING      "}
+{"StartTime": "20101223075438.000", "EndTime": "20101223075438.000", "PrimaryTag": "CC1", "Text": "        THE MAIN CAUSES         "}
+{"StartTime": "20101223075438.000", "EndTime": "20101223075439.000", "PrimaryTag": "CC1", "Text": "        OF ENGINE FAILURE.      "}
+{"StartTime": "20101223075439.000", "EndTime": "20101223075439.000", "PrimaryTag": "CC1", "Text": "    I THINK A DIME              "}
+{"StartTime": "20101223075439.000", "EndTime": "20101223075441.000", "PrimaryTag": "CC1", "Text": "    WENT UP MY NOSE.            "}
+{"StartTime": "20101223075441.000", "EndTime": "20101223075441.000", "PrimaryTag": "CC1", "Text": "            YEAH, IT HAPPENS.   "}
+{"StartTime": "20101223075441.000", "EndTime": "20101223075443.000", "PrimaryTag": "CC1", "Text": "    DON'T CHANGE YOUR CAR.      "}
+{"StartTime": "20101223075443.000", "EndTime": "20101223075443.000", "PrimaryTag": "CC1", "Text": "    CHANGE YOUR OIL TO CASTROL  "}
+{"StartTime": "20101223075443.000", "EndTime": "20101223075445.000", "PrimaryTag": "CC1", "Text": "        GTX HIGH MILEAGE.       "}
+{"StartTime": "20101223075445.000", "EndTime": "20101223075445.000", "PrimaryTag": "CC1", "Text": "    ITS MORE THAN JUST OIL.     "}
+{"StartTime": "20101223075445.000", "EndTime": "20101223075617.000", "PrimaryTag": "CC1", "Text": "    IT'S LIQUID ENGINEERING.    "}
+{"StartTime": "20101223075458.000", "EndTime": "20101223075458.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:19:00 of 0:31:00"}
+{"StartTime": "20101223075617.000", "EndTime": "20101223075618.000", "PrimaryTag": "CC1", "Text": " ? I'm gonna get it, I know I'm "}
+{"StartTime": "20101223075618.000", "EndTime": "20101223075622.000", "PrimaryTag": "CC1", "Text": "         gonna get it. ?        "}
+{"StartTime": "20101223075622.000", "EndTime": "20101223075624.000", "PrimaryTag": "CC1", "Text": "         ? I can't wait ?       "}
+{"StartTime": "20101223075624.000", "EndTime": "20101223075624.000", "PrimaryTag": "CC1", "Text": "   ? Every little step, Brings  "}
+{"StartTime": "20101223075624.000", "EndTime": "20101223075624.000", "PrimaryTag": "CC1", "Text": "                              me"}
+{"StartTime": "20101223075624.000", "EndTime": "20101223075627.000", "PrimaryTag": "CC1", "Text": "             late. ?            "}
+{"StartTime": "20101223075627.000", "EndTime": "20101223075627.000", "PrimaryTag": "CC1", "Text": "   Rip it open in a second and  "}
+{"StartTime": "20101223075627.000", "EndTime": "20101223075629.000", "PrimaryTag": "CC1", "Text": "     's time to play. ?         "}
+{"StartTime": "20101223075629.000", "EndTime": "20101223075629.000", "PrimaryTag": "CC1", "Text": "     ? I was up all night in    "}
+{"StartTime": "20101223075629.000", "EndTime": "20101223075629.000", "PrimaryTag": "CC1", "Text": "  anticipation feeling electric "}
+{"StartTime": "20101223075629.000", "EndTime": "20101223075633.000", "PrimaryTag": "CC1", "Text": "     jewels of jubilation. ?    "}
+{"StartTime": "20101223075633.000", "EndTime": "20101223075633.000", "PrimaryTag": "CC1", "Text": "   ? Yule tide carols from the  "}
+{"StartTime": "20101223075633.000", "EndTime": "20101223075636.000", "PrimaryTag": "CC1", "Text": "      local congregation. ?     "}
+{"StartTime": "20101223075636.000", "EndTime": "20101223075636.000", "PrimaryTag": "CC1", "Text": "    ? Make it tough to hold my  "}
+{"StartTime": "20101223075636.000", "EndTime": "20101223075639.000", "PrimaryTag": "CC1", "Text": "       patience in check. ?     "}
+{"StartTime": "20101223075639.000", "EndTime": "20101223075639.000", "PrimaryTag": "CC1", "Text": "                           ? IsI"}
+{"StartTime": "20101223075639.000", "EndTime": "20101223075643.000", "PrimaryTag": "CC1", "Text": "         can't wait. ?          "}
+{"StartTime": "20101223075643.000", "EndTime": "20101223075643.000", "PrimaryTag": "CC1", "Text": "  ? Is it time yet, Is it time, "}
+{"StartTime": "20101223075643.000", "EndTime": "20101223075705.000", "PrimaryTag": "CC1", "Text": "         I  can't wait. ?       "}
+{"StartTime": "20101223075707.000", "EndTime": "20101223075707.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20101223075707.000", "EndTime": "20101223075707.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:21:00 of 0:31:00"}
+{"StartTime": "20101223075705.000", "EndTime": "20101223075711.000", "PrimaryTag": "CC1", "Text": ">> Announcer: \"NIGHTLINE\"       "}
+{"StartTime": "20101223075711.000", "EndTime": "20101223075714.000", "PrimaryTag": "CC1", "Text": "CONTINUES FROM NEW YORK CITY    "}
+{"StartTime": "20101223075714.000", "EndTime": "20101223075716.000", "PrimaryTag": "CC1", "Text": "WITH CYNTHIA McFADDEN.          "}
+{"StartTime": "20101223075716.000", "EndTime": "20101223075721.000", "PrimaryTag": "CC1", "Text": ">> 35 YEARS AFTER BING CROSBY'S "}
+{"StartTime": "20101223075721.000", "EndTime": "20101223075724.000", "PrimaryTag": "CC1", "Text": "RECORDING OF \"WHITE HOUSE       "}
+{"StartTime": "20101223075724.000", "EndTime": "20101223075725.000", "PrimaryTag": "CC1", "Text": "CHRISTMAS,\" CROSBY TEAMED UP    "}
+{"StartTime": "20101223075725.000", "EndTime": "20101223075728.000", "PrimaryTag": "CC1", "Text": "WITH A SURPRISING PARTNER, POP  "}
+{"StartTime": "20101223075728.000", "EndTime": "20101223075730.000", "PrimaryTag": "CC1", "Text": "STAR DAVID BOWIE.               "}
+{"StartTime": "20101223075730.000", "EndTime": "20101223075732.000", "PrimaryTag": "CC1", "Text": "THE TWO SANG \"LITTLE DRUMMER    "}
+{"StartTime": "20101223075732.000", "EndTime": "20101223075734.000", "PrimaryTag": "CC1", "Text": "BOY\" AND THE VERSION BECAME A   "}
+{"StartTime": "20101223075734.000", "EndTime": "20101223075734.000", "PrimaryTag": "CC1", "Text": "SURPRISE HIT.                   "}
+{"StartTime": "20101223075734.000", "EndTime": "20101223075737.000", "PrimaryTag": "CC1", "Text": "AND NOW THAT 1977 DUE WET HAS   "}
+{"StartTime": "20101223075737.000", "EndTime": "20101223075739.000", "PrimaryTag": "CC1", "Text": "INSPIRED TWO POPULAR TRIBUTES.  "}
+{"StartTime": "20101223075739.000", "EndTime": "20101223075740.000", "PrimaryTag": "CC1", "Text": "AND FOR DAVID WRIGHT, THAT'S A  "}
+{"StartTime": "20101223075740.000", "EndTime": "20101223075745.000", "PrimaryTag": "CC1", "Text": "SIGN OF THE TIMES.            "}
+{"StartTime": "20101223075745.000", "EndTime": "20101223075746.000", "PrimaryTag": "CC1", "Text": ">> Reporter: IT'S A GHOST OF    "}
+{"StartTime": "20101223075746.000", "EndTime": "20101223075748.000", "PrimaryTag": "CC1", "Text": "CHRISTMAS PAST THAT CONTINUES TO"}
+{"StartTime": "20101223075748.000", "EndTime": "20101223080530.000", "PrimaryTag": "CC1", "Text": "HAUNT US.                       "}
+{"End": "20101223080530", "FileName": "2010-12-23_0735_US_KABC_Nightline"}

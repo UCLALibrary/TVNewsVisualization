@@ -1,0 +1,982 @@
+{"Top": "20110114073501", "Filename": "2011-01-14_0735_US_KCBS_Late_Show_with_Dave_Letterman"}
+{"Collection": "Communication Studies Archive, UCLA"}
+{"UID": "6cc49a38-1fb9-11e0-b6ac-001517add720"}
+{"Duration": "1:01:49.77"}
+{"Video_Picture_Size": "640x352", "Original_Picture_Size": ""}
+{"Comment": ""}
+{"Language": "ENG"}
+{"Local_Broadcast_Time": "2011-01-13 23:35 America/Los_Angeles"}
+{"Annotation_Tag": "SEG_01", "Creation_Time": "2014-06-18 18:48:57", "Source_Program": "Commercial Detection", "Source_Person": "Weixin Li"}
+{"StartTime": "20110114073503.000", "EndTime": "20110114073503.000", "PrimaryTag": "XDS", "Text": "%  NETWORK: CBS"}
+{"StartTime": "20110114073503.000", "EndTime": "20110114073503.000", "PrimaryTag": "XDS", "Text": "%   RATING: (NOT RATED) (72)"}
+{"StartTime": "20110114073503.000", "EndTime": "20110114073503.000", "PrimaryTag": "XDS", "Text": "%     CALL:   "}
+{"StartTime": "20110114073503.000", "EndTime": "20110114073503.000", "PrimaryTag": "XDS", "Text": "% TIMECODE: 1/14 2:15"}
+{"StartTime": "20110114073503.000", "EndTime": "20110114073503.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 1:14:00 of 2:15:00"}
+{"StartTime": "20110114073503.000", "EndTime": "20110114073503.000", "PrimaryTag": "XDS", "Text": "%    TITLE: Rollbots"}
+{"StartTime": "20110114073504.000", "EndTime": "20110114073504.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:18:00 of 0:30:00"}
+{"StartTime": "20110114073504.000", "EndTime": "20110114083650.000", "PrimaryTag": "SEG", "Type": "Story"}
+{"StartTime": "20110114073504.000", "EndTime": "20110114073546.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110114073504.000", "EndTime": "20110114073510.000", "PrimaryTag": "CC1", "Text": "[LAUGHTER]                      "}
+{"StartTime": "20110114073510.000", "EndTime": "20110114073510.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:19:00 of 0:30:00"}
+{"StartTime": "20110114073510.000", "EndTime": "20110114073510.000", "PrimaryTag": "CC1", "Text": "( BAND PLAYING                  "}
+{"StartTime": "20110114073510.000", "EndTime": "20110114073513.000", "PrimaryTag": "CC1", "Text": " \"LATE SHOW\" THEME )            "}
+{"StartTime": "20110114073513.000", "EndTime": "20110114073514.000", "PrimaryTag": "CC1", "Text": ">> FROM NEW YORK,               "}
+{"StartTime": "20110114073514.000", "EndTime": "20110114073515.000", "PrimaryTag": "CC1", "Text": " THE GREATEST CITY IN THE WORLD,"}
+{"StartTime": "20110114073515.000", "EndTime": "20110114073516.000", "PrimaryTag": "CC1", "Text": " IT'S THE \"LATE SHOW\" WITH      "}
+{"StartTime": "20110114073516.000", "EndTime": "20110114073519.000", "PrimaryTag": "CC1", "Text": " DAVID LETTERMAN.               "}
+{"StartTime": "20110114073519.000", "EndTime": "20110114073529.000", "PrimaryTag": "CC1", "Text": " TONIGHT...                     "}
+{"StartTime": "20110114073529.000", "EndTime": "20110114073530.000", "PrimaryTag": "CC1", "Text": " PLUS PAUL SHAFFER AND THE      "}
+{"StartTime": "20110114073530.000", "EndTime": "20110114073533.000", "PrimaryTag": "CC1", "Text": " CBS ORCHESTRA.                 "}
+{"StartTime": "20110114073533.000", "EndTime": "20110114073534.000", "PrimaryTag": "CC1", "Text": " Captioning sponsored by        "}
+{"StartTime": "20110114073534.000", "EndTime": "20110114073546.000", "PrimaryTag": "CC1", "Text": " WORLDWIDE PANTS and CBS        "}
+{"StartTime": "20110114073546.000", "EndTime": "20110114073546.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110114073546.000", "EndTime": "20110114073546.000", "PrimaryTag": "CC1", "Text": "AND NOW, THE GIRL NEXT DOOR,    "}
+{"StartTime": "20110114073546.000", "EndTime": "20110114073547.000", "PrimaryTag": "CC1", "Text": "DAVID LETTERMAN!                "}
+{"StartTime": "20110114073547.000", "EndTime": "20110114073610.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110114073547.000", "EndTime": "20110114073552.000", "PrimaryTag": "CC1", "Text": "(CHEERS AND APPLAUSE)           "}
+{"StartTime": "20110114073552.000", "EndTime": "20110114073552.000", "PrimaryTag": "CC1", "Text": "( BAND PLAYING                  "}
+{"StartTime": "20110114073552.000", "EndTime": "20110114073555.000", "PrimaryTag": "CC1", "Text": " \"LATE SHOW\" THEME )            "}
+{"StartTime": "20110114073555.000", "EndTime": "20110114073610.000", "PrimaryTag": "CC1", "Text": "( CHEERS AND APPLAUSE )         "}
+{"StartTime": "20110114073610.000", "EndTime": "20110114073611.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110114073610.000", "EndTime": "20110114073611.000", "PrimaryTag": "CC1", "Text": ">> Dave: THANK YOU GOOD         "}
+{"StartTime": "20110114073611.000", "EndTime": "20110114073612.000", "PrimaryTag": "CC1", "Text": "EVENING.                        "}
+{"StartTime": "20110114073612.000", "EndTime": "20110114073613.000", "PrimaryTag": "CC1", "Text": "THANK YOU VERY MUCH.            "}
+{"StartTime": "20110114073613.000", "EndTime": "20110114073615.000", "PrimaryTag": "CC1", "Text": "WELCOME TO THE LATE SHOW,       "}
+{"StartTime": "20110114073615.000", "EndTime": "20110114073615.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:20:00 of 0:30:00"}
+{"StartTime": "20110114073615.000", "EndTime": "20110114073616.000", "PrimaryTag": "CC1", "Text": "WELCOME TO NEW YORK CITY, OR    "}
+{"StartTime": "20110114073616.000", "EndTime": "20110114073619.000", "PrimaryTag": "CC1", "Text": "AS I LIKE TO CALL IT, GOD'S     "}
+{"StartTime": "20110114073619.000", "EndTime": "20110114073621.000", "PrimaryTag": "CC1", "Text": "COUNTRY.                        "}
+{"StartTime": "20110114073621.000", "EndTime": "20110114073624.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073624.000", "EndTime": "20110114073629.000", "PrimaryTag": "CC1", "Text": "YEAH!                           "}
+{"StartTime": "20110114073629.000", "EndTime": "20110114073631.000", "PrimaryTag": "CC1", "Text": "DON'T KID YOURSELF, HERE IN     "}
+{"StartTime": "20110114073631.000", "EndTime": "20110114073632.000", "PrimaryTag": "CC1", "Text": "NEW YORK CITY TODAY IT'S        "}
+{"StartTime": "20110114073632.000", "EndTime": "20110114073633.000", "PrimaryTag": "CC1", "Text": "K08D, AM I RIGHT ABOUT THAT,    "}
+{"StartTime": "20110114073633.000", "EndTime": "20110114073635.000", "PrimaryTag": "CC1", "Text": "FOLKS, COLD?                    "}
+{"StartTime": "20110114073635.000", "EndTime": "20110114073636.000", "PrimaryTag": "CC1", "Text": ">> YEAH!                        "}
+{"StartTime": "20110114073636.000", "EndTime": "20110114073637.000", "PrimaryTag": "CC1", "Text": ">> Dave: HERE'S HOW COLD IT     "}
+{"StartTime": "20110114073637.000", "EndTime": "20110114073642.000", "PrimaryTag": "CC1", "Text": "IS, TODAY CHARLIE SHEENAN'S     "}
+{"StartTime": "20110114073642.000", "EndTime": "20110114073644.000", "PrimaryTag": "CC1", "Text": "HOOKER LOCKED HERSELF IN A      "}
+{"StartTime": "20110114073644.000", "EndTime": "20110114073651.000", "PrimaryTag": "CC1", "Text": "CLOSET WITH A SPACE HEATER.     "}
+{"StartTime": "20110114073651.000", "EndTime": "20110114073652.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073652.000", "EndTime": "20110114073653.000", "PrimaryTag": "CC1", "Text": ">> Dave: YOU FOLKS HAVE AN      "}
+{"StartTime": "20110114073653.000", "EndTime": "20110114073655.000", "PrimaryTag": "CC1", "Text": "EXCITING WEEKEND PLANNED?       "}
+{"StartTime": "20110114073655.000", "EndTime": "20110114073657.000", "PrimaryTag": "CC1", "Text": "HERE'S A TELEVISION REMINDER.   "}
+{"StartTime": "20110114073657.000", "EndTime": "20110114073658.000", "PrimaryTag": "CC1", "Text": "SUNDAY THE GOLDEN GLOBES,       "}
+{"StartTime": "20110114073658.000", "EndTime": "20110114073659.000", "PrimaryTag": "CC1", "Text": "DOES ANYBODY WATCH THIS         "}
+{"StartTime": "20110114073659.000", "EndTime": "20110114073700.000", "PrimaryTag": "CC1", "Text": "NONSENSE?                       "}
+{"StartTime": "20110114073700.000", "EndTime": "20110114073701.000", "PrimaryTag": "CC1", "Text": "THE GOLDEN--                    "}
+{"StartTime": "20110114073701.000", "EndTime": "20110114073702.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073702.000", "EndTime": "20110114073704.000", "PrimaryTag": "CC1", "Text": "WELL, THEY ALWAYS SAY THAT      "}
+{"StartTime": "20110114073704.000", "EndTime": "20110114073705.000", "PrimaryTag": "CC1", "Text": "THE GOLDEN GLOBES SHOW, IF      "}
+{"StartTime": "20110114073705.000", "EndTime": "20110114073706.000", "PrimaryTag": "CC1", "Text": "YOU KNOW ANYTHING AT ALL        "}
+{"StartTime": "20110114073706.000", "EndTime": "20110114073707.000", "PrimaryTag": "CC1", "Text": "ABOUT TELEVISION, THAT THE      "}
+{"StartTime": "20110114073707.000", "EndTime": "20110114073709.000", "PrimaryTag": "CC1", "Text": "GOLDEN GLOBES SHOW IS AN        "}
+{"StartTime": "20110114073709.000", "EndTime": "20110114073710.000", "PrimaryTag": "CC1", "Text": "EXCELLENT PREDICTOR OF HOW      "}
+{"StartTime": "20110114073710.000", "EndTime": "20110114073712.000", "PrimaryTag": "CC1", "Text": "BORING THE ACADEMY AWARDS       "}
+{"StartTime": "20110114073712.000", "EndTime": "20110114073712.000", "PrimaryTag": "CC1", "Text": "WILL BE.                        "}
+{"StartTime": "20110114073712.000", "EndTime": "20110114073713.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114073713.000", "EndTime": "20110114073714.000", "PrimaryTag": "CC1", "Text": "SO TUNE IN FOR THAT.            "}
+{"StartTime": "20110114073719.000", "EndTime": "20110114073719.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:21:00 of 0:30:00"}
+{"StartTime": "20110114073714.000", "EndTime": "20110114073719.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073719.000", "EndTime": "20110114073720.000", "PrimaryTag": "CC1", "Text": "AND THEY SAY THE SHOW IS        "}
+{"StartTime": "20110114073720.000", "EndTime": "20110114073722.000", "PrimaryTag": "CC1", "Text": "ALWAYS MORE EXCITING BECAUSE    "}
+{"StartTime": "20110114073722.000", "EndTime": "20110114073723.000", "PrimaryTag": "CC1", "Text": "IT'S THE ONLY AWARD SHOW        "}
+{"StartTime": "20110114073723.000", "EndTime": "20110114073725.000", "PrimaryTag": "CC1", "Text": "WHERE THE AUDIENCE GETS TO      "}
+{"StartTime": "20110114073725.000", "EndTime": "20110114073727.000", "PrimaryTag": "CC1", "Text": "DRINK.                          "}
+{"StartTime": "20110114073727.000", "EndTime": "20110114073736.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073736.000", "EndTime": "20110114073737.000", "PrimaryTag": "CC1", "Text": "AND THIS YEAR FOR THE FIRST     "}
+{"StartTime": "20110114073737.000", "EndTime": "20110114073740.000", "PrimaryTag": "CC1", "Text": "TIME THEY'RE ALSO PERMITTING    "}
+{"StartTime": "20110114073740.000", "EndTime": "20110114073740.000", "PrimaryTag": "CC1", "Text": "MEDICAL MARIJUANA.              "}
+{"StartTime": "20110114073740.000", "EndTime": "20110114073748.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073748.000", "EndTime": "20110114073750.000", "PrimaryTag": "CC1", "Text": "AND DO YOU KNOW WHAT I'M        "}
+{"StartTime": "20110114073750.000", "EndTime": "20110114073751.000", "PrimaryTag": "CC1", "Text": "TALKING ABOUT, THE GOLDEN       "}
+{"StartTime": "20110114073751.000", "EndTime": "20110114073752.000", "PrimaryTag": "CC1", "Text": "GLOBES, THE FOREIGN PRESS       "}
+{"StartTime": "20110114073752.000", "EndTime": "20110114073753.000", "PrimaryTag": "CC1", "Text": "AND THEY HAVE THE WEIRD         "}
+{"StartTime": "20110114073753.000", "EndTime": "20110114073754.000", "PrimaryTag": "CC1", "Text": "CATEGORIES.                     "}
+{"StartTime": "20110114073754.000", "EndTime": "20110114073756.000", "PrimaryTag": "CC1", "Text": "FOR EXAMPLE, ONE CATEGORY,      "}
+{"StartTime": "20110114073756.000", "EndTime": "20110114073758.000", "PrimaryTag": "CC1", "Text": "BEST ACTOR, DOING PHONEY        "}
+{"StartTime": "20110114073758.000", "EndTime": "20110114073801.000", "PrimaryTag": "CC1", "Text": "BOSTON ACCENT CATEGORY.         "}
+{"StartTime": "20110114073801.000", "EndTime": "20110114073803.000", "PrimaryTag": "CC1", "Text": "BEST MOVIE THAT'S 45 MINUTES    "}
+{"StartTime": "20110114073803.000", "EndTime": "20110114073804.000", "PrimaryTag": "CC1", "Text": "TOO LONG.                       "}
+{"StartTime": "20110114073804.000", "EndTime": "20110114073806.000", "PrimaryTag": "CC1", "Text": "THIS YEAR THE BIG CATEGORY      "}
+{"StartTime": "20110114073806.000", "EndTime": "20110114073808.000", "PrimaryTag": "CC1", "Text": "IS BEST FOKKER.                 "}
+{"StartTime": "20110114073808.000", "EndTime": "20110114073813.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073813.000", "EndTime": "20110114073816.000", "PrimaryTag": "CC1", "Text": "EXACTLY.                        "}
+{"StartTime": "20110114073816.000", "EndTime": "20110114073818.000", "PrimaryTag": "CC1", "Text": "AND THEN ON SATURDAY NIGHT      "}
+{"StartTime": "20110114073818.000", "EndTime": "20110114073819.000", "PrimaryTag": "CC1", "Text": "BEFORE THE GOLDEN GLOBES ON     "}
+{"StartTime": "20110114073819.000", "EndTime": "20110114073821.000", "PrimaryTag": "CC1", "Text": "SUNDAY YOU GOT, YOU KNOW        "}
+{"StartTime": "20110114073821.000", "EndTime": "20110114073822.000", "PrimaryTag": "CC1", "Text": "WHAT IT IS IN YOU PROBABLY      "}
+{"StartTime": "20110114073822.000", "EndTime": "20110114073822.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:22:00 of 0:30:00"}
+{"StartTime": "20110114073822.000", "EndTime": "20110114073823.000", "PrimaryTag": "CC1", "Text": "DON'T EVEN KNOW WHAT IT IS,     "}
+{"StartTime": "20110114073823.000", "EndTime": "20110114073826.000", "PrimaryTag": "CC1", "Text": "THE MISS AMERICA PAGEANT.       "}
+{"StartTime": "20110114073826.000", "EndTime": "20110114073829.000", "PrimaryTag": "CC1", "Text": "THAT'S RIGHT.                   "}
+{"StartTime": "20110114073829.000", "EndTime": "20110114073830.000", "PrimaryTag": "CC1", "Text": "SO LET ME SEE HOW IT WORKS.     "}
+{"StartTime": "20110114073830.000", "EndTime": "20110114073832.000", "PrimaryTag": "CC1", "Text": "THIS YEAR, HERE'S WHAT I        "}
+{"StartTime": "20110114073832.000", "EndTime": "20110114073832.000", "PrimaryTag": "CC1", "Text": "NEED.                           "}
+{"StartTime": "20110114073832.000", "EndTime": "20110114073835.000", "PrimaryTag": "CC1", "Text": "I NEED MISS UTAH TO WIN.        "}
+{"StartTime": "20110114073835.000", "EndTime": "20110114073837.000", "PrimaryTag": "CC1", "Text": "I NEED MISS UTAH TO WIN AND     "}
+{"StartTime": "20110114073837.000", "EndTime": "20110114073838.000", "PrimaryTag": "CC1", "Text": "THEN I THINK I NEED NORTH       "}
+{"StartTime": "20110114073838.000", "EndTime": "20110114073840.000", "PrimaryTag": "CC1", "Text": "CAROLINA TO BE THE FIRST        "}
+{"StartTime": "20110114073840.000", "EndTime": "20110114073840.000", "PrimaryTag": "CC1", "Text": "RUNNER-UP.                      "}
+{"StartTime": "20110114073840.000", "EndTime": "20110114073840.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114073840.000", "EndTime": "20110114073842.000", "PrimaryTag": "CC1", "Text": "AND IF THIS DOESN'T HAPPEN I    "}
+{"StartTime": "20110114073842.000", "EndTime": "20110114073844.000", "PrimaryTag": "CC1", "Text": "GET A BEATING FROM MY           "}
+{"StartTime": "20110114073844.000", "EndTime": "20110114073844.000", "PrimaryTag": "CC1", "Text": "BOOKIE.                         "}
+{"StartTime": "20110114073844.000", "EndTime": "20110114073853.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073853.000", "EndTime": "20110114073855.000", "PrimaryTag": "CC1", "Text": "YOU KNOW, I WATCH THE           "}
+{"StartTime": "20110114073855.000", "EndTime": "20110114073856.000", "PrimaryTag": "CC1", "Text": "PAGEANT, DO YOU FOLKS WATCH     "}
+{"StartTime": "20110114073856.000", "EndTime": "20110114073857.000", "PrimaryTag": "CC1", "Text": "THE PAGEANT.                    "}
+{"StartTime": "20110114073857.000", "EndTime": "20110114073858.000", "PrimaryTag": "CC1", "Text": "YOU KNOW WHAT I LOVE            "}
+{"StartTime": "20110114073858.000", "EndTime": "20110114073859.000", "PrimaryTag": "CC1", "Text": "WATCHING, I LOVE LEARNING       "}
+{"StartTime": "20110114073859.000", "EndTime": "20110114073901.000", "PrimaryTag": "CC1", "Text": "ABOUT THE GIRLS.                "}
+{"StartTime": "20110114073901.000", "EndTime": "20110114073903.000", "PrimaryTag": "CC1", "Text": "FOR EXAMPLE, JUST WEEKS AGO     "}
+{"StartTime": "20110114073903.000", "EndTime": "20110114073905.000", "PrimaryTag": "CC1", "Text": "I FOUND OUT ABOUT THIS, MISS    "}
+{"StartTime": "20110114073905.000", "EndTime": "20110114073907.000", "PrimaryTag": "CC1", "Text": "OHIO, MISS OHIO WAS A           "}
+{"StartTime": "20110114073907.000", "EndTime": "20110114073910.000", "PrimaryTag": "CC1", "Text": "DRIFTER WITH A GOLDEN VOICE.    "}
+{"StartTime": "20110114073910.000", "EndTime": "20110114073911.000", "PrimaryTag": "CC1", "Text": "YES.                            "}
+{"StartTime": "20110114073911.000", "EndTime": "20110114073916.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073916.000", "EndTime": "20110114073919.000", "PrimaryTag": "CC1", "Text": "NOW DOING COMMERCIALS FOR       "}
+{"StartTime": "20110114073919.000", "EndTime": "20110114073921.000", "PrimaryTag": "CC1", "Text": "KRAFT MACARONI AND CHEESE.      "}
+{"StartTime": "20110114073921.000", "EndTime": "20110114073923.000", "PrimaryTag": "CC1", "Text": "SKIM MILK, DOZEN EGGS,          "}
+{"StartTime": "20110114073923.000", "EndTime": "20110114073927.000", "PrimaryTag": "CC1", "Text": "BLOODY MARY.                    "}
+{"StartTime": "20110114073927.000", "EndTime": "20110114073927.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:23:00 of 0:30:00"}
+{"StartTime": "20110114073927.000", "EndTime": "20110114073931.000", "PrimaryTag": "CC1", "Text": "BAGEL BITES, APPLES, VIAGRA,    "}
+{"StartTime": "20110114073931.000", "EndTime": "20110114073931.000", "PrimaryTag": "CC1", "Text": "WHAT--                          "}
+{"StartTime": "20110114073931.000", "EndTime": "20110114073933.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073933.000", "EndTime": "20110114073938.000", "PrimaryTag": "CC1", "Text": ">> WHAT IS THIS.                "}
+{"StartTime": "20110114073938.000", "EndTime": "20110114073938.000", "PrimaryTag": "CC1", "Text": ">> Paul: VELVEETA.              "}
+{"StartTime": "20110114073938.000", "EndTime": "20110114073940.000", "PrimaryTag": "CC1", "Text": ">> Dave: OH, VELVEETA.          "}
+{"StartTime": "20110114073940.000", "EndTime": "20110114073942.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114073942.000", "EndTime": "20110114073943.000", "PrimaryTag": "CC1", "Text": ">> Dave: WHAT, IT'S MY          "}
+{"StartTime": "20110114073943.000", "EndTime": "20110114073944.000", "PrimaryTag": "CC1", "Text": "SHOPPING LIST.                  "}
+{"StartTime": "20110114073944.000", "EndTime": "20110114073946.000", "PrimaryTag": "CC1", "Text": ">> I DON'T KNOW HOW IT GOT      "}
+{"StartTime": "20110114073946.000", "EndTime": "20110114073952.000", "PrimaryTag": "CC1", "Text": "CONFUSED WITH THE CUE CARDS.    "}
+{"StartTime": "20110114073952.000", "EndTime": "20110114073955.000", "PrimaryTag": "CC1", "Text": "(SPEAKING SPANISH).             "}
+{"StartTime": "20110114073955.000", "EndTime": "20110114073956.000", "PrimaryTag": "CC1", "Text": ">> Dave: THAT'S EXACTLY HOW     "}
+{"StartTime": "20110114073956.000", "EndTime": "20110114073957.000", "PrimaryTag": "CC1", "Text": "I FEEL.                         "}
+{"StartTime": "20110114073957.000", "EndTime": "20110114074004.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074004.000", "EndTime": "20110114074005.000", "PrimaryTag": "CC1", "Text": "ALSO THIS WEEKEND, BIG          "}
+{"StartTime": "20110114074005.000", "EndTime": "20110114074007.000", "PrimaryTag": "CC1", "Text": "WEEKEND FOR MOVIES.\"            "}
+{"StartTime": "20110114074007.000", "EndTime": "20110114074010.000", "PrimaryTag": "CC1", "Text": "THE GREEN HORNET \"OPENS         "}
+{"StartTime": "20110114074010.000", "EndTime": "20110114074013.000", "PrimaryTag": "CC1", "Text": "TOMORROW.                       "}
+{"StartTime": "20110114074013.000", "EndTime": "20110114074015.000", "PrimaryTag": "CC1", "Text": "THE GREEN HORNET, YOU KNOW      "}
+{"StartTime": "20110114074015.000", "EndTime": "20110114074016.000", "PrimaryTag": "CC1", "Text": "HOW SUPERHEROES HAVE A          "}
+{"StartTime": "20110114074016.000", "EndTime": "20110114074018.000", "PrimaryTag": "CC1", "Text": "WEAKNESS, LIKE, FOR EXAMPLE,    "}
+{"StartTime": "20110114074018.000", "EndTime": "20110114074024.000", "PrimaryTag": "CC1", "Text": "SUPERMAN, KRYPTONITE, THE       "}
+{"StartTime": "20110114074024.000", "EndTime": "20110114074025.000", "PrimaryTag": "CC1", "Text": "WEAKNESS THAT GREEN HORNET      "}
+{"StartTime": "20110114074025.000", "EndTime": "20110114074027.000", "PrimaryTag": "CC1", "Text": "HAS, HE CAN'T GET TOO CLOSE     "}
+{"StartTime": "20110114074027.000", "EndTime": "20110114074029.000", "PrimaryTag": "CC1", "Text": "TO PORCH LIGHTS.                "}
+{"StartTime": "20110114074031.000", "EndTime": "20110114074031.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:24:00 of 0:30:00"}
+{"StartTime": "20110114074029.000", "EndTime": "20110114074035.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074035.000", "EndTime": "20110114074036.000", "PrimaryTag": "CC1", "Text": "BUT IN THIS, I'VE SEEN THE      "}
+{"StartTime": "20110114074036.000", "EndTime": "20110114074038.000", "PrimaryTag": "CC1", "Text": "MOVIE AND IT'S CRAZY, HERE'S    "}
+{"StartTime": "20110114074038.000", "EndTime": "20110114074039.000", "PrimaryTag": "CC1", "Text": "WHAT HAPPENS.                   "}
+{"StartTime": "20110114074039.000", "EndTime": "20110114074041.000", "PrimaryTag": "CC1", "Text": "THE GREEN HORNET CAN'T GET      "}
+{"StartTime": "20110114074041.000", "EndTime": "20110114074045.000", "PrimaryTag": "CC1", "Text": "HIS STINGER TO RETRACT.         "}
+{"StartTime": "20110114074045.000", "EndTime": "20110114074046.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114074046.000", "EndTime": "20110114074049.000", "PrimaryTag": "CC1", "Text": "AND HE HAS TO GO SEE A          "}
+{"StartTime": "20110114074049.000", "EndTime": "20110114074049.000", "PrimaryTag": "CC1", "Text": "DOCTOR.                         "}
+{"StartTime": "20110114074049.000", "EndTime": "20110114074051.000", "PrimaryTag": "CC1", "Text": "FOUR HOURS, HE CAN'T GET--      "}
+{"StartTime": "20110114074051.000", "EndTime": "20110114074057.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074057.000", "EndTime": "20110114074059.000", "PrimaryTag": "CC1", "Text": "YOU KNOW WHO'S GOT A BOOK       "}
+{"StartTime": "20110114074059.000", "EndTime": "20110114074100.000", "PrimaryTag": "CC1", "Text": "NOW?                            "}
+{"StartTime": "20110114074100.000", "EndTime": "20110114074104.000", "PrimaryTag": "CC1", "Text": "WHAT'S HER NAME, SNOOKI.        "}
+{"StartTime": "20110114074104.000", "EndTime": "20110114074106.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114074106.000", "EndTime": "20110114074109.000", "PrimaryTag": "CC1", "Text": "AND PEOPLE ARE NOW, I ENJOY     "}
+{"StartTime": "20110114074109.000", "EndTime": "20110114074110.000", "PrimaryTag": "CC1", "Text": "LEARNING ABOUT THE GIRL.        "}
+{"StartTime": "20110114074110.000", "EndTime": "20110114074111.000", "PrimaryTag": "CC1", "Text": "SNOOKI SAYS THAT--              "}
+{"StartTime": "20110114074111.000", "EndTime": "20110114074113.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074113.000", "EndTime": "20110114074114.000", "PrimaryTag": "CC1", "Text": ">> SHE'S TIRED, SNOOKI IS       "}
+{"StartTime": "20110114074114.000", "EndTime": "20110114074115.000", "PrimaryTag": "CC1", "Text": "TIRED OF HER NICK NAME.         "}
+{"StartTime": "20110114074115.000", "EndTime": "20110114074116.000", "PrimaryTag": "CC1", "Text": ">> Paul: REALLY?                "}
+{"StartTime": "20110114074116.000", "EndTime": "20110114074118.000", "PrimaryTag": "CC1", "Text": ">> YEAH, AND A ASSUME WHEN      "}
+{"StartTime": "20110114074118.000", "EndTime": "20110114074119.000", "PrimaryTag": "CC1", "Text": "SHE MEANS NICK NAME, SNOOKI     "}
+{"StartTime": "20110114074119.000", "EndTime": "20110114074121.000", "PrimaryTag": "CC1", "Text": "IS HER NICK NAME.               "}
+{"StartTime": "20110114074121.000", "EndTime": "20110114074123.000", "PrimaryTag": "CC1", "Text": "AND IT TOOK ME A LONG TIME      "}
+{"StartTime": "20110114074123.000", "EndTime": "20110114074125.000", "PrimaryTag": "CC1", "Text": "TO GET-- I LIKE MY-- BUT FOR    "}
+{"StartTime": "20110114074125.000", "EndTime": "20110114074127.000", "PrimaryTag": "CC1", "Text": "A WHILE I COULDN'T GET-- BUT    "}
+{"StartTime": "20110114074127.000", "EndTime": "20110114074131.000", "PrimaryTag": "CC1", "Text": "I LIKE-- IT'S OKAY NOW.         "}
+{"StartTime": "20110114074131.000", "EndTime": "20110114074133.000", "PrimaryTag": "CC1", "Text": "DUCK FACE.                      "}
+{"StartTime": "20110114074133.000", "EndTime": "20110114074136.000", "PrimaryTag": "CC1", "Text": "BUT I DON'T MIND IT NOW.        "}
+{"StartTime": "20110114074136.000", "EndTime": "20110114074136.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:25:00 of 0:30:00"}
+{"StartTime": "20110114074136.000", "EndTime": "20110114074141.000", "PrimaryTag": "CC1", "Text": "TOOK ME AWHILE TO GET--         "}
+{"StartTime": "20110114074141.000", "EndTime": "20110114074146.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074146.000", "EndTime": "20110114074153.000", "PrimaryTag": "CC1", "Text": "SNOOKI IS ALSO KNOWN            "}
+{"StartTime": "20110114074153.000", "EndTime": "20110114074154.000", "PrimaryTag": "CC1", "Text": "AS-- THAT IS USUALLY            "}
+{"StartTime": "20110114074154.000", "EndTime": "20110114074155.000", "PrimaryTag": "CC1", "Text": "FOLLOWED BY HOW DO YOU          "}
+{"StartTime": "20110114074155.000", "EndTime": "20110114074155.000", "PrimaryTag": "CC1", "Text": "PLEAD.                          "}
+{"StartTime": "20110114074155.000", "EndTime": "20110114074159.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074159.000", "EndTime": "20110114074200.000", "PrimaryTag": "CC1", "Text": ">> Dave: HILLLY CLINTON, YOU    "}
+{"StartTime": "20110114074200.000", "EndTime": "20110114074201.000", "PrimaryTag": "CC1", "Text": "KNOW SHE'S THE SECRETARY OF     "}
+{"StartTime": "20110114074201.000", "EndTime": "20110114074202.000", "PrimaryTag": "CC1", "Text": "STATE AND SHE FLIES ALL         "}
+{"StartTime": "20110114074202.000", "EndTime": "20110114074203.000", "PrimaryTag": "CC1", "Text": "AROUND THE WORLD.               "}
+{"StartTime": "20110114074203.000", "EndTime": "20110114074204.000", "PrimaryTag": "CC1", "Text": "AND I'M TELLING YOU, TALK       "}
+{"StartTime": "20110114074204.000", "EndTime": "20110114074205.000", "PrimaryTag": "CC1", "Text": "ABOUT A TOUGH JOB.              "}
+{"StartTime": "20110114074205.000", "EndTime": "20110114074206.000", "PrimaryTag": "CC1", "Text": "THAT'S A TOUGH JOB.             "}
+{"StartTime": "20110114074206.000", "EndTime": "20110114074207.000", "PrimaryTag": "CC1", "Text": "I'LL TELL YOU HOW TOUGH THAT    "}
+{"StartTime": "20110114074207.000", "EndTime": "20110114074208.000", "PrimaryTag": "CC1", "Text": "JOB IS.                         "}
+{"StartTime": "20110114074208.000", "EndTime": "20110114074209.000", "PrimaryTag": "CC1", "Text": "I WOULDN'T GIVE HER TROUBLES    "}
+{"StartTime": "20110114074209.000", "EndTime": "20110114074210.000", "PrimaryTag": "CC1", "Text": "TO A MONKEY ON A ROCK, THANK    "}
+{"StartTime": "20110114074210.000", "EndTime": "20110114074211.000", "PrimaryTag": "CC1", "Text": "YOU.                            "}
+{"StartTime": "20110114074211.000", "EndTime": "20110114074212.000", "PrimaryTag": "CC1", "Text": "AND SHE WAS GETTING ON BOARD    "}
+{"StartTime": "20110114074212.000", "EndTime": "20110114074213.000", "PrimaryTag": "CC1", "Text": "THE PLANE, FLYING OUT OF        "}
+{"StartTime": "20110114074213.000", "EndTime": "20110114074214.000", "PrimaryTag": "CC1", "Text": "SOMEPLACE.                      "}
+{"StartTime": "20110114074214.000", "EndTime": "20110114074215.000", "PrimaryTag": "CC1", "Text": "AND SHE TRIPPED AND FELL        "}
+{"StartTime": "20110114074215.000", "EndTime": "20110114074217.000", "PrimaryTag": "CC1", "Text": "WHILE SHE WAS BOARDING.         "}
+{"StartTime": "20110114074217.000", "EndTime": "20110114074219.000", "PrimaryTag": "CC1", "Text": "AND THANK GOD IT WAS-- THE      "}
+{"StartTime": "20110114074219.000", "EndTime": "20110114074223.000", "PrimaryTag": "CC1", "Text": "PLANE THEY FLY HER AROUND IN,   "}
+{"StartTime": "20110114074223.000", "EndTime": "20110114074225.000", "PrimaryTag": "CC1", "Text": "PANT SUIT ONE.                  "}
+{"StartTime": "20110114074225.000", "EndTime": "20110114074225.000", "PrimaryTag": "CC1", "Text": "THAT'S RIGHT.                   "}
+{"StartTime": "20110114074225.000", "EndTime": "20110114074234.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074234.000", "EndTime": "20110114074236.000", "PrimaryTag": "CC1", "Text": ">> Dave: SO THAT WAS YOUR       "}
+{"StartTime": "20110114074236.000", "EndTime": "20110114074237.000", "PrimaryTag": "CC1", "Text": "ACTUAL SHOPPING LIST,           "}
+{"StartTime": "20110114074237.000", "EndTime": "20110114074238.000", "PrimaryTag": "CC1", "Text": "SOMEHOW GOT MIXED UP WITH       "}
+{"StartTime": "20110114074238.000", "EndTime": "20110114074239.000", "PrimaryTag": "CC1", "Text": "THE CUE CARDS.                  "}
+{"StartTime": "20110114074239.000", "EndTime": "20110114074239.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:26:00 of 0:30:00"}
+{"StartTime": "20110114074239.000", "EndTime": "20110114074241.000", "PrimaryTag": "CC1", "Text": "OH, MAN, I'M TELLING YOU.       "}
+{"StartTime": "20110114074241.000", "EndTime": "20110114074243.000", "PrimaryTag": "CC1", "Text": "TALK A CRAZY MIX UP, HUH.       "}
+{"StartTime": "20110114074243.000", "EndTime": "20110114074244.000", "PrimaryTag": "CC1", "Text": "WHAT A HEADACHE.                "}
+{"StartTime": "20110114074244.000", "EndTime": "20110114074245.000", "PrimaryTag": "CC1", "Text": ">> Paul: HOW WOULD THAT         "}
+{"StartTime": "20110114074245.000", "EndTime": "20110114074245.000", "PrimaryTag": "CC1", "Text": "HAPPEN?                         "}
+{"StartTime": "20110114074245.000", "EndTime": "20110114074247.000", "PrimaryTag": "CC1", "Text": ">> YEAH, I DON'T KNOW.          "}
+{"StartTime": "20110114074247.000", "EndTime": "20110114074248.000", "PrimaryTag": "CC1", "Text": ">> Paul: WHAT ARE THE ODDS?     "}
+{"StartTime": "20110114074248.000", "EndTime": "20110114074249.000", "PrimaryTag": "CC1", "Text": "HALF                            "}
+{"StartTime": "20110114074249.000", "EndTime": "20110114074250.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114074250.000", "EndTime": "20110114074252.000", "PrimaryTag": "CC1", "Text": ">> Dave: PEOPLE SAY HAS ALL     "}
+{"StartTime": "20110114074252.000", "EndTime": "20110114074253.000", "PrimaryTag": "CC1", "Text": "THAT INK BOTHERED YOU OVER      "}
+{"StartTime": "20110114074253.000", "EndTime": "20110114074256.000", "PrimaryTag": "CC1", "Text": "THE YEARS AND TONY SAYS NO,     "}
+{"StartTime": "20110114074256.000", "EndTime": "20110114074256.000", "PrimaryTag": "CC1", "Text": "I'M FINE.                       "}
+{"StartTime": "20110114074256.000", "EndTime": "20110114074259.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114074259.000", "EndTime": "20110114074301.000", "PrimaryTag": "CC1", "Text": ">> Dave: HUGH HEFNER BY THE     "}
+{"StartTime": "20110114074301.000", "EndTime": "20110114074303.000", "PrimaryTag": "CC1", "Text": "WAY IS ENGAGED TO A             "}
+{"StartTime": "20110114074303.000", "EndTime": "20110114074304.000", "PrimaryTag": "CC1", "Text": "24-YEAR-OLD PLAYMATE.           "}
+{"StartTime": "20110114074304.000", "EndTime": "20110114074305.000", "PrimaryTag": "CC1", "Text": "WOW.                            "}
+{"StartTime": "20110114074305.000", "EndTime": "20110114074311.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074311.000", "EndTime": "20110114074312.000", "PrimaryTag": "CC1", "Text": ">> Dave: HUGH HEFNER IS I       "}
+{"StartTime": "20110114074312.000", "EndTime": "20110114074314.000", "PrimaryTag": "CC1", "Text": "GUESS 80, CLOSE TO 80 AND IT    "}
+{"StartTime": "20110114074314.000", "EndTime": "20110114074317.000", "PrimaryTag": "CC1", "Text": "WILL BE HER FIRST MARRIAGE      "}
+{"StartTime": "20110114074317.000", "EndTime": "20110114074320.000", "PrimaryTag": "CC1", "Text": "AND HIS FIRST MARRIAGE TOO.     "}
+{"StartTime": "20110114074320.000", "EndTime": "20110114074320.000", "PrimaryTag": "CC1", "Text": "BUT--                           "}
+{"StartTime": "20110114074320.000", "EndTime": "20110114074324.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074324.000", "EndTime": "20110114074324.000", "PrimaryTag": "CC1", "Text": "HAVE YOU EVER BEEN TO THE       "}
+{"StartTime": "20110114074324.000", "EndTime": "20110114074325.000", "PrimaryTag": "CC1", "Text": "PLAYBOY MANSION.                "}
+{"StartTime": "20110114074325.000", "EndTime": "20110114074326.000", "PrimaryTag": "CC1", "Text": ">> Paul: I HAVE BEEN.           "}
+{"StartTime": "20110114074326.000", "EndTime": "20110114074328.000", "PrimaryTag": "CC1", "Text": ">> Dave: NOW THAT HEF HAS       "}
+{"StartTime": "20110114074328.000", "EndTime": "20110114074329.000", "PrimaryTag": "CC1", "Text": "GOTTEN OLDER THEY HAVE TO       "}
+{"StartTime": "20110114074329.000", "EndTime": "20110114074331.000", "PrimaryTag": "CC1", "Text": "MAKE SOME CHANGES, SOME         "}
+{"StartTime": "20110114074331.000", "EndTime": "20110114074331.000", "PrimaryTag": "CC1", "Text": "ACCOMMODATIONS AT THE           "}
+{"StartTime": "20110114074331.000", "EndTime": "20110114074331.000", "PrimaryTag": "CC1", "Text": "MANSION.                        "}
+{"StartTime": "20110114074331.000", "EndTime": "20110114074333.000", "PrimaryTag": "CC1", "Text": "FOR EXAMPLE, THE GOTO.          "}
+{"StartTime": "20110114074333.000", "EndTime": "20110114074333.000", "PrimaryTag": "CC1", "Text": ">> Paul: RIGHT.                 "}
+{"StartTime": "20110114074333.000", "EndTime": "20110114074335.000", "PrimaryTag": "CC1", "Text": ">> Dave: THEY HAD TO INSTALL    "}
+{"StartTime": "20110114074335.000", "EndTime": "20110114074336.000", "PrimaryTag": "CC1", "Text": "A SENIOR GRAB BAR AT THE        "}
+{"StartTime": "20110114074336.000", "EndTime": "20110114074339.000", "PrimaryTag": "CC1", "Text": "GOTO.                           "}
+{"StartTime": "20110114074339.000", "EndTime": "20110114074341.000", "PrimaryTag": "CC1", "Text": "-- AT THE GROTTO.               "}
+{"StartTime": "20110114074344.000", "EndTime": "20110114074344.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:27:00 of 0:30:00"}
+{"StartTime": "20110114074341.000", "EndTime": "20110114074346.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074346.000", "EndTime": "20110114074347.000", "PrimaryTag": "CC1", "Text": ">> Dave: AND HE'S ENGAGED TO    "}
+{"StartTime": "20110114074347.000", "EndTime": "20110114074349.000", "PrimaryTag": "CC1", "Text": "THIS BEAUTIFUL 24-YEAR-OLD      "}
+{"StartTime": "20110114074349.000", "EndTime": "20110114074350.000", "PrimaryTag": "CC1", "Text": "PLAY MATE.                      "}
+{"StartTime": "20110114074350.000", "EndTime": "20110114074352.000", "PrimaryTag": "CC1", "Text": "I MEAN WHOA, I KNOW, HANG ON    "}
+{"StartTime": "20110114074352.000", "EndTime": "20110114074355.000", "PrimaryTag": "CC1", "Text": "TO YOUR WIGS AND KEYS.          "}
+{"StartTime": "20110114074355.000", "EndTime": "20110114074358.000", "PrimaryTag": "CC1", "Text": "BUT HONESTLY, THOUGH, AT        "}
+{"StartTime": "20110114074358.000", "EndTime": "20110114074400.000", "PrimaryTag": "CC1", "Text": "HEF'S AGE SHE JUST BLOWS ON     "}
+{"StartTime": "20110114074400.000", "EndTime": "20110114074401.000", "PrimaryTag": "CC1", "Text": "HIS SOUP.                       "}
+{"StartTime": "20110114074401.000", "EndTime": "20110114074409.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074409.000", "EndTime": "20110114074411.000", "PrimaryTag": "CC1", "Text": ">> Dave: THANK YOU VERY MUCH.   "}
+{"StartTime": "20110114074411.000", "EndTime": "20110114074414.000", "PrimaryTag": "CC1", "Text": "TONY, DID YOU PUT THE SOUP      "}
+{"StartTime": "20110114074414.000", "EndTime": "20110114074416.000", "PrimaryTag": "CC1", "Text": "ON YOUR SHOPPING LIST?          "}
+{"StartTime": "20110114074416.000", "EndTime": "20110114074417.000", "PrimaryTag": "CC1", "Text": "MAKE SURE YOU DON'T RUN OUT     "}
+{"StartTime": "20110114074417.000", "EndTime": "20110114074423.000", "PrimaryTag": "CC1", "Text": "OF SOUP THIS WEEK.              "}
+{"StartTime": "20110114074423.000", "EndTime": "20110114074425.000", "PrimaryTag": "CC1", "Text": "I JUST THOUGHT MAYBE YOU        "}
+{"StartTime": "20110114074425.000", "EndTime": "20110114074426.000", "PrimaryTag": "CC1", "Text": "WOULD REMEMBER.                 "}
+{"StartTime": "20110114074426.000", "EndTime": "20110114074429.000", "PrimaryTag": "CC1", "Text": ">> I KNOW I HAVE VELVEETA.      "}
+{"StartTime": "20110114074429.000", "EndTime": "20110114074432.000", "PrimaryTag": "CC1", "Text": ">> Dave: I KNOW, VELVEETA.      "}
+{"StartTime": "20110114074432.000", "EndTime": "20110114074433.000", "PrimaryTag": "CC1", "Text": "YOU FOLKS, AND I KNOW YOU       "}
+{"StartTime": "20110114074433.000", "EndTime": "20110114074434.000", "PrimaryTag": "CC1", "Text": "DID.                            "}
+{"StartTime": "20110114074434.000", "EndTime": "20110114074438.000", "PrimaryTag": "CC1", "Text": "WHEN I SAY HEIDI THE OPOSSUM,   "}
+{"StartTime": "20110114074438.000", "EndTime": "20110114074440.000", "PrimaryTag": "CC1", "Text": "ONE OF THOSE INTERNET           "}
+{"StartTime": "20110114074440.000", "EndTime": "20110114074441.000", "PrimaryTag": "CC1", "Text": "SENSATIONS.                     "}
+{"StartTime": "20110114074441.000", "EndTime": "20110114074444.000", "PrimaryTag": "CC1", "Text": "HIDE AYE THE OPOSSUM, TAKE A    "}
+{"StartTime": "20110114074444.000", "EndTime": "20110114074447.000", "PrimaryTag": "CC1", "Text": "LOOK.                           "}
+{"StartTime": "20110114074448.000", "EndTime": "20110114074448.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:28:00 of 0:30:00"}
+{"StartTime": "20110114074447.000", "EndTime": "20110114074450.000", "PrimaryTag": "CC1", "Text": ">> HEIDI, THE CROSS-EYED        "}
+{"StartTime": "20110114074450.000", "EndTime": "20110114074451.000", "PrimaryTag": "CC1", "Text": "OPOSSUM FROM GERMANY BECAME     "}
+{"StartTime": "20110114074451.000", "EndTime": "20110114074454.000", "PrimaryTag": "CC1", "Text": "A WORLDWIDE INTERNET            "}
+{"StartTime": "20110114074454.000", "EndTime": "20110114074455.000", "PrimaryTag": "CC1", "Text": "SENSATION AFTER THIS            "}
+{"StartTime": "20110114074455.000", "EndTime": "20110114074459.000", "PrimaryTag": "CC1", "Text": "ADORABLE VIDEO WAS POSTED ON    "}
+{"StartTime": "20110114074459.000", "EndTime": "20110114074459.000", "PrimaryTag": "CC1", "Text": "U TOOUB.                        "}
+{"StartTime": "20110114074459.000", "EndTime": "20110114074501.000", "PrimaryTag": "CC1", "Text": "THINGS WERE GREAT AT FIRST      "}
+{"StartTime": "20110114074501.000", "EndTime": "20110114074503.000", "PrimaryTag": "CC1", "Text": "BUT INSTANT STARDOM WAS TOO     "}
+{"StartTime": "20110114074503.000", "EndTime": "20110114074503.000", "PrimaryTag": "CC1", "Text": "MUCH TO BEAR.                   "}
+{"StartTime": "20110114074504.000", "EndTime": "20110114074504.000", "PrimaryTag": "XDS", "Text": "%    TITLE:   "}
+{"StartTime": "20110114074503.000", "EndTime": "20110114074505.000", "PrimaryTag": "CC1", "Text": "SHE TURNED TO ALCOHOL,          "}
+{"StartTime": "20110114074505.000", "EndTime": "20110114074505.000", "PrimaryTag": "XDS", "Text": "%    TITLE: LETRMN-3429-001"}
+{"StartTime": "20110114074505.000", "EndTime": "20110114074506.000", "PrimaryTag": "CC1", "Text": "ABANDONED HER LITTER AND        "}
+{"StartTime": "20110114074507.000", "EndTime": "20110114074507.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:00:00 of 0:30:00"}
+{"StartTime": "20110114074508.000", "EndTime": "20110114074508.000", "PrimaryTag": "XDS", "Text": "%    TITLE:   "}
+{"StartTime": "20110114074506.000", "EndTime": "20110114074508.000", "PrimaryTag": "CC1", "Text": "NEARLY LOST IT ALL ONE NIGHT    "}
+{"StartTime": "20110114074509.000", "EndTime": "20110114074509.000", "PrimaryTag": "XDS", "Text": "%    TITLE: Dinosaur King"}
+{"StartTime": "20110114074508.000", "EndTime": "20110114074509.000", "PrimaryTag": "CC1", "Text": "CARELESSLY CROSSING THE         "}
+{"StartTime": "20110114074509.000", "EndTime": "20110114074511.000", "PrimaryTag": "CC1", "Text": "AUTOBAHN, IT WAS ONLY AFTER     "}
+{"StartTime": "20110114074511.000", "EndTime": "20110114074513.000", "PrimaryTag": "CC1", "Text": "AN EMOTIONAL INTERVENTION BY    "}
+{"StartTime": "20110114074513.000", "EndTime": "20110114074514.000", "PrimaryTag": "CC1", "Text": "DR. PHIL AND A BRIEF STINT      "}
+{"StartTime": "20110114074514.000", "EndTime": "20110114074516.000", "PrimaryTag": "CC1", "Text": "IN REHAB THAT HEIDI GOT HER     "}
+{"StartTime": "20110114074516.000", "EndTime": "20110114074517.000", "PrimaryTag": "CC1", "Text": "LIFE BACK ON TRACK.             "}
+{"StartTime": "20110114074517.000", "EndTime": "20110114074518.000", "PrimaryTag": "CC1", "Text": "SHE RECENTLY MARRIED A          "}
+{"StartTime": "20110114074518.000", "EndTime": "20110114074520.000", "PrimaryTag": "CC1", "Text": "HANDSOME YOUNG ARM DILLO        "}
+{"StartTime": "20110114074520.000", "EndTime": "20110114074522.000", "PrimaryTag": "CC1", "Text": "NAMED TO BEI AND MAKES THE      "}
+{"StartTime": "20110114074522.000", "EndTime": "20110114074523.000", "PrimaryTag": "CC1", "Text": "COMFORTABLE LIVING AS THE       "}
+{"StartTime": "20110114074523.000", "EndTime": "20110114074525.000", "PrimaryTag": "CC1", "Text": "VOICE OF KRAFT MACARONI AND     "}
+{"StartTime": "20110114074525.000", "EndTime": "20110114074526.000", "PrimaryTag": "CC1", "Text": "CHEESE THIS HAS BEEN GET TO     "}
+{"StartTime": "20110114074526.000", "EndTime": "20110114074529.000", "PrimaryTag": "CC1", "Text": "KNOW HEIDI, THE CROSS-EYED      "}
+{"StartTime": "20110114074529.000", "EndTime": "20110114074529.000", "PrimaryTag": "CC1", "Text": "OPOSSUM.                        "}
+{"StartTime": "20110114074529.000", "EndTime": "20110114074531.000", "PrimaryTag": "CC1", "Text": ">> Dave: SEE?                   "}
+{"StartTime": "20110114074531.000", "EndTime": "20110114074534.000", "PrimaryTag": "CC1", "Text": "ISN'T THAT A LOVELY STORY.      "}
+{"StartTime": "20110114074534.000", "EndTime": "20110114074535.000", "PrimaryTag": "CC1", "Text": "YOU LIKE TO SEE THINGS LIKE     "}
+{"StartTime": "20110114074535.000", "EndTime": "20110114074535.000", "PrimaryTag": "CC1", "Text": "THAT.                           "}
+{"StartTime": "20110114074535.000", "EndTime": "20110114074538.000", "PrimaryTag": "CC1", "Text": "I KNOW I DO.                    "}
+{"StartTime": "20110114074538.000", "EndTime": "20110114074540.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074540.000", "EndTime": "20110114074541.000", "PrimaryTag": "CC1", "Text": "NOW HERE'S THE STORY.           "}
+{"StartTime": "20110114074541.000", "EndTime": "20110114074543.000", "PrimaryTag": "CC1", "Text": "I DON'T KNOW IF YOU FOLKS       "}
+{"StartTime": "20110114074543.000", "EndTime": "20110114074544.000", "PrimaryTag": "CC1", "Text": "FROM OUT OF TOWN WILL           "}
+{"StartTime": "20110114074544.000", "EndTime": "20110114074544.000", "PrimaryTag": "CC1", "Text": "UNDERSTAND.                     "}
+{"StartTime": "20110114074544.000", "EndTime": "20110114074546.000", "PrimaryTag": "CC1", "Text": "BUT I THINK YOU CAN             "}
+{"StartTime": "20110114074546.000", "EndTime": "20110114074547.000", "PrimaryTag": "CC1", "Text": "APPRECIATE THIS, IT MAY BE      "}
+{"StartTime": "20110114074547.000", "EndTime": "20110114074548.000", "PrimaryTag": "CC1", "Text": "COMINGING TO YOUR PART OF       "}
+{"StartTime": "20110114074548.000", "EndTime": "20110114074548.000", "PrimaryTag": "CC1", "Text": "THE COUNTRY.                    "}
+{"StartTime": "20110114074548.000", "EndTime": "20110114074550.000", "PrimaryTag": "CC1", "Text": "BUT HERE IN NEW JERSEY RIGHT    "}
+{"StartTime": "20110114074550.000", "EndTime": "20110114074551.000", "PrimaryTag": "CC1", "Text": "ACROSS THE HUDSON THEY'RE       "}
+{"StartTime": "20110114074552.000", "EndTime": "20110114074552.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:01:00 of 0:30:00"}
+{"StartTime": "20110114074551.000", "EndTime": "20110114074554.000", "PrimaryTag": "CC1", "Text": "MAKING BICYCLISTS PUT           "}
+{"StartTime": "20110114074554.000", "EndTime": "20110114074556.000", "PrimaryTag": "CC1", "Text": "LICENCE PLATES ON THEIR         "}
+{"StartTime": "20110114074556.000", "EndTime": "20110114074556.000", "PrimaryTag": "CC1", "Text": "BICYCLES.                       "}
+{"StartTime": "20110114074556.000", "EndTime": "20110114074557.000", "PrimaryTag": "CC1", "Text": "YOU KNOW, SO THAT THEY CAN      "}
+{"StartTime": "20110114074557.000", "EndTime": "20110114074558.000", "PrimaryTag": "CC1", "Text": "BE IDENTIFIED.                  "}
+{"StartTime": "20110114074558.000", "EndTime": "20110114074559.000", "PrimaryTag": "CC1", "Text": "AND IT MAY BE COMING TO         "}
+{"StartTime": "20110114074559.000", "EndTime": "20110114074601.000", "PrimaryTag": "CC1", "Text": "OTHER COMMUNITIES AROUND        "}
+{"StartTime": "20110114074601.000", "EndTime": "20110114074602.000", "PrimaryTag": "CC1", "Text": "COUNTRY.                        "}
+{"StartTime": "20110114074602.000", "EndTime": "20110114074604.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114074604.000", "EndTime": "20110114074607.000", "PrimaryTag": "CC1", "Text": "YOU KNOW, I JUST FRIDAY TO      "}
+{"StartTime": "20110114074607.000", "EndTime": "20110114074610.000", "PrimaryTag": "CC1", "Text": "SEAL THESE--                    "}
+{"StartTime": "20110114074610.000", "EndTime": "20110114074616.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114074616.000", "EndTime": "20110114074618.000", "PrimaryTag": "CC1", "Text": ">> Dave: I JUST --              "}
+{"StartTime": "20110114074618.000", "EndTime": "20110114074621.000", "PrimaryTag": "CC1", "Text": ">> SO CLOSE, SO CLOSE.          "}
+{"StartTime": "20110114074621.000", "EndTime": "20110114074622.000", "PrimaryTag": "CC1", "Text": ">> Dave: I THINK WELL, MAYBE    "}
+{"StartTime": "20110114074622.000", "EndTime": "20110114074624.000", "PrimaryTag": "CC1", "Text": "IF THEY REALLY BELIEVE ME--     "}
+{"StartTime": "20110114074624.000", "EndTime": "20110114074625.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114074625.000", "EndTime": "20110114074627.000", "PrimaryTag": "CC1", "Text": ">> Dave: THEY'LL BITE ON THE    "}
+{"StartTime": "20110114074627.000", "EndTime": "20110114074627.000", "PrimaryTag": "CC1", "Text": "THING.                          "}
+{"StartTime": "20110114074627.000", "EndTime": "20110114074628.000", "PrimaryTag": "CC1", "Text": "SO HERE, TAKE A LOOK.           "}
+{"StartTime": "20110114074628.000", "EndTime": "20110114074631.000", "PrimaryTag": "CC1", "Text": "LICENCE PLATES IN NEW JERSEY.   "}
+{"StartTime": "20110114074631.000", "EndTime": "20110114074632.000", "PrimaryTag": "CC1", "Text": ">> NEW JERSEY LAWMAKERS ARE     "}
+{"StartTime": "20110114074632.000", "EndTime": "20110114074633.000", "PrimaryTag": "CC1", "Text": "CONSIDERING A PLAN THAT         "}
+{"StartTime": "20110114074633.000", "EndTime": "20110114074635.000", "PrimaryTag": "CC1", "Text": "WOULD REQUIRE BICYCLES TO       "}
+{"StartTime": "20110114074635.000", "EndTime": "20110114074636.000", "PrimaryTag": "CC1", "Text": "HAVE LICENCE PLATES.            "}
+{"StartTime": "20110114074636.000", "EndTime": "20110114074638.000", "PrimaryTag": "CC1", "Text": "MANY ELDERLY PEOPLE HAVE        "}
+{"StartTime": "20110114074638.000", "EndTime": "20110114074640.000", "PrimaryTag": "CC1", "Text": "BEEN HIT BY BICYCLES IN         "}
+{"StartTime": "20110114074640.000", "EndTime": "20110114074640.000", "PrimaryTag": "CC1", "Text": "RECENT MONTHS BUT HAVE NO       "}
+{"StartTime": "20110114074640.000", "EndTime": "20110114074643.000", "PrimaryTag": "CC1", "Text": "WAY TO IDENTIFY THE RIDERS.     "}
+{"StartTime": "20110114074643.000", "EndTime": "20110114074644.000", "PrimaryTag": "CC1", "Text": "OPPONENTS OF THE PLAN WONDER    "}
+{"StartTime": "20110114074644.000", "EndTime": "20110114074646.000", "PrimaryTag": "CC1", "Text": "IF ELDERLY PEOPLE WOULD EVEN    "}
+{"StartTime": "20110114074646.000", "EndTime": "20110114074647.000", "PrimaryTag": "CC1", "Text": "BE ABLE TO READ THE LICENCE     "}
+{"StartTime": "20110114074647.000", "EndTime": "20110114074649.000", "PrimaryTag": "CC1", "Text": "PLATES IN THE EVENT OF AN       "}
+{"StartTime": "20110114074649.000", "EndTime": "20110114074649.000", "PrimaryTag": "CC1", "Text": "ACCIDENT.                       "}
+{"StartTime": "20110114074649.000", "EndTime": "20110114074651.000", "PrimaryTag": "CC1", "Text": "TAKING THIS INTO ACCOUNT,       "}
+{"StartTime": "20110114074651.000", "EndTime": "20110114074652.000", "PrimaryTag": "CC1", "Text": "THE LICENCE PLATES WOULD BE     "}
+{"StartTime": "20110114074652.000", "EndTime": "20110114074654.000", "PrimaryTag": "CC1", "Text": "MANUFACTURED IN EASY TO READ    "}
+{"StartTime": "20110114074654.000", "EndTime": "20110114074654.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:02:00 of 0:30:00"}
+{"StartTime": "20110114074654.000", "EndTime": "20110114074656.000", "PrimaryTag": "CC1", "Text": "LARGE PRINT.                    "}
+{"StartTime": "20110114074656.000", "EndTime": "20110114074701.000", "PrimaryTag": "CC1", "Text": "NEW JERSEY, STUFFING, I'M       "}
+{"StartTime": "20110114074701.000", "EndTime": "20110114074703.000", "PrimaryTag": "CC1", "Text": "STAYING.                        "}
+{"StartTime": "20110114074703.000", "EndTime": "20110114074704.000", "PrimaryTag": "CC1", "Text": ">> Dave: THAT'S WHAT I WAS      "}
+{"StartTime": "20110114074704.000", "EndTime": "20110114074706.000", "PrimaryTag": "CC1", "Text": "TALKING ABOUT.                  "}
+{"StartTime": "20110114074706.000", "EndTime": "20110114074708.000", "PrimaryTag": "CC1", "Text": "LOOK, EVERYONE, IT'S OUR        "}
+{"StartTime": "20110114074708.000", "EndTime": "20110114074709.000", "PrimaryTag": "CC1", "Text": "FRIEND PAUL SHAFFER.            "}
+{"StartTime": "20110114074709.000", "EndTime": "20110114074711.000", "PrimaryTag": "CC1", "Text": ">> Paul: THANK YOU, DAVID.      "}
+{"StartTime": "20110114074711.000", "EndTime": "20110114074713.000", "PrimaryTag": "CC1", "Text": "GOOD EVENING, LADIES AND        "}
+{"StartTime": "20110114074713.000", "EndTime": "20110114074714.000", "PrimaryTag": "CC1", "Text": "GENTLEMEN.                      "}
+{"StartTime": "20110114074714.000", "EndTime": "20110114074715.000", "PrimaryTag": "CC1", "Text": ">> OKAY.                        "}
+{"StartTime": "20110114074715.000", "EndTime": "20110114074716.000", "PrimaryTag": "CC1", "Text": "WHO'S ON THE PROGRAM            "}
+{"StartTime": "20110114074716.000", "EndTime": "20110114074716.000", "PrimaryTag": "CC1", "Text": "TONIGHT.                        "}
+{"StartTime": "20110114074716.000", "EndTime": "20110114074718.000", "PrimaryTag": "CC1", "Text": "WELL, KELSEY GRAMMER WILL BE    "}
+{"StartTime": "20110114074718.000", "EndTime": "20110114074719.000", "PrimaryTag": "CC1", "Text": "HERE.                           "}
+{"StartTime": "20110114074719.000", "EndTime": "20110114074719.000", "PrimaryTag": "CC1", "Text": "WE'LL BE RIGHT BACK WITH THE    "}
+{"StartTime": "20110114074719.000", "EndTime": "20110114074723.000", "PrimaryTag": "CC1", "Text": "TOP TEN.                        "}
+{"StartTime": "20110114074723.000", "EndTime": "20110114074725.000", "PrimaryTag": "CC1", "Text": ">> AFTER THE BREAK, TOP TEN     "}
+{"StartTime": "20110114074725.000", "EndTime": "20110114074726.000", "PrimaryTag": "CC1", "Text": "SIGNS YOU'RE NOT GOING TO       "}
+{"StartTime": "20110114074726.000", "EndTime": "20110114074727.000", "PrimaryTag": "CC1", "Text": "WIN THE MISS AMERICA            "}
+{"StartTime": "20110114074727.000", "EndTime": "20110114074728.000", "PrimaryTag": "CC1", "Text": "PAGEANT.                        "}
+{"StartTime": "20110114074728.000", "EndTime": "20110114074730.000", "PrimaryTag": "CC1", "Text": "AND KELSEY GRAMMER.             "}
+{"StartTime": "20110114074730.000", "EndTime": "20110114074732.000", "PrimaryTag": "CC1", "Text": "WE HAVEN'T HEARD MUCH ABOUT     "}
+{"StartTime": "20110114074732.000", "EndTime": "20110114074734.000", "PrimaryTag": "CC1", "Text": "THE AIRPORT SECURITY PAT        "}
+{"StartTime": "20110114074734.000", "EndTime": "20110114074736.000", "PrimaryTag": "CC1", "Text": "DOWNS LATELY.                   "}
+{"StartTime": "20110114074736.000", "EndTime": "20110114074737.000", "PrimaryTag": "CC1", "Text": "GUESS FOLKS GOT USED TO         "}
+{"StartTime": "20110114074737.000", "EndTime": "20110114074739.000", "PrimaryTag": "CC1", "Text": "HAVING THEIR JUNK TOUCHED.      "}
+{"StartTime": "20110114074739.000", "EndTime": "20110114074742.000", "PrimaryTag": "CC1", "Text": "STAY WITH US, KEN GRIFFEY,      "}
+{"StartTime": "20110114074742.000", "EndTime": "20110114074755.000", "PrimaryTag": "CC1", "Text": "SR..                            "}
+{"StartTime": "20110114074755.000", "EndTime": "20110114083650.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110114074755.000", "EndTime": "20110114074805.000", "PrimaryTag": "CC1", "Text": "               ?                "}
+{"StartTime": "20110114074757.000", "EndTime": "20110114074757.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:03:00 of 0:30:00"}
+{"StartTime": "20110114074805.000", "EndTime": "20110114074811.000", "PrimaryTag": "CC1", "Text": "               ?                "}
+{"StartTime": "20110114074811.000", "EndTime": "20110114074811.000", "PrimaryTag": "CC1", "Text": "       [ Female Announcer ]     "}
+{"StartTime": "20110114074811.000", "EndTime": "20110114074812.000", "PrimaryTag": "CC1", "Text": "      FACT: THE MEDICINE IN     "}
+{"StartTime": "20110114074812.000", "EndTime": "20110114074814.000", "PrimaryTag": "CC1", "Text": "   CHILDREN'S ADVIL® IS THE #1  "}
+{"StartTime": "20110114074814.000", "EndTime": "20110114074814.000", "PrimaryTag": "CC1", "Text": "     PEDIATRICIAN RECOMMENDED   "}
+{"StartTime": "20110114074814.000", "EndTime": "20110114074816.000", "PrimaryTag": "CC1", "Text": "   PAIN RELIEVER FOR CHILDREN.  "}
+{"StartTime": "20110114074816.000", "EndTime": "20110114074816.000", "PrimaryTag": "CC1", "Text": "     PLUS, CHILDREN'S ADVIL®    "}
+{"StartTime": "20110114074816.000", "EndTime": "20110114074819.000", "PrimaryTag": "CC1", "Text": "        BRINGS FEVER DOWN       "}
+{"StartTime": "20110114074819.000", "EndTime": "20110114074819.000", "PrimaryTag": "CC1", "Text": "           FASTER THAN          "}
+{"StartTime": "20110114074819.000", "EndTime": "20110114074821.000", "PrimaryTag": "CC1", "Text": "       CHILDREN'S TYLENOL®.     "}
+{"StartTime": "20110114074821.000", "EndTime": "20110114074823.000", "PrimaryTag": "CC1", "Text": "    CHOOSE CHILDREN'S ADVIL®.   "}
+{"StartTime": "20110114074823.000", "EndTime": "20110114074826.000", "PrimaryTag": "CC1", "Text": "      RELIEF YOU CAN TRUST.     "}
+{"StartTime": "20110114074826.000", "EndTime": "20110114074829.000", "PrimaryTag": "CC1", "Text": "               ? ?              "}
+{"StartTime": "20110114074829.000", "EndTime": "20110114074829.000", "PrimaryTag": "CC1", "Text": "        [ Male Announcer ]      "}
+{"StartTime": "20110114074829.000", "EndTime": "20110114074831.000", "PrimaryTag": "CC1", "Text": "        SIT DOWN. IT'S OK.      "}
+{"StartTime": "20110114074826.000", "EndTime": "20110114074831.000", "PrimaryTag": "CC2", "Text": "               ? ?              "}
+{"StartTime": "20110114074831.000", "EndTime": "20110114074831.000", "PrimaryTag": "CC1", "Text": "     YOU'VE GOT PREPARATION H   "}
+{"StartTime": "20110114074831.000", "EndTime": "20110114074833.000", "PrimaryTag": "CC1", "Text": "       WITH THE ONLY CREAM      "}
+{"StartTime": "20110114074831.000", "EndTime": "20110114074831.000", "PrimaryTag": "CC2", "Text": "           [ Locutor ]          "}
+{"StartTime": "20110114074831.000", "EndTime": "20110114074833.000", "PrimaryTag": "CC2", "Text": "       Siéntate. Está bien.     "}
+{"StartTime": "20110114074833.000", "EndTime": "20110114074833.000", "PrimaryTag": "CC1", "Text": "          THAT GIVES YOU        "}
+{"StartTime": "20110114074833.000", "EndTime": "20110114074835.000", "PrimaryTag": "CC1", "Text": "  MAXIMUM STRENGTH PAIN RELIEF. "}
+{"StartTime": "20110114074833.000", "EndTime": "20110114074833.000", "PrimaryTag": "CC2", "Text": "       Tienes Preparation H     "}
+{"StartTime": "20110114074833.000", "EndTime": "20110114074836.000", "PrimaryTag": "CC2", "Text": "        con la única crema      "}
+{"StartTime": "20110114074835.000", "EndTime": "20110114074835.000", "PrimaryTag": "CC1", "Text": " AND RELIEVES SWELLING, BURNING,"}
+{"StartTime": "20110114074835.000", "EndTime": "20110114074837.000", "PrimaryTag": "CC1", "Text": "           AND ITCHING.         "}
+{"StartTime": "20110114074836.000", "EndTime": "20110114074836.000", "PrimaryTag": "CC2", "Text": "    que ta da alivio de maxima  "}
+{"StartTime": "20110114074836.000", "EndTime": "20110114074838.000", "PrimaryTag": "CC2", "Text": "     potencia para el dolor.    "}
+{"StartTime": "20110114074837.000", "EndTime": "20110114074837.000", "PrimaryTag": "CC1", "Text": "          PREPARATION H.        "}
+{"StartTime": "20110114074837.000", "EndTime": "20110114075127.000", "PrimaryTag": "CC1", "Text": "  DOCTOR RECOMMENDED -- BY NAME."}
+{"StartTime": "20110114074838.000", "EndTime": "20110114074838.000", "PrimaryTag": "CC2", "Text": "   y alivia inflamación, ardor, "}
+{"StartTime": "20110114074838.000", "EndTime": "20110114074839.000", "PrimaryTag": "CC2", "Text": "            y picazón.          "}
+{"StartTime": "20110114074839.000", "EndTime": "20110114074839.000", "PrimaryTag": "CC2", "Text": "    Preparation H. Los medicos  "}
+{"StartTime": "20110114074839.000", "EndTime": "20110114083650.000", "PrimaryTag": "CC2", "Text": "    la recomiendan por nombre.  "}
+{"StartTime": "20110114074859.000", "EndTime": "20110114074859.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110114074859.000", "EndTime": "20110114074859.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:04:00 of 0:30:00"}
+{"StartTime": "20110114075116.000", "EndTime": "20110114075116.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:06:00 of 0:30:00"}
+{"StartTime": "20110114075127.000", "EndTime": "20110114075130.000", "PrimaryTag": "CC1", "Text": ">> Paul: LOOK OUT.              "}
+{"StartTime": "20110114075130.000", "EndTime": "20110114075132.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114075132.000", "EndTime": "20110114075135.000", "PrimaryTag": "CC1", "Text": ">> Dave: THERE YOU GO, PAUL     "}
+{"StartTime": "20110114075135.000", "EndTime": "20110114075136.000", "PrimaryTag": "CC1", "Text": "SHAFFER.                        "}
+{"StartTime": "20110114075136.000", "EndTime": "20110114075138.000", "PrimaryTag": "CC1", "Text": ">> THANK YOU VERY MUCH.         "}
+{"StartTime": "20110114075138.000", "EndTime": "20110114075142.000", "PrimaryTag": "CC1", "Text": ">> Paul: THANK YOU, DAVID.      "}
+{"StartTime": "20110114075142.000", "EndTime": "20110114075143.000", "PrimaryTag": "CC1", "Text": ">> Dave: WHAT A LOVELY THING    "}
+{"StartTime": "20110114075143.000", "EndTime": "20110114075145.000", "PrimaryTag": "CC1", "Text": "AND THE SNOW IS GONE.           "}
+{"StartTime": "20110114075145.000", "EndTime": "20110114075146.000", "PrimaryTag": "CC1", "Text": "IT'S OUR THIRD BIG BLIZZARD     "}
+{"StartTime": "20110114075146.000", "EndTime": "20110114075147.000", "PrimaryTag": "CC1", "Text": "OF THE WINTER.                  "}
+{"StartTime": "20110114075147.000", "EndTime": "20110114075150.000", "PrimaryTag": "CC1", "Text": "AND THE FIRST BLIZZARD          "}
+{"StartTime": "20110114075150.000", "EndTime": "20110114075151.000", "PrimaryTag": "CC1", "Text": "EVERYBODY MOANED AND            "}
+{"StartTime": "20110114075151.000", "EndTime": "20110114075152.000", "PrimaryTag": "CC1", "Text": "COMPLAINED BECAUSE THEY         "}
+{"StartTime": "20110114075152.000", "EndTime": "20110114075153.000", "PrimaryTag": "CC1", "Text": "DIDN'T PLOW, THEY DIDN'T        "}
+{"StartTime": "20110114075153.000", "EndTime": "20110114075154.000", "PrimaryTag": "CC1", "Text": "BOTHER TO PLOUGH.               "}
+{"StartTime": "20110114075154.000", "EndTime": "20110114075155.000", "PrimaryTag": "CC1", "Text": "BECAUSE THE MAYOR'S POSITION    "}
+{"StartTime": "20110114075155.000", "EndTime": "20110114075157.000", "PrimaryTag": "CC1", "Text": "WAS, YOU KNOW, SPRING IS        "}
+{"StartTime": "20110114075157.000", "EndTime": "20110114075159.000", "PrimaryTag": "CC1", "Text": "JUST AROUND THE CORNER.         "}
+{"StartTime": "20110114075159.000", "EndTime": "20110114075201.000", "PrimaryTag": "CC1", "Text": "AND HE SAID IN HIS PRESS        "}
+{"StartTime": "20110114075201.000", "EndTime": "20110114075202.000", "PrimaryTag": "CC1", "Text": "CONFERENCE WELL, YOU KNOW,      "}
+{"StartTime": "20110114075203.000", "EndTime": "20110114075203.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:07:00 of 0:30:00"}
+{"StartTime": "20110114075202.000", "EndTime": "20110114075204.000", "PrimaryTag": "CC1", "Text": "STOP YOUR WHINING, IT WILL      "}
+{"StartTime": "20110114075204.000", "EndTime": "20110114075206.000", "PrimaryTag": "CC1", "Text": "BE OUT OF HERE BY EASTER.       "}
+{"StartTime": "20110114075206.000", "EndTime": "20110114075208.000", "PrimaryTag": "CC1", "Text": "SO THEN EVERYBODY GOT UP        "}
+{"StartTime": "20110114075208.000", "EndTime": "20110114075209.000", "PrimaryTag": "CC1", "Text": "SET.                            "}
+{"StartTime": "20110114075209.000", "EndTime": "20110114075211.000", "PrimaryTag": "CC1", "Text": "AND THE SANITATION              "}
+{"StartTime": "20110114075211.000", "EndTime": "20110114075212.000", "PrimaryTag": "CC1", "Text": "DEPARTMENT TOOK A BRUISING.     "}
+{"StartTime": "20110114075212.000", "EndTime": "20110114075213.000", "PrimaryTag": "CC1", "Text": "THEY WERE ACCUSED OF BEING      "}
+{"StartTime": "20110114075213.000", "EndTime": "20110114075215.000", "PrimaryTag": "CC1", "Text": "DRUNK ON THE JOB AND, SO WE     "}
+{"StartTime": "20110114075215.000", "EndTime": "20110114075219.000", "PrimaryTag": "CC1", "Text": "THOUGHT WELL AT LEAST--         "}
+{"StartTime": "20110114075219.000", "EndTime": "20110114075220.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114075220.000", "EndTime": "20110114075222.000", "PrimaryTag": "CC1", "Text": "YOU HEAR THAT GUY'S SHOES.      "}
+{"StartTime": "20110114075222.000", "EndTime": "20110114075223.000", "PrimaryTag": "CC1", "Text": ">> Paul: WHAT IS IT, WHAT?      "}
+{"StartTime": "20110114075223.000", "EndTime": "20110114075224.000", "PrimaryTag": "CC1", "Text": ">> YOU HEAR THE SHOES           "}
+{"StartTime": "20110114075224.000", "EndTime": "20110114075225.000", "PrimaryTag": "CC1", "Text": "WALKING ACROSS THE FLOOR?       "}
+{"StartTime": "20110114075225.000", "EndTime": "20110114075227.000", "PrimaryTag": "CC1", "Text": "IT WAS JUST LIKE A SHOES        "}
+{"StartTime": "20110114075227.000", "EndTime": "20110114075228.000", "PrimaryTag": "CC1", "Text": "WALKING ACROSS SHALL DID --.    "}
+{"StartTime": "20110114075228.000", "EndTime": "20110114075229.000", "PrimaryTag": "CC1", "Text": ">> Paul: WHAT DOES HE HAVE      "}
+{"StartTime": "20110114075229.000", "EndTime": "20110114075230.000", "PrimaryTag": "CC1", "Text": "TAPS ON.                        "}
+{"StartTime": "20110114075230.000", "EndTime": "20110114075231.000", "PrimaryTag": "CC1", "Text": ">> Dave: CAN HE WALK BACK       "}
+{"StartTime": "20110114075231.000", "EndTime": "20110114075232.000", "PrimaryTag": "CC1", "Text": "OVER HERE.                      "}
+{"StartTime": "20110114075232.000", "EndTime": "20110114075233.000", "PrimaryTag": "CC1", "Text": ">> Paul: DOES VERY TAP SHOES    "}
+{"StartTime": "20110114075233.000", "EndTime": "20110114075234.000", "PrimaryTag": "CC1", "Text": "ON?                             "}
+{"StartTime": "20110114075234.000", "EndTime": "20110114075235.000", "PrimaryTag": "CC1", "Text": ">> COME BACK OVER HERE.         "}
+{"StartTime": "20110114075235.000", "EndTime": "20110114075241.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114075241.000", "EndTime": "20110114075242.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114075242.000", "EndTime": "20110114075244.000", "PrimaryTag": "CC1", "Text": ">> Dave: OH, HI, AL.            "}
+{"StartTime": "20110114075244.000", "EndTime": "20110114075246.000", "PrimaryTag": "CC1", "Text": "THANK YOU.                      "}
+{"StartTime": "20110114075246.000", "EndTime": "20110114075248.000", "PrimaryTag": "CC1", "Text": "HE'S WEARING HIS SNOW BOOTS,    "}
+{"StartTime": "20110114075248.000", "EndTime": "20110114075249.000", "PrimaryTag": "CC1", "Text": "THAT'S WHAT IT WAS.             "}
+{"StartTime": "20110114075249.000", "EndTime": "20110114075250.000", "PrimaryTag": "CC1", "Text": ">> Paul: YES.                   "}
+{"StartTime": "20110114075250.000", "EndTime": "20110114075251.000", "PrimaryTag": "CC1", "Text": ">> Dave: HE IS WEARING HIS      "}
+{"StartTime": "20110114075251.000", "EndTime": "20110114075252.000", "PrimaryTag": "CC1", "Text": "RUBBER DUCK SNOW BOOTS.         "}
+{"StartTime": "20110114075252.000", "EndTime": "20110114075253.000", "PrimaryTag": "CC1", "Text": ">> YOU NEED THEM THESE DAYS,    "}
+{"StartTime": "20110114075253.000", "EndTime": "20110114075254.000", "PrimaryTag": "CC1", "Text": "YES.                            "}
+{"StartTime": "20110114075254.000", "EndTime": "20110114075255.000", "PrimaryTag": "CC1", "Text": ">> Dave: AND SO NOW ANYWAY      "}
+{"StartTime": "20110114075255.000", "EndTime": "20110114075257.000", "PrimaryTag": "CC1", "Text": "THEN WE GET THE BLIZZARD TWO    "}
+{"StartTime": "20110114075257.000", "EndTime": "20110114075258.000", "PrimaryTag": "CC1", "Text": "DAYS AGO AND THERE IS LIKE      "}
+{"StartTime": "20110114075258.000", "EndTime": "20110114075301.000", "PrimaryTag": "CC1", "Text": "FOUR FEET DUMPED AND IT WAS     "}
+{"StartTime": "20110114075301.000", "EndTime": "20110114075302.000", "PrimaryTag": "CC1", "Text": "GONE BEFORE PEOPLE WOKE UP.     "}
+{"StartTime": "20110114075302.000", "EndTime": "20110114075303.000", "PrimaryTag": "CC1", "Text": "AND THE SAME PEOPLE THAT        "}
+{"StartTime": "20110114075303.000", "EndTime": "20110114075304.000", "PrimaryTag": "CC1", "Text": "WERE COMPLAINING THAT IT        "}
+{"StartTime": "20110114075305.000", "EndTime": "20110114075305.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:08:00 of 0:30:00"}
+{"StartTime": "20110114075304.000", "EndTime": "20110114075306.000", "PrimaryTag": "CC1", "Text": "TOOK TOO LONG TO CLEAN UP       "}
+{"StartTime": "20110114075306.000", "EndTime": "20110114075308.000", "PrimaryTag": "CC1", "Text": "THE FIRST BLIZZARD ARE          "}
+{"StartTime": "20110114075308.000", "EndTime": "20110114075309.000", "PrimaryTag": "CC1", "Text": "COMPLAINING THEY CLEANED        "}
+{"StartTime": "20110114075309.000", "EndTime": "20110114075310.000", "PrimaryTag": "CC1", "Text": "THIS UP BLIZZARD TOO            "}
+{"StartTime": "20110114075310.000", "EndTime": "20110114075311.000", "PrimaryTag": "CC1", "Text": "QUICKLY.                        "}
+{"StartTime": "20110114075311.000", "EndTime": "20110114075312.000", "PrimaryTag": "CC1", "Text": ">> Paul: TOO QUICKLY.           "}
+{"StartTime": "20110114075312.000", "EndTime": "20110114075313.000", "PrimaryTag": "CC1", "Text": ">> Dave: THAT'S NEW YORKERS.    "}
+{"StartTime": "20110114075313.000", "EndTime": "20110114075314.000", "PrimaryTag": "CC1", "Text": "THEY WANT TO WAIT UNTIL THEY    "}
+{"StartTime": "20110114075314.000", "EndTime": "20110114075317.000", "PrimaryTag": "CC1", "Text": "GET THAT UGLY, GRAY, SLOPPY,    "}
+{"StartTime": "20110114075317.000", "EndTime": "20110114075319.000", "PrimaryTag": "CC1", "Text": "ILL, NOTTY LOOKING COLOR,       "}
+{"StartTime": "20110114075319.000", "EndTime": "20110114075320.000", "PrimaryTag": "CC1", "Text": "THEN THEY WANT IT CLEANED       "}
+{"StartTime": "20110114075320.000", "EndTime": "20110114075320.000", "PrimaryTag": "CC1", "Text": "UP.                             "}
+{"StartTime": "20110114075320.000", "EndTime": "20110114075321.000", "PrimaryTag": "CC1", "Text": "THEY DON'T WANT IT CLEANED      "}
+{"StartTime": "20110114075321.000", "EndTime": "20110114075322.000", "PrimaryTag": "CC1", "Text": "UP RIGHT AWAY.                  "}
+{"StartTime": "20110114075322.000", "EndTime": "20110114075323.000", "PrimaryTag": "CC1", "Text": "HEY, WE'LL TELL YOU WHEN WE     "}
+{"StartTime": "20110114075323.000", "EndTime": "20110114075325.000", "PrimaryTag": "CC1", "Text": "WANT IT CLEANED UP, ALL         "}
+{"StartTime": "20110114075325.000", "EndTime": "20110114075325.000", "PrimaryTag": "CC1", "Text": "RIGHT.                          "}
+{"StartTime": "20110114075325.000", "EndTime": "20110114075326.000", "PrimaryTag": "CC1", "Text": ">> Paul: NEW YORK IS A HELL     "}
+{"StartTime": "20110114075326.000", "EndTime": "20110114075328.000", "PrimaryTag": "CC1", "Text": "OF A TOWN.                      "}
+{"StartTime": "20110114075328.000", "EndTime": "20110114075329.000", "PrimaryTag": "CC1", "Text": ">> Dave: DON'T BRING YOUR       "}
+{"StartTime": "20110114075329.000", "EndTime": "20110114075330.000", "PrimaryTag": "CC1", "Text": "PLOWS OUT HERE UNTIL WE TELL    "}
+{"StartTime": "20110114075330.000", "EndTime": "20110114075330.000", "PrimaryTag": "CC1", "Text": "YOU.                            "}
+{"StartTime": "20110114075330.000", "EndTime": "20110114075331.000", "PrimaryTag": "CC1", "Text": ">> THAT'S WHAT I'M TALKING      "}
+{"StartTime": "20110114075331.000", "EndTime": "20110114075332.000", "PrimaryTag": "CC1", "Text": "ABOUT.                          "}
+{"StartTime": "20110114075332.000", "EndTime": "20110114075332.000", "PrimaryTag": "CC1", "Text": ">> Dave: LADIES AND             "}
+{"StartTime": "20110114075332.000", "EndTime": "20110114075333.000", "PrimaryTag": "CC1", "Text": "GENTLEMEN, HERE'S TONIGHT'S     "}
+{"StartTime": "20110114075333.000", "EndTime": "20110114075334.000", "PrimaryTag": "CC1", "Text": "TOP TEN LIST.                   "}
+{"StartTime": "20110114075334.000", "EndTime": "20110114075335.000", "PrimaryTag": "CC1", "Text": "LET'S GO.                       "}
+{"StartTime": "20110114075335.000", "EndTime": "20110114075351.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114075351.000", "EndTime": "20110114075352.000", "PrimaryTag": "CC1", "Text": "THE CATEGORY TONIGHT TOP TEN    "}
+{"StartTime": "20110114075352.000", "EndTime": "20110114075354.000", "PrimaryTag": "CC1", "Text": "SIGNS YOU'RE NOT GOING TO       "}
+{"StartTime": "20110114075354.000", "EndTime": "20110114075355.000", "PrimaryTag": "CC1", "Text": "WIN THE MISS AMERICA            "}
+{"StartTime": "20110114075355.000", "EndTime": "20110114075355.000", "PrimaryTag": "CC1", "Text": "PAGEANT.                        "}
+{"StartTime": "20110114075355.000", "EndTime": "20110114075356.000", "PrimaryTag": "CC1", "Text": ">> Paul: NOT GOING TO.          "}
+{"StartTime": "20110114075356.000", "EndTime": "20110114075357.000", "PrimaryTag": "CC1", "Text": ">> Dave: 50 CONTESTANTS         "}
+{"StartTime": "20110114075357.000", "EndTime": "20110114075359.000", "PrimaryTag": "CC1", "Text": "COMPETING FOR THE TITLE OF      "}
+{"StartTime": "20110114075359.000", "EndTime": "20110114075401.000", "PrimaryTag": "CC1", "Text": "MISS AMERICA AND MANY MORE      "}
+{"StartTime": "20110114075401.000", "EndTime": "20110114075402.000", "PrimaryTag": "CC1", "Text": "QUALIFY, MANY MORE, THEY        "}
+{"StartTime": "20110114075402.000", "EndTime": "20110114075405.000", "PrimaryTag": "CC1", "Text": "HAVE TESTS AND THINGS, OTHER,   "}
+{"StartTime": "20110114075405.000", "EndTime": "20110114075407.000", "PrimaryTag": "CC1", "Text": "WHAT DOW CALL THEM,             "}
+{"StartTime": "20110114075407.000", "EndTime": "20110114075407.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:09:00 of 0:30:00"}
+{"StartTime": "20110114075407.000", "EndTime": "20110114075409.000", "PrimaryTag": "CC1", "Text": "QUALIFYING COMPETITIONS.        "}
+{"StartTime": "20110114075409.000", "EndTime": "20110114075410.000", "PrimaryTag": "CC1", "Text": ">> QUALIFYING ROUNDS.           "}
+{"StartTime": "20110114075410.000", "EndTime": "20110114075411.000", "PrimaryTag": "CC1", "Text": ">> YOU TRY AND YOU COMPETE      "}
+{"StartTime": "20110114075411.000", "EndTime": "20110114075412.000", "PrimaryTag": "CC1", "Text": "AND YOU TRY AND COMPETE AND     "}
+{"StartTime": "20110114075412.000", "EndTime": "20110114075414.000", "PrimaryTag": "CC1", "Text": "GET IN BUT NOT EVERYBODY IS     "}
+{"StartTime": "20110114075414.000", "EndTime": "20110114075415.000", "PrimaryTag": "CC1", "Text": "GOING TO WIN, 50 TO 1, THE      "}
+{"StartTime": "20110114075415.000", "EndTime": "20110114075417.000", "PrimaryTag": "CC1", "Text": "ODDS ARE, IT'S NOT THAT GOOD,   "}
+{"StartTime": "20110114075417.000", "EndTime": "20110114075418.000", "PrimaryTag": "CC1", "Text": "REALLY.                         "}
+{"StartTime": "20110114075418.000", "EndTime": "20110114075418.000", "PrimaryTag": "CC1", "Text": ">> Paul: NOT EVERYONE IS        "}
+{"StartTime": "20110114075418.000", "EndTime": "20110114075419.000", "PrimaryTag": "CC1", "Text": "GOING TO WIN.                   "}
+{"StartTime": "20110114075419.000", "EndTime": "20110114075420.000", "PrimaryTag": "CC1", "Text": ">> Dave: BUT THERE RIPP         "}
+{"StartTime": "20110114075420.000", "EndTime": "20110114075421.000", "PrimaryTag": "CC1", "Text": "INDICATORS IF YOU ARE SAVVY,    "}
+{"StartTime": "20110114075421.000", "EndTime": "20110114075423.000", "PrimaryTag": "CC1", "Text": "IF YOU ARE A SAVVY              "}
+{"StartTime": "20110114075423.000", "EndTime": "20110114075424.000", "PrimaryTag": "CC1", "Text": "CONTESTANTS THERE ARE           "}
+{"StartTime": "20110114075424.000", "EndTime": "20110114075426.000", "PrimaryTag": "CC1", "Text": "INDICATORS TELLING YOU THAT     "}
+{"StartTime": "20110114075426.000", "EndTime": "20110114075427.000", "PrimaryTag": "CC1", "Text": "YOU AND YOUR FAMILY MAY AS      "}
+{"StartTime": "20110114075427.000", "EndTime": "20110114075428.000", "PrimaryTag": "CC1", "Text": "WELL PACK UP.                   "}
+{"StartTime": "20110114075428.000", "EndTime": "20110114075429.000", "PrimaryTag": "CC1", "Text": ">> Paul: MAY NOT WIN, YEAH.     "}
+{"StartTime": "20110114075429.000", "EndTime": "20110114075430.000", "PrimaryTag": "CC1", "Text": "LET ME ASK YOU SOMETHING, IF    "}
+{"StartTime": "20110114075430.000", "EndTime": "20110114075431.000", "PrimaryTag": "CC1", "Text": "THERE IS NOTHING YOU CAN DO     "}
+{"StartTime": "20110114075431.000", "EndTime": "20110114075432.000", "PrimaryTag": "CC1", "Text": "ABOUT IT ANYWAY, WOULD YOU      "}
+{"StartTime": "20110114075432.000", "EndTime": "20110114075433.000", "PrimaryTag": "CC1", "Text": "WANT TO KNOW, REALLY, THAT      "}
+{"StartTime": "20110114075433.000", "EndTime": "20110114075436.000", "PrimaryTag": "CC1", "Text": "YOU WEREN'T GOING TO WIN?       "}
+{"StartTime": "20110114075436.000", "EndTime": "20110114075438.000", "PrimaryTag": "CC1", "Text": ">> BOY, THAT'S A GOOD           "}
+{"StartTime": "20110114075438.000", "EndTime": "20110114075440.000", "PrimaryTag": "CC1", "Text": "QUESTION.                       "}
+{"StartTime": "20110114075440.000", "EndTime": "20110114075442.000", "PrimaryTag": "CC1", "Text": "I-- NO, I WOULDN'T WANT-- I     "}
+{"StartTime": "20110114075442.000", "EndTime": "20110114075443.000", "PrimaryTag": "CC1", "Text": "WOULDN'T WANT IT TO RUIN THE    "}
+{"StartTime": "20110114075443.000", "EndTime": "20110114075444.000", "PrimaryTag": "CC1", "Text": "FUN OF THE PAGEANT.             "}
+{"StartTime": "20110114075444.000", "EndTime": "20110114075445.000", "PrimaryTag": "CC1", "Text": ">> Paul: THAT'S RIGHT.          "}
+{"StartTime": "20110114075445.000", "EndTime": "20110114075445.000", "PrimaryTag": "CC1", "Text": ">> Dave: AND GETTING TO         "}
+{"StartTime": "20110114075445.000", "EndTime": "20110114075447.000", "PrimaryTag": "CC1", "Text": "LEARN ABOUT THE GIRL.           "}
+{"StartTime": "20110114075447.000", "EndTime": "20110114075450.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114075450.000", "EndTime": "20110114075452.000", "PrimaryTag": "CC1", "Text": ">> Dave: I WOULDN'T WANT TO     "}
+{"StartTime": "20110114075452.000", "EndTime": "20110114075453.000", "PrimaryTag": "CC1", "Text": "KNOW.                           "}
+{"StartTime": "20110114075453.000", "EndTime": "20110114075455.000", "PrimaryTag": "CC1", "Text": "BECAUSE REALLY, FOR THE         "}
+{"StartTime": "20110114075455.000", "EndTime": "20110114075456.000", "PrimaryTag": "CC1", "Text": "CONTESTANTS THAT'S THE FUN      "}
+{"StartTime": "20110114075456.000", "EndTime": "20110114075457.000", "PrimaryTag": "CC1", "Text": "OF IT.                          "}
+{"StartTime": "20110114075457.000", "EndTime": "20110114075457.000", "PrimaryTag": "CC1", "Text": "GETTING TO KNOW ABOUT THE       "}
+{"StartTime": "20110114075457.000", "EndTime": "20110114075458.000", "PrimaryTag": "CC1", "Text": "OTHER GIRLS.                    "}
+{"StartTime": "20110114075458.000", "EndTime": "20110114075459.000", "PrimaryTag": "CC1", "Text": "THANK YOU VERY MUCH.            "}
+{"StartTime": "20110114075459.000", "EndTime": "20110114075500.000", "PrimaryTag": "CC1", "Text": "ARE YOU NOT GOING TO WIN.       "}
+{"StartTime": "20110114075500.000", "EndTime": "20110114075501.000", "PrimaryTag": "CC1", "Text": "HERE WE GO.                     "}
+{"StartTime": "20110114075501.000", "EndTime": "20110114075502.000", "PrimaryTag": "CC1", "Text": "IT'S GOING TO BE IN LAS         "}
+{"StartTime": "20110114075502.000", "EndTime": "20110114075503.000", "PrimaryTag": "CC1", "Text": "VEGAS.                          "}
+{"StartTime": "20110114075503.000", "EndTime": "20110114075504.000", "PrimaryTag": "CC1", "Text": "USED TO BE IN ATLANTIC CITY,    "}
+{"StartTime": "20110114075504.000", "EndTime": "20110114075507.000", "PrimaryTag": "CC1", "Text": "NOW IT'S IN LAS VEGAS.          "}
+{"StartTime": "20110114075507.000", "EndTime": "20110114075508.000", "PrimaryTag": "CC1", "Text": "OH, BROOK BURKE WILL HOST       "}
+{"StartTime": "20110114075508.000", "EndTime": "20110114075509.000", "PrimaryTag": "CC1", "Text": "THE EVENT.                      "}
+{"StartTime": "20110114075509.000", "EndTime": "20110114075509.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:10:00 of 0:30:00"}
+{"StartTime": "20110114075509.000", "EndTime": "20110114075512.000", "PrimaryTag": "CC1", "Text": ">> Paul: I LOVE HER, YEAH.      "}
+{"StartTime": "20110114075512.000", "EndTime": "20110114075513.000", "PrimaryTag": "CC1", "Text": "SHE'S HOSTING IT.               "}
+{"StartTime": "20110114075513.000", "EndTime": "20110114075514.000", "PrimaryTag": "CC1", "Text": ">> Dave: YES, AND CHRIS         "}
+{"StartTime": "20110114075514.000", "EndTime": "20110114075514.000", "PrimaryTag": "CC1", "Text": "HARRISON.                       "}
+{"StartTime": "20110114075514.000", "EndTime": "20110114075517.000", "PrimaryTag": "CC1", "Text": ">>I DON'T KNOW WHO HE IS.       "}
+{"StartTime": "20110114075517.000", "EndTime": "20110114075622.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114075611.000", "EndTime": "20110114075611.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:11:00 of 0:30:00"}
+{"StartTime": "20110114075622.000", "EndTime": "20110114075623.000", "PrimaryTag": "CC1", "Text": ">> Dave: THERE YOU GO.          "}
+{"StartTime": "20110114075623.000", "EndTime": "20110114075631.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114075631.000", "EndTime": "20110114075633.000", "PrimaryTag": "CC1", "Text": ">> Dave: WHEN WE COME BACK,     "}
+{"StartTime": "20110114075633.000", "EndTime": "20110114075634.000", "PrimaryTag": "CC1", "Text": "LADIES AND GENTLEMEN, KELSEY    "}
+{"StartTime": "20110114075634.000", "EndTime": "20110114075636.000", "PrimaryTag": "CC1", "Text": "GRAMMER WILL BE HERE.           "}
+{"StartTime": "20110114075636.000", "EndTime": "20110114075637.000", "PrimaryTag": "CC1", "Text": "WE'LL BE RIGHT BACK,            "}
+{"StartTime": "20110114075637.000", "EndTime": "20110114075638.000", "PrimaryTag": "CC1", "Text": "EVERYBODY.                      "}
+{"StartTime": "20110114075638.000", "EndTime": "20110114080104.000", "PrimaryTag": "SEG_01", "Type": "Commercial"}
+{"StartTime": "20110114075638.000", "EndTime": "20110114075641.000", "PrimaryTag": "CC1", "Text": "(CHEERS AND APPLAUSE)           "}
+{"StartTime": "20110114075641.000", "EndTime": "20110114075641.000", "PrimaryTag": "CC1", "Text": "                     .          "}
+{"StartTime": "20110114075641.000", "EndTime": "20110114075644.000", "PrimaryTag": "CC1", "Text": "             THE CONGESTION...  "}
+{"StartTime": "20110114075644.000", "EndTime": "20110114075645.000", "PrimaryTag": "CC1", "Text": "              IT'S YOUR FAULT.  "}
+{"StartTime": "20110114075645.000", "EndTime": "20110114075645.000", "PrimaryTag": "CC1", "Text": "                 NATURALLY,     "}
+{"StartTime": "20110114075645.000", "EndTime": "20110114075647.000", "PrimaryTag": "CC1", "Text": "              BLAME THE MUCUS.  "}
+{"StartTime": "20110114075647.000", "EndTime": "20110114075649.000", "PrimaryTag": "CC1", "Text": "WELL, I CAN'T BREATHE.          "}
+{"StartTime": "20110114075649.000", "EndTime": "20110114075649.000", "PrimaryTag": "CC1", "Text": "                 DID YOU TRY    "}
+{"StartTime": "20110114075649.000", "EndTime": "20110114075649.000", "PrimaryTag": "CC1", "Text": "             BLOWING YOUR NOSE? "}
+{"StartTime": "20110114075649.000", "EndTime": "20110114075651.000", "PrimaryTag": "CC1", "Text": "OF COURSE.                      "}
+{"StartTime": "20110114075651.000", "EndTime": "20110114075651.000", "PrimaryTag": "CC1", "Text": "            [ Both ]            "}
+{"StartTime": "20110114075651.000", "EndTime": "20110114075653.000", "PrimaryTag": "CC1", "Text": "      AND NOTHING CAME OUT.     "}
+{"StartTime": "20110114075653.000", "EndTime": "20110114075653.000", "PrimaryTag": "CC1", "Text": "         INSTEAD OF BLAMING ME, "}
+{"StartTime": "20110114075653.000", "EndTime": "20110114075655.000", "PrimaryTag": "CC1", "Text": "TRY NEW ADVIL CONGESTION RELIEF."}
+{"StartTime": "20110114075655.000", "EndTime": "20110114075657.000", "PrimaryTag": "CC1", "Text": "          WHAT YOU PROBABLY HAVE"}
+{"StartTime": "20110114075657.000", "EndTime": "20110114075657.000", "PrimaryTag": "CC1", "Text": "                 IS SWELLING    "}
+{"StartTime": "20110114075657.000", "EndTime": "20110114075659.000", "PrimaryTag": "CC1", "Text": "      DUE TO NASAL INFLAMMATION,"}
+{"StartTime": "20110114075659.000", "EndTime": "20110114075659.000", "PrimaryTag": "CC1", "Text": "                 NOT MUCUS.     "}
+{"StartTime": "20110114075659.000", "EndTime": "20110114075701.000", "PrimaryTag": "CC1", "Text": " AND THIS CAN HELP?             "}
+{"StartTime": "20110114075701.000", "EndTime": "20110114075701.000", "PrimaryTag": "CC1", "Text": "      IT TREATS THE REAL PROBLEM"}
+{"StartTime": "20110114075701.000", "EndTime": "20110114075703.000", "PrimaryTag": "CC1", "Text": "        OF YOUR SINUS SYMPTOMS, "}
+{"StartTime": "20110114075703.000", "EndTime": "20110114075703.000", "PrimaryTag": "CC1", "Text": "              REDUCING SWELLING "}
+{"StartTime": "20110114075703.000", "EndTime": "20110114075705.000", "PrimaryTag": "CC1", "Text": "      DUE TO NASAL INFLAMMATION."}
+{"StartTime": "20110114075705.000", "EndTime": "20110114075707.000", "PrimaryTag": "CC1", "Text": "  SO I CAN BREATHE.             "}
+{"StartTime": "20110114075707.000", "EndTime": "20110114075707.000", "PrimaryTag": "CC1", "Text": "            [ Mucus ]           "}
+{"StartTime": "20110114075707.000", "EndTime": "20110114075708.000", "PrimaryTag": "CC1", "Text": "  NEW ADVIL CONGESTION RELIEF.  "}
+{"StartTime": "20110114075708.000", "EndTime": "20110114075709.000", "PrimaryTag": "CC1", "Text": "    THE RIGHT SINUS MEDICINE    "}
+{"StartTime": "20110114075709.000", "EndTime": "20110114075811.000", "PrimaryTag": "CC1", "Text": "      FOR THE REAL PROBLEM.     "}
+{"StartTime": "20110114075713.000", "EndTime": "20110114075713.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:12:00 of 0:30:00"}
+{"StartTime": "20110114075811.000", "EndTime": "20110114075813.000", "PrimaryTag": "CC1", "Text": "      OOH, A BRAINTEASER.       "}
+{"StartTime": "20110114075813.000", "EndTime": "20110114075813.000", "PrimaryTag": "CC1", "Text": "    THE RIGHT SINUS MEDICINE    "}
+{"StartTime": "20110114075813.000", "EndTime": "20110114075813.000", "PrimaryTag": "CC1", "Text": "    HOW CAN EXPEDIA NOW SAVE    "}
+{"StartTime": "20110114075813.000", "EndTime": "20110114075817.000", "PrimaryTag": "CC1", "Text": "   ME EVEN MORE ON MY HOTEL?    "}
+{"StartTime": "20110114075814.000", "EndTime": "20110114075814.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:13:00 of 0:30:00"}
+{"StartTime": "20110114075817.000", "EndTime": "20110114075817.000", "PrimaryTag": "CC1", "Text": "  WELL, HOTELS KNOW THEY CAN'T  "}
+{"StartTime": "20110114075817.000", "EndTime": "20110114075820.000", "PrimaryTag": "CC1", "Text": "   FILL EVERY ROOM EVERY DAY.   "}
+{"StartTime": "20110114075820.000", "EndTime": "20110114075824.000", "PrimaryTag": "CC1", "Text": "  LIKE THIS ONE. AND THIS ONE.  "}
+{"StartTime": "20110114075824.000", "EndTime": "20110114075828.000", "PrimaryTag": "CC1", "Text": "       AND OOPS, MY BAD.        "}
+{"StartTime": "20110114075828.000", "EndTime": "20110114075828.000", "PrimaryTag": "CC1", "Text": "     SO, THEY GIVE EXPEDIA      "}
+{"StartTime": "20110114075828.000", "EndTime": "20110114075831.000", "PrimaryTag": "CC1", "Text": "GINORMOUS DISCOUNTS WITH THESE: "}
+{"StartTime": "20110114075831.000", "EndTime": "20110114075832.000", "PrimaryTag": "CC1", "Text": "       UNPUBLISHED RATES.       "}
+{"StartTime": "20110114075832.000", "EndTime": "20110114075832.000", "PrimaryTag": "CC1", "Text": "   WHICH MEANS I GET AN EVEN    "}
+{"StartTime": "20110114075832.000", "EndTime": "20110114075836.000", "PrimaryTag": "CC1", "Text": " MORE ROCKIN' HOTEL, FOR LESS.  "}
+{"StartTime": "20110114075836.000", "EndTime": "20110114075836.000", "PrimaryTag": "CC1", "Text": "        MY BRAIN DIDN'T         "}
+{"StartTime": "20110114075836.000", "EndTime": "20110114075838.000", "PrimaryTag": "CC1", "Text": "      EVEN BREAK A SWEAT.       "}
+{"StartTime": "20110114075838.000", "EndTime": "20110114080101.000", "PrimaryTag": "CC1", "Text": "WHERE YOU BOOK MATTERS. EXPEDIA."}
+{"StartTime": "20110114075916.000", "EndTime": "20110114075916.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:14:00 of 0:30:00"}
+{"StartTime": "20110114080053.000", "EndTime": "20110114080053.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:15:00 of 0:30:00"}
+{"StartTime": "20110114080101.000", "EndTime": "20110114080104.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114080104.000", "EndTime": "20110114080105.000", "PrimaryTag": "SEG_01", "Type": "Story start"}
+{"StartTime": "20110114080104.000", "EndTime": "20110114080105.000", "PrimaryTag": "CC1", "Text": ">> Dave: YEAH, YEAH, THAT       "}
+{"StartTime": "20110114080105.000", "EndTime": "20110114080107.000", "PrimaryTag": "CC1", "Text": "AIN'T THE WAY TO HAVE FUN,      "}
+{"StartTime": "20110114080107.000", "EndTime": "20110114080108.000", "PrimaryTag": "CC1", "Text": "FOR HEAVEN'S SAKE.              "}
+{"StartTime": "20110114080108.000", "EndTime": "20110114080112.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114080112.000", "EndTime": "20110114080113.000", "PrimaryTag": "CC1", "Text": "OKAY.                           "}
+{"StartTime": "20110114080113.000", "EndTime": "20110114080114.000", "PrimaryTag": "CC1", "Text": "I'M GOING TO READ THE           "}
+{"StartTime": "20110114080114.000", "EndTime": "20110114080116.000", "PrimaryTag": "CC1", "Text": "INTRODUCTION AND THEN THE       "}
+{"StartTime": "20110114080116.000", "EndTime": "20110114080117.000", "PrimaryTag": "CC1", "Text": "PERSON'S NAME MENTIONED IN      "}
+{"StartTime": "20110114080117.000", "EndTime": "20110114080119.000", "PrimaryTag": "CC1", "Text": "THE INTRODUCTION WILL COME      "}
+{"StartTime": "20110114080119.000", "EndTime": "20110114080119.000", "PrimaryTag": "CC1", "Text": "OUT.                            "}
+{"StartTime": "20110114080120.000", "EndTime": "20110114080120.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:16:00 of 0:30:00"}
+{"StartTime": "20110114080119.000", "EndTime": "20110114080121.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114080121.000", "EndTime": "20110114080123.000", "PrimaryTag": "CC1", "Text": "IT'S A LITTLE BEHIND THE        "}
+{"StartTime": "20110114080123.000", "EndTime": "20110114080124.000", "PrimaryTag": "CC1", "Text": "SCENES FOR COMMUNICATION        "}
+{"StartTime": "20110114080124.000", "EndTime": "20110114080125.000", "PrimaryTag": "CC1", "Text": "STUDENTS ALL OVER THE WORLD.    "}
+{"StartTime": "20110114080125.000", "EndTime": "20110114080126.000", "PrimaryTag": "CC1", "Text": ">> Paul: THIS IS HOW IT HAS     "}
+{"StartTime": "20110114080126.000", "EndTime": "20110114080127.000", "PrimaryTag": "CC1", "Text": "WORKED.                         "}
+{"StartTime": "20110114080127.000", "EndTime": "20110114080128.000", "PrimaryTag": "CC1", "Text": ">> Dave: WHEN YOU HEAR THE      "}
+{"StartTime": "20110114080128.000", "EndTime": "20110114080130.000", "PrimaryTag": "CC1", "Text": "NAME, THEN THE GUY WHO          "}
+{"StartTime": "20110114080130.000", "EndTime": "20110114080131.000", "PrimaryTag": "CC1", "Text": "MATCHES THE NAME WILL COME      "}
+{"StartTime": "20110114080131.000", "EndTime": "20110114080132.000", "PrimaryTag": "CC1", "Text": "RIGHT OUT.                      "}
+{"StartTime": "20110114080132.000", "EndTime": "20110114080133.000", "PrimaryTag": "CC1", "Text": ">> Paul: TRY AND TRUE, A        "}
+{"StartTime": "20110114080133.000", "EndTime": "20110114080135.000", "PrimaryTag": "CC1", "Text": "FORMULA TRIED AND TRUE.         "}
+{"StartTime": "20110114080135.000", "EndTime": "20110114080135.000", "PrimaryTag": "CC1", "Text": ">> Dave: THAT'S RIGHT,          "}
+{"StartTime": "20110114080135.000", "EndTime": "20110114080136.000", "PrimaryTag": "CC1", "Text": "EXACTLY.                        "}
+{"StartTime": "20110114080136.000", "EndTime": "20110114080137.000", "PrimaryTag": "CC1", "Text": "OUR FIRST GUEST IS A            "}
+{"StartTime": "20110114080137.000", "EndTime": "20110114080139.000", "PrimaryTag": "CC1", "Text": "FIVE-TIME EMMY AWARD WINNER     "}
+{"StartTime": "20110114080139.000", "EndTime": "20110114080140.000", "PrimaryTag": "CC1", "Text": "CURRENTLY STARRING IN THE       "}
+{"StartTime": "20110114080140.000", "EndTime": "20110114080142.000", "PrimaryTag": "CC1", "Text": "BROADWAY REVIVAL OF THE         "}
+{"StartTime": "20110114080142.000", "EndTime": "20110114080150.000", "PrimaryTag": "CC1", "Text": "MUSICAL LA CAGE AUX FALLES,     "}
+{"StartTime": "20110114080150.000", "EndTime": "20110114080152.000", "PrimaryTag": "CC1", "Text": "THE CHARMING AND TALENTED       "}
+{"StartTime": "20110114080152.000", "EndTime": "20110114080153.000", "PrimaryTag": "CC1", "Text": "KELSEY GRAMMER.                 "}
+{"StartTime": "20110114080153.000", "EndTime": "20110114080212.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114080212.000", "EndTime": "20110114080215.000", "PrimaryTag": "CC1", "Text": ">> GOOD TO SEE YOU, HAPPY       "}
+{"StartTime": "20110114080215.000", "EndTime": "20110114080217.000", "PrimaryTag": "CC1", "Text": "NEW YEAR, I UNDERSTAND, IT'S    "}
+{"StartTime": "20110114080217.000", "EndTime": "20110114080218.000", "PrimaryTag": "CC1", "Text": "BEEN BY THE WAY A BOX           "}
+{"StartTime": "20110114080218.000", "EndTime": "20110114080220.000", "PrimaryTag": "CC1", "Text": "OFFICES BREAKING SUCCESSFUL     "}
+{"StartTime": "20110114080220.000", "EndTime": "20110114080220.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:17:00 of 0:30:00"}
+{"StartTime": "20110114080220.000", "EndTime": "20110114080222.000", "PrimaryTag": "CC1", "Text": "RUN BUT I UNDERSTAND SOON       "}
+{"StartTime": "20110114080222.000", "EndTime": "20110114080223.000", "PrimaryTag": "CC1", "Text": "CONTRACTUALLY YOU'LL BE         "}
+{"StartTime": "20110114080223.000", "EndTime": "20110114080225.000", "PrimaryTag": "CC1", "Text": "LEAVING, IS THAT HOW IT         "}
+{"StartTime": "20110114080225.000", "EndTime": "20110114080225.000", "PrimaryTag": "CC1", "Text": "WORKS.                          "}
+{"StartTime": "20110114080225.000", "EndTime": "20110114080227.000", "PrimaryTag": "CC1", "Text": ">> YES, I'M LEAVING PEN         "}
+{"StartTime": "20110114080227.000", "EndTime": "20110114080227.000", "PrimaryTag": "CC1", "Text": "13th.                           "}
+{"StartTime": "20110114080227.000", "EndTime": "20110114080228.000", "PrimaryTag": "CC1", "Text": "THE SHOW IS GOINGING TO GO      "}
+{"StartTime": "20110114080228.000", "EndTime": "20110114080229.000", "PrimaryTag": "CC1", "Text": "ON.                             "}
+{"StartTime": "20110114080229.000", "EndTime": "20110114080230.000", "PrimaryTag": "CC1", "Text": ">> Dave: YOU WERE IN IT FOR     "}
+{"StartTime": "20110114080230.000", "EndTime": "20110114080232.000", "PrimaryTag": "CC1", "Text": "A YEAR.                         "}
+{"StartTime": "20110114080232.000", "EndTime": "20110114080233.000", "PrimaryTag": "CC1", "Text": ">> HARVEY-- WILL REPLACE ONE    "}
+{"StartTime": "20110114080233.000", "EndTime": "20110114080234.000", "PrimaryTag": "CC1", "Text": "OF THE ROLES.                   "}
+{"StartTime": "20110114080234.000", "EndTime": "20110114080235.000", "PrimaryTag": "CC1", "Text": "JEFFREY TANBERG IS GOING TO     "}
+{"StartTime": "20110114080235.000", "EndTime": "20110114080236.000", "PrimaryTag": "CC1", "Text": "PLAY MY PART.                   "}
+{"StartTime": "20110114080236.000", "EndTime": "20110114080237.000", "PrimaryTag": "CC1", "Text": ">> Dave: WILL YOU MISS THE      "}
+{"StartTime": "20110114080237.000", "EndTime": "20110114080239.000", "PrimaryTag": "CC1", "Text": "EXCITEMENT OF DOING LIVE        "}
+{"StartTime": "20110114080239.000", "EndTime": "20110114080241.000", "PrimaryTag": "CC1", "Text": "MUSICAL THEATRE EVERY DAY?      "}
+{"StartTime": "20110114080241.000", "EndTime": "20110114080249.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114080249.000", "EndTime": "20110114080250.000", "PrimaryTag": "CC1", "Text": ">> THERE'S NO REALLY RIGHT      "}
+{"StartTime": "20110114080250.000", "EndTime": "20110114080251.000", "PrimaryTag": "CC1", "Text": "WAY TO ANSWER THAT QUESTION.    "}
+{"StartTime": "20110114080251.000", "EndTime": "20110114080252.000", "PrimaryTag": "CC1", "Text": "IT IS AN AMAZING EXPERIENCE     "}
+{"StartTime": "20110114080252.000", "EndTime": "20110114080254.000", "PrimaryTag": "CC1", "Text": "IT IS ONE OF THE BEST THINGS    "}
+{"StartTime": "20110114080254.000", "EndTime": "20110114080256.000", "PrimaryTag": "CC1", "Text": "I'VE EVER DONE IN MY LIFE.      "}
+{"StartTime": "20110114080256.000", "EndTime": "20110114080258.000", "PrimaryTag": "CC1", "Text": "IT WAS MY DREAM AS A BOY TO     "}
+{"StartTime": "20110114080258.000", "EndTime": "20110114080259.000", "PrimaryTag": "CC1", "Text": "ACTUALLY END UP ON BROADWAY     "}
+{"StartTime": "20110114080259.000", "EndTime": "20110114080301.000", "PrimaryTag": "CC1", "Text": "AND IT HAS BEEN AN AMAZING      "}
+{"StartTime": "20110114080301.000", "EndTime": "20110114080302.000", "PrimaryTag": "CC1", "Text": "FULFILLMENT OF THAT DREAM TO    "}
+{"StartTime": "20110114080302.000", "EndTime": "20110114080305.000", "PrimaryTag": "CC1", "Text": "BE IN A SUCCESSFUL MUSICAL.     "}
+{"StartTime": "20110114080305.000", "EndTime": "20110114080306.000", "PrimaryTag": "CC1", "Text": "IT'S REALLY HARD WORK.          "}
+{"StartTime": "20110114080306.000", "EndTime": "20110114080309.000", "PrimaryTag": "CC1", "Text": "I FEEL LIKE CHRISTMAS WEEK      "}
+{"StartTime": "20110114080309.000", "EndTime": "20110114080311.000", "PrimaryTag": "CC1", "Text": "WAS LIKE RUNNING A MARATHON     "}
+{"StartTime": "20110114080311.000", "EndTime": "20110114080312.000", "PrimaryTag": "CC1", "Text": "THREE TIMES.                    "}
+{"StartTime": "20110114080312.000", "EndTime": "20110114080313.000", "PrimaryTag": "CC1", "Text": ">> EIGHT SHOWS A WEEK.          "}
+{"StartTime": "20110114080313.000", "EndTime": "20110114080314.000", "PrimaryTag": "CC1", "Text": "PEOPLE DON'T REALIZE THAT.      "}
+{"StartTime": "20110114080314.000", "EndTime": "20110114080315.000", "PrimaryTag": "CC1", "Text": ">> YOU WORK SIX DAYS A WEEK.    "}
+{"StartTime": "20110114080315.000", "EndTime": "20110114080317.000", "PrimaryTag": "CC1", "Text": "YOU DON'T REALLY GET            "}
+{"StartTime": "20110114080317.000", "EndTime": "20110114080317.000", "PrimaryTag": "CC1", "Text": "WEEKENDS.                       "}
+{"StartTime": "20110114080317.000", "EndTime": "20110114080319.000", "PrimaryTag": "CC1", "Text": "IT'S BEEN A VERY CHALLENGING    "}
+{"StartTime": "20110114080319.000", "EndTime": "20110114080320.000", "PrimaryTag": "CC1", "Text": "TIME FOR ME.                    "}
+{"StartTime": "20110114080320.000", "EndTime": "20110114080322.000", "PrimaryTag": "CC1", "Text": "PHYSICALLY AND EMOTIONALLY.     "}
+{"StartTime": "20110114080322.000", "EndTime": "20110114080323.000", "PrimaryTag": "CC1", "Text": "AND THERE HAVE BEEN ALL THIS    "}
+{"StartTime": "20110114080324.000", "EndTime": "20110114080324.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:18:00 of 0:30:00"}
+{"StartTime": "20110114080323.000", "EndTime": "20110114080324.000", "PrimaryTag": "CC1", "Text": "OTHER STUFF GOING ON.           "}
+{"StartTime": "20110114080324.000", "EndTime": "20110114080326.000", "PrimaryTag": "CC1", "Text": "SO--                            "}
+{"StartTime": "20110114080326.000", "EndTime": "20110114080328.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114080328.000", "EndTime": "20110114080328.000", "PrimaryTag": "CC1", "Text": ">> Dave: WE'LL GET TO THE       "}
+{"StartTime": "20110114080328.000", "EndTime": "20110114080329.000", "PrimaryTag": "CC1", "Text": "OTHER STUFF IN A MINUTE.        "}
+{"StartTime": "20110114080329.000", "EndTime": "20110114080331.000", "PrimaryTag": "CC1", "Text": ">> WE'LL GET TO THAT LATER.     "}
+{"StartTime": "20110114080331.000", "EndTime": "20110114080336.000", "PrimaryTag": "CC1", "Text": ">> I ALWAYS WONDERED ABOUT-- I'M"}
+{"StartTime": "20110114080336.000", "EndTime": "20110114080337.000", "PrimaryTag": "CC1", "Text": "THE KIND OF GUY WHEN YOU GO     "}
+{"StartTime": "20110114080337.000", "EndTime": "20110114080339.000", "PrimaryTag": "CC1", "Text": "TO THE THEATRE AND IT'S         "}
+{"StartTime": "20110114080339.000", "EndTime": "20110114080340.000", "PrimaryTag": "CC1", "Text": "SO-AND-SO STARRING KELSEY       "}
+{"StartTime": "20110114080340.000", "EndTime": "20110114080341.000", "PrimaryTag": "CC1", "Text": "GRAMMER AND THEN YOU SIT        "}
+{"StartTime": "20110114080341.000", "EndTime": "20110114080343.000", "PrimaryTag": "CC1", "Text": "DOWN AND THE HOUSE LIGHT        "}
+{"StartTime": "20110114080343.000", "EndTime": "20110114080344.000", "PrimaryTag": "CC1", "Text": "GOES DOWN AND THE GUY COMES     "}
+{"StartTime": "20110114080344.000", "EndTime": "20110114080346.000", "PrimaryTag": "CC1", "Text": "ON AND SAYS KELSEY GRAMMER      "}
+{"StartTime": "20110114080346.000", "EndTime": "20110114080348.000", "PrimaryTag": "CC1", "Text": "IS STILL SLEEPING.              "}
+{"StartTime": "20110114080348.000", "EndTime": "20110114080349.000", "PrimaryTag": "CC1", "Text": "APPEARING IN HIS ROLE           "}
+{"StartTime": "20110114080349.000", "EndTime": "20110114080353.000", "PrimaryTag": "CC1", "Text": "TONIGHT WILL BE ALEX TRBEC,     "}
+{"StartTime": "20110114080353.000", "EndTime": "20110114080353.000", "PrimaryTag": "CC1", "Text": "AND YOU GO --                   "}
+{"StartTime": "20110114080353.000", "EndTime": "20110114080355.000", "PrimaryTag": "CC1", "Text": ">> YEAH, THAT WOULD BE A        "}
+{"StartTime": "20110114080355.000", "EndTime": "20110114080356.000", "PrimaryTag": "CC1", "Text": "DISAPPOINTMENT.                 "}
+{"StartTime": "20110114080356.000", "EndTime": "20110114080359.000", "PrimaryTag": "CC1", "Text": "AND NO-- NO PERSONAL SLANT      "}
+{"StartTime": "20110114080359.000", "EndTime": "20110114080401.000", "PrimaryTag": "CC1", "Text": "TO MR. TREBEC.                  "}
+{"StartTime": "20110114080401.000", "EndTime": "20110114080403.000", "PrimaryTag": "CC1", "Text": ">> Dave: DID YOU MISS MANY      "}
+{"StartTime": "20110114080403.000", "EndTime": "20110114080404.000", "PrimaryTag": "CC1", "Text": "PERFORMANCES.                   "}
+{"StartTime": "20110114080404.000", "EndTime": "20110114080405.000", "PrimaryTag": "CC1", "Text": ">> HI CONTRACTUALLY TWO         "}
+{"StartTime": "20110114080405.000", "EndTime": "20110114080406.000", "PrimaryTag": "CC1", "Text": "WEEKS OFF.                      "}
+{"StartTime": "20110114080406.000", "EndTime": "20110114080407.000", "PrimaryTag": "CC1", "Text": "THE OTHER GUY HAD SIX WEEKS     "}
+{"StartTime": "20110114080407.000", "EndTime": "20110114080407.000", "PrimaryTag": "CC1", "Text": "OFF.                            "}
+{"StartTime": "20110114080407.000", "EndTime": "20110114080408.000", "PrimaryTag": "CC1", "Text": "THAT WAS TOUGHER.               "}
+{"StartTime": "20110114080408.000", "EndTime": "20110114080410.000", "PrimaryTag": "CC1", "Text": ">> Dave: DID YOU EVER DO,       "}
+{"StartTime": "20110114080410.000", "EndTime": "20110114080411.000", "PrimaryTag": "CC1", "Text": "WHAT DO THEY CALL IT, STAND     "}
+{"StartTime": "20110114080411.000", "EndTime": "20110114080414.000", "PrimaryTag": "CC1", "Text": "IN, SECOND, UNDERSTUDY.         "}
+{"StartTime": "20110114080414.000", "EndTime": "20110114080415.000", "PrimaryTag": "CC1", "Text": ">> I'VE BEEN AN UNDERSTUDY A    "}
+{"StartTime": "20110114080415.000", "EndTime": "20110114080416.000", "PrimaryTag": "CC1", "Text": "COUPLE OF TIMES AND I HAVE      "}
+{"StartTime": "20110114080416.000", "EndTime": "20110114080418.000", "PrimaryTag": "CC1", "Text": "HAD THE GOOD FORTUNE OF         "}
+{"StartTime": "20110114080418.000", "EndTime": "20110114080419.000", "PrimaryTag": "CC1", "Text": "GOING ON A COUPLE OF TIMES.     "}
+{"StartTime": "20110114080419.000", "EndTime": "20110114080422.000", "PrimaryTag": "CC1", "Text": "I DID A SHOW MANY YEARS AGO     "}
+{"StartTime": "20110114080426.000", "EndTime": "20110114080426.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:19:00 of 0:30:00"}
+{"StartTime": "20110114080422.000", "EndTime": "20110114080428.000", "PrimaryTag": "CC1", "Text": "WHEN I WAS-- MANY YEARS AGO.    "}
+{"StartTime": "20110114080428.000", "EndTime": "20110114080430.000", "PrimaryTag": "CC1", "Text": "I WAS UNDERSTUDYING THE         "}
+{"StartTime": "20110114080430.000", "EndTime": "20110114080432.000", "PrimaryTag": "CC1", "Text": "TITLE ROLE IN A SHOW CALLED     "}
+{"StartTime": "20110114080432.000", "EndTime": "20110114080434.000", "PrimaryTag": "CC1", "Text": "MacBETH WHICH IS OF COURSE      "}
+{"StartTime": "20110114080434.000", "EndTime": "20110114080436.000", "PrimaryTag": "CC1", "Text": "BAD LUCK TO SAY IT IN A         "}
+{"StartTime": "20110114080436.000", "EndTime": "20110114080438.000", "PrimaryTag": "CC1", "Text": "THEATRE, BUT THIS IS A          "}
+{"StartTime": "20110114080438.000", "EndTime": "20110114080438.000", "PrimaryTag": "CC1", "Text": "TELEVISION THESE ENGINEER       "}
+{"StartTime": "20110114080438.000", "EndTime": "20110114080439.000", "PrimaryTag": "CC1", "Text": "THANK YOU SO MUCH.              "}
+{"StartTime": "20110114080439.000", "EndTime": "20110114080440.000", "PrimaryTag": "CC1", "Text": ">> I THINK --                   "}
+{"StartTime": "20110114080440.000", "EndTime": "20110114080442.000", "PrimaryTag": "CC1", "Text": ">> DO EITHER OF US NEED ANY     "}
+{"StartTime": "20110114080442.000", "EndTime": "20110114080443.000", "PrimaryTag": "CC1", "Text": "MORE BAD LUCK.                  "}
+{"StartTime": "20110114080443.000", "EndTime": "20110114080444.000", "PrimaryTag": "CC1", "Text": ">> THAN WE HAVE.                "}
+{"StartTime": "20110114080444.000", "EndTime": "20110114080445.000", "PrimaryTag": "CC1", "Text": ">> Dave: NO, WE DON'T NEED      "}
+{"StartTime": "20110114080445.000", "EndTime": "20110114080446.000", "PrimaryTag": "CC1", "Text": "ANY MORE.                       "}
+{"StartTime": "20110114080446.000", "EndTime": "20110114080447.000", "PrimaryTag": "CC1", "Text": ">> BUT THE GUY THAT WAS         "}
+{"StartTime": "20110114080447.000", "EndTime": "20110114080451.000", "PrimaryTag": "CC1", "Text": "PLAYING THAT ROLE IN THE        "}
+{"StartTime": "20110114080451.000", "EndTime": "20110114080454.000", "PrimaryTag": "CC1", "Text": "SCOTTISH PLAY, I AM THINKING    "}
+{"StartTime": "20110114080454.000", "EndTime": "20110114080455.000", "PrimaryTag": "CC1", "Text": "IT DOUBLES UP IF YOU SAY IT     "}
+{"StartTime": "20110114080455.000", "EndTime": "20110114080457.000", "PrimaryTag": "CC1", "Text": "MORE THAN ONCE.                 "}
+{"StartTime": "20110114080457.000", "EndTime": "20110114080457.000", "PrimaryTag": "CC1", "Text": ">> I APPRECIATE THAT.           "}
+{"StartTime": "20110114080457.000", "EndTime": "20110114080459.000", "PrimaryTag": "CC1", "Text": ">> HE HAD GOTTEN REALLY BAD     "}
+{"StartTime": "20110114080459.000", "EndTime": "20110114080500.000", "PrimaryTag": "CC1", "Text": "REVIEWS.                        "}
+{"StartTime": "20110114080500.000", "EndTime": "20110114080502.000", "PrimaryTag": "CC1", "Text": "AND SOMEWHERE IN THE NEXT       "}
+{"StartTime": "20110114080502.000", "EndTime": "20110114080503.000", "PrimaryTag": "CC1", "Text": "DAY, THAT PERFORMANCE, AFTER    "}
+{"StartTime": "20110114080503.000", "EndTime": "20110114080506.000", "PrimaryTag": "CC1", "Text": "THE FIRST ACT HE STARTED        "}
+{"StartTime": "20110114080506.000", "EndTime": "20110114080507.000", "PrimaryTag": "CC1", "Text": "THROWING CHAIRS AROUND AND      "}
+{"StartTime": "20110114080507.000", "EndTime": "20110114080510.000", "PrimaryTag": "CC1", "Text": "STUFF AND LEFT THE THEATRE.     "}
+{"StartTime": "20110114080510.000", "EndTime": "20110114080511.000", "PrimaryTag": "CC1", "Text": "JUST LEFT.                      "}
+{"StartTime": "20110114080511.000", "EndTime": "20110114080511.000", "PrimaryTag": "CC1", "Text": ">> Dave: THAT'S YOU WHAT I      "}
+{"StartTime": "20110114080511.000", "EndTime": "20110114080512.000", "PrimaryTag": "CC1", "Text": "WOULD DO.                       "}
+{"StartTime": "20110114080512.000", "EndTime": "20110114080514.000", "PrimaryTag": "CC1", "Text": ">> AND EVERYBODY WONDERED --    "}
+{"StartTime": "20110114080514.000", "EndTime": "20110114080517.000", "PrimaryTag": "CC1", "Text": ">> GOOD-BYE.                    "}
+{"StartTime": "20110114080517.000", "EndTime": "20110114080520.000", "PrimaryTag": "CC1", "Text": ">> RIGHT, BUT SO I GOT A        "}
+{"StartTime": "20110114080520.000", "EndTime": "20110114080521.000", "PrimaryTag": "CC1", "Text": "LITTLE KNOCK ON THE DOOR.       "}
+{"StartTime": "20110114080521.000", "EndTime": "20110114080522.000", "PrimaryTag": "CC1", "Text": "WE WERE GOING UP ABOUT FIVE     "}
+{"StartTime": "20110114080522.000", "EndTime": "20110114080523.000", "PrimaryTag": "CC1", "Text": "MINUTES LATE.                   "}
+{"StartTime": "20110114080523.000", "EndTime": "20110114080524.000", "PrimaryTag": "CC1", "Text": "I SAID ISN'T THAT FUNNY, I      "}
+{"StartTime": "20110114080524.000", "EndTime": "20110114080525.000", "PrimaryTag": "CC1", "Text": "WONDER WHAT THEY ARE GOING      "}
+{"StartTime": "20110114080525.000", "EndTime": "20110114080526.000", "PrimaryTag": "CC1", "Text": "TO DO.                          "}
+{"StartTime": "20110114080526.000", "EndTime": "20110114080527.000", "PrimaryTag": "CC1", "Text": "AND THEY SAID HOW ARE YOU UP    "}
+{"StartTime": "20110114080527.000", "EndTime": "20110114080528.000", "PrimaryTag": "CC1", "Text": "ON THE LINES.                   "}
+{"StartTime": "20110114080529.000", "EndTime": "20110114080529.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:20:00 of 0:30:00"}
+{"StartTime": "20110114080528.000", "EndTime": "20110114080530.000", "PrimaryTag": "CC1", "Text": "I SAID HONESTLY I DON'T KNOW    "}
+{"StartTime": "20110114080530.000", "EndTime": "20110114080531.000", "PrimaryTag": "CC1", "Text": "THE LINES.                      "}
+{"StartTime": "20110114080531.000", "EndTime": "20110114080534.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114080534.000", "EndTime": "20110114080535.000", "PrimaryTag": "CC1", "Text": ">> FOR THE SECOND ACT.          "}
+{"StartTime": "20110114080535.000", "EndTime": "20110114080536.000", "PrimaryTag": "CC1", "Text": "I SAID I'M PRETTY GOOD WITH     "}
+{"StartTime": "20110114080536.000", "EndTime": "20110114080538.000", "PrimaryTag": "CC1", "Text": "THE FIRST ACT BUT YOU KNOW      "}
+{"StartTime": "20110114080538.000", "EndTime": "20110114080541.000", "PrimaryTag": "CC1", "Text": "THAT SHIP HAD SAILED SO I       "}
+{"StartTime": "20110114080541.000", "EndTime": "20110114080543.000", "PrimaryTag": "CC1", "Text": "SAID TO THEM, LISTEN, AS        "}
+{"StartTime": "20110114080543.000", "EndTime": "20110114080545.000", "PrimaryTag": "CC1", "Text": "LONG AS YOU PUT ESQUIRE WAS     "}
+{"StartTime": "20110114080545.000", "EndTime": "20110114080548.000", "PrimaryTag": "CC1", "Text": "THE GUY'S NAME THAT WAS, HE     "}
+{"StartTime": "20110114080548.000", "EndTime": "20110114080549.000", "PrimaryTag": "CC1", "Text": "WAS SARAH CALLEDWELL'S          "}
+{"StartTime": "20110114080549.000", "EndTime": "20110114080550.000", "PrimaryTag": "CC1", "Text": "PERSONAL ASSISTANT AT THE       "}
+{"StartTime": "20110114080550.000", "EndTime": "20110114080551.000", "PrimaryTag": "CC1", "Text": "TIME.                           "}
+{"StartTime": "20110114080551.000", "EndTime": "20110114080553.000", "PrimaryTag": "CC1", "Text": "IF YOU CAN JUST PUT HIM         "}
+{"StartTime": "20110114080553.000", "EndTime": "20110114080554.000", "PrimaryTag": "CC1", "Text": "INSIDE THE CALLED RON WHICH     "}
+{"StartTime": "20110114080554.000", "EndTime": "20110114080555.000", "PrimaryTag": "CC1", "Text": "IS WHERE THE WITCHES BREW       "}
+{"StartTime": "20110114080555.000", "EndTime": "20110114080557.000", "PrimaryTag": "CC1", "Text": "COMES OUT OF, IF YOU JUST       "}
+{"StartTime": "20110114080557.000", "EndTime": "20110114080558.000", "PrimaryTag": "CC1", "Text": "PUT HIM DOWN IN THERE WITH A    "}
+{"StartTime": "20110114080558.000", "EndTime": "20110114080601.000", "PrimaryTag": "CC1", "Text": "BOOK, I'LL BE ABILITY TO        "}
+{"StartTime": "20110114080601.000", "EndTime": "20110114080603.000", "PrimaryTag": "CC1", "Text": "READ IT-- BE ABLE TO READ IT    "}
+{"StartTime": "20110114080603.000", "EndTime": "20110114080604.000", "PrimaryTag": "CC1", "Text": "SO LET ME SHOW YOU WHAT I       "}
+{"StartTime": "20110114080604.000", "EndTime": "20110114080605.000", "PrimaryTag": "CC1", "Text": "DID.                            "}
+{"StartTime": "20110114080605.000", "EndTime": "20110114080610.000", "PrimaryTag": "CC1", "Text": "SO-- SO THIS IS ME, LET'S       "}
+{"StartTime": "20110114080610.000", "EndTime": "20110114080612.000", "PrimaryTag": "CC1", "Text": "SAY THIS IS THE CALLED RON      "}
+{"StartTime": "20110114080612.000", "EndTime": "20110114080613.000", "PrimaryTag": "CC1", "Text": "AND ESQUIRE'S DOWN INSIDE       "}
+{"StartTime": "20110114080613.000", "EndTime": "20110114080615.000", "PrimaryTag": "CC1", "Text": "THERE HIDING IN THERE.          "}
+{"StartTime": "20110114080615.000", "EndTime": "20110114080617.000", "PrimaryTag": "CC1", "Text": "AND I'M TRYING TO DO MY         "}
+{"StartTime": "20110114080617.000", "EndTime": "20110114080621.000", "PrimaryTag": "CC1", "Text": "SPEECHES AND I'M GOING-- OH,    "}
+{"StartTime": "20110114080621.000", "EndTime": "20110114080623.000", "PrimaryTag": "CC1", "Text": "THIS IS, SOMETHING,             "}
+{"StartTime": "20110114080623.000", "EndTime": "20110114080624.000", "PrimaryTag": "CC1", "Text": "SOMETHING, AND THEN I WOULD     "}
+{"StartTime": "20110114080624.000", "EndTime": "20110114080627.000", "PrimaryTag": "CC1", "Text": "GO WAIT, A WAIT A MINUTE,       "}
+{"StartTime": "20110114080627.000", "EndTime": "20110114080630.000", "PrimaryTag": "CC1", "Text": "ESQUIRE-- NO, NO, NO.           "}
+{"StartTime": "20110114080630.000", "EndTime": "20110114080630.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:21:00 of 0:30:00"}
+{"StartTime": "20110114080630.000", "EndTime": "20110114080638.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114080638.000", "EndTime": "20110114080638.000", "PrimaryTag": "CC1", "Text": ">> SO.                          "}
+{"StartTime": "20110114080638.000", "EndTime": "20110114080639.000", "PrimaryTag": "CC1", "Text": ">> Dave: DID THE AUDIENCE       "}
+{"StartTime": "20110114080639.000", "EndTime": "20110114080642.000", "PrimaryTag": "CC1", "Text": "KNOW SOMETHING WAS UP.          "}
+{"StartTime": "20110114080642.000", "EndTime": "20110114080643.000", "PrimaryTag": "CC1", "Text": ">> YEAH.                        "}
+{"StartTime": "20110114080643.000", "EndTime": "20110114080644.000", "PrimaryTag": "CC1", "Text": ">> Dave: BUT I BET THEY WERE    "}
+{"StartTime": "20110114080644.000", "EndTime": "20110114080645.000", "PrimaryTag": "CC1", "Text": "ON YOUR SIDE.                   "}
+{"StartTime": "20110114080645.000", "EndTime": "20110114080646.000", "PrimaryTag": "CC1", "Text": ">> THEY WERE STILL PULLING      "}
+{"StartTime": "20110114080646.000", "EndTime": "20110114080647.000", "PrimaryTag": "CC1", "Text": "FOR ME T WAS MAZING.            "}
+{"StartTime": "20110114080647.000", "EndTime": "20110114080649.000", "PrimaryTag": "CC1", "Text": "AND I EVEN HELD THE SCRIPT      "}
+{"StartTime": "20110114080649.000", "EndTime": "20110114080650.000", "PrimaryTag": "CC1", "Text": "AT ONE POINT FOR ONE OF THE     "}
+{"StartTime": "20110114080650.000", "EndTime": "20110114080651.000", "PrimaryTag": "CC1", "Text": "SCENES.                         "}
+{"StartTime": "20110114080651.000", "EndTime": "20110114080653.000", "PrimaryTag": "CC1", "Text": "BUT THE GOOD THING WAS--        "}
+{"StartTime": "20110114080653.000", "EndTime": "20110114080654.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114080654.000", "EndTime": "20110114080655.000", "PrimaryTag": "CC1", "Text": ">> I DID KNOW THE FIGHT         "}
+{"StartTime": "20110114080655.000", "EndTime": "20110114080656.000", "PrimaryTag": "CC1", "Text": "SCENES.                         "}
+{"StartTime": "20110114080656.000", "EndTime": "20110114080657.000", "PrimaryTag": "CC1", "Text": "HI REHEARSED THOSE,             "}
+{"StartTime": "20110114080657.000", "EndTime": "20110114080658.000", "PrimaryTag": "CC1", "Text": "ACTUALLY.                       "}
+{"StartTime": "20110114080658.000", "EndTime": "20110114080659.000", "PrimaryTag": "CC1", "Text": "SO THE END OF THE SHOW, I       "}
+{"StartTime": "20110114080659.000", "EndTime": "20110114080701.000", "PrimaryTag": "CC1", "Text": "HAD KIND OF A PHYSICAL          "}
+{"StartTime": "20110114080701.000", "EndTime": "20110114080702.000", "PrimaryTag": "CC1", "Text": "MEMORY OF, WHICH, IT IS VERY    "}
+{"StartTime": "20110114080702.000", "EndTime": "20110114080703.000", "PrimaryTag": "CC1", "Text": "PHYSICAL.                       "}
+{"StartTime": "20110114080703.000", "EndTime": "20110114080705.000", "PrimaryTag": "CC1", "Text": "AND THE GREAT IRONY IS ABOUT    "}
+{"StartTime": "20110114080705.000", "EndTime": "20110114080707.000", "PrimaryTag": "CC1", "Text": "TEN YEARS LATER, NO, 20         "}
+{"StartTime": "20110114080707.000", "EndTime": "20110114080709.000", "PrimaryTag": "CC1", "Text": "YEARS LATER, I THINK, I         "}
+{"StartTime": "20110114080709.000", "EndTime": "20110114080711.000", "PrimaryTag": "CC1", "Text": "ACTUALLY PLAYED THAT SAME       "}
+{"StartTime": "20110114080711.000", "EndTime": "20110114080714.000", "PrimaryTag": "CC1", "Text": "ROLE STARRING IN IT MYSELF      "}
+{"StartTime": "20110114080714.000", "EndTime": "20110114080715.000", "PrimaryTag": "CC1", "Text": "TO REALLY HORRIBLE REVIEWS.     "}
+{"StartTime": "20110114080715.000", "EndTime": "20110114080718.000", "PrimaryTag": "CC1", "Text": "SO THERE IS JUSTICE.            "}
+{"StartTime": "20110114080718.000", "EndTime": "20110114080719.000", "PrimaryTag": "CC1", "Text": ">> Dave: THESE CERTIFICATE      "}
+{"StartTime": "20110114080719.000", "EndTime": "20110114080720.000", "PrimaryTag": "CC1", "Text": "TOUGH.                          "}
+{"StartTime": "20110114080720.000", "EndTime": "20110114080722.000", "PrimaryTag": "CC1", "Text": "AND IT'S GOT TO BE TOP-NOTCH.   "}
+{"StartTime": "20110114080722.000", "EndTime": "20110114080724.000", "PrimaryTag": "CC1", "Text": "IT'S BIG LEAGUE STUFF.          "}
+{"StartTime": "20110114080724.000", "EndTime": "20110114080726.000", "PrimaryTag": "CC1", "Text": "AND IF YOU DON'T KNOW YOUR,     "}
+{"StartTime": "20110114080726.000", "EndTime": "20110114080727.000", "PrimaryTag": "CC1", "Text": "THEN YOU GOT NO BUSINESS.       "}
+{"StartTime": "20110114080727.000", "EndTime": "20110114080728.000", "PrimaryTag": "CC1", "Text": ">> NO, YOU'RE COOKED.           "}
+{"StartTime": "20110114080728.000", "EndTime": "20110114080729.000", "PrimaryTag": "CC1", "Text": "I WILL SAY THIS I HAVE BEEN     "}
+{"StartTime": "20110114080729.000", "EndTime": "20110114080732.000", "PrimaryTag": "CC1", "Text": "VERY PLEASED TO WALK UP IN      "}
+{"StartTime": "20110114080732.000", "EndTime": "20110114080732.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:22:00 of 0:30:00"}
+{"StartTime": "20110114080732.000", "EndTime": "20110114080733.000", "PrimaryTag": "CC1", "Text": "THEATRE EVERY NIGHT AND READ    "}
+{"StartTime": "20110114080733.000", "EndTime": "20110114080735.000", "PrimaryTag": "CC1", "Text": "IN QUOTATION NIGHTS KELSEY      "}
+{"StartTime": "20110114080735.000", "EndTime": "20110114080737.000", "PrimaryTag": "CC1", "Text": "GRAMMER IS IMPECCABLE.          "}
+{"StartTime": "20110114080737.000", "EndTime": "20110114080739.000", "PrimaryTag": "CC1", "Text": ">> VERY NICE.                   "}
+{"StartTime": "20110114080739.000", "EndTime": "20110114080743.000", "PrimaryTag": "CC1", "Text": ">> HIGH PRAISE, INDEED.         "}
+{"StartTime": "20110114080743.000", "EndTime": "20110114080747.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114080747.000", "EndTime": "20110114080747.000", "PrimaryTag": "CC1", "Text": ">> Dave: THERE'S SOMETHING      "}
+{"StartTime": "20110114080747.000", "EndTime": "20110114080748.000", "PrimaryTag": "CC1", "Text": "SIMILAR TO THAT WRITTEN         "}
+{"StartTime": "20110114080748.000", "EndTime": "20110114080750.000", "PrimaryTag": "CC1", "Text": "ABOUT ME IN THE MEN'S ROOM      "}
+{"StartTime": "20110114080750.000", "EndTime": "20110114080751.000", "PrimaryTag": "CC1", "Text": "HERE, BUT --                    "}
+{"StartTime": "20110114080751.000", "EndTime": "20110114080754.000", "PrimaryTag": "CC1", "Text": ">> YES, WELL--                  "}
+{"StartTime": "20110114080754.000", "EndTime": "20110114080755.000", "PrimaryTag": "CC1", "Text": "(LAUGHTER)                      "}
+{"StartTime": "20110114080755.000", "EndTime": "20110114080756.000", "PrimaryTag": "CC1", "Text": ">> Dave: WHOLE DIFFERENT        "}
+{"StartTime": "20110114080756.000", "EndTime": "20110114080801.000", "PrimaryTag": "CC1", "Text": "KIND OF A THING.                "}
+{"StartTime": "20110114080801.000", "EndTime": "20110114080803.000", "PrimaryTag": "CC1", "Text": "NOW I UNDERSTAND, I'M UNDER     "}
+{"StartTime": "20110114080803.000", "EndTime": "20110114080804.000", "PrimaryTag": "CC1", "Text": "THE IMPRESSION THAT YOUR        "}
+{"StartTime": "20110114080804.000", "EndTime": "20110114080806.000", "PrimaryTag": "CC1", "Text": "MARRIAGE IS ENDING.             "}
+{"StartTime": "20110114080806.000", "EndTime": "20110114080806.000", "PrimaryTag": "CC1", "Text": ">> YES.                         "}
+{"StartTime": "20110114080806.000", "EndTime": "20110114080808.000", "PrimaryTag": "CC1", "Text": ">> Dave: IS THAT A FACT.        "}
+{"StartTime": "20110114080808.000", "EndTime": "20110114080810.000", "PrimaryTag": "CC1", "Text": "WELL, I'M SORRY TO HEAR THAT    "}
+{"StartTime": "20110114080810.000", "EndTime": "20110114080811.000", "PrimaryTag": "CC1", "Text": "OR I'M NOT SORRY TO HEAR        "}
+{"StartTime": "20110114080811.000", "EndTime": "20110114080811.000", "PrimaryTag": "CC1", "Text": "THAT.                           "}
+{"StartTime": "20110114080811.000", "EndTime": "20110114080813.000", "PrimaryTag": "CC1", "Text": ">> YOU ARE-- YOU ARE-- YOU      "}
+{"StartTime": "20110114080813.000", "EndTime": "20110114080814.000", "PrimaryTag": "CC1", "Text": "ARE RESPECTFULLY                "}
+{"StartTime": "20110114080814.000", "EndTime": "20110114080815.000", "PrimaryTag": "CC1", "Text": "CONSIDERATE.                    "}
+{"StartTime": "20110114080815.000", "EndTime": "20110114080816.000", "PrimaryTag": "CC1", "Text": ">> Dave: YOU HAVE TO BE.        "}
+{"StartTime": "20110114080816.000", "EndTime": "20110114080818.000", "PrimaryTag": "CC1", "Text": ">> AND YET PLEASED FOR THE      "}
+{"StartTime": "20110114080818.000", "EndTime": "20110114080820.000", "PrimaryTag": "CC1", "Text": "NEW DEVELOPMENT IN MY LIFE.     "}
+{"StartTime": "20110114080820.000", "EndTime": "20110114080821.000", "PrimaryTag": "CC1", "Text": ">> Dave: BETTER THINGS.         "}
+{"StartTime": "20110114080821.000", "EndTime": "20110114080822.000", "PrimaryTag": "CC1", "Text": ">> YES.                         "}
+{"StartTime": "20110114080822.000", "EndTime": "20110114080823.000", "PrimaryTag": "CC1", "Text": ">> Dave: IT'S A DIFFICULT       "}
+{"StartTime": "20110114080823.000", "EndTime": "20110114080825.000", "PrimaryTag": "CC1", "Text": "TIME, ALWAYS REGARDLESS OF      "}
+{"StartTime": "20110114080825.000", "EndTime": "20110114080826.000", "PrimaryTag": "CC1", "Text": "CIRCUMSTANCES AND ESPECIALLY    "}
+{"StartTime": "20110114080826.000", "EndTime": "20110114080827.000", "PrimaryTag": "CC1", "Text": "WHEN KIDS.                      "}
+{"StartTime": "20110114080827.000", "EndTime": "20110114080828.000", "PrimaryTag": "CC1", "Text": "AND THE KIDS AND EVERYBODY      "}
+{"StartTime": "20110114080828.000", "EndTime": "20110114080828.000", "PrimaryTag": "CC1", "Text": "ARE ALL RIGHT.                  "}
+{"StartTime": "20110114080828.000", "EndTime": "20110114080830.000", "PrimaryTag": "CC1", "Text": ">> THE KIDS SEEM TO BE DOING    "}
+{"StartTime": "20110114080830.000", "EndTime": "20110114080831.000", "PrimaryTag": "CC1", "Text": "OKAY.                           "}
+{"StartTime": "20110114080831.000", "EndTime": "20110114080832.000", "PrimaryTag": "CC1", "Text": "WE'VE BEEN SPENDING QUITE A     "}
+{"StartTime": "20110114080832.000", "EndTime": "20110114080833.000", "PrimaryTag": "CC1", "Text": "BIT OF TIME WITH THEM.          "}
+{"StartTime": "20110114080833.000", "EndTime": "20110114080834.000", "PrimaryTag": "CC1", "Text": "KATE AND I, KATE'S MY NEW       "}
+{"StartTime": "20110114080836.000", "EndTime": "20110114080836.000", "PrimaryTag": "XDS", "Text": "%   LENGTH: 0:23:00 of 0:30:00"}
+{"StartTime": "20110114080834.000", "EndTime": "20110114080836.000", "PrimaryTag": "CC1", "Text": "GIRL, WE'RE PLANNING TO GET     "}
+{"StartTime": "20110114080836.000", "EndTime": "20110114080836.000", "PrimaryTag": "CC1", "Text": "MARRIED SOON.                   "}
+{"StartTime": "20110114080836.000", "EndTime": "20110114080837.000", "PrimaryTag": "CC1", "Text": "THINGS ARE GOOD.                "}
+{"StartTime": "20110114080837.000", "EndTime": "20110114080838.000", "PrimaryTag": "CC1", "Text": ">> Dave: YOU ARE GETTING        "}
+{"StartTime": "20110114080838.000", "EndTime": "20110114080839.000", "PrimaryTag": "CC1", "Text": "MARRIED SOON.                   "}
+{"StartTime": "20110114080839.000", "EndTime": "20110114080840.000", "PrimaryTag": "CC1", "Text": ">> SOMETIME IN FEBRUARY.        "}
+{"StartTime": "20110114080840.000", "EndTime": "20110114080841.000", "PrimaryTag": "CC1", "Text": ">> Dave: GOOD FOR YOU.          "}
+{"StartTime": "20110114080841.000", "EndTime": "20110114080843.000", "PrimaryTag": "CC1", "Text": "AND WHAT ARE THE KIDS UP TO.    "}
+{"StartTime": "20110114080843.000", "EndTime": "20110114080844.000", "PrimaryTag": "CC1", "Text": ">> SURE, THANK YOU.             "}
+{"StartTime": "20110114080844.000", "EndTime": "20110114080849.000", "PrimaryTag": "CC1", "Text": "(APPLAUSE)                      "}
+{"StartTime": "20110114080849.000", "EndTime": "20110114080850.000", "PrimaryTag": "CC1", "Text": ">> THE KIDS, HONESTLY, MY       "}
+{"StartTime": "20110114080850.000", "EndTime": "20110114080851.000", "PrimaryTag": "CC1", "Text": "SON IS ACTUALLY STARTING TO     "}
+{"StartTime": "20110114080851.000", "EndTime": "20110114080853.000", "PrimaryTag": "CC1", "Text": "GO TO A SCHOOL HERE.            "}
+{"StartTime": "20110114080853.000", "EndTime": "20110114080854.000", "PrimaryTag": "CC1", "Text": "HE'S GETTING SOME HELP WITH     "}
+{"StartTime": "20110114080854.000", "EndTime": "20110114080855.000", "PrimaryTag": "CC1", "Text": "READING BECAUSE HE'S NOT        "}
+{"StartTime": "20110114080855.000", "EndTime": "20110114080856.000", "PrimaryTag": "CC1", "Text": "THAT INTERESTED IN READING.     "}
+{"StartTime": "20110114080856.000", "EndTime": "20110114080858.000", "PrimaryTag": "CC1", "Text": "BUT WHAT'S FUNNY IS A LOT OF    "}
+{"StartTime": "20110114080858.000", "EndTime": "20110114080859.000", "PrimaryTag": "CC1", "Text": "THINGS HAVE DEVELOPED           "}
+{"StartTime": "20110114080859.000", "EndTime": "20110114080900.000", "PrimaryTag": "CC1", "Text": "RECENTLY THAT ARE VERY          "}
+{"StartTime": "20110114080900.000", "EndTime": "20110114080901.000", "PrimaryTag": "CC1", "Text": "EXCITING.                       "}
+{"StartTime": "20110114080901.000", "EndTime": "20110114080902.000", "PrimaryTag": "CC1", "Text": "MY OLDEST DAUGHTER IS NOW       "}
+{"StartTime": "20110114080902.000", "EndTime": "20110114080903.000", "PrimaryTag": "CC1", "Text": "LIVING WITH ME.                 "}
+{"StartTime": "20110114080903.000", "EndTime": "20110114080904.000", "PrimaryTag": "CC1", "Text": "SHE'S 27.                       "}
+{"StartTime": "20110114080904.000", "EndTime": "20110114080907.000", "PrimaryTag": "CC1", "Text": "IT IS TEMPORARY BUT-- YOU       "}
+{"StartTime": "20110114080907.000", "EndTime": "20110114080907.000", "PrimaryTag": "CC1", "Text": "KNOW.                           "}
+{"StartTime": "20110114080907.000", "EndTime": "20110114080908.000", "PrimaryTag": "CC1", "Text": ">> Dave: NOW WHAT DOES SHE      "}
+{"StartTime": "20110114080908.000", "EndTime": "20110114080909.000", "PrimaryTag": "CC1", "Text": "DO AT 27.                       "}
+{"StartTime": "20110114080909.000", "EndTime": "20110114080910.000", "PrimaryTag": "CC1", "Text": ">> SHE'S AN ACTRESS.            "}
+{"StartTime": "20110114080910.000", "EndTime": "20110114080912.000", "PrimaryTag": "CC1", "Text": "BUT SHE DECIDED AFTER HER       "}
+{"StartTime": "20110114080912.000", "EndTime": "20110114080914.000", "PrimaryTag": "CC1", "Text": "SHOW, MY DAUGHTER EXPERIENCE    "}
+{"StartTime": "20110114080914.000", "EndTime": "20110114080917.000", "PrimaryTag": "CC1", "Text": "SERON A SHOW CALLED\" GREEK      "}
+{"StartTime": "20110114080917.000", "EndTime": "20110114080918.000", "PrimaryTag": "CC1", "Text": "I DON'T KNOW IF YOU ALL        \n20110114080918.000|20110114080918.000|CC1|KNOW IT                         \n20110114080918.000|20110114080919.000|CC1|(APPLAUSE)                      \n20110114080919.000|20110114080921.000|CC1|>> SHE'S VERY GOOD ON IT.       \n20110114080921.000|20110114080923.000|CC1|AND SHE DECIDED WHEN THEY       \n20110114080923.000|20110114080924.000|CC1|CANCELED THE SHOW WHICH WAS     \n20110114080924.000|20110114080925.000|CC1|JUST THIS LAST SEASON THAT      \n20110114080925.000|20110114080927.000|CC1|SHE WANTED TO GO BACK AND       \n20110114080927.000|20110114080928.000|CC1|FINISH HER COLLEGE AND GET      \n20110114080928.000|20110114080929.000|CC1|HER DEGREE.                     \n20110114080929.000|20110114080930.000|CC1|>> Dave: GOOD FOR HER.          \n20110114080930.000|20110114080931.000|CC1|>> SO SHE'S DOING THAT IN       \n20110114080931.000|20110114080932.000|CC1|NEW YORK.                       \n20110114080932.000|20110114080934.000|CC1|>> Dave: THAT'S GREAT.          \n20110114080937.000|20110114080937.000|XDS|%   LENGTH: 0:24:00 of 0:30:00\n20110114080934.000|20110114080937.000|CC1|(APPLAUSE)                      \n20110114080937.000|20110114080938.000|CC1|>> Dave: HAVING A SON, YOU      \n20110114080938.000|20110114080940.000|CC1|HAVE MANY KIDS, FOUR, FIVE.     \n20110114080940.000|20110114080941.000|CC1|>> FOUR KIDS.                   \n20110114080941.000|20110114080943.000|CC1|>> AND A DAUGHTER WHO IS A      \n20110114080943.000|20110114080944.000|CC1|SUCCESSFUL ACTRESS.             \n20110114080944.000|20110114080945.000|CC1|SO THAT'S GREAT.                \n20110114080945.000|20110114080946.000|CC1|>> MY 18-YEAR-OLD JUST          \n20110114080946.000|20110114080948.000|CC1|STARTED AT USC.                 \n20110114080948.000|20110114080949.000|CC1|MY DAUGHTER MASON GOES TO       \n20110114080949.000|20110114080951.000|CC1|DANCE CLASS AND SHE'S IN        \n20110114080951.000|20110114080952.000|CC1|THIRD GRADE.                    \n20110114080952.000|20110114080953.000|CC1|BUT THEY ALL WANT TO BE         \n20110114080953.000|20110114080953.000|CC1|ACTORS.                         \n20110114080953.000|20110114080955.000|CC1|>> BUT MY NIGHTMARE IS WHAT     \n20110114080955.000|20110114080956.000|CC1|IF MY SON DECIDES HE WANTS      \n20110114080956.000|20110114080958.000|CC1|TO GET HIS OWN TV SHOW OR       \n20110114080958.000|20110114080959.000|CC1|SOMETHING LIKE THAT.            \n20110114080959.000|20110114081000.000|CC1|AND HE'S NOT FUNNY.             \n20110114081000.000|20110114081003.000|CC1|I MEAN-- AND THE PROBABILITY    \n20110114081003.000|20110114081004.000|CC1|OF THAT IS HIGH BECAUSE I'M     \n20110114081004.000|20110114081006.000|CC1|NOT ALL THAT FUNNY MYSELF.      \n20110114081006.000|20110114081008.000|CC1|I MEAN, WERE YOU NERVOUS        \n20110114081008.000|20110114081009.000|CC1|THAT THE KID WOULDN'T BE A      \n20110114081009.000|20110114081010.000|CC1|GOOD ACTRESS.                   \n20110114081010.000|20110114081012.000|CC1|>> YOU'RE A ONE-OFF, SEE        \n20110114081012.000|20110114081013.000|CC1|THAT'S THE PROBLEM.             \n20110114081013.000|20110114081014.000|CC1|IT'S GOING TO BE HARD NO        \n20110114081014.000|20110114081015.000|CC1|MATTER WHAT HAPPENS FOR YOUR    \n20110114081015.000|20110114081016.000|CC1|KID.                            \n20110114081016.000|20110114081017.000|CC1|>> Dave: YOU'RE VERY KIND.      \n20110114081017.000|20110114081019.000|CC1|>> BUT MY KID, MY KID HAS       \n20110114081019.000|20110114081020.000|CC1|SAID HE WANTS TO BE AN ACTOR,   \n20110114081020.000|20110114081021.000|CC1|MY BOY.                         \n20110114081021.000|20110114081023.000|CC1|AND I SAID WELL, THEN THAT      \n20110114081023.000|20110114081024.000|CC1|MEANS YOU'RE GOING TO HAVE      \n20110114081024.000|20110114081026.000|CC1|TO LEARN TO READ.               \n20110114081026.000|20110114081030.000|CC1|>> WELL, NOT NECESSARILY.       \n20110114081030.000|20110114081032.000|CC1|>> WELL, NOT NECESSARILY BUT    \n20110114081032.000|20110114081033.000|CC1|THEN HE SAID WELL THEN MAYBE    \n20110114081033.000|20110114081035.000|CC1|I DON'T WANT TO BE AN ACTOR.    \n20110114081035.000|20110114081036.000|CC1|>> Dave: NOW HOW OLD IS THE     \n20110114081036.000|20110114081037.000|CC1|YOUNG FELLOW.                   \n20110114081037.000|20110114081038.000|CC1|>> HE'S ONLY 6.                 \n20110114081039.000|20110114081039.000|XDS|%   LENGTH: 0:25:00 of 0:30:00\n20110114081038.000|20110114081039.000|CC1|HE'S GOING TO MAKE IT.          \n20110114081039.000|20110114081040.000|CC1|HE'LL BE FINE.                  \n20110114081040.000|20110114081041.000|CC1|>> Dave: I THINK HE'LL COME     \n20110114081041.000|20110114081042.000|CC1|AROUND ON THIS READING          \n20110114081042.000|20110114081042.000|CC1|THING.                          \n20110114081042.000|20110114081043.000|CC1|>> YOU NEVER KNOW.              \n20110114081043.000|20110114081045.000|CC1|>> Dave: YOU NEVER DO KNOW.     \n20110114081045.000|20110114081046.000|CC1|LET'S LOOK AT A CLIP.           \n20110114081046.000|20110114081047.000|CC1|DO WE SOMEWHERE A CLIP.         \n20110114081047.000|20110114081048.000|CC1|>> I DON'T THINK SO.            \n20110114081048.000|20110114081049.000|CC1|NO CLIP.                        \n20110114081049.000|20110114081050.000|CC1|(LAUGHTER)                      \n20110114081050.000|20110114081051.000|CC1|>> WHAT THE HELL, DAVE.         \n20110114081051.000|20110114081053.000|CC1|>> Dave: WELL, YOU CAN GO       \n20110114081053.000|20110114081054.000|CC1|THERE AND SEE IT FOR            \n20110114081054.000|20110114081055.000|CC1|YOURSELF ALTHOUGH I'M           \n20110114081055.000|20110114081056.000|CC1|GUESSING IT'S SOLD OUT FOR      \n20110114081056.000|20110114081057.000|CC1|THE REST OF YOUR RUN.           \n20110114081057.000|20110114081059.000|CC1|>> YOU KNOW, THERE ARE STILL    \n20110114081059.000|20110114081100.000|CC1|SOME SEATS AVAILABLE.           \n20110114081100.000|20110114081107.000|CC1|>> Dave: LES CAGES AUX          \n20110114081107.000|20110114081109.000|CC1|FOLLES, KELSEY GRAMMER IS       \n20110114081109.000|20110114081110.000|CC1|IMPECCABLE.                     \n20110114081110.000|20110114081111.000|CC1|GOOD TO SEE YOU.                \n20110114081111.000|20110114081113.000|CC1|WE'LL BE BACK WITH AMAR         \n20110114081113.000|20110114081114.000|CC1|STOUDAMIRE.                     \n20110114081114.000|20110114081115.000|CC1|>> NICE GOING.                  \n20110114081115.000|20110114081116.000|CC1|PLAUS PLAULS                    \n20110114081116.000|20110114081217.000|SEG_01|Type=Commercial\n20110114081116.000|20110114081116.000|CC1|       ON EVERY PURCHASE.       \n20110114081116.000|20110114081118.000|CC1|            es                  \n20110114081118.000|20110114081118.000|CC1|       SO WE EARNED A TRIP      \n20110114081118.000|20110114081120.000|CC1|  TO NEW ORLEANS TWICE AS FAST! \n20110114081120.000|20110114081121.000|CC1|BeBeBeBeBeBaaa!                 \n20110114081121.000|20110114081121.000|CC1|       WE GET Double Miles      \n20110114081121.000|20110114081125.000|CC1|   EVERY TIME WE USE OUR CARD,  \n20110114081125.000|20110114081126.000|CC1|  NO MATTER WHAT WE'RE BUYING.  \n20110114081126.000|20110114081128.000|CC1|          I'LL TAKE IT.         \n20110114081128.000|20110114081128.000|CC1|     AND SINCE Double Miles     \n20110114081128.000|20110114081129.000|CC1|          ADD UP FAST,          \n20110114081129.000|20110114081129.000|CC1|          WE CAN BRING          \n20110114081129.000|20110114081130.000|CC1|         THE WHOLE GANG.        \n20110114081130.000|20110114081131.000|CC1|        FIRE!                   \n20110114081131.000|20110114081131.000|CC1|   [ Garth ] IT'S HARD TO BEAT  \n20110114081131.000|20110114081133.000|CC1|          Double Miles!         \n20110114081133.000|20110114081135.000|CC1|            HAVE YOU SEEN GARTH?\n20110114081135.000|20110114081136.000|CC1|                     OH!        \n20110114081136.000|20110114081136.000|CC1|    [ Male Announcer ] GET THE  \n20110114081136.000|20110114081138.000|CC1|  Venture Card FROM Capital One.\n20110114081138.000|20110114081138.000|CC1|        MONEY MAGAZINE'S        \n20110114081138.000|20110114081140.000|CC1|        BEST REWARDS CARD       \n20110114081140.000|20110114081140.000|CC1|      IF YOU AIM TO RACK UP     \n20110114081140.000|20110114081141.000|CC1|          AIRLINE MILES.        \n20110114081141.000|20110114081141.000|XDS|%   LENGTH: 0:26:00 of 0:30:00\n20110114081141.000|20110114081141.000|CC1|          WHAT'S IN YOUR WALLET?\n20110114081141.000|20110114081144.000|CC1| BeBeBeBeBeBaaa!                \n20110114081144.000|20110114081146.000|CC1|This is the best bike we have.  \n20110114081146.000|20110114081146.000|CC1|- You can have it for free.     \n20110114081146.000|20110114081147.000|CC1|- Shut up!AIRLINE MILES.        \n20110114081147.000|20110114081147.000|CC1|          [ Announcer ]         \n20110114081147.000|20110114081147.000|CC1|                       Imagine d\n20110114081147.000|20110114081149.000|CC1|                               .\n20110114081149.000|20110114081149.000|CC1|                               ,\n20110114081149.000|20110114081151.000|CC1|                               .\n20110114081151.000|20110114081151.000|CC1|                               n\n20110114081151.000|20110114081153.000|CC1|                               .\n20110114081153.000|20110114081153.000|CC1|                               ,\n20110114081153.000|20110114081153.000|CC1|                               e\n20110114081153.000|20110114081157.000|CC1|                               .\n20110114081157.000|20110114081214.000|CC1|                               .\n20110114081214.000|20110114081215.000|CC1|  [ Woman 1 ] WE ARE THE EDITORS\n20110114081215.000|20110114081217.000|CC1|   AND FOUNDERS OF A FOOD BLOG. \n20110114081217.000|20110114081217.000|CC1|     [ Woman 2 ]                \n20110114081217.000|20110114081219.000|SEG_01|Type=Story start\n20110114081217.000|20110114081219.000|CC1|ALRIGHT I GOT A PICTURE.        \n20110114081219.000|20110114081219.000|CC1|ONE OF THE WAYS THAT WE FIND    \n20110114081219.000|20110114081221.000|CC1|RESTAURANTS FOR OUR BLOG,       \n20110114081221.000|20110114081234.000|SEG_01|Type=Commercial\n20110114081221.000|20110114081221.000|CC1| IS THE APPLICATION             \n20110114081221.000|20110114081223.000|CC1|     URBANSPOON.                \n20110114081223.000|20110114081223.000|CC1|CLICK A NEIGHBORHOOD,           \n20110114081223.000|20110114081224.000|CC1|   AND A CUISINE.               \n20110114081224.000|20110114081224.000|CC1|  THEN IT POPS OUT              \n20110114081224.000|20110114081226.000|CC1| RESTAURANT OPTIONS.            \n20110114081226.000|20110114081227.000|CC1|  IT'S REALLY GOOD.             \n20110114081227.000|20110114081227.000|CC1|               ON BLACKBERRY,   \n20110114081227.000|20110114081228.000|CC1|              IT'S A SUPER APP. \n20110114081228.000|20110114081228.000|CC1|      YOU CAN ADD THE RESTAURANT\n20110114081228.000|20110114081230.000|CC1|              TO YOUR CONTACTS, \n20110114081230.000|20110114081230.000|CC1|       MAP IT, POST TO FACEBOOK,\n20110114081230.000|20110114081231.000|CC1|                 AND TWEET,     \n20110114081231.000|20110114081231.000|CC1|              WITHOUT LEAVING   \n20110114081231.000|20110114081231.000|CC1|              THE APPLICATION.  \n20110114081231.000|20110114081234.000|CC1|    [ Waitress ] HEY LADIES.    \n20110114081234.000|20110114081234.000|SEG_01|Type=Story start\n20110114081234.000|20110114081234.000|CC1|IT'S LIKE A SLOT MACHINE,       \n20110114081234.000|20110114081234.000|CC1|IT'S LIKE CHA CHING.            \n20110114081234.000|20110114081441.000|SEG_01|Type=Commercial\n20110114081234.000|20110114081235.000|CC1|                      CHA CHING.\n20110114081235.000|20110114081237.000|CC1|              YOU SPIN TO WIN.  \n20110114081237.000|20110114081238.000|CC1|                I'M SO FULL.    \n20110114081238.000|20110114081238.000|CC1|        [ Male Announcer ]      \n20110114081238.000|20110114081240.000|CC1|   MORE THAN APPS. SUPER APPS.  \n20110114081240.000|20110114081441.000|CC1|  ONLY AT BLACKBERRY APP WORLD. \n20110114081243.000|20110114081243.000|SEG_01|Type=Story start\n20110114081243.000|20110114081243.000|XDS|%   LENGTH: 0:27:00 of 0:30:00\n20110114081424.000|20110114081424.000|XDS|%   LENGTH: 0:28:00 of 0:30:00\n20110114081441.000|20110114081446.000|CC1|>> Dave: YEAH.                  \n20110114081448.000|20110114081448.000|XDS|%   LENGTH: 0:29:00 of 0:30:00\n20110114081446.000|20110114081449.000|CC1|(APPLAUSE)                      \n20110114081449.000|20110114081449.000|CC1|>> Dave: THE SNOW, I WAS        \n20110114081449.000|20110114081450.000|CC1|KIDDING ABOUT IT EARLIER        \n20110114081450.000|20110114081453.000|CC1|WITH THE MAYOR BLOOMBERG        \n20110114081453.000|20110114081454.000|CC1|MISSING, THEY FOUND HIM IN A    \n20110114081454.000|20110114081455.000|CC1|DRIFT.                          \n20110114081455.000|20110114081455.000|CC1|(LAUGHTER)                      \n20110114081455.000|20110114081456.000|CC1|>> Dave: IT WAS SO BAD WHAT     \n20110114081456.000|20110114081458.000|CC1|I WAS DOING AND MANY OTHER      \n20110114081458.000|20110114081459.000|CC1|NEW YORKERS WERE DOING THE      \n20110114081459.000|20110114081500.000|CC1|SAME THING, EVERY DAY WOULD     \n20110114081500.000|20110114081501.000|CC1|YOU GO OUT AND BRING IN SNOW,   \n20110114081501.000|20110114081503.000|CC1|AS MANY RUNS AS YOU COULD       \n20110114081503.000|20110114081504.000|CC1|MAKE DOWN TO PICK UP THE        \n20110114081505.000|20110114081505.000|XDS|%    TITLE:   \n20110114081504.000|20110114081505.000|CC1|SNOW, BRING IT UP AND           \n20110114081505.000|20110114081507.000|CC1|MICROWAVE IT.                   \n20110114081507.000|20110114081507.000|XDS|%    TITLE: LETRMN-3429-005\n20110114081507.000|20110114081509.000|CC1|AND TO TRY AND HELP CLEAN       \n20110114081509.000|20110114081510.000|CC1|YOUR OWN--                      \n20110114081510.000|20110114081513.000|CC1|(LAUGHTER)                      \n20110114081513.000|20110114081514.000|CC1|>> Dave: THERE WAS SO MUCH      \n20110114081514.000|20110114081516.000|CC1|CONCERN ABOUT HOW NEW YORK      \n20110114081516.000|20110114081518.000|CC1|CITY WOULD HANDLE THE           \n20110114081518.000|20110114081519.000|CC1|CURRENT, YESTERDAY'S            \n20110114081519.000|20110114081520.000|CC1|SNOWSTORM.                      \n20110114081520.000|20110114081521.000|CC1|BUT HERE TO TELL US, AND        \n20110114081521.000|20110114081523.000|CC1|THIS IS OUR GREAT GOOD          \n20110114081523.000|20110114081524.000|CC1|FORTUNE, LADIES AND             \n20110114081524.000|20110114081525.000|CC1|GENTLEMEN, PLEASE WELCOME TO    \n20110114081525.000|20110114081527.000|CC1|EXPLAIN HOW THINGS ARE GOING,   \n20110114081527.000|20110114081529.000|CC1|MAYOR MICHAEL BLOOMBERG,        \n20110114081529.000|20110114081531.000|CC1|MAYOR, COME ON IN.              \n20110114081531.000|20110114081534.000|CC1|(APPLAUSE)                      \n20110114081534.000|20110114081537.000|CC1|GOOD TO HAVE YOU HERE,          \n20110114081537.000|20110114081537.000|CC1|MR. MAYOR.                      \n20110114081537.000|20110114081540.000|CC1|>> HEY, UNDERLINGS, IT'S ME,    \n20110114081540.000|20110114081541.000|CC1|MAYOR MIKE.                     \n20110114081541.000|20110114081543.000|CC1|WELL, WE DID IT.                \n20110114081543.000|20110114081544.000|CC1|MOTHER NATURE DUMPED FOUR       \n20110114081544.000|20110114081546.000|CC1|FEET OF SNOW ON THE CITY AND    \n20110114081546.000|20110114081548.000|CC1|GUESS WHAT, WE KICKED MOTHER    \n20110114081548.000|20110114081550.000|CC1|NATURE RIGHT IN THE NUTS.       \n20110114081550.000|20110114081551.000|CC1|(LAUGHTER)                      \n20110114081551.000|20110114081552.000|CC1|>> THAT'S RIGHT.                \n20110114081552.000|20110114081554.000|CC1|WE MANAGED TO CLEAR SOME OF     \n20110114081554.000|20110114081554.000|CC1|IT.                             \n20110114081554.000|20110114081556.000|CC1|THAT'S WHAT A LITTLE ELBOW      \n20110114081556.000|20110114081601.000|CC1|GREASE WILL DO.                 \n20110114081601.000|20110114081610.000|CC1|(LAUGHTER)                      \n20110114081610.000|20110114081612.000|CC1|>> UH-OH, YOU KNOW WHAT THAT    \n20110114081612.000|20110114081613.000|CC1|SOUND MEANS, IT'S TIME FOR      \n20110114081613.000|20110114081615.000|CC1|MAYOR MIKE'S NFL PLAY-OFF       \n20110114081615.000|20110114081617.000|CC1|PICK OF THE WEEK.               \n20110114081617.000|20110114081619.000|CC1|WITH THE HOUSTON OILERS AT      \n20110114081619.000|20110114081623.000|CC1|HOME, THE ASTRA DOME,           \n20110114081623.000|20110114081625.000|CC1|FANS-- DAN IS POISED FOR A      \n20110114081625.000|20110114081626.000|CC1|BIG GAME.                       \n20110114081626.000|20110114081628.000|CC1|TAKE THE OILERS AND GIVE THE    \n20110114081628.000|20110114081630.000|CC1|POINTS OVER TO THE SEAHAWKS.    \n20110114081630.000|20110114081630.000|CC1|GOOD LUCK.                      \n20110114081630.000|20110114081632.000|CC1|AND I'LL SEE YOU AT THE         \n20110114081632.000|20110114081634.000|CC1|BEACH, LOSERS.                  \n20110114081634.000|20110114081634.000|CC1|(LAUGHTER)                      \n20110114081634.000|20110114081640.000|CC1|(APPLAUSE)                      \n20110114081640.000|20110114081641.000|CC1|>> Dave: WE'LL BE RIGHT BACK    \n20110114081641.000|20110114081643.000|CC1|WITH AMAR STOUDAMIRE, LADIES    \n20110114081643.000|20110114081644.000|CC1|AND GENTLEMEN.                  \n20110114081648.000|20110114081648.000|XDS|%    TITLE:   \n20110114081649.000|20110114081649.000|XDS|%    TITLE: QFLX0192\n20110114081644.000|20110114081945.000|SEG_01|Type=Commercial\n20110114081644.000|20110114081753.000|CC1|(APPLAUSE)                      \n20110114081704.000|20110114081704.000|XDS|%    TITLE:   \n20110114081706.000|20110114081706.000|XDS|%    TITLE: CPCU0146000H\n20110114081719.000|20110114081719.000|XDS|%    TITLE:   \n20110114081721.000|20110114081721.000|XDS|%    TITLE: ZBGH2578H\n20110114081748.000|20110114081748.000|XDS|%    TITLE:   \n20110114081749.000|20110114081749.000|XDS|%    TITLE: QTUI9334\n20110114081753.000|20110114081754.000|CC1|ALONG THE WAY.                  \n20110114081754.000|20110114081755.000|CC1|I FEEL THE SAME WAY             \n20110114081755.000|20110114081756.000|CC1|WHEN I DO TAXES.                \n20110114081756.000|20110114081757.000|CC1|TURBOTAX HAS A UNIQUE           \n20110114081757.000|20110114081759.000|CC1|GPS FEATURE THAT GUIDES ME      \n20110114081759.000|20110114081800.000|CC1|STEP-BY-STEP.                   \n20110114081800.000|20110114081801.000|CC1|AND CALCULATIONS                \n20110114081801.000|20110114081803.000|CC1|ARE GUARANTEED 100% ACCURATE,   \n20110114081803.000|20110114081804.000|CC1|SO I KNOW IT'S DONE RIGHT.      \n20110114081804.000|20110114081806.000|CC1|THEY EVEN OFFER REPRESENTATION  \n20110114081806.000|20110114081806.000|CC1|IN CASE OF AN AUDIT.            \n20110114081806.000|20110114081807.000|CC1|WHICH HELPS ME REACH            \n20110114081807.000|20110114081809.000|CC1|MY MAXIMUM REFUND,              \n20110114081809.000|20110114081811.000|CC1|GUARANTEED.                     \n20110114081811.000|20110114081812.000|CC1|>> TRY TURBOTAX ONLINE NOW.     \n20110114081812.000|20110114081813.000|CC1| YOU DON'T PAY                  \n20110114081813.000|20110114081814.000|CC1| UNLESS YOU'RE SATISFIED        \n20110114081814.000|20110114081830.000|CC1| WITH THE RESULTS.              \n20110114081819.000|20110114081819.000|XDS|%    TITLE:   \n20110114081820.000|20110114081820.000|XDS|%    TITLE: GBTT1509H\n20110114081830.000|20110114081831.000|CC1|      HOW CAN EXPEDIA SAVE      \n20110114081831.000|20110114081834.000|CC1|   ME EVEN MORE ON MY HOTEL?    \n20110114081834.000|20110114081834.000|XDS|%    TITLE:   \n20110114081834.000|20110114081834.000|CC1|          BY GIVING ME          \n20110114081834.000|20110114081836.000|CC1|GINORMOUS DISCOUNTS WITH THESE: \n20110114081835.000|20110114081835.000|XDS|%    TITLE: QEXP0118H\n20110114081836.000|20110114081839.000|CC1|       UNPUBLISHED RATES.       \n20110114081839.000|20110114081839.000|CC1|   WHICH MEANS I GET AN EVEN    \n20110114081839.000|20110114081842.000|CC1| MORE ROCKIN' HOTEL, FOR LESS.  \n20110114081842.000|20110114081845.000|CC1|WHERE YOU BOOK MATTERS. EXPEDIA.\n20110114081845.000|20110114081846.000|CC1|   NIGHTTIME NASAL CONGESTION   \n20110114081847.000|20110114081847.000|XDS|%    TITLE:   \n20110114081846.000|20110114081848.000|CC1|MEANT, I COULDN'T BREATHE RIGHT.\n20110114081848.000|20110114081848.000|XDS|%    TITLE: GXBR0069000H\n20110114081848.000|20110114081850.000|CC1|     I COULDN'T SLEEP RIGHT.    \n20110114081850.000|20110114081850.000|CC1|    NEXT DAY IT TOOK FOREVER    \n20110114081850.000|20110114081852.000|CC1|          TO GET GOING.         \n20110114081852.000|20110114081854.000|CC1|  NIGHT AFTER NIGHT, I SAT UP.  \n20110114081854.000|20110114081855.000|CC1|           SPRAYED UP.          \n20110114081855.000|20110114081856.000|CC1|        TOOK A SHOWER...        \n20110114081856.000|20110114081857.000|CC1|         OR TOOK A PILL.        \n20110114081857.000|20110114081858.000|CC1|                    THEN I TRIED\n20110114081858.000|20110114081858.000|CC1|               DRUG-FREE BREATHE\n20110114081858.000|20110114081859.000|CC1|                RIGHT ADVANCED. \n20110114081859.000|20110114081859.000|CC1|         AND INSTANTLY,         \n20110114081859.000|20110114081901.000|CC1|       I BREATHED BETTER!       \n20110114081901.000|20110114081903.000|CC1|         I SLEPT BETTER.        \n20110114081903.000|20110114081903.000|CC1|        IT FELT...BETTER.       \n20110114081903.000|20110114081907.000|CC1|    THANK YOU, BREATHE RIGHT!   \n20110114081907.000|20110114081907.000|CC1|        [ Male Announcer ]      \n20110114081907.000|20110114081907.000|CC1|  BREATHE BETTER, SLEEP BETTER, \n20110114081907.000|20110114081909.000|CC1|           FEEL BETTER.         \n20110114081909.000|20110114081909.000|CC1|    NOW TRY NEW BREATHE RIGHT   \n20110114081909.000|20110114081911.000|CC1|       ADVANCED FOR FREE...     \n20110114081911.000|20110114081912.000|CC1|       AT BREATHERIGHT.COM.     \n20110114081912.000|20110114081912.000|CC1|            [ Woman ]           \n20110114081912.000|20110114081914.000|CC1| IT'S MY RIGHT TO BREATHE RIGHT.\n20110114081914.000|20110114081945.000|CC1|    ISN'T IT YOUR RIGHT, TOO?   \n20110114081918.000|20110114081918.000|SEG_01|Type=Story start\n20110114081918.000|20110114081918.000|XDS|%    TITLE:   \n20110114081919.000|20110114081919.000|XDS|%    TITLE: NY1710\n20110114081928.000|20110114081928.000|XDS|%    TITLE:   \n20110114081929.000|20110114081929.000|XDS|%    TITLE: BOS1710R\n20110114081941.000|20110114081941.000|XDS|%    TITLE:   \n20110114081943.000|20110114081943.000|XDS|%    TITLE: LETRMN-3429-006\n20110114081945.000|20110114081946.000|CC1|>> JOIN US AGAIN TOMORROW AS    \n20110114081946.000|20110114081948.000|CC1|DAVE WELCOMES JOAN RIVER,       \n20110114081948.000|20110114081950.000|CC1|COMEDIAN JEFF CALLED WEWELL     \n20110114081950.000|20110114081951.000|CC1|AND WINTER SLEEP.               \n20110114081951.000|20110114081955.000|CC1|AND NOW A NASA BULLETIN.        \n20110114081955.000|20110114081957.000|CC1|THE LOAD IS CLOSED THROUGH      \n20110114081957.000|20110114081959.000|CC1|FEBRUARY 9th FOR ROUTINE        \n20110114081959.000|20110114081959.000|CC1|MAINTENANCE.                    \n20110114081959.000|20110114082001.000|CC1|PLEASE MAKE A NOTE OF IT.       \n20110114082001.000|20110114082208.000|SEG_01|Type=Commercial\n20110114082001.000|20110114082003.000|CC1|WE'LL BE RIGHT BACK.            \n20110114082006.000|20110114082006.000|XDS|%    TITLE:   \n20110114082007.000|20110114082007.000|XDS|%   LENGTH: 0:00:00 of 0:30:00\n20110114082007.000|20110114082007.000|XDS|%    TITLE: Yu-Gi-Oh\n20110114082003.000|20110114082008.000|CC1|                    ? ?         \n20110114082008.000|20110114082014.000|CC1|               ? ?              \n20110114082014.000|20110114082019.000|CC1|               ? ?              \n20110114082019.000|20110114082024.000|CC1|               ? ?              \n20110114082024.000|20110114082028.000|CC1|               ? ?              \n20110114082028.000|20110114082028.000|CC1| [ Male Announcer ] AT&T COVERS \n20110114082028.000|20110114082031.000|CC1|     97% OF ALL AMERICANS.      \n20110114082031.000|20110114082033.000|CC1|        RETHINK POSSIBLE.       \n20110114082033.000|20110114082035.000|CC1|         [bell tolls]           \n20110114082035.000|20110114082036.000|CC1|- TO BEST SERVE YOUR CUSTOMERS, \n20110114082036.000|20110114082036.000|CC1|    YOU HAVE TO KNOW THEM.      \n20110114082036.000|20110114082037.000|CC1|          PERSONALLY.           \n20110114082037.000|20110114082037.000|CC1|      ONLY A LOCAL AGENT        \n20110114082037.000|20110114082039.000|CC1|         CAN DO THAT.           \n20110114082039.000|20110114082041.000|CC1|      [click, motor hums]       \n20110114082041.000|20110114082041.000|CC1|        - DOUG PIERCE.          \n20110114082041.000|20110114082043.000|CC1|    LIVES IN TORNADO ALLEY.     \n20110114082043.000|20110114082043.000|CC1|           - HOBBY?             \n20110114082043.000|20110114082044.000|CC1|      - COLLECTS STAMPS.        \n20110114082044.000|20110114082044.000|CC1|         - EXCELLENT.           \n20110114082044.000|20110114082045.000|CC1|      - ANNETTE THOMPSON.       \n20110114082045.000|20110114082045.000|CC1|     SMALL BUSINESS OWNER.      \n20110114082045.000|20110114082047.000|CC1|       HATES CANTALOUPE.        \n20110114082047.000|20110114082047.000|CC1|            - GOOD.             \n20110114082047.000|20110114082049.000|CC1|   - THE LEE FAMILY: TWINS.     \n20110114082049.000|20110114082049.000|CC1|   WITH ANOTHER ON THE WAY.     \n20110114082049.000|20110114082051.000|CC1|         - MAZEL TOV.           \n20110114082051.000|20110114082052.000|CC1|      - THAT'S MEATLOAF.        \n20110114082052.000|20110114082052.000|XDS|%   LENGTH: 0:01:00 of 0:30:00\n20110114082052.000|20110114082054.000|CC1|            - HMM.              \n20110114082054.000|20110114082055.000|CC1|            [click]             \n20110114082055.000|20110114082055.000|CC1|    THAT'S STILL MEATLOAF.      \n20110114082055.000|20110114082057.000|CC1|         - VERY GOOD.           \n20110114082057.000|20110114082057.000|CC1|          MOVING ON.            \n20110114082057.000|20110114082059.000|CC1|      - WE ARE INSURANCE.       \n20110114082059.000|20110114082100.000|CC1|     - ? WE ARE FARMERS ?       \n20110114082100.000|20110114082100.000|CC1|       ? BUM DI BUM BUM         \n20110114082100.000|20110114082208.000|CC1|         BUM BUM BUM ?          \n20110114082154.000|20110114082154.000|SEG_01|Type=Story start\n20110114082154.000|20110114082154.000|XDS|%   LENGTH: 0:02:00 of 0:30:00\n20110114082208.000|20110114082208.000|CC1|>> Dave: THANK YOU VERY         \n20110114082208.000|20110114082209.000|CC1|MUCH.                           \n20110114082209.000|20110114082213.000|CC1|THANK YOU.                      \n20110114082213.000|20110114082215.000|CC1|I MEAN IF YOU THINK ABOUT IT,   \n20110114082215.000|20110114082217.000|CC1|THE MAYOR COULD HAVE GONE,      \n20110114082217.000|20110114082219.000|CC1|COULD HAVE BEEN ON ANY SHOW.    \n20110114082219.000|20110114082221.000|CC1|BUT YET HE CHOSE THIS ONE.      \n20110114082221.000|20110114082223.000|CC1|SO I'M DOUBLY PLEASED AND       \n20110114082223.000|20110114082225.000|CC1|MORE THAN A LITTLE              \n20110114082225.000|20110114082226.000|CC1|FLATTERED.                      \n20110114082226.000|20110114082226.000|CC1|>> Paul: IT'S AN HONOR.         \n20110114082226.000|20110114082227.000|CC1|>> Dave: THAT HE WOULD COME     \n20110114082227.000|20110114082230.000|CC1|OUT HERE AND WASTE OUR TIME.    \n20110114082230.000|20110114082233.000|CC1|OUR NEXT GUEST IS A             \n20110114082233.000|20110114082234.000|CC1|FIVE-TIME NBA ALL-STAR WHO      \n20110114082234.000|20110114082237.000|CC1|HAS SINGLE-HANDEDLY BROUGHT     \n20110114082237.000|20110114082238.000|CC1|BASKETBALL BACK TO THE CITY     \n20110114082238.000|20110114082240.000|CC1|OF NEW YORK, FROM LADIES AND    \n20110114082240.000|20110114082242.000|CC1|GENTLEMEN, YOUR NEW YORK        \n20110114082242.000|20110114082245.000|CC1|KNICKER BOCKERS HERE'S AMAR     \n20110114082245.000|20110114082246.000|CC1|STOUDAMIRE.                     \n20110114082255.000|20110114082255.000|XDS|%   LENGTH: 0:03:00 of 0:30:00\n20110114082246.000|20110114082259.000|CC1|(APPLAUSE)                      \n20110114082259.000|20110114082300.000|CC1| .                              \n20110114082300.000|20110114082301.000|CC1|>> Dave: WELT COME BE BACK.     \n20110114082301.000|20110114082302.000|CC1|>> THANK YOU.                   \n20110114082302.000|20110114082303.000|CC1|>> Dave: HAPPY NEW YEAR.        \n20110114082303.000|20110114082304.000|CC1|>> YOU TOO.                     \n20110114082304.000|20110114082304.000|CC1|>> Dave: I APPRECIATE YOU,      \n20110114082304.000|20110114082306.000|CC1|THE PROFESSIONAL ATHLETES       \n20110114082306.000|20110114082307.000|CC1|WHEN THEY ARE IN SEASON THE     \n20110114082307.000|20110114082308.000|CC1|SCHEDULE IS CRAZY AND KNOW      \n20110114082308.000|20110114082309.000|CC1|YOU FLEW ALL NIGHT YOU WERE     \n20110114082309.000|20110114082310.000|CC1|IN UTAH.                        \n20110114082310.000|20110114082312.000|CC1|HOW DID THINGS GO IN UTAH.      \n20110114082312.000|20110114082314.000|CC1|>> WELL, WE PLAYED HARD, A      \n20110114082314.000|20110114082315.000|CC1|LATE GAME ON A BACK-TO-BACK     \n20110114082315.000|20110114082316.000|CC1|AND WE DIDN'T QUITE PULL IT     \n20110114082316.000|20110114082318.000|CC1|OFF, BUT YOU KNOW, WE HAD A     \n20110114082318.000|20110114082320.000|CC1|GOOD TRIP.                      \n20110114082320.000|20110114082321.000|CC1|>> Dave: DOES ANYBODY HAVE      \n20110114082321.000|20110114082322.000|CC1|ANY REASON NOW AFTER ALL        \n20110114082322.000|20110114082324.000|CC1|THESE YEARS WHY THE JAZZ IS     \n20110114082324.000|20110114082324.000|CC1|IN UTAH?                        \n20110114082324.000|20110114082327.000|CC1|(LAUGHTER)                      \n20110114082327.000|20110114082328.000|CC1|>> I HAVE NO IDEA.              \n20110114082328.000|20110114082331.000|CC1|>> Dave: LOOK INTO THAT.        \n20110114082331.000|20110114082332.000|CC1|WELL CONGRATULATIONS.           \n20110114082332.000|20110114082333.000|CC1|CAT NICKS ARE DOING WELL,       \n20110114082333.000|20110114082334.000|CC1|SECOND IN THE DIVISION          \n20110114082334.000|20110114082336.000|CC1|BEHIND THE CELTICS; IS THAT     \n20110114082336.000|20110114082337.000|CC1|CORRECT.                        \n20110114082337.000|20110114082338.000|CC1|>> YES, THANK YOU.              \n20110114082338.000|20110114082340.000|CC1|(APPLAUSE)                      \n20110114082340.000|20110114082341.000|CC1|>> Dave: DOW LIKE BEING IN      \n20110114082341.000|20110114082342.000|CC1|NEW YORK CITY.                  \n20110114082342.000|20110114082342.000|CC1|>> IT'S GREAT.                  \n20110114082342.000|20110114082343.000|CC1|NEW YORK IS A LOT OF FUN.       \n20110114082343.000|20110114082344.000|CC1|NEW YORK'S DEFINITELY           \n20110114082344.000|20110114082345.000|CC1|EVERYTHING I EXPECTED.          \n20110114082345.000|20110114082346.000|CC1|>> Dave: YOU SAY THAT, WHAT     \n20110114082346.000|20110114082347.000|CC1|DID YOU EXPECT IT TO BE         \n20110114082347.000|20110114082348.000|CC1|COMING HERE?                    \n20110114082348.000|20110114082349.000|CC1|>> WELL, YOU KNOW, PLAYING      \n20110114082349.000|20110114082350.000|CC1|IN NEW YORK, OR WHEN YOU        \n20110114082350.000|20110114082352.000|CC1|VISIT NEW YORK AS A VISITING    \n20110114082352.000|20110114082353.000|CC1|TEAM, YOU ALWAYS WANT TO        \n20110114082353.000|20110114082355.000|CC1|SHOW OUT WHEN YOU PULL UP AT    \n20110114082355.000|20110114082356.000|CC1|MADISON SQUARE GARDEN.          \n20110114082357.000|20110114082357.000|XDS|%   LENGTH: 0:04:00 of 0:30:00\n20110114082356.000|20110114082358.000|CC1|AND YOU KNOW, NOW WE'RE         \n20110114082358.000|20110114082359.000|CC1|PLAYING FOR THE KNICKS AND      \n20110114082359.000|20110114082400.000|CC1|PLAYING AT MADISON SQUARE       \n20110114082400.000|20110114082402.000|CC1|GARDEN AS A HOME, THE FANS      \n20110114082402.000|20110114082403.000|CC1|ARE REALLY ECSTATIC.            \n20110114082403.000|20110114082404.000|CC1|THE ENERGY AROUND THE TOWN      \n20110114082404.000|20110114082405.000|CC1|IS AMAZING.                     \n20110114082405.000|20110114082406.000|CC1|>> Dave: BUT YOU KNOW, THE      \n20110114082406.000|20110114082408.000|CC1|CIRCUMSTANCES OF THE KNICKS     \n20110114082408.000|20110114082410.000|CC1|RECENTLY, THEIR HISTORY, IT     \n20110114082410.000|20110114082411.000|CC1|HAS NOT BEEN THAT GLAET.        \n20110114082411.000|20110114082412.000|CC1|AND WHAT YOU JUST DESCRIBED     \n20110114082412.000|20110114082413.000|CC1|ABOUT PLAYING IN NEW YORK IS    \n20110114082413.000|20110114082414.000|CC1|THE VERY REASON A LOT OF        \n20110114082414.000|20110114082415.000|CC1|GUYS WOULDN'T WANT TO COME      \n20110114082415.000|20110114082416.000|CC1|HERE AND PLAY.                  \n20110114082416.000|20110114082417.000|CC1|>> YEAH, WELL IT WAS A          \n20110114082417.000|20110114082418.000|CC1|CHALLENGE FOR ME.               \n20110114082418.000|20110114082419.000|CC1|KNOWING THAT THE TEAM WASN'T    \n20110114082419.000|20110114082420.000|CC1|AS SUCCESSFUL IN THE            \n20110114082420.000|20110114082422.000|CC1|PREVIOUS, WHAT, TEN YEARS OR    \n20110114082422.000|20110114082422.000|CC1|SO.                             \n20110114082422.000|20110114082425.000|CC1|(LAUGHTER)                      \n20110114082425.000|20110114082428.000|CC1|>> Dave: OH YEAH.               \n20110114082428.000|20110114082432.000|CC1|THAT TEN YEAR STRETCH.          \n20110114082432.000|20110114082434.000|CC1|BUT YOU CAN FEEL T IT'S         \n20110114082434.000|20110114082435.000|CC1|SOMETHING DIFFERENT WHEN YOU    \n20110114082435.000|20110114082436.000|CC1|WALK NOT GARDEN, ISN'T IT.      \n20110114082436.000|20110114082438.000|CC1|>> NO YES, NO QUESTION.         \n20110114082438.000|20110114082440.000|CC1|A GREAT PLACE TO PLAY,          \n20110114082440.000|20110114082441.000|CC1|CELEBRITIES ARE THERE, THE      \n20110114082441.000|20110114082442.000|CC1|FANS ARE ECSTATIC.              \n20110114082442.000|20110114082443.000|CC1|IT'S A BEAUTIFUL PLACE.         \n20110114082443.000|20110114082444.000|CC1|>> Dave: LET'S TALK A LITTLE    \n20110114082444.000|20110114082445.000|CC1|BIT ABOUT-- LIKE YOU HAVE       \n20110114082445.000|20110114082446.000|CC1|BEEN IN THE LEAGUE EIGHT        \n20110114082446.000|20110114082448.000|CC1|YEARS THIS IS YOUR 8th OR       \n20110114082448.000|20110114082449.000|CC1|NINTH SEASON.                   \n20110114082449.000|20110114082450.000|CC1|>> NINTH SEASON.                \n20110114082450.000|20110114082451.000|CC1|>> Dave: YOU MUST HAVE          \n20110114082451.000|20110114082452.000|CC1|FRIENDS IN THE LEAGUE.          \n20110114082452.000|20110114082453.000|CC1|DO YOU HAVE A BEST FRIEND IN    \n20110114082453.000|20110114082454.000|CC1|THE LEAGUE?                     \n20110114082454.000|20110114082456.000|CC1|>> WELL, YOU KNOW, I HAVE SO    \n20110114082456.000|20110114082459.000|CC1|MANY FRIENDS AROUND THE NBA.    \n20110114082500.000|20110114082500.000|XDS|%   LENGTH: 0:05:00 of 0:30:00\n20110114082459.000|20110114082500.000|CC1|A BUNCH OF GUYS THAT ARE        \n20110114082500.000|20110114082502.000|CC1|GOOD FRIENDS OF MINE.           \n20110114082502.000|20110114082503.000|CC1|>> Dave: UH-HUH.                \n20110114082503.000|20110114082504.000|CC1|NOBODY--                        \n20110114082504.000|20110114082507.000|CC1|(LAUGHTER)                      \n20110114082507.000|20110114082509.000|CC1|>> Dave: WHO DON'T YOU LIKE?    \n20110114082509.000|20110114082511.000|CC1|>>.                             \n20110114082511.000|20110114082512.000|CC1|>> Dave: THAT'S A DIFFERENT     \n20110114082512.000|20110114082513.000|CC1|LIST.                           \n20110114082513.000|20110114082514.000|CC1|MAYBE A LITTLE LONGER.          \n20110114082514.000|20110114082516.000|CC1|YOU KNOW, YOU GOT YOUR EYE      \n20110114082516.000|20110114082518.000|CC1|NEARLY, YOU HAD A DETACHED      \n20110114082518.000|20110114082518.000|CC1|RETINA.                         \n20110114082518.000|20110114082519.000|CC1|>> YEAH.                        \n20110114082519.000|20110114082520.000|CC1|>> Dave: NOW THAT'S CRAZY,      \n20110114082520.000|20110114082521.000|CC1|THAT'S A CRAZY INJURY FOR       \n20110114082521.000|20110114082522.000|CC1|ANYBODY ESPECIALLY A            \n20110114082522.000|20110114082523.000|CC1|PROFESSIONAL ATHLETE.           \n20110114082523.000|20110114082524.000|CC1|WHAT DO THEY DO?                \n20110114082524.000|20110114082526.000|CC1|THEY ATTACH IT-- HOW DID YOU    \n20110114082526.000|20110114082527.000|CC1|GET IT DETACHED, FIRST OF       \n20110114082527.000|20110114082528.000|CC1|ALL.                            \n20110114082528.000|20110114082529.000|CC1|>> IT WAS A PLAY DURING         \n20110114082529.000|20110114082530.000|CC1|TRAINING CAMP, I BELIEVE,       \n20110114082530.000|20110114082532.000|CC1|WHEN THERE WAS A CONTACT        \n20110114082532.000|20110114082533.000|CC1|PLAY WHERE ONE OF MY            \n20110114082533.000|20110114082534.000|CC1|TEAMMATES POKED ME IN THE       \n20110114082534.000|20110114082535.000|CC1|EYE PRETTY BAD.                 \n20110114082535.000|20110114082536.000|CC1|I FIGURED IT WAS-- I WENT       \n20110114082536.000|20110114082538.000|CC1|AND SAW THE DOCTOR HE SAID I    \n20110114082538.000|20110114082540.000|CC1|HAD TO HAVE AN EMERGENCY        \n20110114082540.000|20110114082541.000|CC1|PROCEDURE.                      \n20110114082541.000|20110114082541.000|CC1|DETACHED RETINA.                \n20110114082541.000|20110114082542.000|CC1|WITH THAT BEING SAID I HAD      \n20110114082542.000|20110114082544.000|CC1|TO PRETTY MUCH LAY DOWN ON      \n20110114082544.000|20110114082545.000|CC1|THE TABLE FOR 22 HOURS A DAY    \n20110114082545.000|20110114082546.000|CC1|FOR TEN STRAIGHT DAYS IN        \n20110114082546.000|20110114082548.000|CC1|ORDER TO REATTACH THE           \n20110114082548.000|20110114082548.000|CC1|RETINA.                         \n20110114082548.000|20110114082548.000|CC1|>> Dave: YOU ARE NOT            \n20110114082548.000|20110114082550.000|CC1|SUPPOSED TO MOVE YOUR HEAD      \n20110114082550.000|20110114082550.000|CC1|AT ALL.                         \n20110114082550.000|20110114082552.000|CC1|>> CAN'T MOVE AT ALL FOR 22     \n20110114082552.000|20110114082554.000|CC1|HOURS A DAY FOR TEN STRAIGHT    \n20110114082554.000|20110114082554.000|CC1|DAYS.                           \n20110114082554.000|20110114082555.000|CC1|>> Dave: OH MY GOD.             \n20110114082555.000|20110114082556.000|CC1|AND EVERYTHING'S OBVIOUSLY      \n20110114082556.000|20110114082557.000|CC1|FINE NOW.                       \n20110114082557.000|20110114082558.000|CC1|BUT WHAT DOW-- HOW DO YOU       \n20110114082558.000|20110114082559.000|CC1|LIVE LIKE THAT.                 \n20110114082559.000|20110114082600.000|CC1|YOU CAN SLEEP A LITTLE BIT      \n20110114082600.000|20110114082601.000|CC1|OF THAT TIME BUT WHAT DO YOU    \n20110114082601.000|20110114082601.000|CC1|DO.                             \n20110114082601.000|20110114082601.000|XDS|%   LENGTH: 0:06:00 of 0:30:00\n20110114082601.000|20110114082603.000|CC1|>> IT WAS, HONESTLY IT WAS      \n20110114082603.000|20110114082604.000|CC1|TORTURE.                        \n20110114082604.000|20110114082605.000|CC1|IT WAS EXTREMELY HARD.          \n20110114082605.000|20110114082606.000|CC1|BUT I READ A LOT.               \n20110114082606.000|20110114082609.000|CC1|I WATCHED DVDS ON MY LAPTOP.    \n20110114082609.000|20110114082611.000|CC1|AND I JUST SLOWLY PASSED THE    \n20110114082611.000|20110114082612.000|CC1|TIME ON.                        \n20110114082612.000|20110114082612.000|CC1|>> Dave: WERE YOU WORRIED       \n20110114082612.000|20110114082614.000|CC1|ABOUT YOUR CAREER GOING         \n20110114082614.000|20110114082614.000|CC1|FORWARD AFTER THAT.             \n20110114082614.000|20110114082615.000|CC1|>> NO QUESTION, NO QUESTION.    \n20110114082615.000|20110114082618.000|CC1|IT WAS SOMETHING EXTREMELY      \n20110114082618.000|20110114082619.000|CC1|TERRIFYINGMENT DIDN'T KNOW      \n20110114082619.000|20110114082620.000|CC1|IF I WOULD REGAIN MY FULL       \n20110114082620.000|20110114082620.000|CC1|VISION.                         \n20110114082620.000|20110114082621.000|CC1|DIDN'T FOE ABOUT THE FUTURE     \n20110114082621.000|20110114082623.000|CC1|OF THE NBA OR MY CAREER.        \n20110114082623.000|20110114082625.000|CC1|BUT I WAS ABLE TO PERSEVERE.    \n20110114082625.000|20110114082626.000|CC1|>> Dave: AND YOUR VISION IS     \n20110114082626.000|20110114082626.000|CC1|FINE NOW.                       \n20110114082626.000|20110114082628.000|CC1|>> IT'S GREAT, 20/20.           \n20110114082628.000|20110114082629.000|CC1|>> Dave: GOOD FOR YOU.          \n20110114082629.000|20110114082636.000|CC1|(APPLAUSE)                      \n20110114082636.000|20110114082638.000|CC1|AND YOU SEE GUYS, I REMEMBER    \n20110114082638.000|20110114082639.000|CC1|THE FIRST ONE I SAW, IN         \n20110114082639.000|20110114082641.000|CC1|PROFESSIONAL BASKETBALL, EYE    \n20110114082641.000|20110114082643.000|CC1|GEAR WAS KAREEM ABDUL-JABBAR    \n20110114082643.000|20110114082645.000|CC1|WORE GOGGLES AND YOU WEAR       \n20110114082645.000|20110114082645.000|CC1|SIMILAR PROTECTION.             \n20110114082645.000|20110114082647.000|CC1|ARE THOSE THE SAME KIND OF      \n20110114082647.000|20110114082647.000|CC1|GOGGLES.                        \n20110114082647.000|20110114082648.000|CC1|>> YEAH, THEY ARE.              \n20110114082648.000|20110114082651.000|CC1|I PLAY MY ROOKIE YEAR I USED    \n20110114082651.000|20110114082653.000|CC1|TO MAKE FUN, WHY ARE YOU        \n20110114082653.000|20110114082654.000|CC1|ALWAYS WEARING GOGGLES.         \n20110114082654.000|20110114082655.000|CC1|THEY ARE NOT FASHIONABLE.       \n20110114082655.000|20110114082701.000|CC1|(LAUGHTER)                      \n20110114082701.000|20110114082703.000|CC1|>> Dave: THERE YOU GO, KIDS,    \n20110114082705.000|20110114082705.000|XDS|%   LENGTH: 0:07:00 of 0:30:00\n20110114082703.000|20110114082705.000|CC1|THE GOGGLES, NOT FASHIONABLE.   \n20110114082705.000|20110114082706.000|CC1|IF ARE YOU ON THE LINE BEING    \n20110114082706.000|20110114082708.000|CC1|GO ELS, NO.                     \n20110114082708.000|20110114082709.000|CC1|>> BUT YOU KNOW WHACK, HE       \n20110114082709.000|20110114082711.000|CC1|SAID YOU KNOW, HE GOT POKED     \n20110114082711.000|20110114082712.000|CC1|IN THE EYE PRETTY BAD AND HE    \n20110114082712.000|20110114082713.000|CC1|NEVER WANTED TO FEEL THAT       \n20110114082713.000|20110114082714.000|CC1|FEELING AGAIN.                  \n20110114082714.000|20110114082715.000|CC1|AND THEN HAPPENED TO ME.        \n20110114082715.000|20110114082716.000|CC1|SO I FIGURED SINCE I HAVE TO    \n20110114082716.000|20110114082718.000|CC1|WEAR THEM, I'M TRYING TO        \n20110114082718.000|20110114082719.000|CC1|MAKE THESE GOGGLES              \n20110114082719.000|20110114082722.000|CC1|FASHIONABLE.                    \n20110114082722.000|20110114082723.000|CC1|>> Dave: BUT THEY DON'T LET     \n20110114082723.000|20110114082725.000|CC1|YOU TAKE THEM HOME, RIGHT.      \n20110114082725.000|20110114082726.000|CC1|THEY KEEP THEM IN THE           \n20110114082726.000|20110114082727.000|CC1|CLUBHOUSE.                      \n20110114082727.000|20110114082727.000|CC1|>> YEAH.                        \n20110114082727.000|20110114082728.000|CC1|YOU KEEP THEM THERE BECAUSE     \n20110114082728.000|20110114082729.000|CC1|YOU NEED THEM EVERY GAME SO     \n20110114082729.000|20110114082731.000|CC1|YOU HAVE TO KEEP THEM.          \n20110114082731.000|20110114082732.000|CC1|>> Dave: IF YOU WERE FOOLING    \n20110114082732.000|20110114082733.000|CC1|AROUND, RIDING IN A CAB IN      \n20110114082733.000|20110114082735.000|CC1|THEM AND LEAVE THEM IN A CAB,   \n20110114082735.000|20110114082737.000|CC1|YOU'RE SCREWED THEN, BUDDY.     \n20110114082737.000|20110114082738.000|CC1|>> BAD IDEA.                    \n20110114082738.000|20110114082739.000|CC1|>> Dave: I REMEMBER WHEN I      \n20110114082739.000|20110114082740.000|CC1|WAS A KID WATCHING              \n20110114082740.000|20110114082742.000|CC1|BASKETBALL AND THEY WOULD       \n20110114082742.000|20110114082743.000|CC1|SAY-- IT'S GRUELING, 82         \n20110114082743.000|20110114082744.000|CC1|GAMES, THAT'S WHAT THE          \n20110114082744.000|20110114082746.000|CC1|LEAGUE SEASON IS, 28 REGULAR    \n20110114082746.000|20110114082747.000|CC1|SEASON, YOUR PLAY-OFFS,         \n20110114082747.000|20110114082748.000|CC1|PRESEASON, WHATEVER.            \n20110114082748.000|20110114082750.000|CC1|AND IT'S HARD RUNNING UP AND    \n20110114082750.000|20110114082750.000|CC1|DOWN THE COURT.                 \n20110114082750.000|20110114082751.000|CC1|WHEN I WAS IN HIGH SCHOOL I     \n20110114082751.000|20110114082752.000|CC1|THOUGHT ARE YOU KIDDING ME,     \n20110114082752.000|20110114082754.000|CC1|THIS IS ALL I WANT TO DO IS     \n20110114082754.000|20110114082755.000|CC1|RUN UP AND DOWN THE COURT.      \n20110114082755.000|20110114082756.000|CC1|BUT YOU START DOING IT FOR A    \n20110114082756.000|20110114082758.000|CC1|LIVING, IT'S A WHOLE            \n20110114082758.000|20110114082759.000|CC1|DIFFERENT DEAL, ISN'T IT.       \n20110114082759.000|20110114082800.000|CC1|>> NO QUESTION.                 \n20110114082800.000|20110114082802.000|CC1|AND ON TOP OF THAT YOU HAVE     \n20110114082802.000|20110114082803.000|CC1|PRESEASON GAMES WHICH IS TEN    \n20110114082803.000|20110114082804.000|CC1|GAMES, THEN THE 82 GAME         \n20110114082804.000|20110114082805.000|CC1|SEASON AND IF YOU ARE           \n20110114082806.000|20110114082806.000|XDS|%   LENGTH: 0:08:00 of 0:30:00\n20110114082805.000|20110114082807.000|CC1|SUCCESSFUL YOU HAVE ABOUT 16    \n20110114082807.000|20110114082808.000|CC1|MORE GAMES IN THE PLAY-OFFS     \n20110114082808.000|20110114082810.000|CC1|AND THEN USA BASKETBALL         \n20110114082810.000|20110114082811.000|CC1|WHICH IS ANOTHER 25 GAMES.      \n20110114082811.000|20110114082812.000|CC1|SO IT IS'S PRETTY MUCH A        \n20110114082812.000|20110114082814.000|CC1|YEAR-ROUND SPORT.               \n20110114082814.000|20110114082815.000|CC1|>> Dave: AND YOU HAVE A         \n20110114082815.000|20110114082816.000|CC1|LITTLE KNEE DAMAGE, YOU HAD     \n20110114082816.000|20110114082817.000|CC1|WORK DONE ON ONE OF THE         \n20110114082817.000|20110114082819.000|CC1|KNEES, WHAT WAS THAT INJURY.    \n20110114082819.000|20110114082820.000|CC1|>> HI A MICROFRACTURE MAYBE     \n20110114082820.000|20110114082821.000|CC1|FOUR OR FIVE YEARS AGO.         \n20110114082821.000|20110114082822.000|CC1|>> Dave: A HAIRLINE FRACTURE    \n20110114082822.000|20110114082823.000|CC1|OR NOT AS BAD.                  \n20110114082823.000|20110114082824.000|CC1|>> IT IS ACTUALLY NOT AS        \n20110114082824.000|20110114082825.000|CC1|BAD.                            \n20110114082825.000|20110114082827.000|CC1|BUT YOU KNOW, I'M NOT TOO       \n20110114082827.000|20110114082828.000|CC1|FAMILIAR WITH THE HAIRLINE      \n20110114082828.000|20110114082829.000|CC1|FRACTURES.                      \n20110114082829.000|20110114082831.000|CC1|BUT-- THE MICROFRACTURE WAS     \n20110114082831.000|20110114082832.000|CC1|PRETTY SEVERE AND IT TOOK A     \n20110114082832.000|20110114082834.000|CC1|LOT OF HARD WORK TO GET         \n20110114082834.000|20110114082834.000|CC1|BACK.                           \n20110114082834.000|20110114082835.000|CC1|>> Dave: WHAT DO THEY DO FOR    \n20110114082835.000|20110114082838.000|CC1|A MICROFRACTURE.                \n20110114082838.000|20110114082839.000|CC1|>> THEY GO INSIDE AND THEY      \n20110114082839.000|20110114082841.000|CC1|TRY TO REINVENT SOME            \n20110114082841.000|20110114082841.000|CC1|CARTILAGE FOR YOU.              \n20110114082841.000|20110114082843.000|CC1|SO THEY WILL POKE A COUPLE      \n20110114082843.000|20110114082846.000|CC1|HOLES IN YOUR BONE AREA, TRY    \n20110114082846.000|20110114082849.000|CC1|TO GET THAT CARTILAGE.          \n20110114082849.000|20110114082850.000|CC1|>> Dave: OF THE TWO INJURIES    \n20110114082850.000|20110114082851.000|CC1|I'M GUESSING OBVIOUSLY THIS     \n20110114082851.000|20110114082853.000|CC1|IS A DUMB QUESTION, THE         \n20110114082853.000|20110114082854.000|CC1|DETACHED RETINA IS FAR MORE     \n20110114082854.000|20110114082855.000|CC1|SERIOUS.                        \n20110114082855.000|20110114082855.000|CC1|>> NO QUESTION.                 \n20110114082855.000|20110114082856.000|CC1|>> Dave: BUT THIS THING ARE     \n20110114082856.000|20110114082858.000|CC1|YOU READY TO GO, YOU CAN CUT,   \n20110114082858.000|20110114082900.000|CC1|PIVOT, SHOOT, EVERYTHING'S      \n20110114082900.000|20110114082900.000|CC1|FINE.                           \n20110114082900.000|20110114082901.000|CC1|>> OH, YEAH, IF I GET YOU TO    \n20110114082901.000|20110114082903.000|CC1|COME OUT TO THE KNICKS GAME.    \n20110114082903.000|20110114082905.000|CC1|>> Dave: I MAY SEE HOW IT,      \n20110114082905.000|20110114082905.000|CC1|WAS, YEAH.                      \n20110114082905.000|20110114082906.000|CC1|I'LL BE THERE.                  \n20110114082909.000|20110114082909.000|XDS|%   LENGTH: 0:09:00 of 0:30:00\n20110114082906.000|20110114082912.000|CC1|(APPLAUSE)                      \n20110114082912.000|20110114082913.000|CC1|>> Dave: YOU GUYS DON'T         \n20110114082913.000|20110114082915.000|CC1|LISTEN TO THE COACH, RIGHT?     \n20110114082915.000|20110114082919.000|CC1|(LAUGHTER)                      \n20110114082919.000|20110114082920.000|CC1|>> IS THAT A TRICK QUESTION?    \n20110114082920.000|20110114082922.000|CC1|>> NO, I MEANS WHAT'S HE        \n20110114082922.000|20110114082922.000|CC1|GOING TO SAY.                   \n20110114082922.000|20110114082924.000|CC1|>> NO, YEAH, COACH IS GREAT,    \n20110114082924.000|20110114082924.000|CC1|MAN.                            \n20110114082924.000|20110114082926.000|CC1|>> Dave: I KNOW HE'S GREAT      \n20110114082926.000|20110114082926.000|CC1|BUT--                           \n20110114082926.000|20110114082927.000|CC1|(LAUGHTER)                      \n20110114082927.000|20110114082928.000|CC1|>> Dave: BUT YOU DON'T, DO      \n20110114082928.000|20110114082930.000|CC1|YOU?                            \n20110114082930.000|20110114082931.000|CC1|>> NO, WE DO, WE DO.            \n20110114082931.000|20110114082933.000|CC1|>> Dave: OF COURSE YOU DO,      \n20110114082933.000|20110114082933.000|CC1|YEAH.                           \n20110114082933.000|20110114082936.000|CC1|>> WELL, LISTEN, IT'S GREAT     \n20110114082936.000|20110114082937.000|CC1|FUN TO HAVE NEW TOWN.           \n20110114082937.000|20110114082939.000|CC1|AND ALL OF A SUDDEN WE CAN'T    \n20110114082939.000|20110114082940.000|CC1|MAKE JOKES ABOUT THE KNICKS     \n20110114082940.000|20110114082941.000|CC1|ANY MORE.                       \n20110114082941.000|20110114082942.000|CC1|>> GREAT, PERFECT, LOVE IT.     \n20110114082942.000|20110114082943.000|CC1|>> Dave: NICE JOB.              \n20110114082943.000|20110114082945.000|CC1|GOING HAVE A GREAT SEASON.      \n20110114082945.000|20110114082948.000|CC1|AMAR STOUDAMIRE, LADIES AND     \n20110114082948.000|20110114082949.000|CC1|GENTLEMEN.                      \n20110114082949.000|20110114082950.000|CC1|WE'LL BE RIGHT BACK WITH        \n20110114082950.000|20110114082952.000|CC1|GREGG ALLMAN.                   \n20110114082952.000|20110114083053.000|CC1|>> TODAY'S SPECI                \n20110114083053.000|20110114083319.000|SEG_01|Type=Commercial\n20110114083053.000|20110114083053.000|CC1|    SHIFT YOUR WEIGHT FORWARD   \n20110114083053.000|20110114083055.000|CC1|    ONTO THE LEFT FOOT.         \n20110114083055.000|20110114083056.000|CC1|    TAKE THE RIGHT LEG UP,      \n20110114083056.000|20110114083056.000|CC1|    HOLDING THE INNER ARCH      \n20110114083056.000|20110114083058.000|CC1|    OF THE FOOT...              \n20110114083058.000|20110114083058.000|CC1|    INTRODUCING INSTANT ACTION  \n20110114083058.000|20110114083100.000|CC1|    ALERTS, ONLY FROM CHASE.    \n20110114083100.000|20110114083102.000|CC1|            LEFT ARM UP...      \n20110114083102.000|20110114083102.000|CC1|    MANAGE YOUR ACCOUNT         \n20110114083102.000|20110114083103.000|CC1|    AND HELP AVOID OVERDRAFTS   \n20110114083103.000|20110114083105.000|CC1|    WITH A CLICK OF A BUTTON.   \n20110114083105.000|20110114083106.000|CC1|    JUST REPLY TO THE ALERT     \n20110114083106.000|20110114083106.000|CC1|    WITH HOW MUCH YOU           \n20110114083106.000|20110114083107.000|CC1|    WANT TO TRANSFER.           \n20110114083107.000|20110114083107.000|CC1|        INHALE,                 \n20110114083107.000|20110114083110.000|CC1|        ALL THE WAY UP...       \n20110114083110.000|20110114083110.000|CC1|    SO YOU ALWAYS               \n20110114083110.000|20110114083112.000|CC1|    STAY IN BALANCE.            \n20110114083112.000|20110114083116.000|CC1|            ...TO CRESCENT POSE.\n20110114083116.000|20110114083117.000|CC1|    CHASE WHAT MATTERS.         \n20110114083117.000|20110114083117.000|CC1|                JUST FOUR       \n20110114083117.000|20110114083119.000|CC1|                MORE TIMES.     \n20110114083119.000|20110114083307.000|CC1|            ? ?                 \n20110114083254.000|20110114083254.000|XDS|%   LENGTH: 0:12:00 of 0:30:00\n20110114083307.000|20110114083308.000|CC1| Captioning sponsored by        \n20110114083308.000|20110114083311.000|CC1| WORLDWIDE PANTS and CBS        \n20110114083311.000|20110114083312.000|CC1| Captioned by                   \n20110114083312.000|20110114083313.000|CC1| Media Access Group at WGBH     \n20110114083315.000|20110114083315.000|XDS|%   LENGTH: 0:13:00 of 0:30:00\n20110114083313.000|20110114083319.000|CC1| access.wgbh.org                \n20110114083319.000|20110114083320.000|SEG_01|Type=Story start\n20110114083319.000|20110114083320.000|CC1|>> Dave: HOW ABOUT THAT?        \n20110114083320.000|20110114083323.000|CC1|NICE TURNOUT.                   \n20110114083323.000|20110114083326.000|CC1|OUR NEXT GUEST GRAMMY AWARD     \n20110114083326.000|20110114083330.000|CC1|MUSS IG, THE LEGENDER ALL       \n20110114083330.000|20110114083332.000|CC1|MANN BROTHERS, LOW COUNTRY      \n20110114083332.000|20110114083334.000|CC1|BLUES, LADIES AND GENTLEMEN,    \n20110114083334.000|20110114083335.000|CC1|WELCOME BACK TO THE PROGRAM,    \n20110114083335.000|20110114083336.000|CC1|GREGG ALLMAN.                   \n20110114083336.000|20110114083342.000|CC1|(APPLAUSE)                      \n20110114083342.000|20110114083345.000|CC1|?                               \n20110114083345.000|20110114083348.000|CC1|? DAYLIGHT AGAIN                \n20110114083348.000|20110114083349.000|CC1|MEMORIES FALL LIKE RAIN         \n20110114083349.000|20110114083352.000|CC1|? REMINDS YOU                   \n20110114083352.000|20110114083355.000|CC1|TO TAKE IT SLOW                 \n20110114083355.000|20110114083359.000|CC1|? ONE STEP AT A TIME BABY       \n20110114083359.000|20110114083402.000|CC1|TILL YOU FIND YOUR WAY          \n20110114083402.000|20110114083405.000|CC1|? BACK TO THE BIG SHOW          \n20110114083405.000|20110114083409.000|CC1|PLACES YOU BEEN                 \n20110114083409.000|20110114083411.000|CC1|? THINGS THAT YOU DONE          \n20110114083411.000|20110114083413.000|CC1|SOMEHOW                         \n20110114083417.000|20110114083417.000|XDS|%   LENGTH: 0:14:00 of 0:30:00\n20110114083413.000|20110114083419.000|CC1|? YOU'RE STILL ON THE RUN       \n20110114083419.000|20110114083422.000|CC1|JUST ANOTHER RIDER              \n20110114083422.000|20110114083424.000|CC1|? ON THAT TRAIN TO NOWHERE      \n20110114083424.000|20110114083427.000|CC1|JUST ANOTHER FOOL               \n20110114083427.000|20110114083429.000|CC1|? TOO FAR FROM HOME             \n20110114083429.000|20110114083433.000|CC1|JUST ANOTHER STRANGER           \n20110114083433.000|20110114083435.000|CC1|? TRYIN' TO GET SOMEWHERE       \n20110114083435.000|20110114083437.000|CC1|SOMEWHERE                       \n20110114083437.000|20110114083445.000|CC1|? BUT YOU'RE STILL ALL ALONE    \n20110114083445.000|20110114083503.000|CC1|?                               \n20110114083503.000|20110114083516.000|CC1|WATCHING THE WORLD              \n20110114083516.000|20110114083517.000|CC1|? THAT YOU MUST BE CURSED       \n20110114083517.000|20110114083518.000|CC1|TELL THEM ALL HOW YOU TRY TRY   \n20110114083519.000|20110114083519.000|XDS|%   LENGTH: 0:15:00 of 0:30:00\n20110114083518.000|20110114083522.000|CC1|TRY                             \n20110114083522.000|20110114083523.000|CC1|? WHAT IN THE WORLD             \n20110114083523.000|20110114083525.000|CC1|HAS BECOME OF YOU               \n20110114083525.000|20110114083527.000|CC1|? DO YOU REMEMBER               \n20110114083527.000|20110114083530.000|CC1|BLUE SKIES WERE SHINING         \n20110114083530.000|20110114083534.000|CC1|? MONEY FLOWED                  \n20110114083534.000|20110114083538.000|CC1|IT FLOWED LIKE WINE             \n20110114083538.000|20110114083541.000|CC1|? YOU HAD A REAL GOOD WOMAN     \n20110114083541.000|20110114083543.000|CC1|YES SHE WAS SURE                \n20110114083543.000|20110114083546.000|CC1|? SHE WAS SURE ENOUGH FINE      \n20110114083546.000|20110114083549.000|CC1|STORM CLOUDS RISIN'             \n20110114083549.000|20110114083552.000|CC1|? IN FROM THE SEA               \n20110114083552.000|20110114083555.000|CC1|WINDS ARE BLOWIN'               \n20110114083555.000|20110114083557.000|CC1|? COLD REALITY                  \n20110114083557.000|20110114083559.000|CC1|JUST ANOTHER RIDER              \n20110114083559.000|20110114083603.000|CC1|? ON THAT TRAIN TO NOWHERE      \n20110114083603.000|20110114083605.000|CC1|JUST ANOTHER FOOL               \n20110114083605.000|20110114083608.000|CC1|? TOO FAR FROM HOME             \n20110114083608.000|20110114083610.000|CC1|JUST ANOTHER STRANGER           \n20110114083610.000|20110114083613.000|CC1|? TRYIN' TO GET SOMEWHERE       \n20110114083613.000|20110114083615.000|CC1|SOMEWHERE                       \n20110114083615.000|20110114083620.000|CC1|? BUT YOU'RE STILL ALL ALONE    \n20110114083621.000|20110114083621.000|XDS|%   LENGTH: 0:16:00 of 0:30:00\n20110114083620.000|20110114083622.000|CC1|JUST ANOTHER RIDER              \n20110114083622.000|20110114083625.000|CC1|? ON THAT TRAIN TO NOWHERE      \n20110114083625.000|20110114083628.000|CC1|JUST ANOTHER FOOL               \n20110114083628.000|20110114083629.000|CC1|? TOO FAR FROM HOME             \n20110114083629.000|20110114083633.000|CC1|JUST ANOTHER STRANGER           \n20110114083633.000|20110114083634.000|CC1|? TRYIN' TO GET SOMEWHERE       \n20110114083634.000|20110114083639.000|CC1|SOMEWHERE                       \n20110114083639.000|20110114083640.000|CC1|SOMEWHERE                       \n20110114083640.000|20110114083650.000|CC1|? BUT YOU'RE ALL ALONE ?        \n"}
+{"End": "20110114083650", "FileName": "2011-01-14_0735_US_KCBS_Late_Show_with_Dave_Letterman"}

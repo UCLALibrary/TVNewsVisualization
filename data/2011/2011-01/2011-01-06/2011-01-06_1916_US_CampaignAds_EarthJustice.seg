@@ -1,0 +1,27 @@
+TOP|20110106191600|2011-01-06_1916_US_CampaignAds_EarthJustice
+COL|Communication Studies Archive, UCLA
+UID|5dff5fe2-0f04-11e2-b218-c74b758944d2
+AQD|2012-10-05 1550 UTC
+DUR|0:00:15.04
+VID|480x356
+TTL|Earthjustice PSA - 15 Seconds
+URL|http://youtube.com/watch?v=UeIHXVGDNvo
+TTS|Youtube English machine transcript 2012-10-05 1550 UTC
+CMT|
+HED|Earthjustice PSA - 15 Seconds
+LAN|ENG
+LBT|2011-01-06 14:16 America/New_York
+SEG_02|2014-02-25 00:30|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+SMT_01|2014-07-28 02:40|Source_Program=Pattern 2.6, seg-sentiment|Source_Person=Tom De Smedt
+SMT_02|2014-07-28 02:40|Source_Program=SentiWordNet 3.0, seg-sentiment|Source_Person=Andrea Esuli
+POS_01|2014-08-09 23:53|Source_Program=MBSP 1.4, PartsOfSpeech-MBSP-05.py|Source_Person=Walter Daelemans, FFS|Codebook=Treebank II
+POS_02|2014-08-12 14:56|Source_Program=stanford-postagger 3.4, PartsOfSpeech-StanfordNLP-02.py|Source_Person=Kristina Toutanova, FFS|Codebook=Treebank II
+NER_03|2016-12-18 22:15|Source_Program=stanford-ner 3.4, NER-StanfordNLP-03.py|Source_Person=Jenny Rose Finkel, FFS|Codebook=Category=Entity
+20110106191601.329|20110106191613.289|SEG_02|Type=Story|Score=1.0
+20110106191601.329|20110106191613.289|TR1|perth justice working in the courts to promote a thriving natural environment healthy communities and a clean energy future protest this because the repeatedly
+20110106191601.329|20110106191613.289|NER_03|LOCATION=perth
+20110106191601.329|20110106191613.289|POS_02|perth/NNP|justice/NNP|working/VBG|in/IN|the/DT|courts/NNS|to/TO|promote/VB|a/DT|thriving/JJ|natural/JJ|environment/NN|healthy/JJ|communities/NNS|and/CC|a/DT|clean/JJ|energy/NN|future/JJ|protest/NN|this/DT|because/IN|the/DT|repeatedly/RB|
+20110106191601.329|20110106191613.289|POS_01|perth/NN/I-NP/O/perth|justice/NN/B-NP/O/justice|working/VBG/I-VP/O/work|in/IN/I-PP/B-PNP/in|the/DT/I-NP/I-PNP/the|courts/NNS/I-NP/I-PNP/court|to/TO/I-VP/O/to|promote/VB/I-VP/O/promote|a/DT/I-NP/O/a|thriving/VBG/I-NP/O/thrive|natural/JJ/I-NP/O/natural|environment/NN/I-NP/O/environment|healthy/JJ/I-NP/O/healthy|communities/NNS/I-NP/O/community|and/CC/O/O/and|a/DT/I-NP/O/a|clean/JJ/I-NP/O/clean|energy/NN/I-NP/O/energy|future/JJ/I-NP/O/future|protest/NN/I-NP/O/protest|this/DT/B-NP/O/this|because/IN/I-SBAR/O/because|the/DT/I-NP/O/the|repeatedly/RB/I-ADVP/O/repeatedly
+20110106191601.329|20110106191613.289|SMT_01|0.241666666667|0.43125|natural|0.1|0.4|healthy|0.5|0.5|clean|0.366666666667|0.7|future|0.0|0.125
+20110106191601.329|20110106191613.289|SMT_02|working|0.125|0.125|in|0.0|0.0|thriving|0.5|0.5|natural|0.25|0.25|healthy|0.75|0.75|clean|0.125|0.875|future|-0.125|0.125
+END|20110106191615|2011-01-06_1916_US_CampaignAds_EarthJustice

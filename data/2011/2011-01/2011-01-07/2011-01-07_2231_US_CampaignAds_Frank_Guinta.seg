@@ -1,0 +1,26 @@
+TOP|20110107223100|2011-01-07_2231_US_CampaignAds_Frank_Guinta
+COL|Communication Studies Archive, UCLA
+UID|0fdbafa4-1662-11e2-b405-db5653a3d100
+AQD|2012-10-15 0048 UTC
+DUR|0:00:23.32
+VID|480x360
+TTL|Congressman Frank Guinta reading the Second Amendment
+URL|http://youtube.com/watch?v=Kibsw42TZdc
+TTS|Youtube English machine transcript 2012-10-15 0048 UTC
+CMT|
+HED|On January 6, 2011, the 112 Congress read the US Constitution on the House floor.  Congressman Frank Guinta read the Second Amendment.
+LAN|ENG
+LBT|2011-01-07 17:31 America/New_York
+SEG_02|2014-02-25 00:30|Source_Program=RunTextStorySegmentation.jar|Source_Person=Rongda Zhu
+SMT_01|2014-07-28 02:44|Source_Program=Pattern 2.6, seg-sentiment|Source_Person=Tom De Smedt
+SMT_02|2014-07-28 02:44|Source_Program=SentiWordNet 3.0, seg-sentiment|Source_Person=Andrea Esuli
+POS_01|2014-08-10 02:56|Source_Program=MBSP 1.4, PartsOfSpeech-MBSP-05.py|Source_Person=Walter Daelemans, FFS|Codebook=Treebank II
+POS_02|2014-08-12 14:59|Source_Program=stanford-postagger 3.4, PartsOfSpeech-StanfordNLP-02.py|Source_Person=Kristina Toutanova, FFS|Codebook=Treebank II
+NER_03|2016-12-18 22:18|Source_Program=stanford-ner 3.4, NER-StanfordNLP-03.py|Source_Person=Jenny Rose Finkel, FFS|Codebook=Category=Entity
+20110107223106.950|20110107223116.869|SEG_02|Type=Story|Score=1.0
+20110107223106.950|20110107223116.869|TR1|the second amendment well-regulated militia being necessary to the security of a free state the right of the people to keep and bear arms shall not be a friendship
+20110107223106.950|20110107223116.869|POS_02|the/DT|second/JJ|amendment/NN|well-regulated/JJ|militia/NN|being/VBG|necessary/JJ|to/TO|the/DT|security/NN|of/IN|a/DT|free/JJ|state/NN|the/DT|right/NN|of/IN|the/DT|people/NNS|to/TO|keep/VB|and/CC|bear/VB|arms/NNS|shall/MD|not/RB|be/VB|a/DT|friendship/NN|
+20110107223106.950|20110107223116.869|POS_01|the/DT/I-NP/O/the|second/JJ/I-NP/O/second|amendment/NN/I-NP/O/amendment|well-regulated/JJ/I-NP/O/well-regulated|militia/NN/I-NP/O/militia|being/VBG/I-VP/O/be|necessary/JJ/I-ADJP/O/necessary|to/TO/I-PP/B-PNP/to|the/DT/I-NP/I-PNP/the|security/NN/I-NP/I-PNP/security|of/IN/I-PP/B-PNP/of|a/DT/I-NP/I-PNP/a|free/JJ/I-NP/I-PNP/free|state/NN/I-NP/I-PNP/state|the/DT/B-NP/O/the|right/NN/I-NP/O/right|of/IN/I-PP/B-PNP/of|the/DT/I-NP/I-PNP/the|people/NNS/I-NP/I-PNP/people|to/TO/I-VP/O/to|keep/VB/I-VP/O/keep|and/CC/I-VP/O/and|bear/VB/I-VP/O/bear|arms/NNS/I-NP/O/arm|shall/MD/I-VP/O/shall|not/RB/I-VP/O/not|be/VB/I-VP/O/be|a/DT/I-NP/O/a|friendship/NN/I-NP/O/friendship
+20110107223106.950|20110107223116.869|SMT_01|0.171428571429|0.583928571429|second|0.0|0.0|necessary|0.0|1.0|free|0.4|0.8|right|0.285714285714|0.535714285714
+20110107223106.950|20110107223116.869|SMT_02|second|0.0|0.0|necessary|0.625|0.625|free|0.375|0.375|right|0.0|0.0
+END|20110107223123|2011-01-07_2231_US_CampaignAds_Frank_Guinta
