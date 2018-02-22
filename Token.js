@@ -4,24 +4,24 @@ class Token {
      * Token: {
      *      ' CONTENT ': "white house", // in lowercase
      *      variant1: {
-     *          doc1UID: # of mentions,
-     *          doc2UID: # of mentions,
+     *          doc1filename: # of mentions,
+     *          doc2filename: # of mentions,
      *          ' SCORE ': 123
      *      },
      *      variant2: {
-     *          doc3UID: # of mentions,
-     *          doc4UID: # of mentions,
+     *          doc3filename: # of mentions,
+     *          doc4filename: # of mentions,
      *          ' SCORE ': 123
      *      },
      *      ...
      *      variant50: {
-     *          doc99UID: # of mentions,
-     *          doc100UID: # of mentions,
+     *          doc99filename: # of mentions,
+     *          doc100filename: # of mentions,
      *          ' SCORE ': 123
      *      },
      *      ' UNKNOWN ': {  // transcripts whose text is all uppercase
-     *          doc101UID: # of mentions,
-     *          doc102UID: # of mentions,
+     *          doc101filename: # of mentions,
+     *          doc102filename: # of mentions,
      *          ' SCORE ': 123
      *      },
      *      ' SCORE ': 123
@@ -34,7 +34,7 @@ class Token {
         this[' SCORE '] = 0;
     }
 
-    addVariant( variant, srcNewsUid, mentions, isAllUpperCase ) {
+    addVariant( variant, srcFilename, mentions, isAllUpperCase ) {
         let originalVariant = variant;
         if ( isAllUpperCase ) {
             variant = ' UNKNOWN ';
@@ -43,10 +43,10 @@ class Token {
             this[variant] = {};
             this[variant][' SCORE '] = 0;
         }
-        if ( srcNewsUid in this[variant] ) {
-            console.log( `WARN:  Token.addVariant(variant=${originalVariant}, srcNewsUid=${srcNewsUid}):  srcNewsUid already exists. Ignored.` );
+        if ( srcFilename in this[variant] ) {
+            console.log( `WARN:  Token.addVariant(variant=${originalVariant}, srcFilename=${srcFilename}):  srcFilename already exists. Ignored.` );
         } else {
-            this[variant][srcNewsUid] = mentions;
+            this[variant][srcFilename] = mentions;
             this[variant][' SCORE ']++;
             this[' SCORE ']++;
         }
@@ -70,8 +70,8 @@ class Token {
                 continue;
             }
             news += Object.keys( this[option] ).length - 1;
-            for ( let UID in this[option] ) {
-                mentions += ( UID === ' SCORE ' ? 0 : this[option][UID] );
+            for ( let filename in this[option] ) {
+                mentions += ( filename === ' SCORE ' ? 0 : this[option][filename] );
             }
             if ( option !== ' UNKNOWN ' && this[option][' SCORE '] > bestScore ) {
                 variant = option;
@@ -103,14 +103,14 @@ class Token {
                     this[variant] = {};
                     this[variant][' SCORE '] = 0;
                 }
-                for ( let UID in other[variant] ) {
-                    if ( UID === ' SCORE ' ) {
-                        this[variant][UID] += other[variant][UID];
+                for ( let filename in other[variant] ) {
+                    if ( filename === ' SCORE ' ) {
+                        this[variant][filename] += other[variant][filename];
                     } else {
-                        if ( !( UID in this[variant] ) ) {
-                            this[variant][UID] = 0;
+                        if ( !( filename in this[variant] ) ) {
+                            this[variant][filename] = 0;
                         }
-                        this[variant][UID] += other[variant][UID];
+                        this[variant][filename] += other[variant][filename];
                     }
                 }
             }

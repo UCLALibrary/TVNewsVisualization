@@ -1,7 +1,7 @@
 const fs = require( 'fs' );
 const path = require( 'path' );
 const TokenExtractor = require( './TokenExtractor' );
-const LocationExtractor = require( './LocationExtractor' );
+const MapInfoExtractor = require( './MapInfoExtractor' );
 const express = require( 'express' );
 const app = express();
 
@@ -23,16 +23,16 @@ const getFileNames = ( root, ext, recursive ) => {
 }
 
 // Token
-let jsonFiles = getFileNames( './data/2011', '.json' );
+let jsonFiles = getFileNames( './data/', '.json' );
 let tokenExtractor = new TokenExtractor();
 tokenExtractor.extractMultiple( jsonFiles, true, true );
 let briefTokenList = tokenExtractor.exportBrief();
 // console.log( briefTokenList );
 
-// Location
+// Map information
 let segFiles = getFileNames( './data/', '.seg' );
-let locationExtractor = new LocationExtractor();
-locationExtractor.extractMultiple( segFiles, true, true );
+let mapInfoExtractor = new MapInfoExtractor();
+mapInfoExtractor.extractMultiple( segFiles, true, true );
 
 
 app.set( "port", process.env.PORT || 3001 );
@@ -46,7 +46,7 @@ app.get( "/api/tokenlist", ( req, res ) => {
 	res.json( briefTokenList );
 });
 
-app.get( "/api/location", ( req, res ) => {
+app.get( "/api/mapinfo", ( req, res ) => {
 	const param = req.query.q;
 
 	if ( !param ) {
@@ -54,8 +54,8 @@ app.get( "/api/location", ( req, res ) => {
 			error: "Missing required parameer `q`"
 		});
 	} else {
-		let UIDList = tokenExtractor.tokenList.getUIDsByTokens( JSON.parse( param ).tokens );
-		res.json( locationExtractor.locationList.getLocationsByUIDs( UIDList ) );
+		let filenames = tokenExtractor.tokenList.getFilenamesByTokens( JSON.parse( param ).tokens );
+		res.json( mapInfoExtractor.mapInfoList.getMapInfoByFilenames( filenames ) );
 	}
 });
 

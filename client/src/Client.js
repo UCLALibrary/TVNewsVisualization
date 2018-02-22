@@ -10,8 +10,8 @@ function getTokenList( cb ) {
 		.then( cb );
 }
 
-function getLocation( queryList, cb ) {
-	return fetch( `/api/location?q=${JSON.stringify( { tokens: queryList } )}`, {
+function getMapInfo( queryList, cb ) {
+	return fetch( `/api/mapinfo?q=${JSON.stringify( { tokens: queryList } )}`, {
 		accept: "application/json"
 	})
 		.then( _checkStatus )
@@ -34,5 +34,5 @@ function _parseJSON( response ) {
 	return response.json();
 }
 
-const Client = { getTokenList, getLocation };
+const Client = { getTokenList, getMapInfo };
 export default Client;

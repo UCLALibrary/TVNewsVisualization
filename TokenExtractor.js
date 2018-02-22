@@ -21,41 +21,21 @@ class TokensExtractor {
 	extract( filePath ) {
 		let contents = fs.readFileSync( filePath ).toString();
 		let startpos = 0, jsonStart = 0, jsonEnd = 0;
-		let UID = "", text = "";
+		let filename = "", text = "";
 
 		while ( true ) {
 			jsonStart = contents.indexOf( "{", startpos );
 			if (jsonStart < 0) break;
-			// if ( UID === "fa87bb16-c7b1-11e0-9bb3-001fc65c7848" && jsonStart === 34184 ) {
-			// 	jsonEnd = jsonStart + 132;
-			// } else if ( UID === "fa87bb16-c7b1-11e0-9bb3-001fc65c7848" && jsonStart === 38179 ) {
-			// 	jsonEnd = jsonStart + 122;
-			// } else if ( UID === "258ce714-c7b2-11e0-8f8a-001fc65c7848" && jsonStart === 97660 ) {
-			// 	jsonEnd = jsonStart + 110;
-			// } else if ( UID === "258ce714-c7b2-11e0-8f8a-001fc65c7848" && jsonStart === 99226 ) {
-			// 	jsonEnd = jsonStart + 124;
-			// } else if ( UID === "258ce714-c7b2-11e0-8f8a-001fc65c7848" && jsonStart === 106206 ) {
-			// 	jsonEnd = jsonStart + 108;
-			// } else if ( UID === "7b110550-1752-11e0-adc8-001517add6f2" && jsonStart === 236364 ) {
-			// 	jsonEnd = jsonStart + 134;
-			// } else if ( UID === "3955ea48-c7b7-11e0-8d24-001fc65c7848" && jsonStart === 6445 ) {
-			// 	jsonEnd = jsonStart + 109;
-			// } else if ( UID === "3955ea48-c7b7-11e0-8d24-001fc65c7848" && jsonStart === 44775 ) {
-			// 	jsonEnd = jsonStart + 975;
-			// } else if ( UID === "3955ea48-c7b7-11e0-8d24-001fc65c7848" && jsonStart === 49886 ) {
-			// 	jsonEnd = jsonStart + 111;
-			// } else {
-				jsonEnd = contents.indexOf( "}\n", startpos );
-			//}
+			jsonEnd = contents.indexOf( "}\n", startpos );
 			let fileLine = JSON.parse( contents.substring( jsonStart, jsonEnd + 1 ) );
 
-			if ( fileLine.UID ) {
-				if ( this.transcriptUIDs.includes( fileLine.UID ) ) {
+			if ( fileLine.Filename ) {
+				if ( this.transcriptFilenames.includes( fileLine.Filename ) ) {
 					console.log( `TokenExtractor: Ignored duplicate transcript ${filePath}` );
 					return null;
 				} else {
-					UID = fileLine.UID;
-					this.transcriptUIDs.push( UID );
+					filename = fileLine.Filename;
+					this.transcriptFilenames.push( filename );
 				}
 			}
 			if ( fileLine.Text ) text += fileLine.Text + " ";
@@ -85,14 +65,14 @@ class TokensExtractor {
 					let keyword = nlcstToString( keywordObj.matches[0].node );
 					if ( false /* || keyword in keyword stoplist */ ) return;
 					let lowercase = keyword.toLowerCase();
-					tokenList.addToken( keyword, UID, _this._getStat( text, keyword, false ), isAllUpperCase );
+					tokenList.addToken( keyword, filename, _this._getStat( text, keyword, false ), isAllUpperCase );
 				});
 				file.data.keyphrases.forEach( keyphraseObj => {
 					let keyphrase = keyphraseObj.matches[0].nodes.map(nlcstToString).join( '' );
 					if ( keyphrase in tokenList.keywords ||
 						!keyphrase.includes(' ') /* || keyphrase in keyphrase stoplist */ ) return;
 					let lowercase = keyphrase.toLowerCase();
-					tokenList.addToken( keyphrase, UID, _this._getStat( text, keyphrase, false ), isAllUpperCase );
+					tokenList.addToken( keyphrase, filename, _this._getStat( text, keyphrase, false ), isAllUpperCase );
 				});
 			});
 		console.log( `TokenExtractor: Process transcript ${filePath} done` );
@@ -115,7 +95,7 @@ class TokensExtractor {
 	}
 
 	reset() {
-		this.transcriptUIDs = [];
+		this.transcriptFilenames = [];
 		this.tokenList = new TokenList();
 	}
 

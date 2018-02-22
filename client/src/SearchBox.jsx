@@ -61,7 +61,7 @@ class SearchBox extends Component {
 
     handleButtonSearch = () => {
         console.log( 'handleButtonSearch' );
-        Client.getLocation( this.state.selected, response => {
+        Client.getMapInfo( this.state.selected, response => {
             console.log( response );
         })
     }

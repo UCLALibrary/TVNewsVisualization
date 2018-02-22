@@ -10,24 +10,24 @@ class TokenList {
      *          word1: {    // same as ' CONTENT '
      *              ' CONTENT ': "white house", // in lowercase
      *              variant1: {
-     *                  doc1UID: # of mentions,
-     *                  doc2UID: # of mentions,
+     *                  doc1filename: # of mentions,
+     *                  doc2filename: # of mentions,
      *                  ' SCORE ': 123
      *              },
      *              variant2: {
-     *                  doc3UID: # of mentions,
-     *                  doc4UID: # of mentions,
+     *                  doc3filename: # of mentions,
+     *                  doc4filename: # of mentions,
      *                  ' SCORE ': 123
      *              },
      *              ...
      *              variant50: {
-     *                  doc99UID: # of mentions,
-     *                  doc100UID: # of mentions,
+     *                  doc99filename: # of mentions,
+     *                  doc100filename: # of mentions,
      *                  ' SCORE ': 123
      *              },
      *              ' UNKNOWN ': {  // transcripts whose text is all uppercase 
-     *                  doc101UID: # of mentions,
-     *                  doc102UID: # of mentions,
+     *                  doc101filename: # of mentions,
+     *                  doc102filename: # of mentions,
      *                  ' SCORE ': 123
      *              },
      *              ' SCORE ': 123
@@ -49,7 +49,7 @@ class TokenList {
         this.keyphrases = {};
     }
 
-    addToken( variant, srcNewsUid, mentions, isAllUpperCase ) {
+    addToken( variant, srcFilename, mentions, isAllUpperCase ) {
         let type = variant.includes( ' ' ) ? "keyphrases" : "keywords";
         let lowercase = variant.toLowerCase();
         if ( lowercase === "constructor" ) {
@@ -60,7 +60,7 @@ class TokenList {
         if ( !( lowercase in this[type] ) ) {
             this[type][lowercase] = new Token( lowercase );
         }
-        this[type][lowercase].addVariant( variant, srcNewsUid, mentions, isAllUpperCase );
+        this[type][lowercase].addVariant( variant, srcFilename, mentions, isAllUpperCase );
     }
 
     /**
@@ -110,31 +110,32 @@ class TokenList {
      * 
      * @param {String} token 
      */
-    getUIDsByToken( token ) {
+    getFilenamesByToken( token ) {
         let type = token.includes( ' ' ) ? "keyphrases" : "keywords";
         let lowercase = token.toLowerCase();
-        let UIDList = [];
+        let filenames = [];
         if ( !( lowercase in this[type] ) )
-            return UIDList;
+            return filenames;
         for ( let variant in this[type][lowercase] ) {            
             if ( variant === ' CONTENT ' || variant === ' SCORE ' )
                 continue;
-            Object.keys( this[type][lowercase][variant] ).forEach( UID => {
-                if ( UID !== ' SCORE ' )
-                    UIDList.push( UID );
+            Object.keys( this[type][lowercase][variant] ).forEach( filename => {
+                if ( filename !== ' SCORE ' ) {
+                    filenames.push( filename );
+                }
             }) 
         }
-        return UIDList;
+        return filenames;
     }
 
     /**
      * 
      * @param {Array of String} tokens 
      */
-    getUIDsByTokens( tokens ) {
-        let UIDList = [];
-        tokens.forEach( token => UIDList = UIDList.concat( this.getUIDsByToken( token ) ) );        
-        return UIDList;
+    getFilenamesByTokens( tokens ) {
+        let filenames = [];
+        tokens.forEach( token => filenames = filenames.concat( this.getFilenamesByToken( token ) ) );        
+        return filenames;
     }
 
     mergeFrom( other ) {
