@@ -28,12 +28,10 @@ Go to browser : localhost:3000
 - hide "more results" after all being shown
 
 ### Server
-- Provide urls for the map to link to
 - Make two stopword lists for keywords and keyphrases.
 - If same score, sort by alphabetical order
 - Speed becomes slow at the end when running on data of 2 months. Error message:
 "allocation failure GC in old space requested". Extracting locations from 2 months data but key tokens only from 2011/01 takes 7'08'',
-- Wow, that's funny. Those are consecutive recordings on the same channel, so perhaps they were initially one recording that was later split into 2. Still, I think it would be preferable to use the actual date_time_country_channel_network_show name as the unique ID for each recording, rather than the UID -- the former is more likely to be truly unique, apparently!
 
 ## Data change log
 

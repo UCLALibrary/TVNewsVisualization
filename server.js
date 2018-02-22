@@ -23,14 +23,14 @@ const getFileNames = ( root, ext, recursive ) => {
 }
 
 // Token
-let jsonFiles = getFileNames( './data/', '.json' );
+let jsonFiles = getFileNames( './data/2011/2011-01/2011-01-01/', '.json' );
 let tokenExtractor = new TokenExtractor();
 tokenExtractor.extractMultiple( jsonFiles, true, true );
 let briefTokenList = tokenExtractor.exportBrief();
 // console.log( briefTokenList );
 
 // Map information
-let segFiles = getFileNames( './data/', '.seg' );
+let segFiles = getFileNames( './data/2011/2011-01/2011-01-01/', '.seg' );
 let mapInfoExtractor = new MapInfoExtractor();
 mapInfoExtractor.extractMultiple( segFiles, true, true );
 

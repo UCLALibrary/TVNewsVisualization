@@ -4,6 +4,7 @@ const retext_keywords = require( 'retext-keywords' );
 const nlcstToString = require( 'nlcst-to-string' );
 
 const TokenList = require( './TokenList' );
+const Stoplist = require( './Stoplist.js' );
 
 /**
  * Extract tokens from .json transcripts.
@@ -63,15 +64,18 @@ class TokensExtractor {
 				if ( err ) throw err;
 				file.data.keywords.forEach( keywordObj => {
 					let keyword = nlcstToString( keywordObj.matches[0].node );
-					if ( false /* || keyword in keyword stoplist */ ) return;
+					if ( Stoplist.perfectMatchWords.indexOf( keyword ) > -1 ) return;
 					let lowercase = keyword.toLowerCase();
+					if ( Stoplist.keywords.indexOf( lowercase ) > -1 ) return;
 					tokenList.addToken( keyword, filename, _this._getStat( text, keyword, false ), isAllUpperCase );
 				});
 				file.data.keyphrases.forEach( keyphraseObj => {
 					let keyphrase = keyphraseObj.matches[0].nodes.map(nlcstToString).join( '' );
 					if ( keyphrase in tokenList.keywords ||
-						!keyphrase.includes(' ') /* || keyphrase in keyphrase stoplist */ ) return;
+						!keyphrase.includes(' ') ||
+						Stoplist.perfectMatchPhrases.indexOf( keyword ) > -1 ) return;
 					let lowercase = keyphrase.toLowerCase();
+					if ( Stoplist.keywords.indexOf( lowercase ) > -1 ) return;
 					tokenList.addToken( keyphrase, filename, _this._getStat( text, keyphrase, false ), isAllUpperCase );
 				});
 			});
