@@ -21,6 +21,8 @@ class TokensExtractor {
 
 	extract( filePath ) {
 		let contents = fs.readFileSync( filePath ).toString();
+		contents = contents.replace(/\r\n/, "\n");
+
 		let startpos = 0, jsonStart = 0, jsonEnd = 0;
 		let filename = "", text = "";
 

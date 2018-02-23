@@ -1,23 +1,64 @@
 # TVNewsVisualization
+
 This is the main repo for the BuildUCLA web team's project to build data visualizations around the NewsScape collection of digitized television news broadcasts.
 
 ## Install & Run
 
+- Clone the repository
 ```
 git clone https://github.com/UCLALibrary/TVNewsVisualization.git
 cd TVNewsVisualization
-npm install react-scripts
+```
+
+- Install npm and node
+
+- Install node modules for the server
+```
+npm install
+```
+
+- Install node modules for the client
+```
+cd client/ && npm install && cd ..
+```
+
+- Concurrently run the server (at localhost:3001) and the client (at localhost:3000)
+```
 npm start
 ```
 
-Server and client are concurrently running. Server running at localhost:3001, client running at localhost:3000
+- Go to browser, localhost:3000
 
-Go to browser : localhost:3000
+You can also run server only (`npm run server`) or run client only (`npm run client`). See ./package.json for more details. For now, when client side code is changed and saved, the running client recompiles automatically, but manually recompiling is required after server side code is modified.
 
 ## Stack
 
- 
-[Gisgraphy](http://www.gisgraphy.com/)
+- Front-end: [ReactJS](https://reactjs.org), [Ant Design](https://ant.design)
+- Back-end: [NodeJS](https://nodejs.org/en/), [retext-keywords](https://github.com/retextjs/retext-keywords), [Gisgraphy](http://www.gisgraphy.com/)
+
+## File Structure
+
+Source code for client is in ./client/src. Source code for server, except ./server.js, is in ./src.
+```
+├── client
+│   ├── public
+│   │   ├── index.html          # html web page
+│   │   └── ...
+│   ├── src                     # source code for client
+│   │   ├── App.jsx
+│   │   ├── Client.js
+│   │   ├── index.js
+│   │   ├── SearchBox.jsx
+│   │   └── ...
+│   └── ...
+├── data
+├── src                         # source code for server
+│   ├── MapInfoExtractor.js     # extract information for the map from .seg transcripts
+│   ├── Stoplist.js             # lists of stop words and phrases, to improve token extraction
+│   ├── TokenExtractor.js       # extract tokens from .json transcripts.
+│   └── ...
+└── server.js                   # main code for the server
+```
 
 ## TODO:
 
@@ -30,18 +71,9 @@ Go to browser : localhost:3000
 - If same score, sort by alphabetical order
 - Speed becomes slow at the end when running on data of 2 months. Error message:
 "allocation failure GC in old space requested". Extracting locations from 2 months data but key tokens only from 2011/01 takes 7'08'',
-- TokensExtractor: line 30 \r\n
-- Code restructure and node modules removed from repo
-- Write doc
 - Page design
 - gisgraphy (no results for "hawaii", need hardcode. What about query google first response
-- enable hot recompile on server side
 - make sure things are cached
-
-
-## Data change log
-
-Add escapes (`"`=> `\"`) to the "Headlines" (usually line 8) in many .json files in ./data/
 
 ### From Slack
 - alter the size of the square on the map based on the keyword's frequency in the time frame of a couple of days
@@ -55,4 +87,6 @@ It can be challenging to associate region references to actual polygons on the m
 
 ### Note
 
-A few json files in the sample transcript data didn’t add escapes before quotes when they are generated from txt files, so that when trying to parse the json object it reports an error. Most of the mistakes occur in the “Headlines” part of a transcript. I have corrected all these errors and I will include this change in the readme. It should be easy to avoid these in the future.
+A few json files in the sample transcript data didn’t add escapes before quotes when they are generated from txt files, so that when trying to parse the json object it reports an error. Most of the mistakes occur in the “Headlines” part of a transcript. It should be easy to avoid these in the future.
+
+Add .json files in ./data/ have been corrected.
