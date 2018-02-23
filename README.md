@@ -31,8 +31,7 @@ Go to browser : localhost:3000
 - Speed becomes slow at the end when running on data of 2 months. Error message:
 "allocation failure GC in old space requested". Extracting locations from 2 months data but key tokens only from 2011/01 takes 7'08'',
 - TokensExtractor: line 30 \r\n
-- restructure (server dir)
-- delete node modules from repo (don't track them later as well)
+- Code restructure and node modules removed from repo
 - Write doc
 - Page design
 - gisgraphy (no results for "hawaii", need hardcode. What about query google first response
