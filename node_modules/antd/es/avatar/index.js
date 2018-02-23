@@ -80,7 +80,7 @@ var Avatar = function (_React$Component) {
                 className = _a.className,
                 others = __rest(_a, ["prefixCls", "shape", "size", "src", "icon", "className"]);
             var sizeCls = classNames((_classNames = {}, _defineProperty(_classNames, prefixCls + '-lg', size === 'large'), _defineProperty(_classNames, prefixCls + '-sm', size === 'small'), _classNames));
-            var classString = classNames(prefixCls, className, sizeCls, (_classNames2 = {}, _defineProperty(_classNames2, prefixCls + '-' + shape, shape), _defineProperty(_classNames2, prefixCls + '-image', src), _defineProperty(_classNames2, prefixCls + '-icon', icon), _classNames2));
+            var classString = classNames(prefixCls, className, sizeCls, (_classNames2 = {}, _defineProperty(_classNames2, prefixCls + '-' + shape, shape), _defineProperty(_classNames2, prefixCls + '-image', src && this.state.isImgExist), _defineProperty(_classNames2, prefixCls + '-icon', icon), _classNames2));
             var children = this.props.children;
             if (src && this.state.isImgExist) {
                 children = React.createElement('img', { src: src, onError: this.handleImgLoadError });

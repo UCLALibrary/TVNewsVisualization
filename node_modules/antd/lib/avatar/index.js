@@ -120,7 +120,7 @@ var Avatar = function (_React$Component) {
                 className = _a.className,
                 others = __rest(_a, ["prefixCls", "shape", "size", "src", "icon", "className"]);
             var sizeCls = (0, _classnames2['default'])((_classNames = {}, (0, _defineProperty3['default'])(_classNames, prefixCls + '-lg', size === 'large'), (0, _defineProperty3['default'])(_classNames, prefixCls + '-sm', size === 'small'), _classNames));
-            var classString = (0, _classnames2['default'])(prefixCls, className, sizeCls, (_classNames2 = {}, (0, _defineProperty3['default'])(_classNames2, prefixCls + '-' + shape, shape), (0, _defineProperty3['default'])(_classNames2, prefixCls + '-image', src), (0, _defineProperty3['default'])(_classNames2, prefixCls + '-icon', icon), _classNames2));
+            var classString = (0, _classnames2['default'])(prefixCls, className, sizeCls, (_classNames2 = {}, (0, _defineProperty3['default'])(_classNames2, prefixCls + '-' + shape, shape), (0, _defineProperty3['default'])(_classNames2, prefixCls + '-image', src && this.state.isImgExist), (0, _defineProperty3['default'])(_classNames2, prefixCls + '-icon', icon), _classNames2));
             var children = this.props.children;
             if (src && this.state.isImgExist) {
                 children = React.createElement('img', { src: src, onError: this.handleImgLoadError });

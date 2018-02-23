@@ -7,15 +7,12 @@
     "babel-core": "6.14.0",
     "create-react-app": "^1.5.2",
     "express": "4.13.3",
-    "fast-csv": "^2.4.1",
     "fs": "0.0.2",
     "node-rake": "^1.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "retext": "^5.0.0",
-    "retext-keywords": "^4.0.1",
-    "sql.js": "0.3.2",
-    "to-vfile": "^2.2.0"
+    "retext-keywords": "^4.0.1"
   },
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",

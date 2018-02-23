@@ -1,10 +1,11 @@
 const fs = require( 'fs' );
 const path = require( 'path' );
-const TokenExtractor = require( './TokenExtractor' );
-const MapInfoExtractor = require( './MapInfoExtractor' );
+const TokenExtractor = require( './src/TokenExtractor' );
+const MapInfoExtractor = require( './src/MapInfoExtractor' );
 const express = require( 'express' );
-const app = express();
 
+
+// Utility functions
 const read = ( dir ) =>
 	fs.readdirSync( dir ).reduce( ( files, file ) =>
 		fs.statSync( path.join( dir, file ) ).isDirectory() ?
@@ -22,19 +23,23 @@ const getFileNames = ( root, ext, recursive ) => {
 	return result;
 }
 
-// Token
+
+// Cache tokens
 let jsonFiles = getFileNames( './data/2011/2011-01/2011-01-01/', '.json' );
 let tokenExtractor = new TokenExtractor();
 tokenExtractor.extractMultiple( jsonFiles, true, true );
 let briefTokenList = tokenExtractor.exportBrief();
 // console.log( briefTokenList );
 
-// Map information
+
+// Cache map information
 let segFiles = getFileNames( './data/2011/2011-01/2011-01-01/', '.seg' );
 let mapInfoExtractor = new MapInfoExtractor();
 mapInfoExtractor.extractMultiple( segFiles, true, true );
 
 
+// Express stuff
+const app = express();
 app.set( "port", process.env.PORT || 3001 );
 
 // Express only serves static assets in production

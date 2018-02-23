@@ -90,16 +90,14 @@ var UploadList = function (_React$Component) {
                 var progress = void 0;
                 var icon = React.createElement(Icon, { type: file.status === 'uploading' ? 'loading' : 'paper-clip' });
                 if (listType === 'picture' || listType === 'picture-card') {
-                    if (file.status === 'uploading' || !file.thumbUrl && !file.url) {
-                        if (listType === 'picture-card') {
-                            icon = React.createElement(
-                                'div',
-                                { className: prefixCls + '-list-item-uploading-text' },
-                                locale.uploading
-                            );
-                        } else {
-                            icon = React.createElement(Icon, { className: prefixCls + '-list-item-thumbnail', type: 'picture' });
-                        }
+                    if (listType === 'picture-card' && file.status === 'uploading') {
+                        icon = React.createElement(
+                            'div',
+                            { className: prefixCls + '-list-item-uploading-text' },
+                            locale.uploading
+                        );
+                    } else if (!file.thumbUrl && !file.url) {
+                        icon = React.createElement(Icon, { className: prefixCls + '-list-item-thumbnail', type: 'picture' });
                     } else {
                         icon = React.createElement(
                             'a',

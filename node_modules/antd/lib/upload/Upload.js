@@ -40,6 +40,10 @@ var _classnames = require('classnames');
 
 var _classnames2 = _interopRequireDefault(_classnames);
 
+var _lodash = require('lodash.uniqby');
+
+var _lodash2 = _interopRequireDefault(_lodash);
+
 var _LocaleReceiver = require('../locale-provider/LocaleReceiver');
 
 var _LocaleReceiver2 = _interopRequireDefault(_LocaleReceiver);
@@ -137,9 +141,7 @@ var Upload = function (_React$Component) {
             _this.handleRemove(file);
         };
         _this.onChange = function (info) {
-            var updateState = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : true;
-
-            if (!('fileList' in _this.props) && updateState) {
+            if (!('fileList' in _this.props)) {
                 _this.setState({ fileList: info.fileList });
             }
             var onChange = _this.props.onChange;
@@ -161,8 +163,10 @@ var Upload = function (_React$Component) {
             if (result === false) {
                 _this.onChange({
                     file: file,
-                    fileList: fileList
-                }, false);
+                    fileList: (0, _lodash2['default'])(fileList.concat(_this.state.fileList), function (item) {
+                        return item.uid;
+                    })
+                });
                 return false;
             } else if (result && result.then) {
                 return result;

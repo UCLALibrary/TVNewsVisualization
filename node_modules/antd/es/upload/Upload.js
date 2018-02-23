@@ -7,6 +7,7 @@ import _inherits from 'babel-runtime/helpers/inherits';
 import * as React from 'react';
 import RcUpload from 'rc-upload';
 import classNames from 'classnames';
+import uniqBy from 'lodash.uniqby';
 import LocaleReceiver from '../locale-provider/LocaleReceiver';
 import defaultLocale from '../locale-provider/default';
 import UploadList from './UploadList';
@@ -91,9 +92,7 @@ var Upload = function (_React$Component) {
             _this.handleRemove(file);
         };
         _this.onChange = function (info) {
-            var updateState = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : true;
-
-            if (!('fileList' in _this.props) && updateState) {
+            if (!('fileList' in _this.props)) {
                 _this.setState({ fileList: info.fileList });
             }
             var onChange = _this.props.onChange;
@@ -115,8 +114,10 @@ var Upload = function (_React$Component) {
             if (result === false) {
                 _this.onChange({
                     file: file,
-                    fileList: fileList
-                }, false);
+                    fileList: uniqBy(fileList.concat(_this.state.fileList), function (item) {
+                        return item.uid;
+                    })
+                });
                 return false;
             } else if (result && result.then) {
                 return result;
