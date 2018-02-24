@@ -1,32 +1,64 @@
 @import '~antd/dist/antd.css';
 
 .App {
-  text-align: center;
-  margin-left: 100px;
-  margin-top: 50px;
+	text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+/* Header */
+.ant-layout-header {
+	width: 100%;
+	z-Index: 999;
+	background: #fff;
+	height: 48px;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+/* Header menu */
+.ant-menu {
+	/* line-height: 64px; */
+	width: 100%
 }
 
-.App-title {
-  font-size: 1.5em;
+/* Layout for content and sider */
+.middle-layout {
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	padding: 48px 0 48px 0;
 }
 
-.App-intro {
-  font-size: large;
+/* Content */
+.ant-layout-content {
+	background: rgb(200, 248, 207);
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+/* Sider */
+.ant-layout-sider {
+	right: 0;
+	flex: initial;
+	background: #fff;
+	width: 540px;
+	height: 100%;
+	overflow: scroll;
+	padding: 20px 20px 0 20px
+}
+
+/* Wrapper of all cards in Sider */
+.search-results-wrapper {
+	height: 90%;
+	overflow: scroll;
+	margin-top: 24px;
+}
+
+/* Card in Sider */
+.ant-card {
+	margin-bottom: 16px;
+}
+
+.ant-layout-footer {
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	width: 100%;
+	height: 48px;
+	padding-top: 16px;
 }

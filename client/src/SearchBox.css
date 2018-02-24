@@ -1,16 +1,16 @@
 .search-wrapper {
-    width: 500px;
+    width: 100%;
 }
 
 .search.ant-select-focused .search-icon {
     color: #108ee9;
 }
 
-/* .search-dropdown .ant-select-dropdown-menu-item-group-title {
+.search-dropdown .ant-select-dropdown-menu-item-group-title {
     color: #666;
     font-weight: bold;
 }
-
+/* 
 .search-dropdown .ant-select-dropdown-menu-item-group {
     border-bottom: 10px solid #F6F6F6;
 } */
