@@ -73,8 +73,8 @@ Source code for client is in ./client/src. Source code for server, except ./serv
 - If same score, sort by alphabetical order
 - Speed becomes slow at the end when running on data of 2 months. Error message:
 "allocation failure GC in old space requested". Extracting locations from 2 months data but key tokens only from 2011/01 takes 7'08'',
-- gisgraphy (no results for "hawaii", need hardcode. What about query google first response
 - make sure things are cached
+- What to do if no location in a transcript? Currently ignore that transcript.
 
 ### From Slack
 - alter the size of the square on the map based on the keyword's frequency in the time frame of a couple of days

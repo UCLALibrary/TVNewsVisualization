@@ -60,7 +60,10 @@ app.get( "/api/mapinfo", ( req, res ) => {
 		});
 	} else {
 		let filenames = tokenExtractor.tokenList.getFilenamesByTokens( JSON.parse( param ).tokens );
-		res.json( mapInfoExtractor.mapInfoList.getMapInfoByFilenames( filenames ) );
+		mapInfoExtractor.mapInfoList.getMapInfoByFilenames( filenames, 
+			mapInfo => res.json( mapInfo ) );
+		
+		
 	}
 });
 
