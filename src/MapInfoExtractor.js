@@ -2,6 +2,7 @@ const fs = require( 'fs' );
 const retext = require( 'retext' );
 const retext_keywords = require( 'retext-keywords' );
 const nlcstToString = require( 'nlcst-to-string' );
+const log = require( 'single-line-log' ).stdout;
 
 const MapInfoList = require( './MapInfoList' );
 
@@ -24,8 +25,7 @@ class MapInfoExtractor {
 		let filename = contents.substring( filenameStart, endOfLine );
 
 		if ( this.transcriptFilenames.includes( filename ) ) {
-			console.log( `MapInfoExtractor: Ignored duplicate transcript ${filePath}` );
-			return;
+			return null;
 		} else {
 			this.transcriptFilenames.push( filename );
 		}
@@ -51,7 +51,6 @@ class MapInfoExtractor {
 			}
 		}		
 
-		console.log( `MapInfoExtractor: Process transcript ${filePath} done` );
 		return {
 			filename: filename,
 			locations: locations
@@ -63,14 +62,30 @@ class MapInfoExtractor {
 		merge = merge || true;
 		if ( reset ) this.reset();
 		let mapInfoList = new MapInfoList();
+		let total = filePathList.length, success = 0;
+		let ignoredFiles = [];
+		console.log(total + '\n');
 		filePathList.forEach( filePath => {
-			let retVal = this.extract( filePath );
-			mapInfoList.setLocation( retVal.filename, retVal.locations );
+			let ret = this.extract( filePath );
+			if ( ret ) {
+				mapInfoList.setLocation( ret.filename, ret.locations );
+				success++;
+			} else {
+				total--;
+				ignoredFiles.push( filePath );
+			}
+			log( `MapInfoExtractor: Processing transcripts, ${success}/${total} done.\n` );
 		});
+		console.log( `MapInfoExtractor: ${ignoredFiles.length} transcripts ignored due to duplication` );
+		ignoredFiles.forEach( fn => console.log( `\t${fn}` ));
 		if ( merge ) {
 			this.mapInfoList.mergeFrom( mapInfoList );
 		}
 		return mapInfoList;
+
+
+		
+		
 	}
 
 	reset() {

@@ -2,6 +2,7 @@ const fs = require( 'fs' );
 const retext = require( 'retext' );
 const retext_keywords = require( 'retext-keywords' );
 const nlcstToString = require( 'nlcst-to-string' );
+const log = require( 'single-line-log' ).stdout;
 
 const TokenList = require( './TokenList' );
 const Stoplist = require( './Stoplist.js' );
@@ -34,7 +35,6 @@ class TokensExtractor {
 
 			if ( fileLine.Filename ) {
 				if ( this.transcriptFilenames.includes( fileLine.Filename ) ) {
-					console.log( `TokenExtractor: Ignored duplicate transcript ${filePath}` );
 					return null;
 				} else {
 					filename = fileLine.Filename;
@@ -81,7 +81,6 @@ class TokensExtractor {
 					tokenList.addToken( keyphrase, filename, _this._getStat( text, keyphrase, false ), isAllUpperCase );
 				});
 			});
-		console.log( `TokenExtractor: Process transcript ${filePath} done` );
 		return tokenList;
 	}
 
@@ -90,10 +89,21 @@ class TokensExtractor {
 		merge = merge || true;
 		if ( reset ) this.reset();
 		let tokenList = new TokenList();
+		let total = filePathList.length, success = 0;
+		let ignoredFiles = [];
 		filePathList.forEach( filePath => {
 			let ret = this.extract( filePath );
-			if ( ret ) tokenList.mergeFrom( ret );
-		 } );
+			if ( ret ) {
+				tokenList.mergeFrom( ret );
+				success++;
+			} else {
+				total--;
+				ignoredFiles.push( filePath );
+			}
+			log( `TokenExtractor: Processing transcripts, ${success}/${total} done.\n` );
+		} );
+		console.log( `TokenExtractor: ${ignoredFiles.length} transcripts ignored due to duplication\n` );
+		ignoredFiles.forEach( fn => console.log( `\t${fn}` ));
 		if ( merge ) {
 			this.tokenList.mergeFrom( tokenList );
 		}

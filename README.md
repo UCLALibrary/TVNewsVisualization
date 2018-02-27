@@ -72,7 +72,8 @@ Source code for client is in ./client/src. Source code for server, except ./serv
 - Make two stopword lists for keywords and keyphrases.
 - If same score, sort by alphabetical order
 - Speed becomes slow at the end when running on data of 2 months. Error message:
-"allocation failure GC in old space requested". Extracting locations from 2 months data but key tokens only from 2011/01 takes 7'08'',
+"allocation failure GC in old space requested". Extracting locations from 2 months data but key tokens only from 2011/01 takes 7'08''.
+Update (2/27/2018): changed log message to single line log. No more such error message, but when running on 2-month data with retext_keywords maximum = Infinity, got stuck after TokenExtractor finished all transcripts. Setting maximum = 10 solved this but still not scalable. Consider using files.
 - make sure things are cached
 - What to do if no location in a transcript? Currently ignore that transcript.
 
