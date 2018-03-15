@@ -4,6 +4,7 @@ const retext_keywords = require( 'retext-keywords' );
 const nlcstToString = require( 'nlcst-to-string' );
 const log = require( 'single-line-log' ).stdout;
 
+const Token = require( './Token' );
 const TokenList = require( './TokenList' );
 const Stoplist = require( './Stoplist.js' );
 
@@ -12,25 +13,72 @@ const Stoplist = require( './Stoplist.js' );
  */
 class TokensExtractor {
 
-	constructor() {
-		this.reset();
+	constructor( resetDir ) {
+		this.reset( resetDir );
 	}
 
 	exportBrief() {
-		return this.tokenList.exportBrief();
+		// keywords
+		let keywords = [];
+        for ( let code = 'a'.charCodeAt( 0 ); code <= 'z'.charCodeAt( 0 ); code++ ) {
+            let letter = String.fromCharCode( code );
+			let file = this.keywordsDir + letter + '.json';
+			let keywordsMap = fs.readFileSync( file ).toString();
+			keywordsMap = ( keywordsMap === "" ) ? {} : JSON.parse( keywordsMap );
+			for ( let word in keywordsMap ) {
+				let brief = null;
+				try {
+					brief = keywordsMap[word].exportBrief()
+				} catch( error ) {
+					let token = new Token( word );
+					for ( let key in keywordsMap[word] ) {
+						token[key] = keywordsMap[word][key];
+					}
+					brief = token.exportBrief()
+				}
+				keywords.push( brief );
+			}
+		}
+		keywords.sort( ( a, b ) => b.score - a.score );
+		// keyphrases
+        let keyphrases = [];
+        for ( let code = 'a'.charCodeAt( 0 ); code <= 'z'.charCodeAt( 0 ); code++ ) {
+            let letter = String.fromCharCode( code );
+			let file = this.keyphrasesDir + letter + '.json';
+			let keyphrasesMap = fs.readFileSync( file ).toString();
+			keyphrasesMap = ( keyphrasesMap === "" ) ? {} : JSON.parse( keyphrasesMap );
+			for ( let phrase in keyphrasesMap ) {
+				let brief = null;
+				try {
+					brief = keyphrasesMap[phrase].exportBrief()
+				} catch( error ) {
+					let token = new Token( phrase );
+					for ( let key in keyphrasesMap[phrase] ) {
+						token[key] = keyphrasesMap[phrase][key];
+					}
+					brief = token.exportBrief()
+				}
+				keyphrases.push( brief );
+			}
+		}
+        keyphrases.sort( ( a, b ) => b.score - a.score );
+        return {
+            keywords: keywords,
+            keyphrases: keyphrases
+		}
 	}
 
 	extract( filePath ) {
 		let contents = fs.readFileSync( filePath ).toString();
-		contents = contents.replace(/\r\n/, "\n");
+		contents = contents.replace(/\r\n/, '\n');
 
 		let startpos = 0, jsonStart = 0, jsonEnd = 0;
-		let filename = "", text = "";
+		let filename = '', text = '';
 
 		while ( true ) {
-			jsonStart = contents.indexOf( "{", startpos );
+			jsonStart = contents.indexOf( '{', startpos );
 			if (jsonStart < 0) break;
-			jsonEnd = contents.indexOf( "}\n", startpos );
+			jsonEnd = contents.indexOf( '}\n', startpos );
 			let fileLine = JSON.parse( contents.substring( jsonStart, jsonEnd + 1 ) );
 
 			if ( fileLine.Filename ) {
@@ -41,12 +89,12 @@ class TokensExtractor {
 					this.transcriptFilenames.push( filename );
 				}
 			}
-			if ( fileLine.Text ) text += fileLine.Text + " ";
+			if ( fileLine.Text ) text += fileLine.Text + ' ';
 
 			startpos = jsonEnd + 1;
 		}
 		// remove extra spaces
-		text = text.replace( /\s+/g,' ' ).trim();
+		text = text.replace( /\s+/g, ' ' ).trim();
 		// If we also lowercase text here, the result will be different even ignoring the case.
 		let upperCount = 0, lowerCount = 0;
 		for ( let i = 0; i < text.length; i++ ) {
@@ -61,7 +109,7 @@ class TokensExtractor {
 		let tokenList = new TokenList();
 		let _this = this;
 		retext()
-			.use( retext_keywords, { maximum: Infinity } )
+			.use( retext_keywords, { maximum: 30 } )
 			.process( text, ( err, file ) => {
 				if ( err ) throw err;
 				file.data.keywords.forEach( keywordObj => {
@@ -77,24 +125,22 @@ class TokensExtractor {
 						!keyphrase.includes(' ') ||
 						Stoplist.perfectMatchPhrases.indexOf( keyphrase ) > -1 ) return;
 					let lowercase = keyphrase.toLowerCase();
-					if ( Stoplist.keywords.indexOf( lowercase ) > -1 ) return;
+					if ( Stoplist.keyphrases.indexOf( lowercase ) > -1 ) return;
 					tokenList.addToken( keyphrase, filename, _this._getStat( text, keyphrase, false ), isAllUpperCase );
 				});
 			});
 		return tokenList;
 	}
 
-	extractMultiple( filePathList, reset, merge ) {
+	extractMultiple( filePathList, reset ) {
 		reset = reset || false;
-		merge = merge || true;
 		if ( reset ) this.reset();
-		let tokenList = new TokenList();
 		let total = filePathList.length, success = 0;
 		let ignoredFiles = [];
 		filePathList.forEach( filePath => {
-			let ret = this.extract( filePath );
-			if ( ret ) {
-				tokenList.mergeFrom( ret );
+			let tokenList = this.extract( filePath );
+			if ( tokenList ) {
+				tokenList.mergeTo( this.keywordsDir, this.keyphrasesDir );
 				success++;
 			} else {
 				total--;
@@ -104,15 +150,64 @@ class TokensExtractor {
 		} );
 		console.log( `TokenExtractor: ${ignoredFiles.length} transcripts ignored due to duplication\n` );
 		ignoredFiles.forEach( fn => console.log( `\t${fn}` ));
-		if ( merge ) {
-			this.tokenList.mergeFrom( tokenList );
-		}
-		return tokenList;
 	}
 
-	reset() {
+	/**
+     * 
+     * @param {String} token 
+     */
+    getFilenamesByToken( token ) {
+		let filenames = [];
+
+        let dir = token.includes( ' ' ) ? this.keyphrasesDir : this.keywordsDir;
+		let lowercase = token.toLowerCase();
+		let letter = lowercase.charAt( 0 );
+		let file = dir + letter + '.json';
+		let content = fs.readFileSync( file ).toString();                
+		if ( content === "" ) {
+			return filenames;
+		} else {
+			content = JSON.parse( content );
+			if ( !( lowercase in content ) ) {
+				return filenames;
+			}
+			for ( let variant in content[lowercase] ) {            
+				if ( variant === ' CONTENT ' || variant === ' SCORE ' )
+					continue;
+				Object.keys( content[lowercase][variant] ).forEach( filename => {
+					if ( filename !== ' SCORE ' ) {
+						filenames.push( filename );
+					}
+				}) 
+			}
+		}
+
+		return filenames;
+    }
+
+    /**
+     * 
+     * @param {Array of String} tokens 
+     */
+    getFilenamesByTokens( tokens ) {
+        let filenames = [];
+        tokens.forEach( token => {
+			this.getFilenamesByToken( token ).forEach( filename => {
+				if ( !( filename in filenames ) )
+					filenames.push( filename );
+			});
+		});
+        return filenames;
+    }
+
+	reset( resetDir ) {
 		this.transcriptFilenames = [];
-		this.tokenList = new TokenList();
+		this.keywordsDir = './compiled_data/keywords/';
+		this.keyphrasesDir = './compiled_data/keyphrases/';
+		if ( resetDir ) {
+			this._resetDir( this.keywordsDir );
+			this._resetDir( this.keyphrasesDir );
+		}
 	}
 
 	_getStat( text, word, allowOverlapping ) {
@@ -132,6 +227,21 @@ class TokensExtractor {
 
 		return count;
 	}
+
+	// remove all files in keywordsDir and keyphrasesDir
+	_resetDir( dirPath ) {
+		let files = fs.readdirSync( dirPath );
+		for ( let i = 0; i < files.length; i++ ) {
+			let filePath = dirPath + '/' + files[i];
+			if ( fs.statSync( filePath ).isFile() )
+				fs.unlinkSync( filePath );
+			else
+				this._removeFiles( filePath );
+		}
+		for ( let letterCode = 'a'.charCodeAt( 0 ); letterCode <= 'z'.charCodeAt( 0 ); letterCode++ ) {
+			fs.writeFileSync( dirPath + String.fromCharCode( letterCode ) + '.json', '' );
+		}
+	};
 
 }
 

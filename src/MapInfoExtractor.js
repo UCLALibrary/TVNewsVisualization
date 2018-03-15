@@ -64,7 +64,6 @@ class MapInfoExtractor {
 		let mapInfoList = new MapInfoList();
 		let total = filePathList.length, success = 0;
 		let ignoredFiles = [];
-		console.log(total + '\n');
 		filePathList.forEach( filePath => {
 			let ret = this.extract( filePath );
 			if ( ret ) {
@@ -82,17 +81,12 @@ class MapInfoExtractor {
 			this.mapInfoList.mergeFrom( mapInfoList );
 		}
 		return mapInfoList;
-
-
-		
-		
 	}
 
 	reset() {
 		this.transcriptFilenames = [];
 		this.mapInfoList = new MapInfoList();
 	}
-
 }
 
 module.exports = MapInfoExtractor;

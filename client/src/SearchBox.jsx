@@ -15,7 +15,6 @@ class SearchBox extends Component {
             selected: []
         };
 		Client.getTokenList( response => {
-            console.log( response );
 			this.setState({
                 allDataSource: response || [],
                 dataSource: response || []
@@ -60,14 +59,13 @@ class SearchBox extends Component {
     }
 
     handleButtonSearch = () => {
-        console.log( 'handleButtonSearch' );
+        console.log( `Sending search query for ${this.state.selected}` );
         Client.getMapInfo( this.state.selected, response => {
-            console.log( response );
-        })
+            this.props.onSearchResult( response );
+        })    
     }
 
     handleButtonCancel = () => {
-        console.log( 'handleButtonCancel' );
         this.setState({
             selected: []
         })
@@ -90,7 +88,6 @@ class SearchBox extends Component {
     }
 
     onDeselect = value => {
-        console.log( 'onDeselect', value );
         let newSelected = this.state.selected;
         newSelected.splice( newSelected.indexOf( value ), 1 );
         this.setState({
@@ -99,7 +96,6 @@ class SearchBox extends Component {
     }
 
     onSearch = value => {
-        console.log( 'onSearch', value );
         this.setState({
             dataSource: {
                 keywords: this.state.allDataSource.keywords.filter(
@@ -113,7 +109,6 @@ class SearchBox extends Component {
     }
 
     onSelect = value => {
-        console.log( 'onSelect', value );
         let newSelected = this.state.selected;
         newSelected.push( value );
         this.setState({

@@ -32,10 +32,21 @@ const stoplist = {
         "w","want","wants","was","wasn't","wasnt","way","we","we'd","we'll","we're","we've","wed","welcome","well","well","went","were","were","weren't","werent","weve","what","what's","whatever","whatll","whats","whatve","when","whence","whenever","where","where's","whereafter","whereas","whereby","wherein","wheres","whereupon","wherever","whether","which","whichever","while","whilst","whither","who","who's","whod","whoever","whole","wholl","whom","whomever","whos","whose","why","will","willing","wish","with","within","without","won't","wonder","wont","would","wouldn't","wouldnt",
         "x",
         "y","yes","yet","you","you'd","you'll","you're","you've","youd","youll","your","youre","yours","yourself","yourselves","youve",
-        "z","zero"
+        "z","zero",
+
+        "announcer"
     ],
     keyphrases: [
-
+        "end video clip",
+        "female announcer",
+        "it's time",
+        "little bit",
+        "male announcer",
+        "one thing",
+        "that's right",
+        "unidentified male",
+        "video clip",
+        "years old",
     ],
     perfectMatchWords: [
         

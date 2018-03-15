@@ -13,6 +13,7 @@
     "node-rake": "^1.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-google-maps": "^9.4.5",
     "retext": "^5.0.0",
     "retext-keywords": "^4.0.1",
     "single-line-log": "^1.1.2"

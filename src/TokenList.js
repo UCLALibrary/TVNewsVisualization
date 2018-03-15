@@ -1,3 +1,4 @@
+const fs = require( 'fs' );
 const Token = require( './Token' );
 
 class TokenList {
@@ -106,50 +107,93 @@ class TokenList {
         }
     }
 
-    /**
-     * 
-     * @param {String} token 
-     */
-    getFilenamesByToken( token ) {
-        let type = token.includes( ' ' ) ? "keyphrases" : "keywords";
-        let lowercase = token.toLowerCase();
-        let filenames = [];
-        if ( !( lowercase in this[type] ) )
-            return filenames;
-        for ( let variant in this[type][lowercase] ) {            
-            if ( variant === ' CONTENT ' || variant === ' SCORE ' )
-                continue;
-            Object.keys( this[type][lowercase][variant] ).forEach( filename => {
-                if ( filename !== ' SCORE ' ) {
-                    filenames.push( filename );
-                }
-            }) 
-        }
-        return filenames;
-    }
-
-    /**
-     * 
-     * @param {Array of String} tokens 
-     */
-    getFilenamesByTokens( tokens ) {
-        let filenames = [];
-        tokens.forEach( token => filenames = filenames.concat( this.getFilenamesByToken( token ) ) );        
-        return filenames;
-    }
-
     mergeFrom( other ) {
         for ( let word in other.keywords ) {
             if ( !( word in this.keywords ) ) {
                 this.keywords[word] = new Token( word );
             }
-            this.keywords[word].mergeFrom( other.keywords[word] );
+            try {
+                this.keywords[word].mergeFrom( other.keywords[word] );
+            } catch( error ) {
+                let token = new Token( word );
+                for ( let key in this.keywords[word] ) {
+                    token[key] = this.keywords[word][key];
+                }
+                token.mergeFrom( other.keywords[word] );
+                this.keywords[word] = token;
+            }
         }
         for ( let phrase in other.keyphrases ) {
             if ( !( phrase in this.keyphrases ) ) {
                 this.keyphrases[phrase] = new Token( phrase );
             }
-            this.keyphrases[phrase].mergeFrom( other.keyphrases[phrase] );
+            try {
+                this.keyphrases[phrase].mergeFrom( other.keyphrases[phrase] );
+            } catch( error ) {
+                let token = new Token( phrase );
+                for ( let key in this.keyphrases[phrase] ) {
+                    token[key] = this.keyphrases[phrase][key];
+                }
+                token.mergeFrom( other.keyphrases[phrase] );
+                this.keyphrases[phrase] = token;
+            }
+        }
+    }
+
+    mergeTo( keywordsDir, keyphrasesDir ) {
+        // split this.keywords and this.keyphrases based on start letter
+        let keywords = {}
+        for ( let word in this.keywords ) {
+            let letter = word.charAt( 0 );
+            if ( !( letter in keywords ) ) {
+                keywords[letter] = {};
+            }
+            keywords[letter][word] = this.keywords[word];
+        }
+        let keyphrases = {}
+        for ( let phrase in this.keyphrases ) {
+            let letter = phrase.charAt( 0 );
+            if ( !( letter in keyphrases ) ) {
+                keyphrases[letter] = {};
+            }
+            keyphrases[letter][phrase] = this.keyphrases[phrase];
+        }
+
+        // merge tokens based on start letter
+        for ( let code = 'a'.charCodeAt( 0 ); code <= 'z'.charCodeAt( 0 ); code++ ) {
+            let letter = String.fromCharCode( code );
+            // keywords
+            if ( letter in keywords ) {
+                let file = keywordsDir + letter + '.json';
+                let content = fs.readFileSync( file ).toString();
+                let stored = new TokenList();
+                if ( content === "" ) {
+                    stored.keywords = keywords[letter];
+                } else {
+                    stored.keywords = JSON.parse( content );
+                    let newTokens = new TokenList();
+                    newTokens.keywords = keywords[letter];
+                    stored.mergeFrom( newTokens );
+                }
+
+                fs.writeFileSync( file, JSON.stringify( stored.keywords ) )
+            }
+            // keyphrases
+            if ( letter in keyphrases ) {
+                let file = keyphrasesDir + letter + '.json';
+                let content = fs.readFileSync( file ).toString();                
+                let stored = new TokenList();
+                if ( content === "" ) {
+                    stored.keyphrases = keyphrases[letter];
+                } else {
+                    stored.keyphrases = JSON.parse( content );
+                    let newTokens = new TokenList();
+                    newTokens.keyphrases = keyphrases[letter];
+                    stored.mergeFrom( newTokens )
+                }
+
+                fs.writeFileSync( file, JSON.stringify( stored.keyphrases ) )
+            }
         }
     }
 

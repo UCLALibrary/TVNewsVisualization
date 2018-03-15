@@ -4,7 +4,6 @@ const TokenExtractor = require( './src/TokenExtractor' );
 const MapInfoExtractor = require( './src/MapInfoExtractor' );
 const express = require( 'express' );
 
-
 // Utility functions
 const read = ( dir ) =>
 	fs.readdirSync( dir ).reduce( ( files, file ) =>
@@ -23,20 +22,16 @@ const getFileNames = ( root, ext, recursive ) => {
 	return result;
 }
 
-
 // Cache tokens
-let jsonFiles = getFileNames( './data/2011/2011-01/2011-01-01/', '.json' );
-let tokenExtractor = new TokenExtractor();
+let jsonFiles = getFileNames( './data/'/*'./data/2011/2011-01/2011-01-01/'*/, '.json' );
+let tokenExtractor = new TokenExtractor( true );
 tokenExtractor.extractMultiple( jsonFiles, true, true );
 let briefTokenList = tokenExtractor.exportBrief();
-// console.log( briefTokenList );
-
 
 // Cache map information
-let segFiles = getFileNames( './data/2011/2011-01/2011-01-01/', '.seg' );
+let segFiles = getFileNames( './data/'/*'./data/2011/2011-01/2011-01-01/'*/, '.seg' );
 let mapInfoExtractor = new MapInfoExtractor();
 mapInfoExtractor.extractMultiple( segFiles, true, true );
-
 
 // Express stuff
 const app = express();
@@ -59,11 +54,9 @@ app.get( "/api/mapinfo", ( req, res ) => {
 			error: "Missing required parameer `q`"
 		});
 	} else {
-		let filenames = tokenExtractor.tokenList.getFilenamesByTokens( JSON.parse( param ).tokens );
+		let filenames = tokenExtractor.getFilenamesByTokens( JSON.parse( param ).tokens );
 		mapInfoExtractor.mapInfoList.getMapInfoByFilenames( filenames, 
 			mapInfo => res.json( mapInfo ) );
-		
-		
 	}
 });
 

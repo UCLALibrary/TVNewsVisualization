@@ -44,7 +44,7 @@ class Token {
             this[variant][' SCORE '] = 0;
         }
         if ( srcFilename in this[variant] ) {
-            console.log( `WARN:  Token.addVariant(variant=${originalVariant}, srcFilename=${srcFilename}):  srcFilename already exists. Ignored.` );
+            console.log( `Token: WARN: Token.addVariant(variant=${originalVariant}, srcFilename=${srcFilename}):  srcFilename already exists. Ignored.` );
         } else {
             this[variant][srcFilename] = mentions;
             this[variant][' SCORE ']++;
@@ -90,7 +90,7 @@ class Token {
 
     mergeFrom( other ) {
         if ( this[' CONTENT '] !== other[' CONTENT '] ) {
-            console.log( `WARN:  Token.mergeFrom(other):  different ' CONTENT '. Ignored.` );
+            console.log( `Token: WARN: Token.mergeFrom(other):  different ' CONTENT '. Ignored.` );
         } else {
             for ( let variant in other ) {
                 if ( variant === ' CONTENT ') {

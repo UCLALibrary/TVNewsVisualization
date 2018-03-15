@@ -18,6 +18,8 @@ class MapInfoList {
      * }
      */
     constructor() {
+        this[' LATLNGCACHE '] = {};
+        this[' FILEINFOCACHHE '] = {};
     }
 
     /**
@@ -27,40 +29,76 @@ class MapInfoList {
      */
     getMapInfoByFilenames( filenames, callback ) {
         let mapInfo = {};
+        let pendingLocations = [];
+        let pendingFiles = {};
         let promises = [];
 
         filenames.forEach( filename => {
+            // If no such filename, ignore
+            if ( !( filename in this ) )
+                return;
+
+            // If we have mapInfo for that file in cache --> cache hit!
+            if ( filename in this[' FILEINFOCACHHE '] ) {
+                mapInfo[filename] = this[' FILEINFOCACHHE '][filename];
+                return;
+            }
+
+            // Otherwise, get the location of the file
             let location = this.normalizeLocation( this[filename][' BEST_LOCATION '] );
+            
+            // If we have the location in cache --> cache hit! Then update teh fileInfo cache
+            if ( location in this[' LATLNGCACHE '] ) {
+                mapInfo[filename] = {
+                    location: location,
+                    lat: this[' LATLNGCACHE '][location].lat,
+                    lng: this[' LATLNGCACHE '][location].lng,
+                    url: `http://tvnews.library.ucla.edu/videos/${filename}_main/video`
+                }
+                this[' FILEINFOCACHHE '][filename] = mapInfo[filename];
+            } else if ( location && location !== "" ) {
+                // If location cache miss, add location to newLocations
+                pendingFiles[filename] = location;
+                if ( pendingLocations.indexOf( location ) === -1 )
+                    pendingLocations.push( location );
+            }
+        })
+
+        pendingLocations.forEach( location => {
             if ( location && location !== "" ) {
                 promises.push(
                     Client.getCoords( location, response => {
                         if ( !response || response.response.numFound === 0 )
                             throw `No results found for "${location}"`;
                         let result = response.response.docs[0];
-                        return {
-                            filename: filename,
-                            location: result.name,
-                            lat: result.lat,
-                            lng: result.lng
+                        this[' LATLNGCACHE '][location] = {
+                            lat: ( result ? result.lat : null ),
+                            lng: ( result ? result.lng : null )
                         };
                     }).catch ( error => {
-                        console.log( `Error: MapInfoList.getCoordsByName: failed to get coords for location "${location}" in transcript "${filename}".` );
+                        console.log( `Error: MapInfoList: failed to get coords for location "${location}".` );
                         console.log( error );
+                        this[' LATLNGCACHE '][location] = {
+                            lat: null,
+                            lng: null
+                        };
                     })
                 );
             }
         });
 
-        return Promise.all( promises ).then( mapInfoArr => {
-            mapInfoArr.forEach( item => {
-                mapInfo[item.filename] = {
-                    location: item.location,
-                    lat: item.lat,
-                    lng: item.lng,
-                    url: `http://tvnews.library.ucla.edu/videos/${item.filename}_main/video`
-                };            
-            });
 
+        return Promise.all( promises ).then( () => {
+            for ( let filename in pendingFiles ) {
+                let location = pendingFiles[filename];
+                mapInfo[filename] = {
+                    location: location,
+                    lat: this[' LATLNGCACHE '][location].lat,
+                    lng: this[' LATLNGCACHE '][location].lng,
+                    url: `http://tvnews.library.ucla.edu/videos/${filename}_main/video`
+                }
+                this[' FILEINFOCACHHE '][filename] = mapInfo[filename];
+            }
             callback( mapInfo );
         });
     }

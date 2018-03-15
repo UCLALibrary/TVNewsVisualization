@@ -1,36 +1,27 @@
 import React, { Component } from 'react';
-import { Card } from 'antd';
+import { Card, Icon } from 'antd';
 
 class SearchResults extends Component {
     render() {
+        let file = this.props.selectedFile;
+        let card = [];
+        if ( file in this.props.searchResults ) {
+            let { location, url } = this.props.searchResults[file];
+            card.push((
+                <Card key={file}>
+                    <div>
+                        <h3>{file}</h3>
+                        <h4>Location: {location}</h4>
+                        <a onClick={() => { window.open( url, '_blank'); }}>
+                            <Icon type="video-camera" style={{ fontSize: 24 }}/>
+                        </a>
+                    </div>
+                </Card>
+            ));
+        }
         return (
             <div className="search-results">
-                <Card>
-                    <p>News content 1</p>
-                    <p>News content 1</p>
-                    <p>News content 1</p>
-                </Card>
-                <Card>
-                    <p>News content 2</p>
-                    <p>News content 2</p>
-                    <p>News content 2</p>
-                </Card>
-                <Card>
-                    <p>News content 3</p>
-                    <p>News content 3</p>
-                    <p>News content 3</p>
-                </Card>
-                <Card>
-                    <p>News content 4</p>
-                    <p>News content 4</p>
-                    <p>News content 4</p>
-                </Card>
-                <Card>
-                    <p>News content 5</p>
-                    <p>News content 5</p>
-                    <p>News content 5</p>
-                </Card>
-							
+                {card}	
             </div>
         );
     }
